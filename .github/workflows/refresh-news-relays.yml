@@ -1,0 +1,53 @@
+name: refresh-news-relays
+
+# Relais pour le bot news temps réel : récupère depuis les runners GitHub
+# (IP non bloquées, contrairement au VPS) le flux FXStreet et le calendrier
+# économique LIVE (avec les valeurs "actual"), lus par le VPS via les URLs raw.
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'      # ~toutes les 15 min (GitHub peut retarder)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-news-relays
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: FXStreet RSS
+        run: |
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+          for a in 1 2 3; do
+            curl -sS -A "$UA" --max-time 30 "https://www.fxstreet.com/rss/news" -o fxstreet.xml && grep -q "<item" fxstreet.xml && break
+            echo "fxstreet retry $a"; sleep 5
+          done
+          echo "fxstreet items: $(grep -c '<item' fxstreet.xml || echo 0)"
+
+      - name: Calendrier eco live (avec actuals)
+        run: |
+          for a in 1 2 3; do
+            curl -sS -A "Mozilla/5.0 (compatible; funda-calendar/1.0)" --max-time 30 "https://nfs.faireconomy.media/ff_calendar_thisweek.json" -o ff_calendar_live.json && \
+              python3 -c "import json;d=json.load(open('ff_calendar_live.json'));assert isinstance(d,list) and d" && break
+            echo "calendar retry $a"; sleep 5
+          done
+          python3 -c "import json;d=json.load(open('ff_calendar_live.json'));print('calendar events:',len(d))"
+
+      - name: Commit si change
+        run: |
+          git config user.name "news-relay-bot"
+          git config user.email "news-relay-bot@users.noreply.github.com"
+          git add fxstreet.xml ff_calendar_live.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "refresh relays $(date -u +%FT%TZ)"
+            git push
+          fi
