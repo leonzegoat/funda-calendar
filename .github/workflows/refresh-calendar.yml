@@ -1,0 +1,43 @@
+name: refresh-calendar
+
+# Récupère le calendrier économique ForexFactory chaque jour depuis les runners
+# GitHub (IP non bloquées) et le commit. Le flow daily_funda le lit via l'URL raw.
+
+on:
+  schedule:
+    - cron: '30 5 * * *'      # 05:30 UTC tous les jours (avant le run de 8h CEST)
+  workflow_dispatch:           # déclenchement manuel possible
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-calendar
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Récupère le calendrier ForexFactory
+        run: |
+          for attempt in 1 2 3; do
+            curl -sS -A "Mozilla/5.0 (compatible; funda-calendar/1.0)" --max-time 30 \
+              "https://nfs.faireconomy.media/ff_calendar_thisweek.json" -o ff_calendar.json && break
+            echo "tentative $attempt échouée, retry..."; sleep 5
+          done
+          python3 -c "import json; d=json.load(open('ff_calendar.json')); assert isinstance(d, list) and d, 'vide'; print(len(d), 'événements')"
+
+      - name: Commit si changé
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@users.noreply.github.com"
+          git add ff_calendar.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "refresh calendrier $(date -u +%FT%TZ)"
+            git push
+          fi
