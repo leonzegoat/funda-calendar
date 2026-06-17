@@ -1,17 +1,18 @@
 name: refresh-prices
 
-# Récupère les prix (métaux, pétrole, indices US) via Yahoo Finance depuis les
-# runners GitHub (IP non bloquées par Yahoo, contrairement au VPS) et les commit
-# dans prices.json. Le flow daily_funda les lit via l'URL raw (PRICES_URL).
-# Métaux = SPOT (XAUUSD=X / XAGUSD=X), repli futures seulement si le spot manque.
-# Indices = indice cash (^GSPC/^DJI/^IXIC), pas les futures. Pétrole = future
-# front-month (CL=F / BZ=F), qui EST le prix de référence du brut (pas de spot retail).
+# Récupère les prix (métaux, pétrole, indices US) depuis les runners GitHub
+# (IP non bloquées) et les commit dans prices.json. Le flow daily_funda les lit
+# via l'URL raw (PRICES_URL).
+#   Métaux  = SPOT via gold-api.com (XAU/XAG), repli future Yahoo seulement si KO.
+#   Indices = indice cash Yahoo (^GSPC/^DJI/^IXIC), PAS les futures.
+#   Pétrole = future front-month Yahoo (CL=F/BZ=F), qui EST le prix de référence
+#             du brut (il n'existe pas de spot retail du WTI/Brent).
 
 on:
   schedule:
     - cron: '0 4 * * *'       # 04:00 UTC (06:00 Paris été) avant le funda de 7h Paris
     - cron: '40 4 * * *'      # 2e tentative au cas où le run de 04:00 traîne
-  workflow_dispatch:           # déclenchement manuel possible
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -26,12 +27,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Récupère les prix via Yahoo Finance
+      - name: Récupère les prix
         run: |
           python3 - <<'PY'
           import json, time, datetime, urllib.parse, urllib.request
           UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                 "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+
+          def get_json(url):
+              req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+              with urllib.request.urlopen(req, timeout=25) as r:
+                  return json.loads(r.read().decode())
 
           def yahoo(sym):
               for host in ("query1", "query2"):
@@ -40,11 +46,7 @@ jobs:
                           u = ("https://%s.finance.yahoo.com/v8/finance/chart/%s"
                                "?interval=1d&range=5d"
                                % (host, urllib.parse.quote(sym, safe="")))
-                          req = urllib.request.Request(
-                              u, headers={"User-Agent": UA, "Accept": "application/json"})
-                          with urllib.request.urlopen(req, timeout=25) as r:
-                              d = json.loads(r.read().decode())
-                          m = d["chart"]["result"][0]["meta"]
+                          m = get_json(u)["chart"]["result"][0]["meta"]
                           price = m.get("regularMarketPrice")
                           prev = m.get("chartPreviousClose") or m.get("previousClose")
                           pct = round((price - prev) / prev * 100, 2) if (price and prev) else None
@@ -55,27 +57,41 @@ jobs:
                           time.sleep(3)
               return None, None
 
-          def first(syms):
-              for s in syms:
-                  p, pct = yahoo(s)
-                  if p:
-                      return p, pct, s
-              return None, None, syms[0]
+          def goldapi(sym):       # or/argent SPOT, sans cle
+              for attempt in range(3):
+                  try:
+                      d = get_json("https://api.gold-api.com/price/" + sym)
+                      if d.get("price"):
+                          return d["price"]
+                  except Exception as e:
+                      print("gold-api", sym, attempt, "KO", repr(e))
+                      time.sleep(3)
+              return None
 
-          # Métaux en SPOT d'abord (XAUUSD=X), future en repli. Indices = cash. Pétrole = future front-month.
-          SYMS = {"gold": ["XAUUSD=X", "GC=F"], "silver": ["XAGUSD=X", "SI=F"],
-                  "wti": ["CL=F"], "brent": ["BZ=F"],
-                  "sp": ["^GSPC"], "dow": ["^DJI"], "nasdaq": ["^IXIC"]}
           out = {"ts": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
-          for k, syms in SYMS.items():
-              p, pct, used = first(syms)
+
+          # Métaux : SPOT (gold-api), repli future Yahoo si KO
+          for k, xau, fut in (("gold", "XAU", "GC=F"), ("silver", "XAG", "SI=F")):
+              p = goldapi(xau)
+              used = "gold-api/" + xau
+              if not p:
+                  p, _ = yahoo(fut)
+                  used = fut + " (repli future)"
+              out[k] = p
+              print("  %-7s %-22s -> %s" % (k, used, p))
+
+          # Pétrole (future front-month) + indices (cash)
+          YS = {"wti": "CL=F", "brent": "BZ=F", "sp": "^GSPC", "dow": "^DJI", "nasdaq": "^IXIC"}
+          for k, sym in YS.items():
+              p, pct = yahoo(sym)
               out[k] = p
               if k in ("sp", "dow", "nasdaq"):
                   out[k + "_pct"] = pct
-              print("  %-7s %-10s -> %s (%s)" % (k, used, p, pct))
+              print("  %-7s %-22s -> %s (%s)" % (k, sym, p, pct))
 
           assert any(out.get(k) for k in ("sp", "dow", "nasdaq")), "indices vides, pas de commit"
           assert out.get("wti") or out.get("brent"), "petrole vide, pas de commit"
+          assert out.get("gold"), "or vide, pas de commit"
           json.dump(out, open("prices.json", "w"), ensure_ascii=False, indent=2)
           print(json.dumps(out, indent=2))
           PY
