@@ -3,6 +3,9 @@ name: refresh-prices
 # Récupère les prix (métaux, pétrole, indices US) via Yahoo Finance depuis les
 # runners GitHub (IP non bloquées par Yahoo, contrairement au VPS) et les commit
 # dans prices.json. Le flow daily_funda les lit via l'URL raw (PRICES_URL).
+# Métaux = SPOT (XAUUSD=X / XAGUSD=X), repli futures seulement si le spot manque.
+# Indices = indice cash (^GSPC/^DJI/^IXIC), pas les futures. Pétrole = future
+# front-month (CL=F / BZ=F), qui EST le prix de référence du brut (pas de spot retail).
 
 on:
   schedule:
@@ -52,15 +55,24 @@ jobs:
                           time.sleep(3)
               return None, None
 
-          SYMS = {"gold": "GC=F", "silver": "SI=F", "wti": "CL=F", "brent": "BZ=F",
-                  "sp": "^GSPC", "dow": "^DJI", "nasdaq": "^IXIC"}
+          def first(syms):
+              for s in syms:
+                  p, pct = yahoo(s)
+                  if p:
+                      return p, pct, s
+              return None, None, syms[0]
+
+          # Métaux en SPOT d'abord (XAUUSD=X), future en repli. Indices = cash. Pétrole = future front-month.
+          SYMS = {"gold": ["XAUUSD=X", "GC=F"], "silver": ["XAGUSD=X", "SI=F"],
+                  "wti": ["CL=F"], "brent": ["BZ=F"],
+                  "sp": ["^GSPC"], "dow": ["^DJI"], "nasdaq": ["^IXIC"]}
           out = {"ts": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
-          for k, s in SYMS.items():
-              p, pct = yahoo(s)
+          for k, syms in SYMS.items():
+              p, pct, used = first(syms)
               out[k] = p
               if k in ("sp", "dow", "nasdaq"):
                   out[k + "_pct"] = pct
-              print("  %-7s %-7s -> %s (%s)" % (k, s, p, pct))
+              print("  %-7s %-10s -> %s (%s)" % (k, used, p, pct))
 
           assert any(out.get(k) for k in ("sp", "dow", "nasdaq")), "indices vides, pas de commit"
           assert out.get("wti") or out.get("brent"), "petrole vide, pas de commit"
