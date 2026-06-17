@@ -1,0 +1,81 @@
+name: refresh-prices
+
+# Récupère les prix (métaux, pétrole, indices US) via Yahoo Finance depuis les
+# runners GitHub (IP non bloquées par Yahoo, contrairement au VPS) et les commit
+# dans prices.json. Le flow daily_funda les lit via l'URL raw (PRICES_URL).
+
+on:
+  schedule:
+    - cron: '0 4 * * *'       # 04:00 UTC (06:00 Paris été) avant le funda de 7h Paris
+    - cron: '40 4 * * *'      # 2e tentative au cas où le run de 04:00 traîne
+  workflow_dispatch:           # déclenchement manuel possible
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-prices
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Récupère les prix via Yahoo Finance
+        run: |
+          python3 - <<'PY'
+          import json, time, datetime, urllib.parse, urllib.request
+          UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+
+          def yahoo(sym):
+              for host in ("query1", "query2"):
+                  for attempt in range(3):
+                      try:
+                          u = ("https://%s.finance.yahoo.com/v8/finance/chart/%s"
+                               "?interval=1d&range=5d"
+                               % (host, urllib.parse.quote(sym, safe="")))
+                          req = urllib.request.Request(
+                              u, headers={"User-Agent": UA, "Accept": "application/json"})
+                          with urllib.request.urlopen(req, timeout=25) as r:
+                              d = json.loads(r.read().decode())
+                          m = d["chart"]["result"][0]["meta"]
+                          price = m.get("regularMarketPrice")
+                          prev = m.get("chartPreviousClose") or m.get("previousClose")
+                          pct = round((price - prev) / prev * 100, 2) if (price and prev) else None
+                          if price:
+                              return price, pct
+                      except Exception as e:
+                          print(sym, host, attempt, "KO", repr(e))
+                          time.sleep(3)
+              return None, None
+
+          SYMS = {"gold": "GC=F", "silver": "SI=F", "wti": "CL=F", "brent": "BZ=F",
+                  "sp": "^GSPC", "dow": "^DJI", "nasdaq": "^IXIC"}
+          out = {"ts": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
+          for k, s in SYMS.items():
+              p, pct = yahoo(s)
+              out[k] = p
+              if k in ("sp", "dow", "nasdaq"):
+                  out[k + "_pct"] = pct
+              print("  %-7s %-7s -> %s (%s)" % (k, s, p, pct))
+
+          assert any(out.get(k) for k in ("sp", "dow", "nasdaq")), "indices vides, pas de commit"
+          assert out.get("wti") or out.get("brent"), "petrole vide, pas de commit"
+          json.dump(out, open("prices.json", "w"), ensure_ascii=False, indent=2)
+          print(json.dumps(out, indent=2))
+          PY
+
+      - name: Commit si changé
+        run: |
+          git config user.name "prices-bot"
+          git config user.email "prices-bot@users.noreply.github.com"
+          git add prices.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "refresh prix $(date -u +%FT%TZ)"
+            git push
+          fi
