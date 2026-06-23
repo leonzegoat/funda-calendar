@@ -10,8 +10,13 @@ name: refresh-prices
 
 on:
   schedule:
-    - cron: '0 4 * * *'       # 04:00 UTC (06:00 Paris été) avant le funda de 7h Paris
-    - cron: '40 4 * * *'      # 2e tentative au cas où le run de 04:00 traîne
+    # GitHub retarde fortement les crons schedule (observe : 04:00 -> execute ~08:00-10:00 UTC).
+    # On lance donc le SOIR UTC (apres la cloture US ~20:00) : meme retardes de 3-6h, ces runs
+    # commitent AVANT le funda de 7h Paris (= 05:00 UTC) avec des prix recents (dernier close US).
+    - cron: '0 20 * * *'
+    - cron: '0 21 * * *'
+    - cron: '0 22 * * *'
+    - cron: '0 23 * * *'
   workflow_dispatch:
 
 permissions:
