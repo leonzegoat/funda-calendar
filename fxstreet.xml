@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 22 Jul 2026 21:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 22:42:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro stalls as high energy prices increase Fed hawkish bets]]></title>
+            <link>https://www.fxstreet.com/news/euro-stalls-as-high-energy-prices-increase-fed-hawkish-bets-202607222238</link>
+            <guid isPermaLink="false">3a5dc4eb-3e61-40ca-9de6-da1d5c3522fb</guid>
+            <pubDate>Wed, 22 Jul 2026 22:38:55 GMT</pubDate>
+            <description><![CDATA[The EUR/USD consolidates near 1.1400 late on Wednesday, up a modest 0.08%, as it consolidates, with the shared currency failing to capitalise on overall US Dollar weakness across the board.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Short-term consolidation with bullish bias against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-short-term-consolidation-with-bullish-bias-against-us-dollar-uob-202607222216</link>
+            <guid isPermaLink="false">86f48b6e-d1c5-44e8-bba8-f244b3dad57f</guid>
+            <pubDate>Wed, 22 Jul 2026 22:16:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann see USD/CNH consolidating in the near term after recent downside moves. Their 24-hour view expects the Dollar to trade between 6.7635 and 6.7755 as downward pressure has eased.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar stalls after hotter-than-expected inflation]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-stalls-after-hotter-than-expected-inflation-202607222159</link>
+            <guid isPermaLink="false">4014a891-f366-4ed1-b5da-1cf057501193</guid>
+            <pubDate>Wed, 22 Jul 2026 21:59:26 GMT</pubDate>
+            <description><![CDATA[NZD/USD trades lower near the 0.5820 area on Wednesday, extending its recent pullback as the New Zealand Dollar (NZD) struggles to benefit from stronger-than-expected domestic inflation data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currencies-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[South Korean Won: Internationalisation roadmap supports won recovery – DBS]]></title>
             <link>https://www.fxstreet.com/news/south-korean-won-internationalisation-roadmap-supports-won-recovery-dbs-202607222137</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 22 Jul 2026 12:59:29 GMT</pubDate>
             <description><![CDATA[WTI extends its rebound on Wednesday as rising tensions in the Middle East disrupt Oil flows through the Strait of Hormuz and the Red Sea. At the time of writing, WTI trades around $86.20 after reaching an intraday high of $87.83, its highest level since June 11.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Core CPI resilience complicates BoE path – Nomura]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-core-cpi-resilience-complicates-boe-path-nomura-202607221256</link>
-            <guid isPermaLink="false">b467f147-f41e-45e7-819f-7af6c4d71b7b</guid>
-            <pubDate>Wed, 22 Jul 2026 12:56:23 GMT</pubDate>
-            <description><![CDATA[Nomura strategists analyse the latest United Kingdom (UK) June inflation data, noting headline Consumer Price Index (CPI) fell to 2.6% as the Bank of England expected, but core and services inflation stayed sticky.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-basic-products.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungarian Forint: NBH easing path shapes HUF prospects – ING]]></title>
-            <link>https://www.fxstreet.com/news/hungarian-forint-nbh-easing-path-shapes-huf-prospects-ing-202607221237</link>
-            <guid isPermaLink="false">fe07f1df-4772-4761-aaf5-f276873184c5</guid>
-            <pubDate>Wed, 22 Jul 2026 12:37:12 GMT</pubDate>
-            <description><![CDATA[ING strategist Frantisek Taborsky reports the National Bank of Hungary (MNB) cut rates to 5.75% and confirmed dovish guidance, signaling further easing in August and possibly beyond. Markets have accepted renewed rate-cut pricing, and ING expects more dovish repricing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of England: Wait-and-see stance holds – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-england-wait-and-see-stance-holds-societe-generale-202607221219</link>
-            <guid isPermaLink="false">615adf40-389f-4b16-9cb0-f31ef113b320</guid>
-            <pubDate>Wed, 22 Jul 2026 12:19:16 GMT</pubDate>
-            <description><![CDATA[Societe Generale economist Sam Cartwright analyzes June United Kingdom (UK) inflation, noting headline Consumer Price Index (CPI) at 2.6% year-on-year, below Bank of England (BoE) projections, with core inflation steady at 2.6%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
