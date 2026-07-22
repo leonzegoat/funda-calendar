@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 22 Jul 2026 20:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 21:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South Korean Won: Internationalisation roadmap supports won recovery – DBS]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-internationalisation-roadmap-supports-won-recovery-dbs-202607222137</link>
+            <guid isPermaLink="false">9994439d-d5c7-4cb7-84b5-645a87e4cafc</guid>
+            <pubDate>Wed, 22 Jul 2026 21:37:00 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economist Ma Tieying analyses South Korea’s new South Korean Won (KRW) internationalisation roadmap, unveiled by the Ministry of Finance and Economy, Bank of Korea and Financial Services Commission.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia unemployment rate set to steady at 4.4% in June, signaling strong job market ]]></title>
+            <link>https://www.fxstreet.com/news/australia-unemployment-rate-set-to-steady-at-44-in-june-signaling-strong-job-market-202607222130</link>
+            <guid isPermaLink="false">7e062b7f-ed32-4d76-bde6-528a7d1688ad</guid>
+            <pubDate>Wed, 22 Jul 2026 21:30:00 GMT</pubDate>
+            <description><![CDATA[Australia will publish the June monthly employment report on Thursday at 01:30 GMT, and market participants expect a modest increase in job creation in the land Down Under.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_office.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar softens as oil and gold rally, ECB decision and Australian jobs loom]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-softens-as-oil-and-gold-rally-ecb-decision-and-australian-jobs-loom-202607222116</link>
+            <guid isPermaLink="false">511ec73b-e76e-40f4-a6c7-e0968e0323de</guid>
+            <pubDate>Wed, 22 Jul 2026 21:16:37 GMT</pubDate>
+            <description><![CDATA[The US Dollar trades slightly lower on Wednesday as markets remain cautious amid escalating tensions surrounding Iran and the Strait of Hormuz. The US Dollar Index (DXY) slips toward 101.10, helping the Euro recover modestly, while most other major currency pairs remain relatively stable.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Philippine Peso: Under pressure from Oil surge – BNY]]></title>
+            <link>https://www.fxstreet.com/news/philippine-peso-under-pressure-from-oil-surge-bny-202607222053</link>
+            <guid isPermaLink="false">a6261cf9-4f97-496f-b617-0eb1573ce4fa</guid>
+            <pubDate>Wed, 22 Jul 2026 20:53:00 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu highlights that the Philippine central bank has intervened as higher Oil prices pressure Asian importers.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/PHP-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: Downside risk persists against US Dollar – UOB]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-downside-risk-persists-against-us-dollar-uob-202607222014</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 22 Jul 2026 12:19:16 GMT</pubDate>
             <description><![CDATA[Societe Generale economist Sam Cartwright analyzes June United Kingdom (UK) inflation, noting headline Consumer Price Index (CPI) at 2.6% year-on-year, below Bank of England (BoE) projections, with core inflation steady at 2.6%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/BoE2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: Carry appeal capped by Oil risk – BNY]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-carry-appeal-capped-by-oil-risk-bny-202607221201</link>
-            <guid isPermaLink="false">cb96e11d-74d9-4c03-9496-ea8da25d0dea</guid>
-            <pubDate>Wed, 22 Jul 2026 12:01:41 GMT</pubDate>
-            <description><![CDATA[BNY's Geoff Yu notes that India’s central bank (RBI) has stepped in to support the Indian Rupee (INR) as rising energy costs threaten external balances and FX volatility. iFlow shows INR is currently underheld versus earlier in the year.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index Price Forecast: Bullish bias intact above 101.00]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-price-forecast-keeps-the-bullish-bias-intact-above-10100-202607221147</link>
-            <guid isPermaLink="false">507d2802-6ea9-45c1-9c1d-9d3f562658de</guid>
-            <pubDate>Wed, 22 Jul 2026 11:47:24 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) shows moderate losses on Wednesday but has retraced most of the decline seen during the Asian trading session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bullish-Tendency-2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Hawkish BoJ signals versus Fed risk – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-hawkish-boj-signals-versus-fed-risk-rabobank-202607221146</link>
-            <guid isPermaLink="false">9076c7c0-5b56-4eb6-8d38-2c3ea3742c09</guid>
-            <pubDate>Wed, 22 Jul 2026 11:46:06 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley discusses Japanese Yen (JPY) prospects, focusing on USD/JPY. Foley highlight that intervention by the Ministry of Finance (MoF) alone is unlikely to change the pair’s direction without improved Japanese fundamentals.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Heavy trade as BoE seen adjusting – BBH]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-heavy-trade-as-boe-seen-adjusting-bbh-202607221120</link>
-            <guid isPermaLink="false">ee894458-0f14-4c8c-b5a7-d7fa42c914dc</guid>
-            <pubDate>Wed, 22 Jul 2026 11:20:43 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s Elias Haddad notes the British Pound (GBP) remains heavy versus the US Dollar (USD) and Euro (EUR) after a mixed United Kingdom (UK) June Consumer Price Index (CPI) report, with headline inflation cooling but core and services measures still sticky.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
