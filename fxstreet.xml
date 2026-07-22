@@ -4,11 +4,35 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 22 Jul 2026 17:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 18:48:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Euro gains against British Pound after mixed UK inflation report,ECB decision looms]]></title>
+            <title><![CDATA[Euro elevates ahead of ECB decision and Japanese inflation data]]></title>
+            <link>https://www.fxstreet.com/news/euro-elevates-ahead-of-ecb-decision-and-japanese-inflation-data-202607221841</link>
+            <guid isPermaLink="false">e47f45f8-61ce-40f0-87bd-e266c0a7f70c</guid>
+            <pubDate>Wed, 22 Jul 2026 18:41:33 GMT</pubDate>
+            <description><![CDATA[EUR/JPY trades marginally higher near the 186.20 area on Wednesday as the Japanese Yen (JPY) remains under pressure near multi-decade lows. The Euro (EUR) is relatively stable as investors avoid taking large positions ahead of the European Central Bank’s (ECB) monetary policy announcement.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold price breaks higher as US Dollar weakness fuels rally]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-breaks-higher-as-us-dollar-weakness-fuels-rally-202607221825</link>
+            <guid isPermaLink="false">8c127e81-4ab3-45b9-b52b-671d6dcd8874</guid>
+            <pubDate>Wed, 22 Jul 2026 18:25:33 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) surges over 1.50% on Wednesday, cracks a key resistance trendline and hits a new two-week high as the Greenback weakens. This Bullion price action comes despite rising tensions and hostilities between the US and Iran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD struggles to build momentum above $60.00]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-to-build-momentum-above-6000-202607221811</link>
+            <guid isPermaLink="false">1b61587a-692a-44d0-801c-3d019042da05</guid>
+            <pubDate>Wed, 22 Jul 2026 18:11:23 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) trades with modest gains on Wednesday, supported by a slight pullback in the US Dollar (USD). However, the metal lacks strong upside momentum as traders weigh energy-driven inflation risks and their impact on the Federal Reserve’s (Fed) interest-rate outlook.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro gains against British Pound after mixed UK inflation report, ECB decision looms]]></title>
             <link>https://www.fxstreet.com/news/euro-gains-against-british-pound-after-mixed-uk-inflation-report-ecb-decision-looms-202607221739</link>
             <guid isPermaLink="false">ee856581-f61d-414d-948f-54035feca19a</guid>
             <pubDate>Wed, 22 Jul 2026 17:39:18 GMT</pubDate>
@@ -16,11 +40,11 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[One bridge per tanker: The Dow Jones Industrial Average rallies as escalation gets a price list]]></title>
+            <title><![CDATA[The Dow Jones Industrial Average rallies as escalation gets a price list]]></title>
             <link>https://www.fxstreet.com/news/one-bridge-per-tanker-the-dow-jones-industrial-average-rallies-as-escalation-gets-a-price-list-202607221642</link>
             <guid isPermaLink="false">172d76a0-b1e7-43d3-98d9-650fb68678c1</guid>
             <pubDate>Wed, 22 Jul 2026 16:42:31 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average trades near 52,400 on Wednesday, up around 200 points and on track for a second consecutive daily gain, while the S&P 500 hugs the flatline and the Nasdaq slips into the red.]]></description>
+            <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades near 52,400 on Wednesday, up around 200 points and on track for a second consecutive daily gain, while the S&P 500 hugs the flatline and the NASDAQ Composite slips into the red.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 22 Jul 2026 10:24:49 GMT</pubDate>
             <description><![CDATA[The World Bank warned that the global economy is only "a few months" away from a worst-case scenario in which global growth slows to 1.3% while inflation rises to 4.5%, according to comments by Chief Economist Indermit Gill reported by Reuters.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee falls back as oil prices rally further]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-resumes-decline-as-oil-prices-rise-further-202607220544</link>
-            <guid isPermaLink="false">a082c24f-4e42-4f2f-9ce3-8d6b6e195133</guid>
-            <pubDate>Wed, 22 Jul 2026 05:44:15 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) opens lower against the US Dollar (USD) on Wednesday after a slight relief the previous day. The USD/INR pair rises to near 96.53 as a fresh surge in oil prices due to intensifying fears of further global energy supply disruptions has weakened the Indian currency.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Sec. of State Rubio: Iran is in a lot of trouble]]></title>
-            <link>https://www.fxstreet.com/news/united-states-sec-of-state-rubio-iran-is-in-a-lot-of-trouble-202607220957</link>
-            <guid isPermaLink="false">308b186d-e4d8-4179-8e4a-8f6c890867fe</guid>
-            <pubDate>Wed, 22 Jul 2026 09:57:25 GMT</pubDate>
-            <description><![CDATA[Following his meeting with Chinese Foreign Minister Wang Yi in Manila on Wednesday, United States (US) Secretary of State Marco Rubio said that “Iran is in a lot of trouble.”]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/white-house-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Trade tariffs to reshape FX volatility – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-trade-tariffs-to-reshape-fx-volatility-mufg-202607220954</link>
-            <guid isPermaLink="false">d08387c9-3bc3-4155-af22-7a1c02042392</guid>
-            <pubDate>Wed, 22 Jul 2026 09:54:32 GMT</pubDate>
-            <description><![CDATA[Derek Halpenny at MUFG explains that US trade tariff uncertainty is set to re-emerge as Section 122 measures expire and are replaced by more targeted Section 301 actions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
