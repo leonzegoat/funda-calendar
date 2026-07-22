@@ -4,9 +4,89 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 22 Jul 2026 12:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 14:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bank of Japan: Gradual tightening and external shocks – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-japan-gradual-tightening-and-external-shocks-rabobank-202607221410</link>
+            <guid isPermaLink="false">a5351ecd-3f4c-4291-8a94-06de54ae5d1e</guid>
+            <pubDate>Wed, 22 Jul 2026 14:10:29 GMT</pubDate>
+            <description><![CDATA[Rabobank’s FX Strategy team reviews Bank of Japan policy, noting that the slow rate-hike pace reflects exceptional shocks such as tariffs, war and domestic political changes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Range-bound gains and episodic strength – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-range-bound-gains-and-episodic-strength-td-securities-202607221345</link>
+            <guid isPermaLink="false">a454345e-7bd8-4b41-8825-c0de5712b950</guid>
+            <pubDate>Wed, 22 Jul 2026 13:45:11 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists expect modest US Dollar (USD) strength in Q3 2026 as positioning has room to rebuild.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro struggles to extend gains as Middle East tensions support the US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/euro-struggles-to-extend-gains-as-middle-east-tensions-support-the-us-dollar-202607221335</link>
+            <guid isPermaLink="false">25422a74-605d-4ac0-800f-318b67842616</guid>
+            <pubDate>Wed, 22 Jul 2026 13:35:01 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades around 1.1415 at the time of writing on Wednesday, up 0.15% on the day, but its recovery remains limited after failing to break above 1.1420.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold hits two-week high as traders weigh Middle East risks, Fed outlook]]></title>
+            <link>https://www.fxstreet.com/news/gold-hits-two-week-high-as-traders-weigh-middle-east-risks-fed-outlook-202607221146</link>
+            <guid isPermaLink="false">45090cd8-033c-438c-8837-396f73c3b1e4</guid>
+            <pubDate>Wed, 22 Jul 2026 11:46:32 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) climbs to a two-week high on Wednesday as bargain hunters step in near the $4,000 mark, while traders weigh Middle East risks and the Federal Reserve’s (Fed) monetary policy outlook.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: BoJ hints at faster hikes – BNY]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-boj-hints-at-faster-hikes-bny-202607221318</link>
+            <guid isPermaLink="false">588a7249-906b-4e98-bab5-eded131f0dfd</guid>
+            <pubDate>Wed, 22 Jul 2026 13:18:44 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu notes that Bank of Japan (BoJ) officials are reported open to raising rates faster than economists expected as Japanese Yen (JPY) weakness lifts inflation risks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump: 'US will bomb and destroy' Iranian bridges or power plants]]></title>
+            <link>https://www.fxstreet.com/news/trump-us-will-bomb-and-destroy-iranian-bridges-or-power-plants-202607221318</link>
+            <guid isPermaLink="false">31bf00d4-09ed-40cb-84b0-2916bb8a6baf</guid>
+            <pubDate>Wed, 22 Jul 2026 13:18:25 GMT</pubDate>
+            <description><![CDATA[US President Donald Trump issued a fresh warning to Iran on Wednesday, threatening strikes on the country’s infrastructure if Tehran targets vessels in the Strait of Hormuz.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Middle East tensions lift Oil as bulls test 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-middle-east-tensions-lift-oil-as-bulls-test-the-100-day-sma-202607221259</link>
+            <guid isPermaLink="false">af088d98-6db2-4835-b515-2443ae7764e9</guid>
+            <pubDate>Wed, 22 Jul 2026 12:59:29 GMT</pubDate>
+            <description><![CDATA[WTI extends its rebound on Wednesday as rising tensions in the Middle East disrupt Oil flows through the Strait of Hormuz and the Red Sea. At the time of writing, WTI trades around $86.20 after reaching an intraday high of $87.83, its highest level since June 11.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Core CPI resilience complicates BoE path – Nomura]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-core-cpi-resilience-complicates-boe-path-nomura-202607221256</link>
+            <guid isPermaLink="false">b467f147-f41e-45e7-819f-7af6c4d71b7b</guid>
+            <pubDate>Wed, 22 Jul 2026 12:56:23 GMT</pubDate>
+            <description><![CDATA[Nomura strategists analyse the latest United Kingdom (UK) June inflation data, noting headline Consumer Price Index (CPI) fell to 2.6% as the Bank of England expected, but core and services inflation stayed sticky.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-basic-products.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hungarian Forint: NBH easing path shapes HUF prospects – ING]]></title>
+            <link>https://www.fxstreet.com/news/hungarian-forint-nbh-easing-path-shapes-huf-prospects-ing-202607221237</link>
+            <guid isPermaLink="false">fe07f1df-4772-4761-aaf5-f276873184c5</guid>
+            <pubDate>Wed, 22 Jul 2026 12:37:12 GMT</pubDate>
+            <description><![CDATA[ING strategist Frantisek Taborsky reports the National Bank of Hungary (MNB) cut rates to 5.75% and confirmed dovish guidance, signaling further easing in August and possibly beyond. Markets have accepted renewed rate-cut pricing, and ING expects more dovish repricing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of England: Wait-and-see stance holds – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-england-wait-and-see-stance-holds-societe-generale-202607221219</link>
+            <guid isPermaLink="false">615adf40-389f-4b16-9cb0-f31ef113b320</guid>
+            <pubDate>Wed, 22 Jul 2026 12:19:16 GMT</pubDate>
+            <description><![CDATA[Societe Generale economist Sam Cartwright analyzes June United Kingdom (UK) inflation, noting headline Consumer Price Index (CPI) at 2.6% year-on-year, below Bank of England (BoE) projections, with core inflation steady at 2.6%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indian Rupee: Carry appeal capped by Oil risk – BNY]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-carry-appeal-capped-by-oil-risk-bny-202607221201</link>
@@ -16,20 +96,12 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[US Dollar Index Price Forecast: keeps the Bullish bias intact above 101.00]]></title>
+            <title><![CDATA[US Dollar Index Price Forecast: Bullish bias intact above 101.00]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-index-price-forecast-keeps-the-bullish-bias-intact-above-10100-202607221147</link>
             <guid isPermaLink="false">507d2802-6ea9-45c1-9c1d-9d3f562658de</guid>
             <pubDate>Wed, 22 Jul 2026 11:47:24 GMT</pubDate>
             <description><![CDATA[The US Dollar Index (DXY) shows moderate losses on Wednesday but has retraced most of the decline seen during the Asian trading session.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bullish-Tendency-2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold hits two-week high as traders weigh Middle East risks, Fed outlook]]></title>
-            <link>https://www.fxstreet.com/news/gold-hits-two-week-high-as-traders-weigh-middle-east-risks-fed-outlook-202607221146</link>
-            <guid isPermaLink="false">45090cd8-033c-438c-8837-396f73c3b1e4</guid>
-            <pubDate>Wed, 22 Jul 2026 11:46:32 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) climbs to a two-week high on Wednesday as bargain hunters step in near the $4,000 mark, while traders weigh Middle East risks and the Federal Reserve’s (Fed) monetary policy outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Japanese Yen: Hawkish BoJ signals versus Fed risk – Rabobank]]></title>
@@ -174,78 +246,6 @@
             <pubDate>Wed, 22 Jul 2026 08:58:54 GMT</pubDate>
             <description><![CDATA[ING strategists Warren Patterson and Ewa Manthey highlight growing Oil supply disruptions across the Middle East and Black Sea. They note risks to Saudi crude exports via the Red Sea, renewed Persian Gulf tensions, and halted Kazakhstan flows through Russia’s CPC terminal.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar weakens as global energy supply disrupts further]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-weakens-as-global-energy-supply-disrupts-further-202607220858</link>
-            <guid isPermaLink="false">27796f69-5a32-46d5-b07e-93fd1d0b8071</guid>
-            <pubDate>Wed, 22 Jul 2026 08:58:22 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) underperforms its major currency peers, trading marginally down at around 0.7000 against the US Dollar (USD) during the European trading session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/USD Price Forecast: Remains below 50-day EMA near the confluence of 1.3400]]></title>
-            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-remains-below-50-day-ema-near-the-confluence-of-13400-202607220845</link>
-            <guid isPermaLink="false">c86bba85-1eca-455c-b480-bf1f9378cc66</guid>
-            <pubDate>Wed, 22 Jul 2026 08:45:25 GMT</pubDate>
-            <description><![CDATA[GBP/USD remains steady after four days of losses, trading around 1.3370 during the European hours on Wednesday. The pair is holding a mildly bearish near‑term bias as spot remains capped beneath the 50‑day and nine-day Exponential Moving Averages (EMAs).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: 0.6970 support keeps upside intact against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-06970-support-keeps-upside-intact-against-us-dollar-uob-202607220843</link>
-            <guid isPermaLink="false">96a2a753-dab3-4acf-ad3e-619a356c8790</guid>
-            <pubDate>Wed, 22 Jul 2026 08:43:31 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report AUD/USD has eased after testing above 0.7020, with intraday price action now seen consolidating between 0.6985 and 0.7020.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro remains stuck near 1.1400 amid rising tensions in Iran, higher Oil prices]]></title>
-            <link>https://www.fxstreet.com/news/euro-remains-stuck-near-11400-amid-rising-tensions-in-iran-higher-oil-prices-202607220829</link>
-            <guid isPermaLink="false">d062e6e5-7ec4-4eaa-bff3-7666c458eea0</guid>
-            <pubDate>Wed, 22 Jul 2026 08:29:12 GMT</pubDate>
-            <description><![CDATA[The Euro’s (EUR) modest upside attempt against the US Dollar (USD) witnessed during Wednesday’s Asian session has been short-lived. The EUR/USD pair was capped below 1.1420, before pulling back to levels a few pips above 1.1400 during the European trading session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Weakness persists as BoJ hike talk grows – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-weakness-persists-as-boj-hike-talk-grows-mufg-202607220828</link>
-            <guid isPermaLink="false">82f1af5c-4d13-4a2e-ad5b-8ed6a8d22469</guid>
-            <pubDate>Wed, 22 Jul 2026 08:28:46 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny highlights persistent Japanese Yen weakness as USD/JPY trades at levels last seen in 1986, with low volatility undermining the Ministry of Finance’s case for intervention. He notes limited contagion in Japanese bonds but rising inflation and political pressure.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen gains strongly on hopes of BoJ aggressive tightening cycle]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-gains-strongly-on-hopes-of-boj-aggressive-tightening-cycle-202607220822</link>
-            <guid isPermaLink="false">7eb200ca-5135-4cfc-8846-d11c1c9dc0ad</guid>
-            <pubDate>Wed, 22 Jul 2026 08:22:32 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) attracts significant bids against its major currency peers during the European trading session on Wednesday. The USD/JPY pair falls vertically to near 162.65, but quickly recovers some losses and rebounds to around 162.90.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Rate path hinges on inflation data – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-rate-path-hinges-on-inflation-data-commerzbank-202607220811</link>
-            <guid isPermaLink="false">1de790b6-e776-4bd4-bbed-87c8b79b9801</guid>
-            <pubDate>Wed, 22 Jul 2026 08:11:12 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Antje Praefcke highlights recent confusion in Norway after delayed core inflation data and an unexpected slowdown in both headline and core rates.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures slip as traders adopt caution on US-Iran tensions]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-slip-as-traders-adopt-caution-on-us-iran-tensions-202607220811</link>
-            <guid isPermaLink="false">ce61888d-6834-4da1-aeb8-526218bcd2b8</guid>
-            <pubDate>Wed, 22 Jul 2026 08:11:08 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures lose 0.30% to trade around 52,290 during European trading hours on Wednesday. Meanwhile, S&P 500 futures and Nasdaq 100 futures decline 0.38% and 0.85%, trading near 7,520 and 29,070, respectively.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/windows-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro retreats from one-month top amid JPY intervention risks, BoJ bets as traders eye ECB]]></title>
-            <link>https://www.fxstreet.com/news/euro-retreats-from-one-month-top-amid-jpy-intervention-risks-boj-bets-as-traders-eye-ecb-202607220805</link>
-            <guid isPermaLink="false">ed7a2450-c77b-4e13-ad3c-29278bbdf7c9</guid>
-            <pubDate>Wed, 22 Jul 2026 08:05:24 GMT</pubDate>
-            <description><![CDATA[The EUR/JPY cross attracts some sellers after an intraday move up to a one-month high and drops to the 185.75-185.70 area during the early part of the European session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
