@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 22 Jul 2026 16:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 17:42:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro gains against British Pound after mixed UK inflation report,ECB decision looms]]></title>
+            <link>https://www.fxstreet.com/news/euro-gains-against-british-pound-after-mixed-uk-inflation-report-ecb-decision-looms-202607221739</link>
+            <guid isPermaLink="false">ee856581-f61d-414d-948f-54035feca19a</guid>
+            <pubDate>Wed, 22 Jul 2026 17:39:18 GMT</pubDate>
+            <description><![CDATA[EUR/GBP edges higher on Wednesday as a mixed UK inflation report weighs modestly on the British Pound (GBP). At the time of writing, the cross trades around 0.8533, extending its recovery after falling to its lowest level in more than a year earlier this month.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One bridge per tanker: The Dow Jones Industrial Average rallies as escalation gets a price list]]></title>
+            <link>https://www.fxstreet.com/news/one-bridge-per-tanker-the-dow-jones-industrial-average-rallies-as-escalation-gets-a-price-list-202607221642</link>
+            <guid isPermaLink="false">172d76a0-b1e7-43d3-98d9-650fb68678c1</guid>
+            <pubDate>Wed, 22 Jul 2026 16:42:31 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average trades near 52,400 on Wednesday, up around 200 points and on track for a second consecutive daily gain, while the S&P 500 hugs the flatline and the Nasdaq slips into the red.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound steadies as cooler UK CPI meets Oil shock]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-steadies-as-cooler-uk-cpi-meets-oil-shock-202607221604</link>
+            <guid isPermaLink="false">f8f193cd-7b4c-4957-a6fa-d5c8e71382c1</guid>
+            <pubDate>Wed, 22 Jul 2026 16:04:20 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling holds firm during the North American session as UK inflation data dipped, easing pressure on the Bank of England to tackle higher prices, while attacks between the US and Iran don’t seem to be ending in the Middle East. The GBP/USD trades at 1.3377.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Canadian Dollar finds support from rising Oil prices, softer Greenback]]></title>
             <link>https://www.fxstreet.com/news/canadian-dollar-finds-support-from-rising-oil-prices-softer-greenback-202607221540</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 22 Jul 2026 09:54:32 GMT</pubDate>
             <description><![CDATA[Derek Halpenny at MUFG explains that US trade tariff uncertainty is set to re-emerge as Section 122 measures expire and are replaced by more targeted Section 301 actions.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD holds gains above $4,100 undaunted by risk-off markets]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-gains-above-4-100-undaunted-by-risk-off-markets-202607220937</link>
-            <guid isPermaLink="false">5b69269c-7f53-4323-98e8-6a9aa2fc8f2b</guid>
-            <pubDate>Wed, 22 Jul 2026 09:37:25 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends gains for the fourth consecutive day on Wednesday, standing comfortably above $4,100, unfazed by the risk-off market amid rising tensions in Iran and higher Oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Technical outlook weakens against US Dollar – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-technical-outlook-weakens-against-us-dollar-societe-generale-202607220936</link>
-            <guid isPermaLink="false">d0d124ba-aac8-4f77-a125-415c80dd0d7e</guid>
-            <pubDate>Wed, 22 Jul 2026 09:36:38 GMT</pubDate>
-            <description><![CDATA[Societe Generale analysts highlight USD/JPY trading in breakout territory above 163 for the first time in nearly four decades, with support around 162.20 and resistance near 164.40.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc edges higher as US-Iran tensions, higher Swiss yields sustain support]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-edges-higher-as-us-iran-tensions-higher-swiss-yields-sustain-support-202607220935</link>
-            <guid isPermaLink="false">3690c997-ebc3-4605-b389-3970db37c5d2</guid>
-            <pubDate>Wed, 22 Jul 2026 09:35:31 GMT</pubDate>
-            <description><![CDATA[USD/CHF trades around 0.8120 at the time of writing on Wednesday, down a modest 0.09% on the day, but remains supported by a strong risk-off environment that favors the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-chf-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
