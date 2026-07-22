@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 22 Jul 2026 18:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 20:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Singapore Dollar: Downside risk persists against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-downside-risk-persists-against-us-dollar-uob-202607222014</link>
+            <guid isPermaLink="false">544eeb05-fc81-42c0-ac7b-08fa17c33d33</guid>
+            <pubDate>Wed, 22 Jul 2026 20:14:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD is trading just above 1.29 after a quiet session, with momentum only tentatively firmer.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Breaks support trendline, eyes on 217.50]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-breaks-support-trendline-eyes-on-21750-202607221951</link>
+            <guid isPermaLink="false">a7e222f8-bf21-4185-ac09-be03c505ba42</guid>
+            <pubDate>Wed, 22 Jul 2026 19:51:08 GMT</pubDate>
+            <description><![CDATA[GBP/JPY holds firm on Wednesday, with the cross-pair trading above the 218.00 figure, as sellers seem to have the upper hand, after a break of a key support trendline, which could open the door for further losses. At the time of writing, the cross trades at 218.16, down 0.05%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Growth shortfall feeds mild depreciation bias – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-growth-shortfall-feeds-mild-depreciation-bias-commerzbank-202607221936</link>
+            <guid isPermaLink="false">1d6bcb4a-1fe8-49ce-9074-16e1a4194660</guid>
+            <pubDate>Wed, 22 Jul 2026 19:36:53 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s FX research notes USD/CNY trading around 6.77, slightly lower on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Swissy reclaims 0.81 as pair nears one-year high]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-reclaims-081-as-market-structure-targets-082-202607221904</link>
+            <guid isPermaLink="false">43b2d1a3-352c-432e-bb02-53062c4f616e</guid>
+            <pubDate>Wed, 22 Jul 2026 19:04:15 GMT</pubDate>
+            <description><![CDATA[USD/CHF registers solid gains on Wednesday, with buyers reclaiming the 0.8100 figure amid a trading session in which the Greenback loses ground against most G8 FX currencies but posts gains versus the safe-haven status of the Swiss Franc. The pair trades at 0.8146, up more than 0.20%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-realistic.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Euro elevates ahead of ECB decision and Japanese inflation data]]></title>
             <link>https://www.fxstreet.com/news/euro-elevates-ahead-of-ecb-decision-and-japanese-inflation-data-202607221841</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 22 Jul 2026 11:20:43 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s Elias Haddad notes the British Pound (GBP) remains heavy versus the US Dollar (USD) and Euro (EUR) after a mixed United Kingdom (UK) June Consumer Price Index (CPI) report, with headline inflation cooling but core and services measures still sticky.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price edges higher as geopolitical tensions offset inflation concerns]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-edges-higher-as-geopolitical-tensions-offset-inflation-concerns-202607221117</link>
-            <guid isPermaLink="false">69a15fca-b84e-494f-88a6-cc64fdc61f54</guid>
-            <pubDate>Wed, 22 Jul 2026 11:17:37 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) trades around $59.35 at the time of writing on Wednesday, up 0.94% on the day, as persistent safe-haven demand offsets the negative impact of rising inflation expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Drifting toward ECB test – ING]]></title>
-            <link>https://www.fxstreet.com/news/euro-drifting-toward-ecb-test-ing-202607221106</link>
-            <guid isPermaLink="false">783d4c5e-bc5a-4bcd-945b-61a761d746ec</guid>
-            <pubDate>Wed, 22 Jul 2026 11:06:50 GMT</pubDate>
-            <description><![CDATA[Chris Turner at ING notes EUR/USD has held up relatively well despite energy price gains and wider natural gas prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds near five-week highs against Yen despite BoJ tightening rumours]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-near-five-week-highs-against-yen-despite-hawkish-boj-comments-202607221046</link>
-            <guid isPermaLink="false">e0a9c120-d089-443d-a0a3-d452b70e8a4b</guid>
-            <pubDate>Wed, 22 Jul 2026 10:46:41 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) reversed earlier gains against the Japanese Yen (JPY) on Wednesday, following hawkish comments by Bank of Japan’s (BoJ) policymakers. The pair, however, remains a few pips below 186.00 at the time of writing, with the five-week high of 186.19 at a short distance.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[World Bank warns of risks of global slowdown, renewed inflation]]></title>
-            <link>https://www.fxstreet.com/news/world-bank-warns-of-risks-of-global-slowdown-renewed-inflation-202607221024</link>
-            <guid isPermaLink="false">c7b9f2b5-6089-4bdd-af36-39f2f123db4a</guid>
-            <pubDate>Wed, 22 Jul 2026 10:24:49 GMT</pubDate>
-            <description><![CDATA[The World Bank warned that the global economy is only "a few months" away from a worst-case scenario in which global growth slows to 1.3% while inflation rises to 4.5%, according to comments by Chief Economist Indermit Gill reported by Reuters.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
