@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 22 Jul 2026 14:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 16:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Canadian Dollar finds support from rising Oil prices, softer Greenback]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-finds-support-from-rising-oil-prices-softer-greenback-202607221540</link>
+            <guid isPermaLink="false">c7a4749f-2967-4c6e-abfc-6442c5ce9ccb</guid>
+            <pubDate>Wed, 22 Jul 2026 15:40:24 GMT</pubDate>
+            <description><![CDATA[USD/CAD edges lower on Wednesday as a mildly softer US Dollar (USD) and rising Oil prices help the Canadian Dollar (CAD) snap a two-day losing streak. At the time of writing, the pair trades around 1.4085, down 0.16% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar weakens as risk aversion overshadows hawkish RBNZ outlook]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-risk-aversion-overshadows-hawkish-rbnz-outlook-202607221531</link>
+            <guid isPermaLink="false">7223c8be-224f-4f8d-a32f-0948cdfda340</guid>
+            <pubDate>Wed, 22 Jul 2026 15:31:31 GMT</pubDate>
+            <description><![CDATA[NZD/USD trades around 0.5815 on Wednesday at the time of writing, down 0.16% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[China: Fiscal execution to support growth – Standard Chartered]]></title>
+            <link>https://www.fxstreet.com/news/china-fiscal-execution-to-support-growth-standard-chartered-202607221506</link>
+            <guid isPermaLink="false">24a6faae-44ed-437b-bdde-f2800d664c89</guid>
+            <pubDate>Wed, 22 Jul 2026 15:06:04 GMT</pubDate>
+            <description><![CDATA[Standard Chartered economists Carol Liao and Shuang Ding argue that China’s July Politburo meeting will prioritise implementation of existing fiscal plans over new stimulus. They expect fiscal execution to accelerate in H2 after a marked slowdown following front-loaded Q1 spending.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar steadies ahead of Australian employment data]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-steadies-ahead-of-australian-employment-data-202607221448</link>
+            <guid isPermaLink="false">5570365d-0ee3-4994-a333-623e305923fc</guid>
+            <pubDate>Wed, 22 Jul 2026 14:48:49 GMT</pubDate>
+            <description><![CDATA[AUD/USD trades near 0.7000 on Wednesday, recovering from an intraday pullback but remaining marginally lower on the day. The pair briefly fell toward 0.6985 before rebounding, while the US Dollar Index (DXY) slipped toward 101.10, helping the Australian Dollar regain some ground.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen struggles near four-decade lows despite hawkish BoJ signals]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-struggles-near-four-decade-lows-despite-hawkish-boj-signals-202607221440</link>
+            <guid isPermaLink="false">eb498840-1f69-49a9-b533-b52a2c7ced0f</guid>
+            <pubDate>Wed, 22 Jul 2026 14:40:51 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) gives up earlier gains on Wednesday, failing to capitalize on hawkish signals from the Bank of Japan (BoJ) and a softer US Dollar (USD) as Middle East tensions keep markets on edge.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Aluminium: Tariff tweaks seen as long-term policy – ING]]></title>
+            <link>https://www.fxstreet.com/news/aluminium-tariff-tweaks-seen-as-long-term-policy-ing-202607221436</link>
+            <guid isPermaLink="false">180f6f99-2d12-4448-931c-8bdeb4c9a1d4</guid>
+            <pubDate>Wed, 22 Jul 2026 14:36:17 GMT</pubDate>
+            <description><![CDATA[ING analysts discuss changes to US Section 232 aluminium tariffs aimed at incentivizing domestic smelting investment. Qualifying projects can import at 25% instead of 50%, but ING stresses this is a long-term industrial policy with limited near-term impact.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bank of Japan: Gradual tightening and external shocks – Rabobank]]></title>
             <link>https://www.fxstreet.com/news/bank-of-japan-gradual-tightening-and-external-shocks-rabobank-202607221410</link>
@@ -24,7 +72,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Euro struggles to extend gains as Middle East tensions support the US Dollar]]></title>
+            <title><![CDATA[Euro struggles to extend gains as Iran war supports US Dollar]]></title>
             <link>https://www.fxstreet.com/news/euro-struggles-to-extend-gains-as-middle-east-tensions-support-the-us-dollar-202607221335</link>
             <guid isPermaLink="false">25422a74-605d-4ac0-800f-318b67842616</guid>
             <pubDate>Wed, 22 Jul 2026 13:35:01 GMT</pubDate>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 22 Jul 2026 09:35:31 GMT</pubDate>
             <description><![CDATA[USD/CHF trades around 0.8120 at the time of writing on Wednesday, down a modest 0.09% on the day, but remains supported by a strong risk-off environment that favors the US Dollar (USD).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-chf-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK inflation cools and fiscal concerns grow: Why the British Pound is surrendering recent gains]]></title>
-            <link>https://www.fxstreet.com/news/uk-inflation-cools-and-fiscal-concerns-grow-why-the-british-pound-is-surrendering-recent-gains-202607220930</link>
-            <guid isPermaLink="false">175ddbe6-d43b-4115-a0b9-4d67e946e9a3</guid>
-            <pubDate>Wed, 22 Jul 2026 09:30:52 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) is facing renewed downward pressure across major currency pairs, forfeiting its recent gains as market participants digest a combination of cooling domestic inflation and growing fiscal uncertainty surrounding Prime Minister Andy Burnham’s economic agenda. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-134.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607220930</link>
-            <guid isPermaLink="false">1d47a4cc-26fc-425e-8f3b-5714b8d0d3b8</guid>
-            <pubDate>Wed, 22 Jul 2026 09:30:30 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) rose on Wednesday, according to FXStreet data. Silver trades at $59.50 per troy ounce, up 1.19% from the $58.80 it cost on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar weakens as global risk aversion overshadows hawkish RBNZ outlook]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-global-risk-aversion-overshadows-hawkish-rbnz-outlook-202607220915</link>
-            <guid isPermaLink="false">41388586-5a9e-4cce-b6de-5d7eaeff93e5</guid>
-            <pubDate>Wed, 22 Jul 2026 09:15:35 GMT</pubDate>
-            <description><![CDATA[NZD/USD extends its losing streak for the fifth successive day, trading around 0.5810 during the European hours on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungarian Forint: Dovish tilt keeps easing alive – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/hungarian-forint-dovish-tilt-keeps-easing-alive-commerzbank-202607220915</link>
-            <guid isPermaLink="false">fd7ffc1b-e40c-41d8-a364-160cfdaf09fc</guid>
-            <pubDate>Wed, 22 Jul 2026 09:15:05 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose reports that Hungary’s central bank Magyar Nemzeti Bank (MNB) cut its base rate to 5.75%, in line with expectations, and maintained its summer easing narrative.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound sticks to post-UK inflation losses as faster BoJ rate hike bets lift JPY]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-sticks-to-post-uk-inflation-losses-as-faster-boj-rate-hike-bets-lift-jpy-202607220908</link>
-            <guid isPermaLink="false">d6bdd7c7-bb31-4722-af3a-3c62e18efd4e</guid>
-            <pubDate>Wed, 22 Jul 2026 09:08:00 GMT</pubDate>
-            <description><![CDATA[The GBP/JPY cross attracts some intraday sellers on Wednesday and slides below the 218.00 mark during the first half of the European session. Spot prices remain, however, confined within the previous day's broader range amid the supportive fundamental backdrop.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Supply risks support Brent valuations – ING]]></title>
-            <link>https://www.fxstreet.com/news/oil-supply-risks-support-brent-valuations-ing-202607220858</link>
-            <guid isPermaLink="false">92abf4f9-f51a-4a3f-ab5a-34a6c813e24e</guid>
-            <pubDate>Wed, 22 Jul 2026 08:58:54 GMT</pubDate>
-            <description><![CDATA[ING strategists Warren Patterson and Ewa Manthey highlight growing Oil supply disruptions across the Middle East and Black Sea. They note risks to Saudi crude exports via the Red Sea, renewed Persian Gulf tensions, and halted Kazakhstan flows through Russia’s CPC terminal.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
