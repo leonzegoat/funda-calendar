@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 22 Jul 2026 22:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 23:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yemen’s Houthis say they targeted two Saudi oil tankers]]></title>
+            <link>https://www.fxstreet.com/news/yemens-houthis-say-they-targeted-two-saudi-oil-tankers-202607222344</link>
+            <guid isPermaLink="false">926f4387-4ed7-4062-a388-169100eb1b20</guid>
+            <pubDate>Wed, 22 Jul 2026 23:44:46 GMT</pubDate>
+            <description><![CDATA[The Houthis, the Iran-backed group in Yemen, on Thursday claimed an attack on two Saudi oil tankers transiting through the Red Sea, identified as ENCELA and LAYLIA, saying the vessels violated ‌the ‌naval blockade imposed ‌by the group on Monday, the Guardian reported. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran warns of ‘eye for an eye’ response if US carries out Trump’s threat]]></title>
+            <link>https://www.fxstreet.com/news/iran-warns-of-eye-for-an-eye-response-if-us-carries-out-trumps-threat-202607222327</link>
+            <guid isPermaLink="false">15b93107-026f-4e50-baf2-3917715e6cf2</guid>
+            <pubDate>Wed, 22 Jul 2026 23:27:05 GMT</pubDate>
+            <description><![CDATA[Iran’s Foreign Minister Abbas Araghchi said that Tehran would respond in kind to any attack on its infrastructure after US President Donald Trump threatened to bomb a bridge or power plant for every ship targeted in the Strait of Hormuz, the Guardian reported on Wednesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Iran.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rebounds above $4,100 as buyers return]]></title>
+            <link>https://www.fxstreet.com/news/gold-rebounds-above-4-100-as-buyers-return-202607222313</link>
+            <guid isPermaLink="false">571a071a-d3b7-4442-a012-82c8f9dc2e3f</guid>
+            <pubDate>Wed, 22 Jul 2026 23:13:22 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) trades in positive territory around $4,125 during the early Asian session on Thursday. The precious metal extends its recovery as ongoing geopolitical uncertainties continue to underpin safe-haven demand.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A cooler inflation print buys British Pound Sterling nothing but a slower decline]]></title>
+            <link>https://www.fxstreet.com/news/a-cooler-inflation-print-buys-british-pound-sterling-nothing-but-a-slower-decline-202607222303</link>
+            <guid isPermaLink="false">79ddcfa8-e937-49e5-8586-a14bc42ed662</guid>
+            <pubDate>Wed, 22 Jul 2026 23:03:15 GMT</pubDate>
+            <description><![CDATA[The Pound's week-long slide slowed to a crawl on Wednesday, and it picked an odd session to do so, because the June inflation report handed sellers their cleanest argument yet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: AI-driven exports support KRW outlook – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-ai-driven-exports-support-krw-outlook-commerzbank-202607222257</link>
+            <guid isPermaLink="false">90356884-02a2-4da8-a692-770d478bd706</guid>
+            <pubDate>Wed, 22 Jul 2026 22:57:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank highlights South Korea’s exports rising over 50% year-on-year in early July, marking a seventh month of double-digit growth, driven by semiconductors and AI-related data centre demand.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Euro stalls as high energy prices increase Fed hawkish bets]]></title>
             <link>https://www.fxstreet.com/news/euro-stalls-as-high-energy-prices-increase-fed-hawkish-bets-202607222238</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 22 Jul 2026 13:45:11 GMT</pubDate>
             <description><![CDATA[TD Securities strategists expect modest US Dollar (USD) strength in Q3 2026 as positioning has room to rebuild.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro struggles to extend gains as Iran war supports US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/euro-struggles-to-extend-gains-as-middle-east-tensions-support-the-us-dollar-202607221335</link>
-            <guid isPermaLink="false">25422a74-605d-4ac0-800f-318b67842616</guid>
-            <pubDate>Wed, 22 Jul 2026 13:35:01 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades around 1.1415 at the time of writing on Wednesday, up 0.15% on the day, but its recovery remains limited after failing to break above 1.1420.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold hits two-week high as traders weigh Middle East risks, Fed outlook]]></title>
-            <link>https://www.fxstreet.com/news/gold-hits-two-week-high-as-traders-weigh-middle-east-risks-fed-outlook-202607221146</link>
-            <guid isPermaLink="false">45090cd8-033c-438c-8837-396f73c3b1e4</guid>
-            <pubDate>Wed, 22 Jul 2026 11:46:32 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) climbs to a two-week high on Wednesday as bargain hunters step in near the $4,000 mark, while traders weigh Middle East risks and the Federal Reserve’s (Fed) monetary policy outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ hints at faster hikes – BNY]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-hints-at-faster-hikes-bny-202607221318</link>
-            <guid isPermaLink="false">588a7249-906b-4e98-bab5-eded131f0dfd</guid>
-            <pubDate>Wed, 22 Jul 2026 13:18:44 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu notes that Bank of Japan (BoJ) officials are reported open to raising rates faster than economists expected as Japanese Yen (JPY) weakness lifts inflation risks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump: 'US will bomb and destroy' Iranian bridges or power plants]]></title>
-            <link>https://www.fxstreet.com/news/trump-us-will-bomb-and-destroy-iranian-bridges-or-power-plants-202607221318</link>
-            <guid isPermaLink="false">31bf00d4-09ed-40cb-84b0-2916bb8a6baf</guid>
-            <pubDate>Wed, 22 Jul 2026 13:18:25 GMT</pubDate>
-            <description><![CDATA[US President Donald Trump issued a fresh warning to Iran on Wednesday, threatening strikes on the country’s infrastructure if Tehran targets vessels in the Strait of Hormuz.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Price Forecast: Middle East tensions lift Oil as bulls test 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/wti-price-forecast-middle-east-tensions-lift-oil-as-bulls-test-the-100-day-sma-202607221259</link>
-            <guid isPermaLink="false">af088d98-6db2-4835-b515-2443ae7764e9</guid>
-            <pubDate>Wed, 22 Jul 2026 12:59:29 GMT</pubDate>
-            <description><![CDATA[WTI extends its rebound on Wednesday as rising tensions in the Middle East disrupt Oil flows through the Strait of Hormuz and the Red Sea. At the time of writing, WTI trades around $86.20 after reaching an intraday high of $87.83, its highest level since June 11.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
