@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 23 Jul 2026 15:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 17:00:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold falls as Iran war lifts Oil prices, Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-falls-as-middle-east-tensions-lift-oil-prices-fed-rate-hike-bets-202607231133</link>
+            <guid isPermaLink="false">08fa87d9-7700-451e-be9d-b41674d04114</guid>
+            <pubDate>Thu, 23 Jul 2026 11:33:35 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) loses ground on Thursday, snapping a four-day winning streak as the US Dollar (USD) rebounds, while the widening war in the Middle East drives Oil prices higher. At the time of writing, XAU/USD trades around $4,050 after hitting a two-week high of $4,165 on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Trump: “I'm considering a massive attack greater than anything before”]]></title>
+            <link>https://www.fxstreet.com/news/us-president-trump-im-considering-a-massive-attack-greater-than-anything-before-202607231559</link>
+            <guid isPermaLink="false">10eb2d61-db3b-447a-a0a9-be275a708e4e</guid>
+            <pubDate>Thu, 23 Jul 2026 15:59:51 GMT</pubDate>
+            <description><![CDATA[US President Donald Trump said he is close to deciding whether to launch a new military operation against Iran, according to Israel’s N12. Trump said he is “considering a massive attack greater than anything before,” adding that Israel would join the operation “within two minutes” if requested.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound slides as Gulf war risk fuels US Dollar rally]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-slides-as-gulf-war-risk-fuels-us-dollar-rally-202607231548</link>
+            <guid isPermaLink="false">b3423fbb-a81e-454c-b797-cdbb0b406161</guid>
+            <pubDate>Thu, 23 Jul 2026 15:48:17 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling drops by over 0.40% against the Greenback as risk aversion weighs on most G8 currencies amid the escalation of the Middle East conflict and growing speculation of an extended US campaign against Iran. The GBP/USD trades at 1.3313 after reaching a daily high at 1.3393.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Crude Oil stops trading the headlines and starts trading the war]]></title>
             <link>https://www.fxstreet.com/news/crude-oil-stops-trading-the-headlines-and-starts-trading-the-war-202607231525</link>
@@ -16,7 +40,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Japanese Yen falls near multi decade low]]></title>
+            <title><![CDATA[Japanese Yen falls near multi-decade low]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-falls-near-multi-decade-low-202607231503</link>
             <guid isPermaLink="false">8f68ee43-65eb-4c8b-845f-39986d143ee0</guid>
             <pubDate>Thu, 23 Jul 2026 15:03:19 GMT</pubDate>
@@ -54,14 +78,6 @@
             <pubDate>Thu, 23 Jul 2026 14:03:44 GMT</pubDate>
             <description><![CDATA[Rabobank’s Florence Schmit notes TTF natural gas has risen above €60/MWh as Middle Eastern supply disruptions intensify.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold falls as Iran war lifts Oil prices, Fed rate hike bets]]></title>
-            <link>https://www.fxstreet.com/news/gold-falls-as-middle-east-tensions-lift-oil-prices-fed-rate-hike-bets-202607231133</link>
-            <guid isPermaLink="false">08fa87d9-7700-451e-be9d-b41674d04114</guid>
-            <pubDate>Thu, 23 Jul 2026 11:33:35 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) loses ground on Thursday, snapping a four-day winning streak as the US Dollar (USD) rebounds, while Oil prices extend their gains on rising tensions in the Middle East. At the time of writing, XAU/USD trades around $4,050 after hitting a two-week high of $4,165 on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Federal Reserve: Hike pricing questioned – TD Securities]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 23 Jul 2026 11:05:29 GMT</pubDate>
             <description><![CDATA[TD Securities strategists look for Canadian Retail Sales to rise 1.1% month-on-month in May, slightly above the 1.0% consensus, driven by higher gasoline prices and a rebound in core spending.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound holds losses below 1.3400 as PM Burnam stokes fiscal worries ]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-holds-losses-below-13400-as-pm-burnam-stokes-fiscal-worries-202607231059</link>
-            <guid isPermaLink="false">c29d9c82-f918-44f6-9c5c-cb86d7469377</guid>
-            <pubDate>Thu, 23 Jul 2026 10:59:58 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) consolidates losses below 1.3400 against the US Dollar (USD) on Thursday, on track for a 0.6% weekly decline, following a reversal from 1.3558 highs last week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee attracts slight bids on RBI’s possible intervention]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202607230535</link>
-            <guid isPermaLink="false">c37f3c6d-cf19-4743-ae28-8e094d25eff3</guid>
-            <pubDate>Thu, 23 Jul 2026 05:35:45 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) on Thursday on possible Reserve Bank of India (RBI) intervention in spot and non-deliverable forwards (NDFs) markets to support the currency.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
