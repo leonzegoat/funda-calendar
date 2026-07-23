@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 23 Jul 2026 21:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 22:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/JPY extends rally as ECB hike buzz tests Yen risks]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-extends-rally-as-ecb-hike-buzz-tests-yen-risks-202607232226</link>
+            <guid isPermaLink="false">89194a3d-c907-45a7-8626-e5663d9af41b</guid>
+            <pubDate>Thu, 23 Jul 2026 22:26:38 GMT</pubDate>
+            <description><![CDATA[The EUR/JPY extends its advance for the third straight day, set to end the week with solid gains as traders brace for the end of the week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: BI may still need to tighten – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-may-still-need-to-tighten-mufg-202607232149</link>
+            <guid isPermaLink="false">6eb4c0a0-9f09-4fca-a37a-be014c81754c</guid>
+            <pubDate>Thu, 23 Jul 2026 21:49:00 GMT</pubDate>
+            <description><![CDATA[MUFG’s Lloyd Chan reports that Bank Indonesia kept its policy rate at 5.75%, surprising expectations for a hike, as recent Rupiah stabilization allowed policymakers to stay on hold.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-flag-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar falls as strong US labor data supports the Dollar]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-falls-as-strong-us-labor-data-supports-the-dollar-202607232144</link>
+            <guid isPermaLink="false">96f1aacb-b799-4f15-a200-5893534377df</guid>
+            <pubDate>Thu, 23 Jul 2026 21:44:21 GMT</pubDate>
+            <description><![CDATA[NZD/USD trades lower near the 0.5770 area on Thursday as the US Dollar (USD) strengthens following better-than-expected United States (US) labor-market data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[GBP/JPY Price Forecast: Holds 218 floor as bulls eye 219 breakout]]></title>
             <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-holds-218-floor-as-bulls-eye-219-breakout-202607232059</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 23 Jul 2026 13:16:49 GMT</pubDate>
             <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to leave key rates unchanged at the July policy meeting and responds to questions from the press.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Lagarde speech: Energy shock could intensify further]]></title>
-            <link>https://www.fxstreet.com/news/lagarde-speech-energy-shock-could-intensify-further-202607231307</link>
-            <guid isPermaLink="false">102e16f7-c796-4c63-a3f3-72ff128772fa</guid>
-            <pubDate>Thu, 23 Jul 2026 13:07:53 GMT</pubDate>
-            <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to leave key rates unchanged at the July policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-56.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Risks for Sterling – ING]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-risks-for-sterling-ing-202607231302</link>
-            <guid isPermaLink="false">4bbb98ce-36ad-49fd-8f6b-84e1ef711a2b</guid>
-            <pubDate>Thu, 23 Jul 2026 13:02:37 GMT</pubDate>
-            <description><![CDATA[ING’s economists describe United Kingdom (UK) public finances as strained by rising spending pressures and high debt interest, despite ongoing fiscal consolidation via frozen tax thresholds and falling gilt issuance.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_FTSE-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lagarde speech: Indicators suggest economic activity will remain modest]]></title>
-            <link>https://www.fxstreet.com/news/lagarde-speech-indicators-suggest-economic-activity-will-remain-modest-202607231258</link>
-            <guid isPermaLink="false">ddd2bcaa-ceba-46dd-8cf1-c2a4eb322c93</guid>
-            <pubDate>Thu, 23 Jul 2026 12:58:42 GMT</pubDate>
-            <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to leave key rates unchanged at the July policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Christine-Legarde_4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
