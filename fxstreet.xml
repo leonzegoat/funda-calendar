@@ -4,9 +4,105 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 23 Jul 2026 03:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 06:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Reflects strength ahead of ECB’s policy decision]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-reflects-strength-ahead-of-ecbs-policy-decision-202607230547</link>
+            <guid isPermaLink="false">13ed7e4b-d2c1-4a0f-a93f-d9dded439cf3</guid>
+            <pubDate>Thu, 23 Jul 2026 05:47:49 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) is up 0.15% at around 1.1430 against the US Dollar (USD) during the early European trading session on Thursday. The EUR/USD pair rises as the major currency outperforms its peers ahead of the European Central Bank’s (ECB) monetary policy announcement at 12:15 GMT.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold extends range play above $4,100 as inflation fears lift Fed hike bets and cap gains]]></title>
+            <link>https://www.fxstreet.com/news/gold-holds-above-4-100-as-weak-usd-counters-fed-hike-bets-amid-us-iran-escalation-202607230409</link>
+            <guid isPermaLink="false">ae3f5f79-66a4-4b32-8930-dc44302cfc5c</guid>
+            <pubDate>Thu, 23 Jul 2026 04:09:44 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) consolidates above the $4,100 round figure through the Asian session on Thursday and, for now, seems to have stalled its modest pullback from an over two-week high touched the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee ticks up on possible RBI’s intervention]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202607230535</link>
+            <guid isPermaLink="false">c37f3c6d-cf19-4743-ae28-8e094d25eff3</guid>
+            <pubDate>Thu, 23 Jul 2026 05:35:45 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) opens marginally higher against the US Dollar (USD) on Thursday on possible Reserve Bank of India (RBI) intervention in spot and non-deliverable forwards (NDFs) markets to support the currency.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Trade-Balance-5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah steadies as traders weigh BI’s decision of holding rates]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-steadies-as-traders-weigh-bis-decision-of-holding-rates-202607230535</link>
+            <guid isPermaLink="false">de5c8c55-fd5b-4539-93e6-d1c6d6f1c3f7</guid>
+            <pubDate>Thu, 23 Jul 2026 05:35:20 GMT</pubDate>
+            <description><![CDATA[USD/IDR moves little after posting minor gains in the previous day, trading around 17,960 during the Asian hours on Thursday. The pair steadies as the Indonesian Rupiah (IDR) strengthens following Bank Indonesia's (BI) surprise decision to hold benchmark rates at 5.75%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Tests 6-week highs near $87.50, while bearish bias holds below 100-day SMA  ]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-tests-6-week-highs-near-8750-while-bearish-bias-holds-below-100-day-sma-202607230526</link>
+            <guid isPermaLink="false">8d1e4ea7-268a-45b5-8440-cdf92eb95540</guid>
+            <pubDate>Thu, 23 Jul 2026 05:26:47 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $87.50 during the early European trading hours on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Looks to build on upbeat Aussie jobs data-led gains above 0.7000]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-looks-to-build-on-upbeat-aussie-jobs-data-led-gains-above-07000-202607230525</link>
+            <guid isPermaLink="false">8a4e1600-63cf-4e06-b549-95f2fb66db4e</guid>
+            <pubDate>Thu, 23 Jul 2026 05:25:35 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair catches fresh bids during the Asian session on Thursday following the release of the upbeat Australian jobs report, which lifted bets for another interest rate hike by the Reserve Bank of Australia (RBA).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BoJ to raise rates again by December — Reuters poll]]></title>
+            <link>https://www.fxstreet.com/news/boj-to-raise-rates-again-by-december-reuters-poll-202607230447</link>
+            <guid isPermaLink="false">82dfdd08-4bee-4876-b1fa-9734b983309a</guid>
+            <pubDate>Thu, 23 Jul 2026 04:47:44 GMT</pubDate>
+            <description><![CDATA[According to a majority of economists in a Reuters poll, the Bank of Japan (BoJ) will raise its interest rate again by the end of December and possibly as soon as October, keeping further rate rises in view through next year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen edges higher amid intervention risks; remains close to four-decade low vs USD]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-edges-higher-amid-intervention-risks-remains-close-to-four-decade-low-vs-usd-202607230446</link>
+            <guid isPermaLink="false">550e1d21-6921-4f1c-8d2d-b339ea2983fa</guid>
+            <pubDate>Thu, 23 Jul 2026 04:46:04 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair ticks lower during the Asian session on Thursday as bulls opt to move to the sidelines amid speculations that Japanese authorities will step in to prop up the domestic currency.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar strengthens above 0.5800 on RBNZ hawkish outlook]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-strengthens-above-05800-on-rbnz-hawkish-outlook-202607230441</link>
+            <guid isPermaLink="false">50c90b5d-262c-4ae9-a12b-5826cdd68262</guid>
+            <pubDate>Thu, 23 Jul 2026 04:41:38 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair gains ground to near 0.5820, snapping the two-day losing streak during the early European session on Thursday. The New Zealand Dollar (NZD) strengthens against the US Dollar (USD) on a hawkish tone from the Reserve Bank of New Zealand (RBNZ).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold steadies, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202607230435</link>
+            <guid isPermaLink="false">93a76c41-6976-4ec8-a828-232c81af5518</guid>
+            <pubDate>Thu, 23 Jul 2026 04:35:57 GMT</pubDate>
+            <description><![CDATA[Gold prices remained broadly unchanged in India on Thursday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Tests 186.50 barrier after breaking above ascending triangle top]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-18650-barrier-after-breaking-above-ascending-triangle-top-202607230427</link>
+            <guid isPermaLink="false">463fd983-a0fe-4231-93aa-9935ca1a6407</guid>
+            <pubDate>Thu, 23 Jul 2026 04:27:16 GMT</pubDate>
+            <description><![CDATA[EUR/JPY extends its gains for the third successive day, trading around 186.40 during the Asian hours on Thursday. The currency cross is keeping a bullish near-term bias as it holds above both the nine-day and 50-day Exponential Moving Averages (EMAs).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index holds losses around 101.00 despite increasing risk aversion]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-holds-losses-around-10100-despite-increasing-risk-aversion-202607230334</link>
+            <guid isPermaLink="false">684741cf-32aa-460d-aeb2-1e40211480d4</guid>
+            <pubDate>Thu, 23 Jul 2026 03:34:19 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is losing ground for the second consecutive day, trading around 101.00 during the Asian session on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Swiss Franc snaps three-day losing streak against US Dollar, outlook remains fragile]]></title>
             <link>https://www.fxstreet.com/news/swiss-franc-snaps-three-day-losing-streak-against-us-dollar-outlook-remains-fragile-202607230323</link>
@@ -150,102 +246,6 @@
             <pubDate>Wed, 22 Jul 2026 22:57:00 GMT</pubDate>
             <description><![CDATA[Commerzbank highlights South Korea’s exports rising over 50% year-on-year in early July, marking a seventh month of double-digit growth, driven by semiconductors and AI-related data centre demand.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/charts-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro stalls as high energy prices increase Fed hawkish bets]]></title>
-            <link>https://www.fxstreet.com/news/euro-stalls-as-high-energy-prices-increase-fed-hawkish-bets-202607222238</link>
-            <guid isPermaLink="false">3a5dc4eb-3e61-40ca-9de6-da1d5c3522fb</guid>
-            <pubDate>Wed, 22 Jul 2026 22:38:55 GMT</pubDate>
-            <description><![CDATA[The EUR/USD consolidates near 1.1400 late on Wednesday, up a modest 0.08%, as it consolidates, with the shared currency failing to capitalise on overall US Dollar weakness across the board.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Short-term consolidation with bullish bias against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-short-term-consolidation-with-bullish-bias-against-us-dollar-uob-202607222216</link>
-            <guid isPermaLink="false">86f48b6e-d1c5-44e8-bba8-f244b3dad57f</guid>
-            <pubDate>Wed, 22 Jul 2026 22:16:00 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann see USD/CNH consolidating in the near term after recent downside moves. Their 24-hour view expects the Dollar to trade between 6.7635 and 6.7755 as downward pressure has eased.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar stalls after hotter-than-expected inflation]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-stalls-after-hotter-than-expected-inflation-202607222159</link>
-            <guid isPermaLink="false">4014a891-f366-4ed1-b5da-1cf057501193</guid>
-            <pubDate>Wed, 22 Jul 2026 21:59:26 GMT</pubDate>
-            <description><![CDATA[NZD/USD trades lower near the 0.5820 area on Wednesday, extending its recent pullback as the New Zealand Dollar (NZD) struggles to benefit from stronger-than-expected domestic inflation data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currencies-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Won: Internationalisation roadmap supports won recovery – DBS]]></title>
-            <link>https://www.fxstreet.com/news/south-korean-won-internationalisation-roadmap-supports-won-recovery-dbs-202607222137</link>
-            <guid isPermaLink="false">9994439d-d5c7-4cb7-84b5-645a87e4cafc</guid>
-            <pubDate>Wed, 22 Jul 2026 21:37:00 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Ma Tieying analyses South Korea’s new South Korean Won (KRW) internationalisation roadmap, unveiled by the Ministry of Finance and Economy, Bank of Korea and Financial Services Commission.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar softens as oil and gold rally, ECB decision and Australian jobs loom]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-softens-as-oil-and-gold-rally-ecb-decision-and-australian-jobs-loom-202607222116</link>
-            <guid isPermaLink="false">511ec73b-e76e-40f4-a6c7-e0968e0323de</guid>
-            <pubDate>Wed, 22 Jul 2026 21:16:37 GMT</pubDate>
-            <description><![CDATA[The US Dollar trades slightly lower on Wednesday as markets remain cautious amid escalating tensions surrounding Iran and the Strait of Hormuz. The US Dollar Index (DXY) slips toward 101.10, helping the Euro recover modestly, while most other major currency pairs remain relatively stable.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Philippine Peso: Under pressure from Oil surge – BNY]]></title>
-            <link>https://www.fxstreet.com/news/philippine-peso-under-pressure-from-oil-surge-bny-202607222053</link>
-            <guid isPermaLink="false">a6261cf9-4f97-496f-b617-0eb1573ce4fa</guid>
-            <pubDate>Wed, 22 Jul 2026 20:53:00 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu highlights that the Philippine central bank has intervened as higher Oil prices pressure Asian importers.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/PHP-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Downside risk persists against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-downside-risk-persists-against-us-dollar-uob-202607222014</link>
-            <guid isPermaLink="false">544eeb05-fc81-42c0-ac7b-08fa17c33d33</guid>
-            <pubDate>Wed, 22 Jul 2026 20:14:00 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD is trading just above 1.29 after a quiet session, with momentum only tentatively firmer.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/JPY Price Forecast: Breaks support trendline, eyes on 217.50]]></title>
-            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-breaks-support-trendline-eyes-on-21750-202607221951</link>
-            <guid isPermaLink="false">a7e222f8-bf21-4185-ac09-be03c505ba42</guid>
-            <pubDate>Wed, 22 Jul 2026 19:51:08 GMT</pubDate>
-            <description><![CDATA[GBP/JPY holds firm on Wednesday, with the cross-pair trading above the 218.00 figure, as sellers seem to have the upper hand, after a break of a key support trendline, which could open the door for further losses. At the time of writing, the cross trades at 218.16, down 0.05%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Growth shortfall feeds mild depreciation bias – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-growth-shortfall-feeds-mild-depreciation-bias-commerzbank-202607221936</link>
-            <guid isPermaLink="false">1d6bcb4a-1fe8-49ce-9074-16e1a4194660</guid>
-            <pubDate>Wed, 22 Jul 2026 19:36:53 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s FX research notes USD/CNY trading around 6.77, slightly lower on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Swissy reclaims 0.81 as pair nears one-year high]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-reclaims-081-as-market-structure-targets-082-202607221904</link>
-            <guid isPermaLink="false">43b2d1a3-352c-432e-bb02-53062c4f616e</guid>
-            <pubDate>Wed, 22 Jul 2026 19:04:15 GMT</pubDate>
-            <description><![CDATA[USD/CHF registers solid gains on Wednesday, with buyers reclaiming the 0.8100 figure amid a trading session in which the Greenback loses ground against most G8 FX currencies but posts gains versus the safe-haven status of the Swiss Franc. The pair trades at 0.8146, up more than 0.20%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-realistic.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro elevates ahead of ECB decision and Japanese inflation data]]></title>
-            <link>https://www.fxstreet.com/news/euro-elevates-ahead-of-ecb-decision-and-japanese-inflation-data-202607221841</link>
-            <guid isPermaLink="false">e47f45f8-61ce-40f0-87bd-e266c0a7f70c</guid>
-            <pubDate>Wed, 22 Jul 2026 18:41:33 GMT</pubDate>
-            <description><![CDATA[EUR/JPY trades marginally higher near the 186.20 area on Wednesday as the Japanese Yen (JPY) remains under pressure near multi-decade lows. The Euro (EUR) is relatively stable as investors avoid taking large positions ahead of the European Central Bank’s (ECB) monetary policy announcement.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold price breaks higher as US Dollar weakness fuels rally]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-breaks-higher-as-us-dollar-weakness-fuels-rally-202607221825</link>
-            <guid isPermaLink="false">8c127e81-4ab3-45b9-b52b-671d6dcd8874</guid>
-            <pubDate>Wed, 22 Jul 2026 18:25:33 GMT</pubDate>
-            <description><![CDATA[Gold price (XAU/USD) surges over 1.50% on Wednesday, cracks a key resistance trendline and hits a new two-week high as the Greenback weakens. This Bullion price action comes despite rising tensions and hostilities between the US and Iran.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
