@@ -4,16 +4,88 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 23 Jul 2026 13:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 15:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[United Kingdom: Risks for Sterling – ING]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-risks-for-sterling-ing-202607231302</link>
-            <guid isPermaLink="false">4bbb98ce-36ad-49fd-8f6b-84e1ef711a2b</guid>
-            <pubDate>Thu, 23 Jul 2026 13:02:37 GMT</pubDate>
-            <description><![CDATA[ING’s economists describe United Kingdom (UK) public finances as strained by rising spending pressures and high debt interest, despite ongoing fiscal consolidation via frozen tax thresholds and falling gilt issuance.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_FTSE-2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Crude Oil stops trading the headlines and starts trading the war]]></title>
+            <link>https://www.fxstreet.com/news/crude-oil-stops-trading-the-headlines-and-starts-trading-the-war-202607231525</link>
+            <guid isPermaLink="false">b69faeef-2cbc-44b0-9963-552aaed4ff88</guid>
+            <pubDate>Thu, 23 Jul 2026 15:25:22 GMT</pubDate>
+            <description><![CDATA[Crude Oil is staging the kind of one-day advance that usually arrives strapped to a flash headline, and the wires have duly supplied several, but the tape refuses to behave like a reaction.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen falls near multi decade low]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-falls-near-multi-decade-low-202607231503</link>
+            <guid isPermaLink="false">8f68ee43-65eb-4c8b-845f-39986d143ee0</guid>
+            <pubDate>Thu, 23 Jul 2026 15:03:19 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades above163.90 on Thursday as the US Dollar (USD) strengthens following significantly better-than-expected United States (US) labor market data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States:  PCE Methodology tweaks seen as marginal – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/united-states-pce-methodology-tweaks-seen-as-marginal-td-securities-202607231453</link>
+            <guid isPermaLink="false">8f335835-92c7-4480-b84a-59fb2c190f29</guid>
+            <pubDate>Thu, 23 Jul 2026 14:53:33 GMT</pubDate>
+            <description><![CDATA[TD Securities economists Eli Nir and Oscar Munoz analyze upcoming BEA methodology changes to United States (US) Personal Consumption Expenditures (PCE) Price Index inflation for portfolio management, legal services, and computer software & accessories.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI rallies more than 5% as Middle East supply risks deepen]]></title>
+            <link>https://www.fxstreet.com/news/wti-rallies-more-than-5-as-middle-east-supply-risks-deepen-202607231443</link>
+            <guid isPermaLink="false">08519426-a973-47cf-b99f-dd0d5fc8847a</guid>
+            <pubDate>Thu, 23 Jul 2026 14:43:59 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) crude Oil rallies more than 5% on Thursday as hostilities between the US and Iran deepen supply risks. At the time of writing, WTI trades around $90.50 per barrel, its highest level since June 11.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[European Central Bank: Hiking cycle continues at slower pace – Nordea]]></title>
+            <link>https://www.fxstreet.com/news/european-central-bank-hiking-cycle-continues-at-slower-pace-nordea-202607231424</link>
+            <guid isPermaLink="false">35a4a981-f9cb-4d6d-9b53-305201832935</guid>
+            <pubDate>Thu, 23 Jul 2026 14:24:10 GMT</pubDate>
+            <description><![CDATA[Nordea strategists Jan von Gerich, Tuuli Koivu and Anders Svendsen note that the European Central Bank (ECB) kept its deposit rate at 2.25% but signalled further tightening. They still forecast three additional 25bp hikes, now at a quarterly pace, taking the deposit rate to 3% by March 2027.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Natural Gas: High prices sustain European power – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/natural-gas-high-prices-sustain-european-power-rabobank-202607231403</link>
+            <guid isPermaLink="false">0e332c72-d3ea-465e-9402-e7cab9929b40</guid>
+            <pubDate>Thu, 23 Jul 2026 14:03:44 GMT</pubDate>
+            <description><![CDATA[Rabobank’s Florence Schmit notes TTF natural gas has risen above €60/MWh as Middle Eastern supply disruptions intensify.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold falls as Iran war lifts Oil prices, Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-falls-as-middle-east-tensions-lift-oil-prices-fed-rate-hike-bets-202607231133</link>
+            <guid isPermaLink="false">08fa87d9-7700-451e-be9d-b41674d04114</guid>
+            <pubDate>Thu, 23 Jul 2026 11:33:35 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) loses ground on Thursday, snapping a four-day winning streak as the US Dollar (USD) rebounds, while Oil prices extend their gains on rising tensions in the Middle East. At the time of writing, XAU/USD trades around $4,050 after hitting a two-week high of $4,165 on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal Reserve: Hike pricing questioned – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-hike-pricing-questioned-td-securities-202607231342</link>
+            <guid isPermaLink="false">6501ac67-d580-4b73-87c1-68779c5254ae</guid>
+            <pubDate>Thu, 23 Jul 2026 13:42:51 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Gennadiy Goldberg and Molly Brooks note that market pricing for Fed hikes has risen alongside higher Oil prices and US-Iran tensions, but they judge a July move as unlikely.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro slips against British Pound as ECB keeps interest rates unchanged]]></title>
+            <link>https://www.fxstreet.com/news/euro-slips-against-british-pound-as-ecb-keeps-interest-rates-unchanged-202607231333</link>
+            <guid isPermaLink="false">1c11f4a5-263b-475d-bcbc-7e6fc001147f</guid>
+            <pubDate>Thu, 23 Jul 2026 13:33:10 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) trades under pressure against the British Pound (GBP) as traders assess the European Central Bank’s (ECB) latest monetary policy announcement.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso: Slightly stronger MXN outlook – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-slightly-stronger-mxn-outlook-commerzbank-202607231323</link>
+            <guid isPermaLink="false">8ef7b739-7afd-471b-8d30-8eb90dda8c6d</guid>
+            <pubDate>Thu, 23 Jul 2026 13:23:54 GMT</pubDate>
+            <description><![CDATA[Commerzbank strategist Michael Pfister argues that Banxico’s recent rate cuts were broadly justified by moderating inflation and Mexico’s weakening economy, leaving little reason for the central bank to tighten policy despite markets pricing in roughly three rate hikes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bullish-1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[ECB Press Conference: Lagarde speaks on policy outlook after leaving key rates unchanged]]></title>
@@ -21,7 +93,31 @@
             <guid isPermaLink="false">db35568e-d3a0-46a9-8e0e-cad3db657236</guid>
             <pubDate>Thu, 23 Jul 2026 08:00:00 GMT</pubDate>
             <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to leave key rates unchanged at the July policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Christine-Legarde_2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Christine-Legarde_3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lagarde speech: Some asked whether we should consider a hike]]></title>
+            <link>https://www.fxstreet.com/news/lagarde-speech-some-asked-whether-we-should-consider-a-hike-202607231316</link>
+            <guid isPermaLink="false">08cb86d3-603d-4936-b437-cd1f795b70f8</guid>
+            <pubDate>Thu, 23 Jul 2026 13:16:49 GMT</pubDate>
+            <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to leave key rates unchanged at the July policy meeting and responds to questions from the press.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lagarde speech: Energy shock could intensify further]]></title>
+            <link>https://www.fxstreet.com/news/lagarde-speech-energy-shock-could-intensify-further-202607231307</link>
+            <guid isPermaLink="false">102e16f7-c796-4c63-a3f3-72ff128772fa</guid>
+            <pubDate>Thu, 23 Jul 2026 13:07:53 GMT</pubDate>
+            <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to leave key rates unchanged at the July policy meeting and responds to questions from the press.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-56.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Risks for Sterling – ING]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-risks-for-sterling-ing-202607231302</link>
+            <guid isPermaLink="false">4bbb98ce-36ad-49fd-8f6b-84e1ef711a2b</guid>
+            <pubDate>Thu, 23 Jul 2026 13:02:37 GMT</pubDate>
+            <description><![CDATA[ING’s economists describe United Kingdom (UK) public finances as strained by rising spending pressures and high debt interest, despite ongoing fiscal consolidation via frozen tax thresholds and falling gilt issuance.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_FTSE-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lagarde speech: Indicators suggest economic activity will remain modest]]></title>
@@ -56,7 +152,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-line.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Euro weakens as ECB stays on hold while Middle East tensions boost the US Dollar]]></title>
+            <title><![CDATA[Euro weakens as ECB stays on hold, while Iran war boosts US Dollar]]></title>
             <link>https://www.fxstreet.com/news/euro-weakens-as-ecb-stays-on-hold-while-middle-east-tensions-boost-the-us-dollar-202607231235</link>
             <guid isPermaLink="false">d23607c3-5cf9-46a4-a7b9-5aa80b5324a5</guid>
             <pubDate>Thu, 23 Jul 2026 12:35:14 GMT</pubDate>
@@ -112,14 +208,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gold falls as Middle East tensions lift Oil prices, Fed rate hike bets]]></title>
-            <link>https://www.fxstreet.com/news/gold-falls-as-middle-east-tensions-lift-oil-prices-fed-rate-hike-bets-202607231133</link>
-            <guid isPermaLink="false">08fa87d9-7700-451e-be9d-b41674d04114</guid>
-            <pubDate>Thu, 23 Jul 2026 11:33:35 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) loses ground on Thursday, snapping a four-day winning streak as the US Dollar (USD) rebounds, while Oil prices extend their gains on rising tensions in the Middle East. At the time of writing, XAU/USD trades around $4,090 after hitting a two-week high of $4,165 on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[European Central Bank: Hawkish ECB pricing supports Euro – MUFG]]></title>
             <link>https://www.fxstreet.com/news/european-central-bank-hawkish-ecb-pricing-supports-euro-mufg-202607231126</link>
             <guid isPermaLink="false">ba51fe39-8643-4237-890c-51f74253fff9</guid>
@@ -158,94 +246,6 @@
             <pubDate>Thu, 23 Jul 2026 05:35:45 GMT</pubDate>
             <description><![CDATA[The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) on Thursday on possible Reserve Bank of India (RBI) intervention in spot and non-deliverable forwards (NDFs) markets to support the currency.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/JPY Price Forecast: Euro trims gains but holds above previous highs at 186.32]]></title>
-            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-euro-trims-gains-but-holds-above-previous-highs-at-18632-202607230959</link>
-            <guid isPermaLink="false">04040868-66c2-4170-abb6-2a9d3815cb5d</guid>
-            <pubDate>Thu, 23 Jul 2026 09:59:01 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) is giving away previous gains against the Japanese Yen (JPY) on Thursday, as investors position for the European Central Bank's (ECB) monetary policy decision.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Turkish Lira: High carry stays attractive as easing delayed – ING]]></title>
-            <link>https://www.fxstreet.com/news/turkish-lira-high-carry-stays-attractive-as-easing-delayed-ing-202607230958</link>
-            <guid isPermaLink="false">226dae59-2ae2-46e6-a180-54ac1093ef28</guid>
-            <pubDate>Thu, 23 Jul 2026 09:58:04 GMT</pubDate>
-            <description><![CDATA[ING’s Frantisek Taborsky expects the Central Bank of the Republic of Türkiye (CBRT) to keep its 37.00% rate unchanged, with geopolitical tensions, Oil above $90 and tariff changes limiting scope to absorb higher energy costs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/turkish-lira-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: Oil-driven risks to policy path – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-oil-driven-risks-to-policy-path-societe-generale-202607230947</link>
-            <guid isPermaLink="false">8409b175-16b3-47ea-bedd-8180f3fec8bc</guid>
-            <pubDate>Thu, 23 Jul 2026 09:47:19 GMT</pubDate>
-            <description><![CDATA[Societe Generale strategists note that Oil and Natural Gas prices have surged since the June European Central Bank (ECB) meeting, reversing optimism that followed the US–Iran Memorandum of Understanding (MoU).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Jobs strength keeps RBA hike priced – BBH]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-jobs-strength-keeps-rba-hike-priced-bbh-202607230930</link>
-            <guid isPermaLink="false">3a27cbea-b877-41ec-ac1a-9251cf89835a</guid>
-            <pubDate>Thu, 23 Jul 2026 09:30:48 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes AUD/USD is consolidating near 0.7000 after strong Australia employment data. Solid June job gains keep Reserve Bank of Australia (RBA) hike expectations alive, with cash rate futures now virtually fully pricing a move to 4.60% by year‑end.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607230930</link>
-            <guid isPermaLink="false">a7cb22e0-831b-440a-895d-616504a9b676</guid>
-            <pubDate>Thu, 23 Jul 2026 09:30:44 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) fell on Thursday, according to FXStreet data. Silver trades at $58.84 per troy ounce, down 1.67% from the $59.83 it cost on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: ECB seen hiking in September – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/euro-ecb-seen-hiking-in-september-commerzbank-202607230920</link>
-            <guid isPermaLink="false">77564c37-f926-44cb-a782-468093f90643</guid>
-            <pubDate>Thu, 23 Jul 2026 09:20:41 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Antje Praefcke argues the European Central Bank (ECB) can delay action today but will keep a hawkish tone as inflation stays near 3% and core pressures may even rise.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-eur.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Limited upside from Norges Bank flows – BNY]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-limited-upside-from-norges-bank-flows-bny-202607230911</link>
-            <guid isPermaLink="false">801632d5-09c0-4296-a04d-79124af9a26b</guid>
-            <pubDate>Thu, 23 Jul 2026 09:11:46 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu argues that while Norwegian Krone (NOK) should find demand from improved Oil and gas terms of trade and a relatively hawkish Norges Bank, elevated holdings and modest FX purchases limit upside.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: September hike risk builds – ING]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-september-hike-risk-builds-ing-202607230903</link>
-            <guid isPermaLink="false">5bbbc8f6-c4e9-4099-8c35-5de095b42368</guid>
-            <pubDate>Thu, 23 Jul 2026 09:03:33 GMT</pubDate>
-            <description><![CDATA[ING’s Michiel Tukker expects the European Central Bank (ECB) to keep the deposit rate at 2.25% at the upcoming meeting, with a September hike seen as likely as Oil prices rise and markets already price in around 23bp.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc weakens as safe-haven demand lifts US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-weakens-as-safe-haven-demand-lifts-us-dollar-202607230900</link>
-            <guid isPermaLink="false">6cfb596e-a7f9-49d8-acd3-ba5c5308eed7</guid>
-            <pubDate>Thu, 23 Jul 2026 09:00:20 GMT</pubDate>
-            <description><![CDATA[USD/CHF extends its gains for the fourth successive day, trading around 0.8150 during the European hours on Thursday. The pair appreciates as the US Dollar (USD) gains ground after recovering its daily losses amid rising geopolitical tensions between the United States (US)-and Iran.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Analysts agree: Hawkish ECB expectations are likely to keep Euro supported]]></title>
-            <link>https://www.fxstreet.com/news/analysts-agree-hawkish-ecb-expectations-are-likely-to-keep-euro-supported-202607230854</link>
-            <guid isPermaLink="false">91497872-903b-4208-a5de-8dbda97c8f6f</guid>
-            <pubDate>Thu, 23 Jul 2026 08:54:33 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) remains steady above 1.1400 against the US Dollar (USD) on Thursday, showing a surprising resilience to the surging Oil prices and the escalation of hostilities in the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Energy shock drives weaker currency – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-energy-shock-drives-weaker-currency-mufg-202607230849</link>
-            <guid isPermaLink="false">f25d810d-4e02-4577-a530-6936240e7792</guid>
-            <pubDate>Thu, 23 Jul 2026 08:49:22 GMT</pubDate>
-            <description><![CDATA[MUFG’s Lee Hardman highlights that rising Oil and natural gas prices are pressuring the Japanese Yen (JPY), with USD/JPY hitting fresh year-to-date highs above 163.00.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
