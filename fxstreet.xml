@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 23 Jul 2026 20:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 21:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Holds 218 floor as bulls eye 219 breakout]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-holds-218-floor-as-bulls-eye-219-breakout-202607232059</link>
+            <guid isPermaLink="false">1abf2756-4e10-4412-a665-68f277e50616</guid>
+            <pubDate>Thu, 23 Jul 2026 20:59:33 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY rotates for the third straight day, as a ‘bullish harami’ chart pattern opens the door for further upside, but intervention fears by Japanese authorities cap the cross-pair advance. The GBP/JPY trades at 218.17, unchanged.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Sideways range holds against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-sideways-range-holds-against-us-dollar-uob-202607232054</link>
+            <guid isPermaLink="false">b81b7e46-937a-46d6-b173-9e29cbc40ce6</guid>
+            <pubDate>Thu, 23 Jul 2026 20:54:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s Quek Ser Leang and Lee Sue Ann expect USD/SGD to remain directionless in the near term, with intraday trading confined to a tight 1.2900–1.2925 band. Over the coming weeks, the pair is seen oscillating in a broader 1.2875–1.2955 range as earlier downside momentum has faded.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar rises as strong labor data and Middle East tensions lift Oil]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-rises-as-strong-labor-data-and-middle-east-tensions-lift-oil-202607232049</link>
+            <guid isPermaLink="false">28b44ed3-8099-4e03-b4ee-5ef21cc8ea9c</guid>
+            <pubDate>Thu, 23 Jul 2026 20:49:01 GMT</pubDate>
+            <description><![CDATA[Here is what you need to know for Friday, July 24:]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Jerome-Powell_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: BI uses incentives over hikes – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-uses-incentives-over-hikes-commerzbank-202607232011</link>
+            <guid isPermaLink="false">10244c2d-36b0-4296-8537-c0e2ed56d4d6</guid>
+            <pubDate>Thu, 23 Jul 2026 20:11:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Charlie Lay reports Bank Indonesia kept the BI Rate at 5.75%, choosing targeted capital-flow incentives over further tightening to support the Indonesian Rupiah. BI cut hedging costs and improved macroprudential liquidity tools, echoing RBI’s playbook.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesian_Rupiah_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar trades under pressure amid strong US data ]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-trades-under-pressure-amid-strong-us-data-202607231944</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 23 Jul 2026 12:58:42 GMT</pubDate>
             <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to leave key rates unchanged at the July policy meeting and responds to questions from the press.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Christine-Legarde_4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[163.00: Why the Japanese Yen is trading at historic lows despite BoJ hike speculation]]></title>
-            <link>https://www.fxstreet.com/news/16300-why-the-japanese-yen-is-trading-at-historic-lows-despite-boj-hike-speculation-202607231249</link>
-            <guid isPermaLink="false">183d3f91-fdcc-4e42-8f31-2813cf5ae353</guid>
-            <pubDate>Thu, 23 Jul 2026 12:49:54 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) continues to trade at historic lows, with USD/JPY pressing past year-to-date highs above the 163.00 handle, as a renewed surge in global Oil and Natural Gas prices has dealt a severe blow to the net-energy-importing Japanese economy. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-135.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Geopolitical shock tightens conditions – BNY]]></title>
-            <link>https://www.fxstreet.com/news/oil-geopolitical-shock-tightens-conditions-bny-202607231239</link>
-            <guid isPermaLink="false">9cc313ff-3fd4-4b11-ac29-fcd66cfc67ae</guid>
-            <pubDate>Thu, 23 Jul 2026 12:39:53 GMT</pubDate>
-            <description><![CDATA[BNY's Geoff Yu highlights that Brent has surged into the high $90s as Houthi attacks and U.S.-Iran escalation raise disruption risks around the Strait of Hormuz and Red Sea. Bond markets are treating this as an inflation shock, with higher yields and tighter financial conditions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar eases despite stronger Retail Sales and rising Oil prices]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-eases-despite-stronger-retail-sales-and-rising-oil-prices-202607231238</link>
-            <guid isPermaLink="false">6f1fcc85-f19b-41ee-a000-30bf8c13f5f6</guid>
-            <pubDate>Thu, 23 Jul 2026 12:38:13 GMT</pubDate>
-            <description><![CDATA[USD/CAD rebounds on Thursday as the US Dollar (USD) regains momentum amid rising tensions in the Middle East and growing Federal Reserve (Fed) rate hike bets, while traders show a muted reaction to Canadian Retail Sales data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro weakens as ECB stays on hold, while Iran war boosts US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/euro-weakens-as-ecb-stays-on-hold-while-middle-east-tensions-boost-the-us-dollar-202607231235</link>
-            <guid isPermaLink="false">d23607c3-5cf9-46a4-a7b9-5aa80b5324a5</guid>
-            <pubDate>Thu, 23 Jul 2026 12:35:14 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades around 1.1385 on Thursday after the European Central Bank (ECB) left its key interest rates unchanged, in line with market expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
