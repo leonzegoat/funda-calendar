@@ -4,15 +4,63 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 23 Jul 2026 18:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 20:00:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Gold losses its bright, tumbles as sellers target $4,000]]></title>
+            <title><![CDATA[Australian Dollar trades under pressure amid strong US data ]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-trades-under-pressure-amid-strong-us-data-202607231944</link>
+            <guid isPermaLink="false">38975aaa-d2e0-44ae-bb2b-c61886f915d9</guid>
+            <pubDate>Thu, 23 Jul 2026 19:44:32 GMT</pubDate>
+            <description><![CDATA[AUD/USD trades lower near the 0.6970 area on Thursday, giving back earlier gains as the US Dollar (USD) strengthens on the back of upbeat United States (US) labor market data and continued hostilities between the US and Iran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-67.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Asia FX: Oil shock seen manageable – BNY]]></title>
+            <link>https://www.fxstreet.com/news/asia-fx-oil-shock-seen-manageable-bny-202607231931</link>
+            <guid isPermaLink="false">0196de28-6033-4960-80ab-3d7b89798ab3</guid>
+            <pubDate>Thu, 23 Jul 2026 19:31:00 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu argues that Oil near $95 is a shock for Asian energy importers but not a trigger for a broad balance-of-payments crisis.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG lower highs structure holds, bears eye $55]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-lower-highs-structure-holds-bears-eye-55-202607231928</link>
+            <guid isPermaLink="false">a09af241-e922-4d71-8406-86a5b0e3522e</guid>
+            <pubDate>Thu, 23 Jul 2026 19:28:17 GMT</pubDate>
+            <description><![CDATA[Silver price dives over 3.80% on Thursday as the precious metals segment tumbles amid overall US Dollar strength and heightened risk aversion amid heightened tensions in the Middle East. The XAG/USD trades at $57.62 after hitting a weekly high of $60.94.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Bulls struggle below the 50-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-struggle-below-the-50-day-sma-202607231908</link>
+            <guid isPermaLink="false">ea253fec-7d5d-4fb1-a02a-78e48895948f</guid>
+            <pubDate>Thu, 23 Jul 2026 19:08:49 GMT</pubDate>
+            <description><![CDATA[AUD/USD edges lower on Thursday as a stronger US Dollar (USD) outweighs support from stronger-than-expected Australian employment data. At the time of writing, the pair trades around 0.6966, down 0.45% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Holds near fair value against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-holds-near-fair-value-against-us-dollar-scotiabank-202607231857</link>
+            <guid isPermaLink="false">dbed84e3-6d45-428a-a953-1040339ef792</guid>
+            <pubDate>Thu, 23 Jul 2026 18:57:56 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is tracking the broader US Dollar (USD) trend, with USD/CAD easing overnight then rebounding to trade nearly flat.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc hits 13-month low as rising Oil prices boost bets on Fed hike]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-hits-13-month-low-as-rising-oil-prices-boost-fed-rate-hike-bets-202607231845</link>
+            <guid isPermaLink="false">72b58f2b-1d09-41d3-aecb-cc3f312c7f65</guid>
+            <pubDate>Thu, 23 Jul 2026 18:45:15 GMT</pubDate>
+            <description><![CDATA[USD/CHF climbs to its highest level since June 2025 on Thursday, supported by a broadly stronger US Dollar (USD) as the expanding war in the Middle East pushes Oil prices higher and strengthens Federal Reserve (Fed) rate hike expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold tumbles as sellers target $4,000]]></title>
             <link>https://www.fxstreet.com/news/gold-losses-its-bright-tumbles-as-sellers-target-4-000-202607231827</link>
             <guid isPermaLink="false">a5e8e975-ed19-4ea2-8306-bd7268eed96a</guid>
             <pubDate>Thu, 23 Jul 2026 18:27:06 GMT</pubDate>
-            <description><![CDATA[Gold price (XAU/USD) losses nearly 2% on Thursday as the US Dollar stages a comeback amid growing speculation that the White House may continue its campaign against Iran, which seems poised to prolong the Gulf War. The XAU/USD trades below $4,050 after falling from a two-day high above $4,100]]></description>
+            <description><![CDATA[Gold price (XAU/USD) loses nearly 2% on Thursday as the US Dollar stages a comeback amid growing speculation that the White House may continue its campaign against Iran, which seems poised to prolong the Gulf war. The XAU/USD trades below $4,050 after falling from a two-day high above $4,100]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -198,54 +246,6 @@
             <pubDate>Thu, 23 Jul 2026 12:35:14 GMT</pubDate>
             <description><![CDATA[EUR/USD trades around 1.1385 on Thursday after the European Central Bank (ECB) left its key interest rates unchanged, in line with market expectations.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United States weekly Initial Jobless Claims decline to 187K vs. 212K expected]]></title>
-            <link>https://www.fxstreet.com/news/united-states-weekly-initial-jobless-claims-decline-to-187k-vs-212k-expected-202607231233</link>
-            <guid isPermaLink="false">27dead5f-9f5a-4fd8-9b0c-d8ea52d287eb</guid>
-            <pubDate>Thu, 23 Jul 2026 12:33:58 GMT</pubDate>
-            <description><![CDATA[There were 187,000 Initial Jobless Claims in the week ending July 18, the US Department of Labor (DOL) reported on Thursday. This print followed the previous week's reading of 209,000 and came in much better than the market expectation of 212,000.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_office.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Limited upside as RBA priced – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-limited-upside-as-rba-priced-rabobank-202607231223</link>
-            <guid isPermaLink="false">f964f38b-c12a-41a2-a88c-724de21fb32f</guid>
-            <pubDate>Thu, 23 Jul 2026 12:23:15 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley highlights the strong year-to-date performance of the Australian Dollar (AUD), supported by the Reserve Bank of Australia’s (RBA) hawkish stance and Australia’s commodity-linked profile.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Gradual appreciation path after extended weakness – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-gradual-appreciation-path-after-extended-weakness-commerzbank-202607231201</link>
-            <guid isPermaLink="false">0d839398-bffe-4881-8d6a-ae935df13509</guid>
-            <pubDate>Thu, 23 Jul 2026 12:01:26 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Volkmar Baur notes that the Japanese Yen remains historically weak, with USD/JPY above 162 and EUR/JPY near 186, but still forecasts gradual appreciation over the coming quarters.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Recovery led by spot demand – BNY]]></title>
-            <link>https://www.fxstreet.com/news/euro-recovery-led-by-spot-demand-bny-202607231150</link>
-            <guid isPermaLink="false">a98565a2-ef11-4240-a679-fad9616342e1</guid>
-            <pubDate>Thu, 23 Jul 2026 11:50:59 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu notes the Euro is stabilizing ahead of the ECB decision, with improving spot flow and hedge unwinding supporting Eurozone assets. However, forward and swaps demand remain weak, limiting conviction.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD pulls back below $4,100 weighed by higher US yields]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-pulls-back-below-4-100-weighed-by-higher-us-yields-202607231146</link>
-            <guid isPermaLink="false">1e3b6416-4e9d-4339-b352-3cd27ad0b495</guid>
-            <pubDate>Thu, 23 Jul 2026 11:46:17 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) trades lower on Thursday, snapping a four-day rally.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index: Upside risks persist as yields climb – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-upside-risks-persist-as-yields-climb-bbh-202607231139</link>
-            <guid isPermaLink="false">4f9b9739-3625-4844-a4c0-12a7af609d4b</guid>
-            <pubDate>Thu, 23 Jul 2026 11:39:44 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s Elias Haddad notes that the US Dollar is holding on to most of its weekly gains as US Treasury yields remain elevated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
