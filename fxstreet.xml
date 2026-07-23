@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 23 Jul 2026 22:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 23:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold slumps to near $4,050 as Middle East conflict fuels inflation worries  ]]></title>
+            <link>https://www.fxstreet.com/news/gold-slumps-to-near-4-050-as-middle-east-conflict-fuels-inflation-worries-202607232337</link>
+            <guid isPermaLink="false">f1d5813f-87b5-41e4-bc2f-de43f084d5da</guid>
+            <pubDate>Thu, 23 Jul 2026 23:37:33 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) faces some selling pressure to around $4,050 during the early Asian session on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan’s National CPI climbs 1.7% YoY in June, Core CPI rises as expected]]></title>
+            <link>https://www.fxstreet.com/news/japans-national-cpi-climbs-17-yoy-in-june-core-cpi-rises-as-expected-202607232331</link>
+            <guid isPermaLink="false">416d59b7-7a57-48a9-ab6d-9f0fd628576a</guid>
+            <pubDate>Thu, 23 Jul 2026 23:31:37 GMT</pubDate>
+            <description><![CDATA[Japan’s National Consumer Price Index (CPI) rose by 1.7% YoY in June, compared to the previous reading of 1.5%, according to the latest data released by the Japan Statistics Bureau on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-shopping-cart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound Sterling slides for a sixth session on a Dollar story Britain had no part in]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sterling-slides-for-a-sixth-session-on-a-dollar-story-britain-had-no-part-in-202607232318</link>
+            <guid isPermaLink="false">f635b678-015a-4c4c-8867-955f34fa8b70</guid>
+            <pubDate>Thu, 23 Jul 2026 23:18:30 GMT</pubDate>
+            <description><![CDATA[Sterling's sixth consecutive losing session arrives without a single domestic headline behind it, and that absence is the more useful fact about Thursday than the 0.45% loss itself.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-62.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia's S&P Global Manufacturing PMI rises to 51.7 in July]]></title>
+            <link>https://www.fxstreet.com/news/australias-sp-global-manufacturing-pmi-rises-to-517-in-july-202607232302</link>
+            <guid isPermaLink="false">4afb6b51-eba0-4497-863c-003d7079fd9d</guid>
+            <pubDate>Thu, 23 Jul 2026 23:02:58 GMT</pubDate>
+            <description><![CDATA[The preliminary reading of Australia's S&P Global Manufacturing Purchasing Managers Index (PMI) rose to 51.7 in July versus 51.5 prior, the latest data published by S&P Global showed on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Upside bias toward 6.7600 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-upside-bias-toward-67600-against-us-dollar-uob-202607232237</link>
+            <guid isPermaLink="false">c2c92e8b-b922-4913-93b8-43f229271990</guid>
+            <pubDate>Thu, 23 Jul 2026 22:37:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s Quek Ser Leang and Lee Sue Ann expect USD/CNH to remain in a narrow consolidation between 6.7680 and 6.7780 intraday after a lacklustre session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EUR/JPY extends rally as ECB hike buzz tests Yen risks]]></title>
             <link>https://www.fxstreet.com/news/eur-jpy-extends-rally-as-ecb-hike-buzz-tests-yen-risks-202607232226</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 23 Jul 2026 14:03:44 GMT</pubDate>
             <description><![CDATA[Rabobank’s Florence Schmit notes TTF natural gas has risen above €60/MWh as Middle Eastern supply disruptions intensify.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Hike pricing questioned – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-hike-pricing-questioned-td-securities-202607231342</link>
-            <guid isPermaLink="false">6501ac67-d580-4b73-87c1-68779c5254ae</guid>
-            <pubDate>Thu, 23 Jul 2026 13:42:51 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Gennadiy Goldberg and Molly Brooks note that market pricing for Fed hikes has risen alongside higher Oil prices and US-Iran tensions, but they judge a July move as unlikely.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro slips against British Pound as ECB keeps interest rates unchanged]]></title>
-            <link>https://www.fxstreet.com/news/euro-slips-against-british-pound-as-ecb-keeps-interest-rates-unchanged-202607231333</link>
-            <guid isPermaLink="false">1c11f4a5-263b-475d-bcbc-7e6fc001147f</guid>
-            <pubDate>Thu, 23 Jul 2026 13:33:10 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) trades under pressure against the British Pound (GBP) as traders assess the European Central Bank’s (ECB) latest monetary policy announcement.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso: Slightly stronger MXN outlook – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-slightly-stronger-mxn-outlook-commerzbank-202607231323</link>
-            <guid isPermaLink="false">8ef7b739-7afd-471b-8d30-8eb90dda8c6d</guid>
-            <pubDate>Thu, 23 Jul 2026 13:23:54 GMT</pubDate>
-            <description><![CDATA[Commerzbank strategist Michael Pfister argues that Banxico’s recent rate cuts were broadly justified by moderating inflation and Mexico’s weakening economy, leaving little reason for the central bank to tighten policy despite markets pricing in roughly three rate hikes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bullish-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ECB Press Conference: Lagarde speaks on policy outlook after leaving key rates unchanged]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-set-to-hold-interest-rates-amid-cooling-inflation-and-weaker-growth-202607230800</link>
-            <guid isPermaLink="false">db35568e-d3a0-46a9-8e0e-cad3db657236</guid>
-            <pubDate>Thu, 23 Jul 2026 08:00:00 GMT</pubDate>
-            <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to leave key rates unchanged at the July policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Christine-Legarde_3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lagarde speech: Some asked whether we should consider a hike]]></title>
-            <link>https://www.fxstreet.com/news/lagarde-speech-some-asked-whether-we-should-consider-a-hike-202607231316</link>
-            <guid isPermaLink="false">08cb86d3-603d-4936-b437-cd1f795b70f8</guid>
-            <pubDate>Thu, 23 Jul 2026 13:16:49 GMT</pubDate>
-            <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to leave key rates unchanged at the July policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
