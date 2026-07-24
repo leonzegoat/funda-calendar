@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 24 Jul 2026 18:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 20:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Malaysia: Solid fundamentals support Ringgit and bonds – DBS]]></title>
+            <link>https://www.fxstreet.com/news/malaysia-solid-fundamentals-support-ringgit-and-bonds-dbs-202607242022</link>
+            <guid isPermaLink="false">37d03fe9-03d4-44db-b785-f231fd78516d</guid>
+            <pubDate>Fri, 24 Jul 2026 20:22:00 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economist Chua Han Teng argues that Malaysia’s financial markets reflect confidence in the country’s solid domestic fundamentals despite lingering Middle East geopolitical risks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Malaysia3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Strong GDP and inflows support Won – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-strong-gdp-and-inflows-support-won-commerzbank-202607241939</link>
+            <guid isPermaLink="false">355baaf8-ea3b-4263-b018-5daf9cf8a1eb</guid>
+            <pubDate>Fri, 24 Jul 2026 19:39:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank reports that South Korea’s advance Q2 GDP rose 0.6% quarter-on-quarter and 3.7% year-on-year, beating expectations. Robust AI-related semiconductor demand and resilient domestic spending underpin growth. The strong data support prospects of a further 25bp Bank of Korea hike in August.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forecasting the upcoming week: Fed, BoE and BoJ decisions take center stage]]></title>
+            <link>https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-decisions-take-center-stage-202607241928</link>
+            <guid isPermaLink="false">65ac6403-b46d-43f7-8d81-24f758ce185a</guid>
+            <pubDate>Fri, 24 Jul 2026 19:28:47 GMT</pubDate>
+            <description><![CDATA[The upcoming week will be dominated by monetary policy decisions from the Federal Reserve (Fed), Bank of England (BoE) and Bank of Japan (BoJ).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NZD/USD Price Forecast: Tests 0.5800 as bullish momentum fades]]></title>
+            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-tests-05800-as-bullish-momentum-fades-202607241923</link>
+            <guid isPermaLink="false">b36de5ec-a74a-4698-9e14-cc36781c93f3</guid>
+            <pubDate>Fri, 24 Jul 2026 19:23:23 GMT</pubDate>
+            <description><![CDATA[The New Zealand Dollar gains over 0.30% against the US Dollar, poised to test key resistance levels, with the 50-day Simple Moving Average (SMA) at 0.5793, slightly below the 0.5800 figure. At the time of writing, the NZD/USD trades at 0.5789, after bouncing off daily lows of 0.5767.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai Baht: Oil shock and dovish BoT keep THB pressured against US Dollar – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/thai-baht-oil-shock-and-dovish-bot-keep-thb-pressured-against-us-dollar-ocbc-202607241858</link>
+            <guid isPermaLink="false">8909fe38-f2b9-4539-948e-ebd13dfde860</guid>
+            <pubDate>Fri, 24 Jul 2026 18:58:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that the Thai Baht (THB) is trading near its weakest level in more than a year against the US Dollar (USD), as volatile oil prices, a firmer USD and higher US yields weigh on the currency.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Euro falls even amid strong Eurozone PMIs ]]></title>
             <link>https://www.fxstreet.com/news/euro-falls-even-amid-strong-eurozone-pmis-202607241833</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 24 Jul 2026 14:07:23 GMT</pubDate>
             <description><![CDATA[Rabobank’s Stefan Koopman expects the Bank of England (BoE) to keep Bank Rate at 3.75% on 30 July and unchanged through 2026, even as markets still price some chance of further tightening.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold steadies after sharp drop as traders weigh Fed, Middle East risks]]></title>
-            <link>https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-weigh-fed-middle-east-risks-202607241133</link>
-            <guid isPermaLink="false">c9eeb844-203f-4807-90e5-4f3341dfa8eb</guid>
-            <pubDate>Fri, 24 Jul 2026 11:33:48 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) steadies on Friday after falling nearly 2% the previous day, as surging Oil prices fueled expectations that the Federal Reserve (Fed) may need to raise interest rates amid a worsening inflation outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: United States S&P Global Composite PMI improves to 53.6 in July]]></title>
-            <link>https://www.fxstreet.com/news/us-sp-global-pmi-expected-to-show-steady-business-growth-in-july-202607241000</link>
-            <guid isPermaLink="false">ea98a9ad-1036-4c31-9e15-cc5afea85463</guid>
-            <pubDate>Fri, 24 Jul 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[Business activity in the United States' (US) private sector expanded at an accelerating pace in July, with the S&P Global Composite Purchasing Managers' Index (PMI) improving to 53.6 (preliminary) from 51.9 in June.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Retail sales support modest Q2 consumption – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-retail-sales-support-modest-q2-consumption-td-securities-202607241351</link>
-            <guid isPermaLink="false">10223746-ed87-47c8-b763-8329d9286a36</guid>
-            <pubDate>Fri, 24 Jul 2026 13:51:39 GMT</pubDate>
-            <description><![CDATA[TD Securities reports that Canadian Retail Sales rose 1.0% month-on-month in May, matching consensus but slightly below its forecast. Gains were broad-based, led by gasoline stations, autos, general merchandise and sporting goods.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[South African Rand: Weakness resumes after SARB surprise – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/south-african-rand-weakness-resumes-after-sarb-surprise-societe-generale-202607241336</link>
-            <guid isPermaLink="false">289d087c-ab70-4411-ad15-7db52664cb59</guid>
-            <pubDate>Fri, 24 Jul 2026 13:36:25 GMT</pubDate>
-            <description><![CDATA[Societe Generale analysts report USD/ZAR has broken above a multi-month descending trend line and reclaimed its 200-day moving average, suggesting renewed upside momentum. The South African Reserve Bank surprised markets by holding rates at 7.0%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/South_Africa.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Price Forecast: Bulls retest 100-day SMA as momentum stays bullish]]></title>
-            <link>https://www.fxstreet.com/news/wti-price-forecast-bulls-retest-100-day-sma-as-momentum-stays-bullish-202607241334</link>
-            <guid isPermaLink="false">f72d460f-37e5-4144-8966-a8de44b543a5</guid>
-            <pubDate>Fri, 24 Jul 2026 13:34:31 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) eases on Friday as traders lock in profits following a 6% jump the previous day. However, the widening Middle East war limits the downside as supply risks intensify around two major energy-shipping routes, the Strait of Hormuz and Bab el-Mandeb.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
