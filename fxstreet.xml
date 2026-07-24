@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 24 Jul 2026 20:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 21:39:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Singapore Dollar: MAS seen on hold with cautious inflation tone – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-mas-seen-on-hold-with-cautious-inflation-tone-ocbc-202607242105</link>
+            <guid isPermaLink="false">95033b8e-f863-4d04-9af8-70197527baeb</guid>
+            <pubDate>Fri, 24 Jul 2026 21:05:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong expect the Monetary Authority of Singapore (MAS) to leave the Singapore Dollar (SGD) Nominal Effective Exchange Rate (S$NEER) policy unchanged at Monday’s meeting despite a modest rebound in core Consumer Price Index (CPI) to 1.6% year-on-year in June.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-consolidates-near-18700-bulls-target-18800-202607242054</link>
+            <guid isPermaLink="false">df25f879-2465-4201-8436-37a92e42ce25</guid>
+            <pubDate>Fri, 24 Jul 2026 20:54:08 GMT</pubDate>
+            <description><![CDATA[The EUR/JPY consolidates around 186.00, edges down by 0.06% amid a souring of risk appetite amid the escalation of the US-Iran war, and strengthens safe-haven assets like the Japanese Yen.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Malaysia: Solid fundamentals support Ringgit and bonds – DBS]]></title>
             <link>https://www.fxstreet.com/news/malaysia-solid-fundamentals-support-ringgit-and-bonds-dbs-202607242022</link>
@@ -32,11 +48,11 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[NZD/USD Price Forecast: Tests 0.5800 as bullish momentum fades]]></title>
+            <title><![CDATA[NZD/USD Price Forecast: Kiwi tests 0.5800 as bullish momentum fades]]></title>
             <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-tests-05800-as-bullish-momentum-fades-202607241923</link>
             <guid isPermaLink="false">b36de5ec-a74a-4698-9e14-cc36781c93f3</guid>
             <pubDate>Fri, 24 Jul 2026 19:23:23 GMT</pubDate>
-            <description><![CDATA[The New Zealand Dollar gains over 0.30% against the US Dollar, poised to test key resistance levels, with the 50-day Simple Moving Average (SMA) at 0.5793, slightly below the 0.5800 figure. At the time of writing, the NZD/USD trades at 0.5789, after bouncing off daily lows of 0.5767.]]></description>
+            <description><![CDATA[The New Zealand Dollar gains over 0.30% against the US Dollar on Friday. The pair is poised to test key resistance levels with the 50-day Simple Moving Average (SMA) at 0.5793, slightly below the 0.5800 figure.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 24 Jul 2026 14:33:10 GMT</pubDate>
             <description><![CDATA[USD/CAD trades around 1.4095 on Friday at the time of writing, up a modest 0.06% as the US Dollar (USD) retains a slight advantage following the release of solid US economic data, while the Canadian Dollar (CAD) remains pressured by weak domestic indicators and softer Oil prices.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Range holds against US Dollar as trade risks linger – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-range-holds-against-us-dollar-as-trade-risks-linger-scotiabank-202607241424</link>
-            <guid isPermaLink="false">bb1af0a6-69cf-45ee-b44c-6673e627140c</guid>
-            <pubDate>Fri, 24 Jul 2026 14:24:11 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is little changed against the US Dollar (USD), with slightly better fundamentals as United States (US) yields ease and spreads narrow.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: BoE holds as energy risks rise – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-boe-holds-as-energy-risks-rise-rabobank-202607241407</link>
-            <guid isPermaLink="false">7dd317cf-226d-47ce-af74-c0031572f9e3</guid>
-            <pubDate>Fri, 24 Jul 2026 14:07:23 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Stefan Koopman expects the Bank of England (BoE) to keep Bank Rate at 3.75% on 30 July and unchanged through 2026, even as markets still price some chance of further tightening.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
