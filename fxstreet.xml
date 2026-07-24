@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 24 Jul 2026 17:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 18:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro falls even amid strong Eurozone PMIs ]]></title>
+            <link>https://www.fxstreet.com/news/euro-falls-even-amid-strong-eurozone-pmis-202607241833</link>
+            <guid isPermaLink="false">df9302c0-f0c8-4686-9515-2fca3576b826</guid>
+            <pubDate>Fri, 24 Jul 2026 18:33:40 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades lower near the 1.1370 area on Friday, struggling despite stronger-than-expected Eurozone business-activity figures. The US Dollar Index (DXY) remains firmer near 101.50, offering limited support to the pair.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold gains despite firm US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/gold-gains-despite-firm-us-dollar-202607241830</link>
+            <guid isPermaLink="false">fb8cbe7c-080f-4808-ba7e-8a445fb09708</guid>
+            <pubDate>Fri, 24 Jul 2026 18:30:53 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) drifts higher on Friday as the Greenback stands firm, even as growing speculation that the US-Iran war may last longer than expected could, in the end, hurt the prospects of the yellow metal. The XAU/USD trades at $4,065, up 0.38%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: BI pause seen as hawkish hold – UOB]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-seen-as-hawkish-hold-uob-202607241823</link>
+            <guid isPermaLink="false">433ba352-2ac4-4f34-b2e5-b1640481b8b1</guid>
+            <pubDate>Fri, 24 Jul 2026 18:23:00 GMT</pubDate>
+            <description><![CDATA[UOB Global Economics & Markets Research notes that Bank Indonesia kept its policy rate at 5.75%, opting to let earlier tightening filter through.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesian_Rupiah_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD consolidates as bulls struggle to clear the 21-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-as-bulls-struggle-to-clear-the-21-day-sma-202607241758</link>
+            <guid isPermaLink="false">ac5880b4-f158-4686-bac3-8248a27ed3db</guid>
+            <pubDate>Fri, 24 Jul 2026 17:58:06 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) edges higher on Friday as a pullback in Oil prices pushes US Treasury yields lower, while the US Dollar (USD) fluctuates near recent highs. At the time of writing, XAG/USD trades around $58.60, up 2.40% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Dow Jones Industrial Average buys a rumour and sleeps through a tariff regime]]></title>
+            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-buys-a-rumour-and-sleeps-through-a-tariff-regime-202607241748</link>
+            <guid isPermaLink="false">1d24007d-72ad-4412-9144-d52541ea268b</guid>
+            <pubDate>Fri, 24 Jul 2026 17:48:23 GMT</pubDate>
+            <description><![CDATA[The index that spent this week absorbing a war premium trades near 52,000 on Friday, around 325 points to the good side, on the strength of a wire report that its own three sources undercut in the same breath.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Hawkish MAS stance supports SGD – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-hawkish-mas-stance-supports-sgd-mufg-202607241744</link>
+            <guid isPermaLink="false">78a67e6a-d627-42fe-b615-f923c1b8816e</guid>
+            <pubDate>Fri, 24 Jul 2026 17:44:00 GMT</pubDate>
+            <description><![CDATA[MUFG’s Lloyd Chan expects MAS to keep policy unchanged at the July meeting while maintaining a tightening bias, distinguishing between energy-driven and domestically generated inflation. Strong Singapore growth and a positive output gap justify tight settings.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Equities: Hyperscaler stress and chip volatility – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/equities-hyperscaler-stress-and-chip-volatility-commerzbank-202607241704</link>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 24 Jul 2026 13:34:31 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI) eases on Friday as traders lock in profits following a 6% jump the previous day. However, the widening Middle East war limits the downside as supply risks intensify around two major energy-shipping routes, the Strait of Hormuz and Bab el-Mandeb.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ repricing may limit JPY losses against US Dollar - BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-repricing-may-limit-jpy-losses-against-us-dollar-bbh-202607241320</link>
-            <guid isPermaLink="false">b1ec922a-ca0c-4a43-b64e-242004f6211d</guid>
-            <pubDate>Fri, 24 Jul 2026 13:20:04 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that USD/JPY is consolidating just below a multi-decade high as Japan’s private sector growth strengthens and Consumer Price Index (CPI) tracks below Bank of Japan (BoJ) forecasts.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: September hike risk rises with oil and PMIs – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-september-hike-risk-rises-with-oil-and-pmis-commerzbank-202607241257</link>
-            <guid isPermaLink="false">57b7d93d-fc7d-4438-b6f9-7b66986d2a03</guid>
-            <pubDate>Fri, 24 Jul 2026 12:57:40 GMT</pubDate>
-            <description><![CDATA[Commerzbank analysts highlight that ECB President Lagarde has opened the door to a September rate hike, with sources suggesting euro area inflation must improve markedly to avoid tightening.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro pauses near 12-week high against Yen despite upbeat Eurozone PMI]]></title>
-            <link>https://www.fxstreet.com/news/euro-pauses-near-12-week-high-against-yen-despite-upbeat-eurozone-pmi-202607241247</link>
-            <guid isPermaLink="false">48c8a422-23f3-42b0-83b6-d0078c90b35f</guid>
-            <pubDate>Fri, 24 Jul 2026 12:47:45 GMT</pubDate>
-            <description><![CDATA[EUR/JPY consolidates modest losses on Friday as fresh data from Japan and the Eurozone fails to generate a strong market response. At the time of writing, the cross trades around 186.30 after reaching a 12-week high of 186.67 on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Energy shock keeps risks elevated – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-energy-shock-keeps-risks-elevated-rabobank-202607241241</link>
-            <guid isPermaLink="false">ebf76231-dcdc-415d-bdbf-63b8ab504168</guid>
-            <pubDate>Fri, 24 Jul 2026 12:41:24 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior Macro Strategist Stefan Koopman notes UK headline CPI fell to 2.6% in June, below the MPC’s forecast, with broad-based downside surprises and easing domestic pressures.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_FTSE-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Economists Agree: Bank of England to stay on hold amid easing inflation outlook]]></title>
-            <link>https://www.fxstreet.com/news/economists-agree-bank-of-england-to-stay-on-hold-amid-easing-inflation-outlook-202607241233</link>
-            <guid isPermaLink="false">8ae5183f-7c8f-4aab-b45c-f5b75008119b</guid>
-            <pubDate>Fri, 24 Jul 2026 12:33:21 GMT</pubDate>
-            <description><![CDATA[The Bank of England (BoE) is expected to keep its interest rate unchanged at 3.75% at its July 30 monetary policy meeting, according to a Reuters poll of 70 economists. None of the respondents expects a change in interest rates at next week's meeting.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CEE FX: Higher rates to stabilise regional currencies – ING]]></title>
-            <link>https://www.fxstreet.com/news/cee-fx-higher-rates-to-stabilise-regional-currencies-ing-202607241216</link>
-            <guid isPermaLink="false">2fad18b9-6d1d-447e-b531-a7e9ba308125</guid>
-            <pubDate>Fri, 24 Jul 2026 12:16:58 GMT</pubDate>
-            <description><![CDATA[ING’s Frantisek Taborsky reports that surging Oil and gas prices triggered a sharp hawkish repricing of policy paths in Poland, the Czech Republic and Hungary, taking implied tightening back to stressed March–April peaks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CEE3-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
