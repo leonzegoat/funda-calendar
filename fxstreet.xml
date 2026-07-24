@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 23 Jul 2026 23:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 01:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US President Donald Trump imposes new tariffs on dozens of trade partners ]]></title>
+            <link>https://www.fxstreet.com/news/us-president-donald-trump-imposes-new-tariffs-on-dozens-of-trade-partners-202607240020</link>
+            <guid isPermaLink="false">4e3bc5ef-d001-4b88-b600-3aeef7fb5b84</guid>
+            <pubDate>Fri, 24 Jul 2026 00:20:56 GMT</pubDate>
+            <description><![CDATA[The United States (US) will impose new tariffs of between 10% and 12.5% on imports from most major trading partners, its biggest move yet to reconstruct US President Donald Trump’s tariff wall that was pierced by the Supreme Court, Bloomberg reported on Thursday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Trump-4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Donald Trump vows to punish Iran for Houthi attacks in Red Sea]]></title>
+            <link>https://www.fxstreet.com/news/us-president-donald-trump-vows-to-punish-iran-for-houthi-attacks-in-red-sea-202607240003</link>
+            <guid isPermaLink="false">d0fb1913-98f7-4b06-b1e9-91e59181a1c9</guid>
+            <pubDate>Fri, 24 Jul 2026 00:03:46 GMT</pubDate>
+            <description><![CDATA[US President Donald Trump said that the US would hold Iran responsible for the Houthis’ actions and warned that Iran and its Houthi allies would both soon receive a “major military punishment,” Reuters reported on Thursday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US military launches 13th consecutive night of strikes on Iranian military targets]]></title>
+            <link>https://www.fxstreet.com/news/us-military-launches-13th-consecutive-night-of-strikes-on-iranian-military-targets-202607232352</link>
+            <guid isPermaLink="false">b53bca3f-893d-4dda-9f51-2140ed363cb3</guid>
+            <pubDate>Thu, 23 Jul 2026 23:52:44 GMT</pubDate>
+            <description><![CDATA[The US Central Command (CENTCOM) said it is attacking Iran for the 13th consecutive night, the Guardian reported on Friday. The US military stated that this action aims to hold Iran accountable and diminish threats from the Islamic Revolutionary Guard Corps (IRGC) to commercial shipping.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gold slumps to near $4,050 as Middle East conflict fuels inflation worries  ]]></title>
             <link>https://www.fxstreet.com/news/gold-slumps-to-near-4-050-as-middle-east-conflict-fuels-inflation-worries-202607232337</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 23 Jul 2026 14:53:33 GMT</pubDate>
             <description><![CDATA[TD Securities economists Eli Nir and Oscar Munoz analyze upcoming BEA methodology changes to United States (US) Personal Consumption Expenditures (PCE) Price Index inflation for portfolio management, legal services, and computer software & accessories.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI rallies more than 5% as Middle East supply risks deepen]]></title>
-            <link>https://www.fxstreet.com/news/wti-rallies-more-than-5-as-middle-east-supply-risks-deepen-202607231443</link>
-            <guid isPermaLink="false">08519426-a973-47cf-b99f-dd0d5fc8847a</guid>
-            <pubDate>Thu, 23 Jul 2026 14:43:59 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) crude Oil rallies more than 5% on Thursday as hostilities between the US and Iran deepen supply risks. At the time of writing, WTI trades around $90.50 per barrel, its highest level since June 11.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: Hiking cycle continues at slower pace – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-hiking-cycle-continues-at-slower-pace-nordea-202607231424</link>
-            <guid isPermaLink="false">35a4a981-f9cb-4d6d-9b53-305201832935</guid>
-            <pubDate>Thu, 23 Jul 2026 14:24:10 GMT</pubDate>
-            <description><![CDATA[Nordea strategists Jan von Gerich, Tuuli Koivu and Anders Svendsen note that the European Central Bank (ECB) kept its deposit rate at 2.25% but signalled further tightening. They still forecast three additional 25bp hikes, now at a quarterly pace, taking the deposit rate to 3% by March 2027.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Natural Gas: High prices sustain European power – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/natural-gas-high-prices-sustain-european-power-rabobank-202607231403</link>
-            <guid isPermaLink="false">0e332c72-d3ea-465e-9402-e7cab9929b40</guid>
-            <pubDate>Thu, 23 Jul 2026 14:03:44 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Florence Schmit notes TTF natural gas has risen above €60/MWh as Middle Eastern supply disruptions intensify.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
