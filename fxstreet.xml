@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 27 Jul 2026 15:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 17:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Dow Jones Industrial Average buys a peace nobody has signed, and the chips take it back]]></title>
+            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-buys-a-peace-nobody-has-signed-and-the-chips-take-it-back-202607271659</link>
+            <guid isPermaLink="false">d4e80640-430e-4fab-9dd5-c313c756649a</guid>
+            <pubDate>Mon, 27 Jul 2026 16:59:01 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average trades near 52,200, up around 250 points, after a session that handed it the month's cleanest bullish catalyst and then took most of it back.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound tumbles as risk-off mood boosts the US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-tumbles-as-risk-off-mood-boosts-the-us-dollar-202607271610</link>
+            <guid isPermaLink="false">62ad3b10-9632-477e-8ce8-d80c9ec68420</guid>
+            <pubDate>Mon, 27 Jul 2026 16:10:52 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling retreats by 0.13% even though the Greenback is flat during the day, as risk appetite shifted sour on news that a Chinese state-backed company is producing chipmaking machines, prompting a sell-off in ASML, the Dutch-based company.  The GBP/USD trades at 1.3305, after reaching a hi]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc slips against the US Dollar on diverging monetary policy expectations]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-slips-against-the-us-dollar-on-diverging-monetary-policy-expectations-202607271608</link>
+            <guid isPermaLink="false">02ca20ea-6d06-4523-9eea-b648d83bd977</guid>
+            <pubDate>Mon, 27 Jul 2026 16:08:33 GMT</pubDate>
+            <description><![CDATA[USD/CHF climbs to fresh highs since June 2025 on Monday after Bloomberg reported that the Swiss National Bank (SNB) could keep its policy rate at zero until the end of 2027. The SNB later declined to comment on the report, according to Reuters.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen firms as easing tensions weigh on USD before Fed, BoJ]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-firms-as-easing-tensions-weigh-on-usd-before-fed-boj-202607271601</link>
+            <guid isPermaLink="false">729828ff-c408-4a0f-bcf0-f79b937f2302</guid>
+            <pubDate>Mon, 27 Jul 2026 16:01:49 GMT</pubDate>
+            <description><![CDATA[USD/JPY edges lower on Monday and trades around 163.70 at the time of writing, down 0.09% on the day, as the US Dollar (USD) comes under pressure from improving risk sentiment following the latest geopolitical developments.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold struggles below $4,100 as US Dollar rebounds, Fed decision looms]]></title>
             <link>https://www.fxstreet.com/news/gold-firms-as-oil-prices-fall-on-temporary-us-iran-pause-202607271114</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 27 Jul 2026 11:21:27 GMT</pubDate>
             <description><![CDATA[HSBC strategists see EUR/USD at risk of moving lower as the European Central Bank (ECB) maintains a cautious, data-dependent stance and refrains from signalling further rate hikes.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swedish Krona: Moderately firmer tone into year-end – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/swedish-krona-moderately-firmer-tone-into-year-end-rabobank-202607271112</link>
-            <guid isPermaLink="false">1668d3af-e541-49f9-ae52-9b0f85ae906f</guid>
-            <pubDate>Mon, 27 Jul 2026 11:12:33 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley notes that benign Consumer Price Index (CPI) and CPIF inflation leave Sweden and the Riksbank better positioned than many G10 peers to delay rate hikes despite supply disruptions from the Iran war.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan PM Takaichi: We must exit from excessively tight fiscal policy]]></title>
-            <link>https://www.fxstreet.com/news/japan-pm-takaichi-we-must-exit-from-excessively-tight-fiscal-policy-202607271103</link>
-            <guid isPermaLink="false">37edd197-2626-41b6-ad24-5f0d6a2b0b22</guid>
-            <pubDate>Mon, 27 Jul 2026 11:03:12 GMT</pubDate>
-            <description><![CDATA[Japan Prime Minister (PM) Sanae Takaichi said during the European trading session on Monday that the economy needs to exit from fiscal tightness.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/PM-japan-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee gains vertically as oil prices sink]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-recovers-further-as-us-iran-war-pause-hits-oil-prices-202607270552</link>
-            <guid isPermaLink="false">8e0671e6-f12d-4221-8247-af18693ae22b</guid>
-            <pubDate>Mon, 27 Jul 2026 05:52:07 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) extends its recovery against the US Dollar (USD) at the start of the Federal Reserve’s (Fed) monetary policy week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar holds losses against US Dollar, weighed by lower Oil prices]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-holds-losses-against-us-dollar-weighed-by-lower-oil-prices-202607271043</link>
-            <guid isPermaLink="false">bb96f6be-9fa6-4336-bb53-fd16fe18c842</guid>
-            <pubDate>Mon, 27 Jul 2026 10:43:46 GMT</pubDate>
-            <description><![CDATA[The Canadian Dollar (CAD) remains vulnerable, despite the safe-haven US Dollar’s (USD) weakness on Monday, and extends losses for the second consecutive day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
