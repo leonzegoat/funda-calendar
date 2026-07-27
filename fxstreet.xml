@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 26 Jul 2026 23:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 01:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen gains as oil prices fall after US-Iran strike pause]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-gains-as-oil-prices-fall-after-us-iran-strike-pause-202607270117</link>
+            <guid isPermaLink="false">ba7b2f06-ddf1-43c5-bf48-69b2d7aac58a</guid>
+            <pubDate>Mon, 27 Jul 2026 01:17:58 GMT</pubDate>
+            <description><![CDATA[USD/JPY remains subdued for the second successive day, trading around 163.60 during the Asian hours on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7911 vs. 6.7939 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67911-vs-67939-previous-202607270115</link>
+            <guid isPermaLink="false">00f15302-87dc-4223-b4cd-459d18b9a75c</guid>
+            <pubDate>Mon, 27 Jul 2026 01:15:30 GMT</pubDate>
+            <description><![CDATA[On Monday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7911 compared to Friday's fix of 6.7939.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Middle East War updates: US-Iran pause strikes as Trump weighs up diplomatic options]]></title>
+            <link>https://www.fxstreet.com/news/middle-east-war-updates-us-iran-pause-strikes-as-trump-weighs-up-diplomatic-options-202607270102</link>
+            <guid isPermaLink="false">0064752e-12a1-4cf8-81cb-a0c1be543b66</guid>
+            <pubDate>Mon, 27 Jul 2026 01:02:13 GMT</pubDate>
+            <description><![CDATA[Here’s a brief recap of the key developments in the Middle East war that occurred over the weekend, which are expected to have a significant impact on markets in the upcoming week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar gains as Mideast tensions ease, RBA rate expectations rise]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-gains-as-mideast-tensions-ease-rba-rate-expectations-rise-202607270042</link>
+            <guid isPermaLink="false">845d6878-4246-4843-b525-88a554b32224</guid>
+            <pubDate>Mon, 27 Jul 2026 00:42:14 GMT</pubDate>
+            <description><![CDATA[AUD/USD extends its gains for the second consecutive trading day, hovering near 0.7000 during the Asian hours on Monday. The pair appreciates as the US Dollar (USD) declines alongside a sharp drop in oil prices.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: MAS seen on hold with cautious inflation tone – OCBC]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-mas-seen-on-hold-with-cautious-inflation-tone-ocbc-202607242105</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 24 Jul 2026 15:09:19 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Japanese Yen (JPY) is slightly firmer versus the US Dollar (USD) but still underperforming most G10 currencies. USD/JPY trades near levels last seen in 1986, with limited resistance overhead.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/japan-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Higher yields keep upside risks – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-higher-yields-keep-upside-risks-mufg-202607241458</link>
-            <guid isPermaLink="false">dc4940d5-51d3-4bc1-9e34-0f8294f6a26d</guid>
-            <pubDate>Fri, 24 Jul 2026 14:58:59 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny highlights that rising US and global bond yields, elevated geopolitical risks and higher energy prices are supporting the US Dollar.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Hawkish ECB and strong PMI cap downside – BBH]]></title>
-            <link>https://www.fxstreet.com/news/euro-hawkish-ecb-and-strong-pmi-cap-downside-bbh-202607241446</link>
-            <guid isPermaLink="false">b7193433-ee46-407b-b709-6e4b057c9dd4</guid>
-            <pubDate>Fri, 24 Jul 2026 14:46:25 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports that EUR/USD has recovered part of its recent slump but remains below 1.1400. A stronger-than-expected Eurozone July PMI and a hawkish hold from the ECB support the Euro, though higher Oil prices keep growth risks skewed lower.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro slips as strong US PMI supports Greenback]]></title>
-            <link>https://www.fxstreet.com/news/euro-slips-against-us-dollar-as-strong-us-pmi-supports-greenback-202607241442</link>
-            <guid isPermaLink="false">2145221b-1c01-4637-a5f1-1340b2cea779</guid>
-            <pubDate>Fri, 24 Jul 2026 14:42:54 GMT</pubDate>
-            <description><![CDATA[EUR/USD pares earlier gains on Friday as the widening Middle East war and hawkish Federal Reserve (Fed) expectations keep the US Dollar (USD) pinned near recent highs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar struggles as stronger PMIs support US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-struggles-as-stronger-pmis-support-us-dollar-202607241433</link>
-            <guid isPermaLink="false">75a0d99a-e81f-4dfe-9987-ea6664afbae8</guid>
-            <pubDate>Fri, 24 Jul 2026 14:33:10 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades around 1.4095 on Friday at the time of writing, up a modest 0.06% as the US Dollar (USD) retains a slight advantage following the release of solid US economic data, while the Canadian Dollar (CAD) remains pressured by weak domestic indicators and softer Oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
