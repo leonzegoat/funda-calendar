@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 27 Jul 2026 18:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 20:38:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: Political risks temper valuation case – BBH]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-political-risks-temper-valuation-case-bbh-202607272037</link>
+            <guid isPermaLink="false">21d94c33-9755-49d3-9c41-f25561a0a977</guid>
+            <pubDate>Mon, 27 Jul 2026 20:37:00 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports that the Indonesian Rupiah (IDR) and Jakarta equities underperformed after Bank Indonesia Governor Perry Warjiyo unexpectedly resigned two years before his term ends, raising concerns about political interference.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-flag-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: BoJ tightening yet weaker JPY against US Dollar – BNP Paribas]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-boj-tightening-yet-weaker-jpy-against-us-dollar-bnp-paribas-202607272017</link>
+            <guid isPermaLink="false">8d10790a-e7c8-451d-9711-f223d3e26511</guid>
+            <pubDate>Mon, 27 Jul 2026 20:17:00 GMT</pubDate>
+            <description><![CDATA[BNP Paribas strategists see Japan’s Gross Domestic Product (GDP) growth slowing to 0.8% in 2026 from 1.1% in 2025 as higher inflation and energy-related costs weigh on activity, partly offset by fiscal support and AI (Artificial intelligence) investment.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-96.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: MAS signals inflation concern – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-mas-signals-inflation-concern-commerzbank-202607271951</link>
+            <guid isPermaLink="false">7c035202-4929-42e4-af31-6e786fc22fc5</guid>
+            <pubDate>Mon, 27 Jul 2026 19:51:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Charlie Lay notes Monetary Authority of Singapore (MAS) unexpectedly tightened policy for a second meeting, slightly increasing the Singapore Dollar (SGD) Nominal Effective Exchange Rate (NEER) slope and stressing the move was smaller than April’s.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar softens as Oil plunges on Middle East pause]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-softens-as-oil-plunges-on-middle-east-pause-202607271949</link>
+            <guid isPermaLink="false">a54b5dbe-08dc-4620-a644-444be6d4b0c0</guid>
+            <pubDate>Mon, 27 Jul 2026 19:49:57 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) traded mostly unchanged on Monday as a temporary pause in hostilities between the United States and Iran reduces demand for safe-haven assets. The US Dollar Index (DXY) traded lower earlier in the session but moved closed to breakeven by the late American afternoon.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Cocoa-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Range holds as intervention fears bite]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-range-holds-as-intervention-fears-bite-202607271940</link>
+            <guid isPermaLink="false">fe396118-69ba-4f40-9d5f-d65ea892a832</guid>
+            <pubDate>Mon, 27 Jul 2026 19:40:58 GMT</pubDate>
+            <description><![CDATA[The EUR/JPY holds firm around 163.70 on Monday as the Japanese Yen strengthens, with investors cautious about opening fresh hawkish bets amid fears of intervention in the foreign exchange market.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LatAm FX: Carry appeal faces Fed test – BNY]]></title>
+            <link>https://www.fxstreet.com/news/latam-fx-carry-appeal-faces-fed-test-bny-202607271907</link>
+            <guid isPermaLink="false">8813bc7a-fbb1-4d91-8b67-d3f038525a47</guid>
+            <pubDate>Mon, 27 Jul 2026 19:07:00 GMT</pubDate>
+            <description><![CDATA[Geoff Yu at BNY sees Latin American (LatAm) assets benefiting again from improved terms of trade for energy and soft commodity exporters, with strong real-rate anchors supporting currencies and duration.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/south-american-continent-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[USD/CHF Price Forecast: Bulls eye 0.8200 as rally extends]]></title>
             <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-eye-08200-as-rally-extends-202607271854</link>
@@ -198,54 +246,6 @@
             <pubDate>Mon, 27 Jul 2026 12:56:21 GMT</pubDate>
             <description><![CDATA[NZD/USD trades around 0.5790 at the time of writing on Monday, virtually unchanged on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Durable Goods Orders rise 0.3% in June vs. 1.6% expected]]></title>
-            <link>https://www.fxstreet.com/news/united-states-durable-goods-orders-rise-03-in-june-vs-16-expected-202607271248</link>
-            <guid isPermaLink="false">95c19f49-f52e-4cfd-be32-20467f2cd05e</guid>
-            <pubDate>Mon, 27 Jul 2026 12:48:38 GMT</pubDate>
-            <description><![CDATA[New orders for manufactured Durable Goods in the United States (US) rose by $1.1 billion, or 0.3%, to $334.8 billion in June, the US Census Bureau announced on Monday. This reading followed a 4% decline recorded in May and fell short of the market expectation for an increase of 1.6%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Manufacturing-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound loses ground against Japanese Yen ahead of central bank decisions]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-loses-ground-against-japanese-yen-ahead-of-central-bank-decisions-202607271239</link>
-            <guid isPermaLink="false">1b945673-5c7c-4eeb-a67c-cf54ad294ecb</guid>
-            <pubDate>Mon, 27 Jul 2026 12:39:08 GMT</pubDate>
-            <description><![CDATA[GBP/JPY edges lower on Monday as the British Pound (GBP) weakens across the board following its recent advance, with traders trimming exposure ahead of the Bank of England’s (BoE) interest rate decision on Thursday. At the time of writing, the cross trades around 217.84, down 0.23% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CEE FX: Softer geopolitics aids high beta – ING]]></title>
-            <link>https://www.fxstreet.com/news/cee-fx-softer-geopolitics-aids-high-beta-ing-202607271237</link>
-            <guid isPermaLink="false">f933789e-1af9-4c8c-9ac2-fd3d8ecac093</guid>
-            <pubDate>Mon, 27 Jul 2026 12:37:57 GMT</pubDate>
-            <description><![CDATA[ING’s Frantisek Taborsky expects upcoming Czech and Hungarian Gross Domestic Product (GDP) data to confirm improving growth momentum, while Polish inflation should re-accelerate on higher fuel prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CEE3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian Ruble: CBR credibility risks after cut – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/russian-ruble-cbr-credibility-risks-after-cut-commerzbank-202607271227</link>
-            <guid isPermaLink="false">7c699daa-5474-4808-992a-551c0198d841</guid>
-            <pubDate>Mon, 27 Jul 2026 12:27:46 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose reports the Russian central bank cut its key rate to 14.0% despite raising its 2026 inflation forecast and projecting stagflationary macro conditions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-rusia-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Extended pause but hike risk rising – UOB]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-extended-pause-but-hike-risk-rising-uob-202607271218</link>
-            <guid isPermaLink="false">ff5e4672-0266-47c6-9408-4b199fbbdd58</guid>
-            <pubDate>Mon, 27 Jul 2026 12:18:38 GMT</pubDate>
-            <description><![CDATA[UOB strategists expect the Federal Reserve (Fed) to keep the Fed Funds Target Rate at 3.50%–3.75% at the July Federal Open Market Committee (FOMC) meeting and maintain a base case of an extended pause through 2026, with easing only in 2Q and 4Q 2027 once transitory inflation fades.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Lower prices ease inflation risks – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/oil-lower-prices-ease-inflation-risks-ocbc-202607271208</link>
-            <guid isPermaLink="false">a21325d6-0711-49f1-9fe4-f7077a5c1a60</guid>
-            <pubDate>Mon, 27 Jul 2026 12:08:29 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that easing Oil prices, helped by reduced Iran–US tensions, are bringing crude closer to their base case of a gradual downtrend.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
