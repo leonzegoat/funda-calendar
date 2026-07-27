@@ -4,15 +4,55 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 27 Jul 2026 17:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 18:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Bulls eye 0.8200 as rally extends]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-eye-08200-as-rally-extends-202607271854</link>
+            <guid isPermaLink="false">6ca2e0c4-4997-4dc2-a835-ce1337b76406</guid>
+            <pubDate>Mon, 27 Jul 2026 18:54:50 GMT</pubDate>
+            <description><![CDATA[The USD/CHF extends its advance for the sixth straight trading session, up 0.11%, as the Greenback holds firm against a basket of six currencies, the US Dollar Index (DXY). At the time of writing, the pair trades at 0.8190, with buyers targeting 0.8200.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-realistic.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rises toward $4,070 as falling US yields support Bullion]]></title>
+            <link>https://www.fxstreet.com/news/gold-rises-toward-4-070-as-falling-us-yields-support-bullion-202607271849</link>
+            <guid isPermaLink="false">1ea2a13d-3b65-4255-8284-361b93adc03b</guid>
+            <pubDate>Mon, 27 Jul 2026 18:49:51 GMT</pubDate>
+            <description><![CDATA[Gold price registers gains of 0.58% as Washington pauses attacks on Tehran, while US President Donald Trump opened the door for a resumption in negotiations. This, along with falling US Treasury yields, is a tailwind for Bullion prices with XAU/USD approaching $4,070.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: Could Fed decision trigger a break from $55-$62 range?]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-could-fed-decision-trigger-a-break-from-55-62-range-202607271838</link>
+            <guid isPermaLink="false">f5ad7c12-2a9c-44f9-bebe-dfd78b90d63a</guid>
+            <pubDate>Mon, 27 Jul 2026 18:38:18 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) reverses part of its earlier gains on Monday as the US Dollar (USD) rebounds after opening the week with a bearish gap following a temporary pause in attacks between the United States (US) and Iran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany: Recovery potential versus energy drag – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/germany-recovery-potential-versus-energy-drag-commerzbank-202607271829</link>
+            <guid isPermaLink="false">0d00f3ae-88db-4c63-a42f-69648ca0d0a1</guid>
+            <pubDate>Mon, 27 Jul 2026 18:29:24 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Dr. Jörg Krämer argues that high energy prices will continue to weigh on the German economy in the second half of 2026, limiting full-year growth to 0.6%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/german-bank-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro flat after losing early gains on Monday]]></title>
+            <link>https://www.fxstreet.com/news/euro-flat-after-losing-early-gains-on-monday-202607271747</link>
+            <guid isPermaLink="false">c39b29c2-5027-4480-906c-3bc3eb5e4643</guid>
+            <pubDate>Mon, 27 Jul 2026 17:47:09 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades lower near the 1.1370 area on Monday, surrendering earlier gains as investors remain cautious ahead of key Eurozone growth figures and the Federal Reserve’s (Fed) monetary policy decision.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The Dow Jones Industrial Average buys a peace nobody has signed, and the chips take it back]]></title>
             <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-buys-a-peace-nobody-has-signed-and-the-chips-take-it-back-202607271659</link>
             <guid isPermaLink="false">d4e80640-430e-4fab-9dd5-c313c756649a</guid>
             <pubDate>Mon, 27 Jul 2026 16:59:01 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average trades near 52,200, up around 250 points, after a session that handed it the month's cleanest bullish catalyst and then took most of it back.]]></description>
+            <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades near 52,200, up around 250 points, on Monday after a session that handed it the month's cleanest bullish catalyst and then took most of it back.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -20,7 +60,7 @@
             <link>https://www.fxstreet.com/news/british-pound-tumbles-as-risk-off-mood-boosts-the-us-dollar-202607271610</link>
             <guid isPermaLink="false">62ad3b10-9632-477e-8ce8-d80c9ec68420</guid>
             <pubDate>Mon, 27 Jul 2026 16:10:52 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling retreats by 0.13% even though the Greenback is flat during the day, as risk appetite shifted sour on news that a Chinese state-backed company is producing chipmaking machines, prompting a sell-off in ASML, the Dutch-based company.  The GBP/USD trades at 1.3305, after reaching a hi]]></description>
+            <description><![CDATA[The Pound Sterling retreats by 0.13% even though the Greenback is flat during the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 27 Jul 2026 12:08:29 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that easing Oil prices, helped by reduced Iran–US tensions, are bringing crude closer to their base case of a gradual downtrend.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed uncertainty tempers USD strength – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-uncertainty-tempers-usd-strength-mufg-202607271152</link>
-            <guid isPermaLink="false">eef7e8cd-9341-4a4c-ad16-04903ceb6cae</guid>
-            <pubDate>Mon, 27 Jul 2026 11:52:05 GMT</pubDate>
-            <description><![CDATA[MUFG’s Lee Hardman notes the US Dollar has softened as Middle East tensions ease and Brent Oil retreats below USD90, reducing energy-driven inflation fears. The correction in energy prices has slightly lowered market-implied odds of a near-term Fed rate hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD is looking for direction around $4,100]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-is-looking-for-direction-around-4-100-202607271145</link>
-            <guid isPermaLink="false">db7550e0-3b55-4ddf-bd99-22a6d682b595</guid>
-            <pubDate>Mon, 27 Jul 2026 11:45:45 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) has been consolidating gains during the European trading session, following a bullish gap at the week’s opening as a moderate improvement of risk sentiment hurt the safe-haven USD.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: Fiber resumes decline after testing Bearish Flag breakdown]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-resumes-decline-after-testing-bearish-flag-breakdown-202607271133</link>
-            <guid isPermaLink="false">d9a37405-2ad6-4b1c-9e97-8866e7e8ead7</guid>
-            <pubDate>Mon, 27 Jul 2026 11:33:34 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) gives back a majority of its early gains against the US Dollar (USD) after failing to rise above the intraday high of 1.1418 on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: BoE pause risks dovish repricing – ING]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-boe-pause-risks-dovish-repricing-ing-202607271129</link>
-            <guid isPermaLink="false">b5bdc2e1-505c-4e94-939a-108c59850872</guid>
-            <pubDate>Mon, 27 Jul 2026 11:29:44 GMT</pubDate>
-            <description><![CDATA[ING’s Francesco Pesole expects the Bank of England (BoE) to leave rates unchanged this week, with a 7–2 vote remaining the base case, although Catherine Mann could join Huw Pill and Megan Greene in supporting a rate hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Growth and policy doubts point lower against US Dollar – HSBC]]></title>
-            <link>https://www.fxstreet.com/news/euro-growth-and-policy-doubts-point-lower-against-us-dollar-hsbc-202607271121</link>
-            <guid isPermaLink="false">3e833411-df33-4710-b6ac-ee8457d34d59</guid>
-            <pubDate>Mon, 27 Jul 2026 11:21:27 GMT</pubDate>
-            <description><![CDATA[HSBC strategists see EUR/USD at risk of moving lower as the European Central Bank (ECB) maintains a cautious, data-dependent stance and refrains from signalling further rate hikes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
