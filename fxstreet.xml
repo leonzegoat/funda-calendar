@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 27 Jul 2026 21:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 23:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Singapore Dollar: MAS tightening underpins Singapore Dollar – BBH]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-mas-tightening-underpins-singapore-dollar-bbh-202607272243</link>
+            <guid isPermaLink="false">ae147a25-ae22-4021-840c-14ec7d4f2936</guid>
+            <pubDate>Mon, 27 Jul 2026 22:43:00 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that USD/SGD is consolidating around 1.2900 after pulling back from near 1.3000, as the Monetary Authority of Singapore (MAS) unexpectedly tightened policy for a second consecutive meeting.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump urges Fed rate cuts as Gulf War ends, seen lowering prices]]></title>
+            <link>https://www.fxstreet.com/news/trump-urges-fed-rate-cuts-as-gulf-war-ends-seen-lowering-prices-202607272234</link>
+            <guid isPermaLink="false">c092c8f1-c06f-469b-9252-efadd3b50a24</guid>
+            <pubDate>Mon, 27 Jul 2026 22:34:10 GMT</pubDate>
+            <description><![CDATA[On Monday, late in the North American session, US President Donald Trump stated that there was a good inflation report recently, adding that costs were falling rapidly and that prices should drop significantly once the Gulf War ends.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpWarsh2-6526.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Trump keeps Iran diplomacy alive after halting strikes]]></title>
+            <link>https://www.fxstreet.com/news/us-president-trump-keeps-iran-diplomacy-alive-after-halting-strikes-202607272211</link>
+            <guid isPermaLink="false">40f7df8a-e773-4f2b-b743-5f496c92607c</guid>
+            <pubDate>Mon, 27 Jul 2026 22:11:38 GMT</pubDate>
+            <description><![CDATA[On Monday, US President Donald Trump grabbed the headlines as investors awaited monetary policy meetings by three of the eight major central banks, led by the Federal Reserve, the Bank of England, and the Bank of Japan.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpAngry3-6526.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Rangebound trade against US Dollar guided by PBoC fix – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-rangebound-trade-against-us-dollar-guided-by-pboc-fix-ocbc-202607272157</link>
+            <guid isPermaLink="false">1a0a3dfe-f7df-4443-a075-5aa8af8bf621</guid>
+            <pubDate>Mon, 27 Jul 2026 21:57:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong expect USD/CNH to stay broadly rangebound near term, with the daily People's Bank of China (PBoC) fix clustered around 6.79 and acting as an anchor rather than a directional signal.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar holds after weak US durable goods data]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-holds-after-weak-us-durable-goods-data-202607272142</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 27 Jul 2026 14:00:42 GMT</pubDate>
             <description><![CDATA[EUR/USD reverses its early gains on Monday and moves toward filling the bullish gap at the weekly open. The pair initially rose after a temporary pause in attacks between the United States (US) and Iran improved risk sentiment, sent Oil prices sharply lower and weighed on the US Dollar (USD). ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: Rate path and yields after sharp rise – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-rate-path-and-yields-after-sharp-rise-societe-generale-202607271345</link>
-            <guid isPermaLink="false">83c68cf5-9ccf-4654-9978-f33a1412ceaa</guid>
-            <pubDate>Mon, 27 Jul 2026 13:45:19 GMT</pubDate>
-            <description><![CDATA[Societe Generale strategists argue July’s global fixed income selloff looks stretched, especially in Western Europe where 2-year and 10-year yields have risen about 30bp in four weeks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Mixed signals keep rates on hold – DBS]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-mixed-signals-keep-rates-on-hold-dbs-202607271334</link>
-            <guid isPermaLink="false">12cb3956-3cb7-4870-99ca-6a74de292b45</guid>
-            <pubDate>Mon, 27 Jul 2026 13:34:14 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economists Taimur Baig and Chang Wei Liang argue that sticky United States (US) inflation keeps pressure on the Federal Reserve (Fed), but soft consumption, weak investment and fading labour market resilience justify a pause in Fed Funds rate hikes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Policy uncertainty supports USD – BNY]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-policy-uncertainty-supports-usd-bny-202607271319</link>
-            <guid isPermaLink="false">b989cc33-3dc4-46eb-bd6c-a60b913a521c</guid>
-            <pubDate>Mon, 27 Jul 2026 13:19:52 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu says softer June Consumer Price Index (CPI) has reduced immediate inflation concerns, but limited Fed guidance continues to support policy uncertainty and US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Downside risks from softer UK data – HSBC]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-downside-risks-from-softer-uk-data-hsbc-202607271308</link>
-            <guid isPermaLink="false">0a7c8e95-caa9-4aed-8d66-c9eee3588b2b</guid>
-            <pubDate>Mon, 27 Jul 2026 13:08:46 GMT</pubDate>
-            <description><![CDATA[HSBC argues that GBP/USD faces renewed downside as UK disinflation and a softer labour market reduce urgency for further Bank of England tightening, even though markets still price hikes out to 2027.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
