@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 28 Jul 2026 15:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 17:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The chip rout is funding the Dow Jones Industrial Average's record chase]]></title>
+            <link>https://www.fxstreet.com/news/the-chip-rout-is-funding-the-dow-jones-industrial-averages-record-chase-202607281642</link>
+            <guid isPermaLink="false">b273bc9c-7a58-499e-9003-a278a643db0b</guid>
+            <pubDate>Tue, 28 Jul 2026 16:42:01 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average trades just short of 52,900 on Tuesday, higher by close to 700 points and 1.3%, roughly 450 points beneath the record it set in the first week of July. Taken alone, that reads as a broad risk rally.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Euro is not rallying, the British Pound Sterling is being demoted]]></title>
+            <link>https://www.fxstreet.com/news/the-euro-is-not-rallying-the-british-pound-sterling-is-being-demoted-202607281626</link>
+            <guid isPermaLink="false">1ce6e31e-ce8b-4018-bbc9-46f5abddcf60</guid>
+            <pubDate>Tue, 28 Jul 2026 16:26:56 GMT</pubDate>
+            <description><![CDATA[The Euro is on track for its eighth gain in nine sessions against the Pound, and the explanation that would normally cover a run of that length is not available.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver loses ground as hopes for US-Iran deal improve risk appetite]]></title>
+            <link>https://www.fxstreet.com/news/silver-loses-ground-as-hopes-for-us-iran-deal-improve-risk-appetite-202607281605</link>
+            <guid isPermaLink="false">34589058-6d86-4f0d-8df9-17fae6066e85</guid>
+            <pubDate>Tue, 28 Jul 2026 16:05:37 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) trades around $57.40 on Tuesday at the time of writing, down 1.7% on the day. The white metal is under pressure as the US Dollar (USD) loses some strength and investors reduce their exposure to safe-haven assets ahead of the Federal Reserve's (Fed) monetary policy decision.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Bears target the 200-day SMA after losing the $80 mark]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-bears-target-the-200-day-sma-after-losing-the-80-mark-202607281601</link>
+            <guid isPermaLink="false">dfb32a3b-cf31-4593-a69b-2b0c096695b9</guid>
+            <pubDate>Tue, 28 Jul 2026 16:01:30 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) Oil extends its decline on Tuesday after falling 9% the previous day following a pause in attacks between the United States and Iran. At the time of writing, WTI trades around $77.90, down nearly 4% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar Index eases from tops, back to 101.30 ahead of Fed]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-index-eases-from-tops-back-to-10130-ahead-of-fed-202607281557</link>
+            <guid isPermaLink="false">b6169b0c-2528-43d4-a968-2e7eb1f2a1e0</guid>
+            <pubDate>Tue, 28 Jul 2026 15:57:16 GMT</pubDate>
+            <description><![CDATA[The Greenback, when tracked by the US Dollar Index (DXY), abandons the area of monthly peaks and recedes toward the 101.30 zone on turnaround Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro skyrockets amid softer US confidence ]]></title>
+            <link>https://www.fxstreet.com/news/euro-skyrockets-amid-softer-us-confidence-202607281544</link>
+            <guid isPermaLink="false">0a8fa302-09cb-4f60-b947-484e18997d08</guid>
+            <pubDate>Tue, 28 Jul 2026 15:44:03 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades higher near the 1.1400 area on Tuesday, gaining around 0.3% as the US Dollar (USD) weakens following softer United States (US) consumer-confidence data. The US Dollar Index falls toward 101.30, helping the Euro extend its recovery.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold: Hawkish Fed delays Gold recovery path – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/gold-hawkish-fed-delays-gold-recovery-path-commerzbank-202607281516</link>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 28 Jul 2026 12:21:57 GMT</pubDate>
             <description><![CDATA[Private-sector hiring in the US has further cooled in mid-July. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 15K jobs per week in the four weeks ending July 11.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_office.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Analysts warn: The market might be ahead of itself with the recent Oil sell-off]]></title>
-            <link>https://www.fxstreet.com/news/analysts-warn-the-market-might-be-ahead-of-itself-with-the-recent-oil-selloff-202607281202</link>
-            <guid isPermaLink="false">5c563e2a-ba3b-40fe-b409-d981cc206dad</guid>
-            <pubDate>Tue, 28 Jul 2026 12:02:32 GMT</pubDate>
-            <description><![CDATA[Crude Oil prices hold at one-week lows on Tuesday, after having depreciated more than 12% from last week's highs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Tariffs and steady SNB stance pressure currency – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-tariffs-and-steady-snb-stance-pressure-currency-commerzbank-202607281200</link>
-            <guid isPermaLink="false">f0d17c6b-ee65-4e69-b230-2d801f55a830</guid>
-            <pubDate>Tue, 28 Jul 2026 12:00:37 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Michael Pfister notes that reports of the Swiss National Bank (SNB) planning to keep rates unchanged until early 2028, if accurate, clash with still-ambitious market expectations for hikes by 2027.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Switzerland1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound drops against US Dollar, Fed-BoE policy in focus]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-drops-against-us-dollar-fed-boe-policy-in-focus-202607281137</link>
-            <guid isPermaLink="false">84ee2088-2c38-47e5-9cb3-13015c984a4f</guid>
-            <pubDate>Tue, 28 Jul 2026 11:37:29 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) extends its decline against the US Dollar (USD) to near 1.3277 during the European trading session on Tuesday, the lowest level seen in over three weeks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Inflation risks keep hike debate alive – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-inflation-risks-keep-hike-debate-alive-td-securities-202607281127</link>
-            <guid isPermaLink="false">6cfd6b64-535c-4b04-8a95-7a4515e682fe</guid>
-            <pubDate>Tue, 28 Jul 2026 11:27:50 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists expect the Reserve Bank of Australia’s (RBA) preferred core Consumer Price Index (CPI) to rise 0.9% q/q in Q2, matching consensus and up from 0.8% in Q1. This would lift annual core inflation to 3.7%, just below the RBA’s 3.8% projection.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: Under pressure with YTD lows at 1.1324 coming closer]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-under-pressure-with-ytd-lows-at-11324-coming-closer-202607281121</link>
-            <guid isPermaLink="false">234eff50-b934-4d7f-9d95-6ec8c2500dfe</guid>
-            <pubDate>Tue, 28 Jul 2026 11:21:41 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) is failing to draw any significant support from the truce in the Middle East and the lower Oil prices and keeps heading south against the US Dollar (USD) on Tuesday. EUR/USD bears are testing fresh one-month lows below 1.1360, drawing near the year-to-date low of 1.1324.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CEE FX: Normalising rates leave room for gains – ING]]></title>
-            <link>https://www.fxstreet.com/news/cee-fx-normalising-rates-leave-room-for-gains-ing-202607281109</link>
-            <guid isPermaLink="false">922d0707-a32f-4264-bc24-595d0ab0934f</guid>
-            <pubDate>Tue, 28 Jul 2026 11:09:03 GMT</pubDate>
-            <description><![CDATA[ING’s Frantisek Taborsky notes Central and Eastern European (CEE) rate curves have repriced sharply, with more tightening now expected in Czech Republic and Poland and further easing in Hungary.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CEE3-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
