@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 27 Jul 2026 23:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 00:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crude Oil buys its fourth peace of the year while the tankers stay parked]]></title>
+            <link>https://www.fxstreet.com/news/crude-oil-buys-its-fourth-peace-of-the-year-while-the-tankers-stay-parked-202607272315</link>
+            <guid isPermaLink="false">ad881bb3-47fd-4ae2-8775-4f3f0425f67a</guid>
+            <pubDate>Mon, 27 Jul 2026 23:15:09 GMT</pubDate>
+            <description><![CDATA[WTI Crude Oil trades just above $81.00 on Monday, down close to 9% from Friday's close near $89.00, having gapped more than $5.00 lower at the open and spent the session extending rather than repairing it.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo can still afford to defend the Japanese Yen, just not for very long]]></title>
+            <link>https://www.fxstreet.com/news/tokyo-can-still-afford-to-defend-the-japanese-yen-just-not-for-very-long-202607272314</link>
+            <guid isPermaLink="false">cf14a74b-2b66-4d2d-bff6-15af51eb84e9</guid>
+            <pubDate>Mon, 27 Jul 2026 23:14:45 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen trades a little firmer on Monday, with USD/JPY down 0.05% and sitting short of 164.00 after last week's high stalled a hundredth of a Yen beneath the figure.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Australian Dollar stops trading commodities and starts trading one number]]></title>
+            <link>https://www.fxstreet.com/news/the-australian-dollar-stops-trading-commodities-and-starts-trading-one-number-202607272314</link>
+            <guid isPermaLink="false">7244f105-e2d6-4cb7-942b-0da580497553</guid>
+            <pubDate>Mon, 27 Jul 2026 23:14:11 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar trades just beneath 0.7000 on Monday, up around 0.1%, having covered less than 30 pips between its session high and its session low. For the better part of a fortnight the market has tried to make something of the 0.7000 area and given up each time.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Britain's best data week of the summer sends British Pound Sterling to a four-week low]]></title>
+            <link>https://www.fxstreet.com/news/britains-best-data-week-of-the-summer-sends-british-pound-sterling-to-a-four-week-low-202607272313</link>
+            <guid isPermaLink="false">4d51174d-6c58-4f28-9479-125d67231bb7</guid>
+            <pubDate>Mon, 27 Jul 2026 23:13:49 GMT</pubDate>
+            <description><![CDATA[British Pound Sterling trades beneath 1.3300 against the Dollar on Monday, roughly 0.3% lower on the day and back at ground it last held in the opening days of July. It gets there at the end of the strongest run of British data since the spring, which is the part worth sitting with.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-62.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: MAS tightening underpins Singapore Dollar – BBH]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-mas-tightening-underpins-singapore-dollar-bbh-202607272243</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 27 Jul 2026 14:51:21 GMT</pubDate>
             <description><![CDATA[ING’s James Smith expects the Bank of England to keep rates on hold on 30 July and sees a prolonged pause extending through 2026. New forecasts are likely to show UK inflation peaking near 3%, below the 4% level seen as risky.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/BoE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil drops more than 7% as US, Iran pause strikes]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-drops-more-than-7-as-us-iran-pause-strikes-202607271427</link>
-            <guid isPermaLink="false">7ee0e7c2-ac8f-42ce-bed9-734628156b46</guid>
-            <pubDate>Mon, 27 Jul 2026 14:27:44 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil extends its decline on Monday, trading around $82.60 per barrel at the time of writing, down 7.4% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Growth slowdown and higher rates – BNP Paribas]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-growth-slowdown-and-higher-rates-bnp-paribas-202607271427</link>
-            <guid isPermaLink="false">80213958-841c-4b0d-b370-6ef168728087</guid>
-            <pubDate>Mon, 27 Jul 2026 14:27:41 GMT</pubDate>
-            <description><![CDATA[BNP Paribas strategists expect United Kingdom (UK) growth to slow to 1% in 2026 from 1.3% in 2025, with renewed inflation pressures from the war in Iran pushing inflation to 3.2%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Recovery signals offer limited upside against US Dollar – BBH]]></title>
-            <link>https://www.fxstreet.com/news/euro-recovery-signals-offer-limited-upside-against-us-dollar-bbh-202607271407</link>
-            <guid isPermaLink="false">7fd1cc51-f144-412d-9952-950697dc332e</guid>
-            <pubDate>Mon, 27 Jul 2026 14:07:49 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that Eurozone leading indicators, including Germany’s IFO, Purchasing Managers’ Index (PMI) and ZEW, point to improving activity.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro trims gains as geopolitical risks, Fed outlook support US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/euro-trims-gains-as-geopolitical-risks-fed-outlook-support-us-dollar-202607271400</link>
-            <guid isPermaLink="false">6abe0b25-4074-499f-8e3a-12fd3d76a9ae</guid>
-            <pubDate>Mon, 27 Jul 2026 14:00:42 GMT</pubDate>
-            <description><![CDATA[EUR/USD reverses its early gains on Monday and moves toward filling the bullish gap at the weekly open. The pair initially rose after a temporary pause in attacks between the United States (US) and Iran improved risk sentiment, sent Oil prices sharply lower and weighed on the US Dollar (USD). ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
