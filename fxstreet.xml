@@ -4,15 +4,23 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 28 Jul 2026 17:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 18:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Swiss Franc steadies against US Dollar as Fed decision looms]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-steadies-against-us-dollar-as-fed-decision-looms-202607281801</link>
+            <guid isPermaLink="false">79708b23-afff-418b-854e-c1eae1d5dc25</guid>
+            <pubDate>Tue, 28 Jul 2026 18:01:29 GMT</pubDate>
+            <description><![CDATA[The Swiss Franc (CHF) steadies against the US Dollar (USD) on Tuesday as the Greenback gives up its early gains, with traders turning cautious ahead of the Federal Reserve’s (Fed) monetary policy announcement on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-chf-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The chip rout is funding the Dow Jones Industrial Average's record chase]]></title>
             <link>https://www.fxstreet.com/news/the-chip-rout-is-funding-the-dow-jones-industrial-averages-record-chase-202607281642</link>
             <guid isPermaLink="false">b273bc9c-7a58-499e-9003-a278a643db0b</guid>
             <pubDate>Tue, 28 Jul 2026 16:42:01 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average trades just short of 52,900 on Tuesday, higher by close to 700 points and 1.3%, roughly 450 points beneath the record it set in the first week of July. Taken alone, that reads as a broad risk rally.]]></description>
+            <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades just short of 52,900 on Tuesday, higher by close to 700 points and 1.3%, roughly 450 points beneath the record it set in the first week of July. Taken alone, that reads as a broad risk rally.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_1.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Jul 2026 12:36:19 GMT</pubDate>
             <description><![CDATA[NZD/USD trades around 0.5770 on Tuesday at the time of writing, slightly lower on the day. The New Zealand Dollar (NZD) remains pressured by the firm US Dollar (USD), which continues to benefit from safe-haven demand amid persistent geopolitical tensions.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US ADP Employment Change 4-week average drops to 15K]]></title>
-            <link>https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-drops-to-15k-202607281221</link>
-            <guid isPermaLink="false">a79c3134-8def-466b-9ca8-8495c13f44e3</guid>
-            <pubDate>Tue, 28 Jul 2026 12:21:57 GMT</pubDate>
-            <description><![CDATA[Private-sector hiring in the US has further cooled in mid-July. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 15K jobs per week in the four weeks ending July 11.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_office.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
