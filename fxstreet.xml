@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 28 Jul 2026 21:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 22:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indonesia: Policy focus after BI Governor exit – DBS]]></title>
+            <link>https://www.fxstreet.com/news/indonesia-policy-focus-after-bi-governor-exit-dbs-202607282239</link>
+            <guid isPermaLink="false">6541a18c-cce7-4160-bdbf-662196b3d031</guid>
+            <pubDate>Tue, 28 Jul 2026 22:39:00 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economist Radhika Rao analyzes Indonesia markets after Bank Indonesia Governor Perry Warjiyo’s unexpected resignation. She notes initial weakness in onshore assets as investors reassess implications for Rupiah stability and bonds.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-landscape-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia CPI could boost Aussie if inflation arrives above 4%]]></title>
+            <link>https://www.fxstreet.com/news/australia-cpi-could-boost-aussie-if-inflation-arrives-above-4-202607282230</link>
+            <guid isPermaLink="false">bf9fd3a7-4669-4a2b-b7a5-1bbee008d99d</guid>
+            <pubDate>Tue, 28 Jul 2026 22:30:00 GMT</pubDate>
+            <description><![CDATA[The Australian Bureau of Statistics (ABS) will publish the June Consumer Price Index (CPI)  on Wednesday at 01:30 GMT. The report is expected to show that inflation rose 4% from a year earlier, matching the May reading. The monthly CPI is foreseen at 0.2% following the -0.7% print from May. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-basic-products.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: MAS tightening keeps pair under pressure – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-mas-tightening-keeps-pair-under-pressure-commerzbank-202607282152</link>
+            <guid isPermaLink="false">37e848d6-41d1-4b90-880d-0731f34ddd1b</guid>
+            <pubDate>Tue, 28 Jul 2026 21:52:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank analysts highlight that the Monetary Authority of Singapore (MAS) unexpectedly tightened policy for a second straight meeting, slightly increasing the Singapore Dollar (SGD) Nominal Effective Exchange Rate (NEER) slope while leaving the band’s centre and width unchanged.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NZD/USD holds ahead of the Fed's decision]]></title>
             <link>https://www.fxstreet.com/news/nzd-usd-holds-ahead-of-the-feds-decision-202607282137</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 28 Jul 2026 14:10:16 GMT</pubDate>
             <description><![CDATA[US consumer sentiment loses some momentum in July, as the Conference Board’s Consumer Confidence Index recedes to 90.8 from June’s 92.2 (revised from 91.2).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Why hot Australian inflation could reignite the Reserve Bank of Australia hike debate]]></title>
-            <link>https://www.fxstreet.com/news/why-hot-australian-inflation-could-reignite-the-reserve-bank-of-australia-hike-debate-202607281401</link>
-            <guid isPermaLink="false">90bcfce6-2515-4995-9374-7ba67d9b1ccb</guid>
-            <pubDate>Tue, 28 Jul 2026 14:01:53 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) is balancing stickier-than-expected domestic inflation against broader global market volatility.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-143.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Weak performance tied to carry and Gold – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-weak-performance-tied-to-carry-and-gold-td-securities-202607281357</link>
-            <guid isPermaLink="false">fb334826-8ab5-4adb-9b7a-4754f253e1b5</guid>
-            <pubDate>Tue, 28 Jul 2026 13:57:51 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists argue that the Swiss Franc’s (CHF) underperformance since the February 2026 Iran shock reflects both low-yield carry dynamics and sensitivity to Gold prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-chf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA pause risk weighs on Aussie – BBH]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-pause-risk-weighs-on-aussie-bbh-202607281338</link>
-            <guid isPermaLink="false">f2c930ba-f42d-4ad8-b7cd-958eabfb9d08</guid>
-            <pubDate>Tue, 28 Jul 2026 13:38:21 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports that Australian Dollar (AUD) is underperforming after Reserve Bank of Australia (RBA) Governor Michele Bullock balanced a hawkish bias with a message of patience, noting easing domestic demand and labour conditions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
