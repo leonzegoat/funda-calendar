@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 28 Jul 2026 18:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 20:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar eases ahead of Fed as Oil and Gold extend losses]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-eases-ahead-of-fed-as-oil-and-gold-extend-losses-202607282015</link>
+            <guid isPermaLink="false">c3ccee7a-d2e4-4d3e-b648-f6d6cba3758d</guid>
+            <pubDate>Tue, 28 Jul 2026 20:15:14 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) trades slightly lower on Tuesday as investors reduce some exposure ahead of Wednesday’s Federal Reserve (Fed) monetary policy announcement.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/wheat-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso advances within range against the US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-advances-within-range-against-the-us-dollar-202607282001</link>
+            <guid isPermaLink="false">66df259b-7217-43d9-b87f-73a2c5be294f</guid>
+            <pubDate>Tue, 28 Jul 2026 20:01:47 GMT</pubDate>
+            <description><![CDATA[USD/MXN trades around 17.40 on Tuesday, posting modest losses for a third consecutive session. The US Dollar (USD) retains a broadly firm tone despite softer-than-expected United States (US) data, as investors await the Federal Reserve’s (Fed) monetary policy announcement on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver: Forecast cut but deficit supports upside – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/silver-forecast-cut-but-deficit-supports-upside-commerzbank-202607281942</link>
+            <guid isPermaLink="false">5f0e32f0-1d74-4ba3-a72e-6b0e0c1970ed</guid>
+            <pubDate>Tue, 28 Jul 2026 19:42:38 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Norman Liebke reports that Silver has fallen from USD 70 to USD 57.50 per troy ounce and that the bank has lowered its forecasts, now seeing USD 67 by year-end and USD 80 by end‑2027.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen holds as markets await Tokyo inflation data]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-holds-as-markets-await-tokyo-inflation-data-202607281901</link>
+            <guid isPermaLink="false">fd20080d-0ff8-4d03-9443-2f1e82797541</guid>
+            <pubDate>Tue, 28 Jul 2026 19:01:52 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades slightly higher near the 163.80 area on Tuesday, remaining close to multi-decade highs as the Japanese Yen (JPY) struggles to attract demand. Softer United States (US) consumer confidence data limited the US Dollar’s advance, although the pair maintained its upward bias.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Swiss Franc steadies against US Dollar as Fed decision looms]]></title>
             <link>https://www.fxstreet.com/news/swiss-franc-steadies-against-us-dollar-as-fed-decision-looms-202607281801</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 28 Jul 2026 13:03:36 GMT</pubDate>
             <description><![CDATA[In an interview with Fox News, US President Donald Trump said that Pickaxe Mountain, an Iranian underground nuclear site, is not a big problem, adding that the United States (US) is now in a very strong position with Iran.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Tight supply underpins constructive outlook – ING]]></title>
-            <link>https://www.fxstreet.com/news/copper-tight-supply-underpins-constructive-outlook-ing-202607281258</link>
-            <guid isPermaLink="false">54123332-9ff6-4e96-b1e8-b647950f1061</guid>
-            <pubDate>Tue, 28 Jul 2026 12:58:34 GMT</pubDate>
-            <description><![CDATA[ING strategists Warren Patterson and Ewa Manthey highlight that Copper has extended its July gains as easing Middle East tensions lift sentiment. They point to tight physical conditions, low inventories and firm Chinese import demand as key supports.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Scenarios into FOMC – DBS]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-scenarios-into-fomc-dbs-202607281245</link>
-            <guid isPermaLink="false">dfd54b81-f724-4557-9068-4aff76aa521c</guid>
-            <pubDate>Tue, 28 Jul 2026 12:45:47 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Eugene Leow notes that investors remain cautious on upcoming FOMC decisions, with markets pricing a 34% chance of a July hike and nearly full odds for September.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro nears three-week high against British Pound on UK fiscal concerns, BoE outlook]]></title>
-            <link>https://www.fxstreet.com/news/euro-nears-three-week-high-against-british-pound-on-uk-fiscal-concerns-boe-outlook-202607281240</link>
-            <guid isPermaLink="false">e8f31ca3-4e4e-4ac2-908b-42129a8e7cb1</guid>
-            <pubDate>Tue, 28 Jul 2026 12:40:10 GMT</pubDate>
-            <description><![CDATA[EUR/GBP holds firm on Tuesday, extending its recovery from the more than one-year low touched earlier this month as diverging monetary policy expectations between the European Central Bank (ECB) and the Bank of England (BoE), along with UK fiscal concerns, weigh on the British Pound (GBP).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar struggles as firm US Dollar keeps NZD/USD pinned]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-firm-us-dollar-keeps-nzd-usd-pinned-202607281236</link>
-            <guid isPermaLink="false">a6cc6ec1-c781-4fae-aca3-e50407ade84e</guid>
-            <pubDate>Tue, 28 Jul 2026 12:36:19 GMT</pubDate>
-            <description><![CDATA[NZD/USD trades around 0.5770 on Tuesday at the time of writing, slightly lower on the day. The New Zealand Dollar (NZD) remains pressured by the firm US Dollar (USD), which continues to benefit from safe-haven demand amid persistent geopolitical tensions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
