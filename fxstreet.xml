@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 28 Jul 2026 20:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 21:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NZD/USD holds ahead of the Fed's decision]]></title>
+            <link>https://www.fxstreet.com/news/nzd-usd-holds-ahead-of-the-feds-decision-202607282137</link>
+            <guid isPermaLink="false">09637ee9-4301-41be-8258-37bc61a36029</guid>
+            <pubDate>Tue, 28 Jul 2026 21:37:15 GMT</pubDate>
+            <description><![CDATA[NZD/USD trades nearly unchanged around the 0.5785 area on Tuesday, struggling to extend its earlier recovery despite a modest decline in the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazilian Real: BRL seen weaker into year-end – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/brazilian-real-brl-seen-weaker-into-year-end-rabobank-202607282121</link>
+            <guid isPermaLink="false">5e5c1e08-3dcd-4d7e-8a70-c2e3179a2e2f</guid>
+            <pubDate>Tue, 28 Jul 2026 21:21:00 GMT</pubDate>
+            <description><![CDATA[Rabobank’s strategists Mauricio Une and Renan Alves note that tensions between the United States (US) and Iran have eased slightly with a pause in hostilities, but the outlook for global energy and markets remains highly uncertain.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-rio.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: Supercore and measurement debates shape Fed path – BNY]]></title>
+            <link>https://www.fxstreet.com/news/united-states-supercore-and-measurement-debates-shape-fed-path-bny-202607282039</link>
+            <guid isPermaLink="false">22cfd4b6-bba7-47ff-9199-cffa3eb05273</guid>
+            <pubDate>Tue, 28 Jul 2026 20:39:00 GMT</pubDate>
+            <description><![CDATA[BNY strategists John Velis and David Tam see elevated US supercore inflation as a key argument for further tightening but still favor a July hold.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Forex Today: US Dollar eases ahead of Fed as Oil and Gold extend losses]]></title>
             <link>https://www.fxstreet.com/news/forex-today-us-dollar-eases-ahead-of-fed-as-oil-and-gold-extend-losses-202607282015</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 28 Jul 2026 13:38:21 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports that Australian Dollar (AUD) is underperforming after Reserve Bank of Australia (RBA) Governor Michele Bullock balanced a hawkish bias with a message of patience, noting easing domestic demand and labour conditions.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Limited upside for CAD against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-limited-upside-for-cad-against-us-dollar-scotiabank-202607281323</link>
-            <guid isPermaLink="false">890dc966-d9d5-4c2a-89d3-87c9ca8560e2</guid>
-            <pubDate>Tue, 28 Jul 2026 13:23:52 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note USD/CAD is trading near fair value around 1.4115, with the Canadian Dollar (CAD) constrained by wide short-term rate differentials versus the Dollar.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Political risks and BoE stance shape outlook – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-political-risks-and-boe-stance-shape-outlook-rabobank-202607281310</link>
-            <guid isPermaLink="false">2bdee674-884c-4227-80d4-47b25cba8100</guid>
-            <pubDate>Tue, 28 Jul 2026 13:10:45 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses British Pound (GBP) prospects around UK welfare reform, shifting voter polls and the upcoming Bank of England (BoE) decision. Foley highlights how PM Burnham’s fiscal choices and intra-Labour tensions could affect gilts and the Pound.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump downplays escalation risks while warning Iran against breaking agreements]]></title>
-            <link>https://www.fxstreet.com/news/trump-downplays-escalation-risks-while-warning-iran-against-breaking-agreements-202607281303</link>
-            <guid isPermaLink="false">a21e691e-09a5-46c3-b523-dd61b20c2e8f</guid>
-            <pubDate>Tue, 28 Jul 2026 13:03:36 GMT</pubDate>
-            <description><![CDATA[In an interview with Fox News, US President Donald Trump said that Pickaxe Mountain, an Iranian underground nuclear site, is not a big problem, adding that the United States (US) is now in a very strong position with Iran.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
