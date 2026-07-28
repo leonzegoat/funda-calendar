@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 28 Jul 2026 22:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 23:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japan's Yen sleeps through a regional equity crash]]></title>
+            <link>https://www.fxstreet.com/news/japans-yen-sleeps-through-a-regional-equity-crash-202607282310</link>
+            <guid isPermaLink="false">a37c4aac-1be0-497c-8356-2b1ea2b176a3</guid>
+            <pubDate>Tue, 28 Jul 2026 23:10:54 GMT</pubDate>
+            <description><![CDATA[The Yen trades a fraction under 164.00 on Tuesday, marginally weaker on the day, inside a 30-pip band with a floor above 163.50 and a high a few ticks beneath the standing cycle extreme.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Australian Dollar sells a speech and waits for the number that decides August]]></title>
+            <link>https://www.fxstreet.com/news/the-australian-dollar-sells-a-speech-and-waits-for-the-number-that-decides-august-202607282310</link>
+            <guid isPermaLink="false">63b941c4-fcef-4371-b9d3-2c345e6d574c</guid>
+            <pubDate>Tue, 28 Jul 2026 23:10:24 GMT</pubDate>
+            <description><![CDATA[The Aussie trades just beneath 0.7000 on Tuesday, down around 0.25% and last in the G10 queue, after a Sydney address from the Reserve Bank of Australia's Governor gave the hike case nothing to eat.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Euro finally gets cheaper energy, and that is the problem]]></title>
+            <link>https://www.fxstreet.com/news/the-euro-finally-gets-cheaper-energy-and-that-is-the-problem-202607282309</link>
+            <guid isPermaLink="false">629e8f02-93f3-4b22-8a2e-1b02bc56f6c1</guid>
+            <pubDate>Tue, 28 Jul 2026 23:09:22 GMT</pubDate>
+            <description><![CDATA[The Euro trades just under 1.1400 on Tuesday, around 0.15% firmer, after a session that ran from a shade above 1.1350 to a fraction over 1.1400.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound Sterling waits on a forecast the tape has already outrun]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sterling-waits-on-a-forecast-the-tape-has-already-outrun-202607282308</link>
+            <guid isPermaLink="false">cff70ec1-ae04-4596-86f4-b09dc50e9bc0</guid>
+            <pubDate>Tue, 28 Jul 2026 23:08:58 GMT</pubDate>
+            <description><![CDATA[The Pound spends Tuesday almost perfectly still, trading just under 1.3300 with a session range under 40 pips between a floor above 1.3250 and a ceiling fractionally above 1.3300.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Indonesia: Policy focus after BI Governor exit – DBS]]></title>
             <link>https://www.fxstreet.com/news/indonesia-policy-focus-after-bi-governor-exit-dbs-202607282239</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 28 Jul 2026 14:30:36 GMT</pubDate>
             <description><![CDATA[USD/CAD trades near 1.4105 on Tuesday at the time of writing, down 0.14% on the day, though the pair remains close to its recent highs as traders refrain from taking aggressive positions ahead of the Federal Reserve (Fed) monetary policy decision.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Knife-edge policy risks surprise – ING]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-knife-edge-policy-risks-surprise-ing-202607281424</link>
-            <guid isPermaLink="false">b73a5621-70ed-4c83-bdcb-bea744c67206</guid>
-            <pubDate>Tue, 28 Jul 2026 14:24:09 GMT</pubDate>
-            <description><![CDATA[ING’s Padhraic Garvey expects the Federal Reserve (Fed) to leave rates unchanged at the upcoming Federal Open Market Committee (FOMC) meeting, with odds seen around 60:40 for no move.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds near recent lows as Fed interest rate decision looms]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-near-recent-lows-against-us-dollar-as-fed-interest-rate-decision-looms-202607281415</link>
-            <guid isPermaLink="false">a7bcd970-6b82-4f89-bda3-49c009b974d3</guid>
-            <pubDate>Tue, 28 Jul 2026 14:15:16 GMT</pubDate>
-            <description><![CDATA[EUR/USD struggles for direction on Tuesday as traders avoid taking directional positions ahead of the Federal Reserve’s (Fed) interest-rate decision on Wednesday while closely monitoring US-Iran developments.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Pressured by softer ECB expectations – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/euro-pressured-by-softer-ecb-expectations-scotiabank-202607281410</link>
-            <guid isPermaLink="false">71e8e9dc-5e70-4c54-9d26-14bbe53ebdf2</guid>
-            <pubDate>Tue, 28 Jul 2026 14:10:50 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight a softer Euro (EUR), with EUR/USD drifting toward the mid-1.13s and levels last seen in May 2025.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US CB Consumer Confidence Index eases to 90.8 in July]]></title>
-            <link>https://www.fxstreet.com/news/us-cb-consumer-confidence-index-eases-to-908-in-july-202607281410</link>
-            <guid isPermaLink="false">3b0388e5-71cb-4691-8923-e652f5cb2aca</guid>
-            <pubDate>Tue, 28 Jul 2026 14:10:16 GMT</pubDate>
-            <description><![CDATA[US consumer sentiment loses some momentum in July, as the Conference Board’s Consumer Confidence Index recedes to 90.8 from June’s 92.2 (revised from 91.2).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
