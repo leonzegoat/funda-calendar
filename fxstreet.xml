@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 29 Jul 2026 20:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 21:39:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar tumbles after divided Fed hold, Oil surges on Middle East escalation]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-tumbles-after-divided-fed-hold-oil-surges-on-middle-east-escalation-202607292050</link>
+            <guid isPermaLink="false">e6847c2a-2b38-4540-a32d-f12521a3ce06</guid>
+            <pubDate>Wed, 29 Jul 2026 20:50:01 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) falls sharply during the American session on Wednesday after the Federal Reserve (Fed) left interest rates unchanged. The Federal Open Market Committee (FOMC) maintained the federal funds target range at 3.50%–3.75% in a divided 9–3 vote.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Silver holds firm as Dollar slides after split Fed decision]]></title>
             <link>https://www.fxstreet.com/news/silver-holds-firm-as-dollar-slides-after-split-fed-decision-202607292024</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Jul 2026 15:02:57 GMT</pubDate>
             <description><![CDATA[USD/JPY trades around 163.80 on Wednesday at the time of writing, virtually unchanged on the day, as investors remain cautious ahead of the Federal Reserve's (Fed) monetary policy decision, which is due later in the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Range holds against USD with Fed and BoC in focus – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-range-holds-against-usd-with-fed-and-boc-in-focus-scotiabank-202607291454</link>
-            <guid isPermaLink="false">c516be7b-42ab-4c4d-b0dd-3bfed06f0423</guid>
-            <pubDate>Wed, 29 Jul 2026 14:54:44 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret describe USD/CAD as broadly stable around 1.41, with Canadian Dollar (CAD) performance driven mainly by front‑end rate differentials despite support from stronger Oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
