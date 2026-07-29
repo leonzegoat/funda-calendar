@@ -4,23 +4,103 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 29 Jul 2026 17:56:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 19:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Canadian Dollar waited for the Fed and got paid]]></title>
+            <link>https://www.fxstreet.com/news/the-canadian-dollar-takes-its-bid-from-washington-as-usual-202607291808</link>
+            <guid isPermaLink="false">05f21e25-70ed-4dd9-bda9-46941f2f6ad1</guid>
+            <pubDate>Wed, 29 Jul 2026 18:08:24 GMT</pubDate>
+            <description><![CDATA[The Federal Reserve held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase, and USD/CAD fell out of a session-long range to print its low just beneath 1.4050.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound Sterling rents a rally it has to pay for in the morning]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sterling-collects-a-refund-on-the-fed-hike-that-never-came-202607291809</link>
+            <guid isPermaLink="false">51e7f089-3427-4287-8345-dc43e1f4a53d</guid>
+            <pubDate>Wed, 29 Jul 2026 18:09:16 GMT</pubDate>
+            <description><![CDATA[The Federal Reserve held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase, and Sterling rallied through the 1.3300 shelf it lost last week to trade just above 1.3350. None of that is a British story.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average gets its rate relief and cannot hold it]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-finds-a-bid-in-the-thing-the-fed-did-not-do-202607291810</link>
+            <guid isPermaLink="false">704630cd-595c-4a01-b628-29693b88100f</guid>
+            <pubDate>Wed, 29 Jul 2026 18:10:41 GMT</pubDate>
+            <description><![CDATA[The Federal Reserve held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The US Dollar Index discovers that a vote record is not a reaction function]]></title>
+            <link>https://www.fxstreet.com/news/the-us-dollar-index-sells-the-hold-and-ignores-the-hawks-202607291808</link>
+            <guid isPermaLink="false">303e713a-36bf-4bff-946f-41563defd0ef</guid>
+            <pubDate>Wed, 29 Jul 2026 18:08:51 GMT</pubDate>
+            <description><![CDATA[The Federal Reserve held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase. Previews had that configuration as the hawkish tail, the outcome that would bid the Dollar and punish risk assets.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed's Warsh: We will deliver the 2% target]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400</link>
+            <guid isPermaLink="false">5678dda1-3177-46aa-ba4a-bf736802b5df</guid>
+            <pubDate>Wed, 29 Jul 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[At the post-meeting press conference, Fed Chair Kevin Warsh explains why policymakers decided to keep interest rates unchanged after the July meeting and takes questions from reporters about the decision.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Kevin-Warsh.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar rebounds after Fed hold]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-rebounds-after-fed-hold-202607291844</link>
+            <guid isPermaLink="false">80f03228-7878-4426-b399-7f2d652cd139</guid>
+            <pubDate>Wed, 29 Jul 2026 18:44:08 GMT</pubDate>
+            <description><![CDATA[NZD/USD trades higher near the 0.5790 area on Wednesday, reversing its earlier decline as the US Dollar (USD) weakens sharply following the Federal Reserve’s (Fed) monetary policy announcement.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen gains after hawkish Fed hold]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-gains-after-hawkish-fed-hold-202607291841</link>
+            <guid isPermaLink="false">dfc9da93-4761-4b77-8c71-41a8c1e77ea3</guid>
+            <pubDate>Wed, 29 Jul 2026 18:41:47 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades near the 163.60 area on Wednesday, recovering from its immediate post-announcement decline as investors assess a generally hawkish Federal Reserve (Fed) monetary policy decision.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar trims losses after Fed holds]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-trims-losses-after-fed-holds-202607291833</link>
+            <guid isPermaLink="false">7f334f60-017d-4e73-b67a-28077d31068d</guid>
+            <pubDate>Wed, 29 Jul 2026 18:33:03 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar trimmed some of its earlier losses after the Federal Reserve kept rates steady, by a 9 to 3 vote, with three dissenters who supported a 25-basis-point rate hike. The AUD/USD trades at around 0.6950, down 0.32%. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro rises despite Fed hawkish hold, eyes on Warsh’s speech]]></title>
+            <link>https://www.fxstreet.com/news/euro-rises-despite-fed-hawkish-hold-eyes-on-warshs-speech-202607291814</link>
+            <guid isPermaLink="false">81b7d58f-ad02-4a50-8125-9dda671aa71f</guid>
+            <pubDate>Wed, 29 Jul 2026 18:14:41 GMT</pubDate>
+            <description><![CDATA[The shared currency surged after the Federal Reserve (Fed) kept rates steady by a 9 to 3 vote. Three dissenters supported a 25-basis-point rate hike. The EUR/USD trades in a volatile fashion above 1.1420, up 0.3%. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold surges after Fed holds as hawkish dissent fuels volatility]]></title>
+            <link>https://www.fxstreet.com/news/gold-surges-after-fed-holds-as-hawkish-dissent-fuels-volatility-202607291809</link>
+            <guid isPermaLink="false">4875cfbb-52bb-4e31-85c2-f44bc323c44a</guid>
+            <pubDate>Wed, 29 Jul 2026 18:09:11 GMT</pubDate>
+            <description><![CDATA[Gold price rises during the North American session after the Federal Reserve (Fed) decided to hold rates unchanged, with a 9-3 vote split, as three members of the FOMC opted to increase the fed funds rate by 25 basis points.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Mexican Peso tumbles as Gulf War escalation weighs on mood, Fed eyed]]></title>
             <link>https://www.fxstreet.com/news/mexican-peso-tumbles-as-gulf-war-escalation-weighs-on-mood-fed-eyed-202607291747</link>
             <guid isPermaLink="false">579168b1-b5b7-4793-b48a-484ae5f9563d</guid>
             <pubDate>Wed, 29 Jul 2026 17:47:14 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso loses ground against the US Dollar on Wednesday as risk appetite turns sour amid the escalation of the Gulf War, while traders await the Federal Reserve’s monetary policy decision. The USD/MXN trades at 17.51, up 0.47%.]]></description>
+            <description><![CDATA[The Mexican Peso loses ground against the US Dollar on Wednesday as risk appetite turns sour amid the escalation of the Gulf War, while traders await the Federal Reserve’s (Fed) monetary policy decision. The USD/MXN trades at 17.51, up 0.47%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Bank of Canada shows its work while the Canadian Dollar reads Washington]]></title>
+            <title><![CDATA[The Bank of Canada shows its work, while the Canadian Dollar reads Washington]]></title>
             <link>https://www.fxstreet.com/news/the-bank-of-canada-shows-its-work-while-the-canadian-dollar-reads-washington-202607291744</link>
             <guid isPermaLink="false">e2cbe1b4-f4a7-476c-aaf7-3a24818a8a32</guid>
             <pubDate>Wed, 29 Jul 2026 17:44:19 GMT</pubDate>
-            <description><![CDATA[The Bank of Canada published the deliberations behind its July 15 hold this morning, roughly half an hour before the Federal Reserve announces whether it does the same thing.]]></description>
+            <description><![CDATA[The Bank of Canada published the deliberations behind its July 15 hold this morning, roughly half an hour before the Federal Reserve (Fed) announces whether it does the same thing.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -30,14 +110,6 @@
             <pubDate>Wed, 29 Jul 2026 17:27:51 GMT</pubDate>
             <description><![CDATA[AUD/JPY trades around 113.60 on Wednesday at the time of writing, down 0.61% on the day, after weaker-than-expected Australian inflation data triggered broad selling pressure on the Australian Dollar (AUD).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve set to hold interest rates as pressure to hike mounts]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400</link>
-            <guid isPermaLink="false">5678dda1-3177-46aa-ba4a-bf736802b5df</guid>
-            <pubDate>Wed, 29 Jul 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[The United States (US) Federal Reserve (Fed) announces its interest rate decision on Wednesday, another pivotal meeting for markets to gauge the stance of policymakers as they assess how rising crude Oil prices could impact the inflation outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-77.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Swiss Franc falls against US Dollar for eighth straight day as Fed decision looms]]></title>
@@ -174,78 +246,6 @@
             <pubDate>Wed, 29 Jul 2026 14:31:22 GMT</pubDate>
             <description><![CDATA[EUR/USD struggles below 1.1400 on Wednesday as traders brace for the Federal Reserve’s (Fed) interest-rate decision at 18:00 GMT, while the war in the Middle East fuels volatility across financial markets. At the time of writing, the pair trades around 1.1393, little changed on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Fed risk caps CTA upside – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-fed-risk-caps-cta-upside-td-securities-202607291424</link>
-            <guid isPermaLink="false">d634d7fe-193f-4365-ba3d-e2effdec04a0</guid>
-            <pubDate>Wed, 29 Jul 2026 14:24:40 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek note that Gold remains under pressure as markets price a hawkish Federal Reserve (Fed) path and renewed energy strength.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Natural gas: Europe faces tighter winter balance – ING]]></title>
-            <link>https://www.fxstreet.com/news/natural-gas-europe-faces-tighter-winter-balance-ing-202607291401</link>
-            <guid isPermaLink="false">eb812812-3c26-48eb-8055-6902a2ac83bf</guid>
-            <pubDate>Wed, 29 Jul 2026 14:01:29 GMT</pubDate>
-            <description><![CDATA[ING’s Warren Patterson and Ewa Manthey report European natural gas prices have bounced higher as Middle East tensions disrupt Qatari LNG exports. They flag QatarEnergy’s extended force majeure, reduced EU LNG imports and below-average storage levels.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss National Bank: Rates seen on prolonged hold – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/swiss-national-bank-rates-seen-on-prolonged-hold-commerzbank-202607291337</link>
-            <guid isPermaLink="false">a45043b2-9dd2-47f5-8401-2fdd9fdff90f</guid>
-            <pubDate>Wed, 29 Jul 2026 13:37:58 GMT</pubDate>
-            <description><![CDATA[Michael Pfister of Commerzbank argues that subdued imported inflation and low exchange rate pass-through give the Swiss National Bank (SNB) little reason to tighten policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/swiss-bank-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Range guidance around NEER band – UOB]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-range-guidance-around-neer-band-uob-202607291319</link>
-            <guid isPermaLink="false">c59c0809-9c11-431e-8cb7-a7c27c88b559</guid>
-            <pubDate>Wed, 29 Jul 2026 13:19:35 GMT</pubDate>
-            <description><![CDATA[UOB’s SGD NEER model shows the index at 1.68% above the midpoint of the policy band, after ending the previous session 171 basis points above it. The model is expected to remain between 1.40% and 1.90% above the midpoint today, implying a USD/SGD trading range of 1.2898–1.2963.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump vows fresh strikes on Iran after missiles targeting US forces are intercepted]]></title>
-            <link>https://www.fxstreet.com/news/trump-vows-fresh-strikes-on-iran-after-missiles-targeting-us-forces-are-intercepted-202607291310</link>
-            <guid isPermaLink="false">d0c3c02e-30b5-4a91-96fd-f87425091bc8</guid>
-            <pubDate>Wed, 29 Jul 2026 13:10:18 GMT</pubDate>
-            <description><![CDATA[According to Reuters, United States (US) President Donald Trump said in a phone interview with Fox News on Wednesday that the US would carry out further strikes against Iran in response to attacks targeting US positions in Jordan.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar strengthens modestly against US Dollar ahead of Fed decision]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-strengthens-modestly-against-us-dollar-ahead-of-fed-decision-202607291306</link>
-            <guid isPermaLink="false">753e3057-35e7-49ae-8d2c-25aecd3b6fcc</guid>
-            <pubDate>Wed, 29 Jul 2026 13:06:20 GMT</pubDate>
-            <description><![CDATA[The Canadian Dollar (CAD) modestly outperforms the US Dollar (USD) on Wednesday, drawing support from a rebound in Oil prices as the war in the Middle East intensifies again following a brief calm. At the time of writing, USD/CAD trades around 1.4093, trapped within a week-old range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Middle East tensions revive inflation channel – BNY]]></title>
-            <link>https://www.fxstreet.com/news/oil-middle-east-tensions-revive-inflation-channel-bny-202607291301</link>
-            <guid isPermaLink="false">90376f47-08ce-4bcb-a50e-b63661bd6e0a</guid>
-            <pubDate>Wed, 29 Jul 2026 13:01:24 GMT</pubDate>
-            <description><![CDATA[BNY reports that renewed Iranian–U.S. hostilities lifted Brent above 3%, reviving the inflation channel but remaining secondary to Fed and AI valuation drivers.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Domestic investment shift could support the Yen – BNY]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-domestic-investment-shift-could-support-the-yen-bny-202607291243</link>
-            <guid isPermaLink="false">7ccb2cfc-5892-48ae-a26b-29f9733e7216</guid>
-            <pubDate>Wed, 29 Jul 2026 12:43:34 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu notes Japan’s Government Pension Investment Fund (GPIF) has hired active domestic bond managers for the first time in five years to improve expertise and diversification amid volatile JGB markets. The fund’s domestic bond portfolio has suffered losses despite strong overall returns.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Speculative longs rise on tight supply – ING]]></title>
-            <link>https://www.fxstreet.com/news/copper-speculative-longs-rise-on-tight-supply-ing-202607291233</link>
-            <guid isPermaLink="false">9e32ca36-c20c-496b-a584-9172eb4fbc76</guid>
-            <pubDate>Wed, 29 Jul 2026 12:33:53 GMT</pubDate>
-            <description><![CDATA[ING’s Warren Patterson and Ewa Manthey highlight that speculative net long positions in LME Copper increased notably in the latest COTR data, supported by tight supply and low inventories.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
