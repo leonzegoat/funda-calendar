@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 28 Jul 2026 23:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 01:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI rebounds from two-week low, well bid around mid-$81.00s amid Iran risks]]></title>
+            <link>https://www.fxstreet.com/news/wti-rebounds-from-two-week-low-well-bid-around-mid-8100s-amid-iran-risks-202607290107</link>
+            <guid isPermaLink="false">4531a134-7011-474a-ade7-1a77a471d20d</guid>
+            <pubDate>Wed, 29 Jul 2026 01:07:39 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – gains strong positive traction during the Asian session on Wednesday, snapping a three-day losing streak to an over two-week low touched the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold holds losses near $4,000 due to Middle East tensions, Fed rate uncertainty]]></title>
+            <link>https://www.fxstreet.com/news/gold-holds-losses-near-4-000-due-to-middle-east-tensions-fed-rate-uncertainty-202607290056</link>
+            <guid isPermaLink="false">f66b2acb-22ed-4047-a889-8dbca60b5ace</guid>
+            <pubDate>Wed, 29 Jul 2026 00:56:18 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) remains subdued for the second successive day, trading around $4,020 per troy ounce during the Asian hours on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia CPI projected to arrive at 4% for June]]></title>
+            <link>https://www.fxstreet.com/news/australia-cpi-could-boost-aussie-if-inflation-arrives-above-4-202607282230</link>
+            <guid isPermaLink="false">bf9fd3a7-4669-4a2b-b7a5-1bbee008d99d</guid>
+            <pubDate>Tue, 28 Jul 2026 22:30:00 GMT</pubDate>
+            <description><![CDATA[The Australian Bureau of Statistics (ABS) will publish the June Consumer Price Index (CPI)  on Wednesday at 01:30 GMT. The report is expected to show that inflation rose 4% from a year earlier, matching the May reading. The monthly CPI is foreseen at 0.2% following the -0.7% print from May. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-shopping-cart.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Japan's Yen sleeps through a regional equity crash]]></title>
             <link>https://www.fxstreet.com/news/japans-yen-sleeps-through-a-regional-equity-crash-202607282310</link>
@@ -46,14 +70,6 @@
             <pubDate>Tue, 28 Jul 2026 22:39:00 GMT</pubDate>
             <description><![CDATA[DBS Group Research economist Radhika Rao analyzes Indonesia markets after Bank Indonesia Governor Perry Warjiyo’s unexpected resignation. She notes initial weakness in onshore assets as investors reassess implications for Rupiah stability and bonds.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-landscape-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia CPI could boost Aussie if inflation arrives above 4%]]></title>
-            <link>https://www.fxstreet.com/news/australia-cpi-could-boost-aussie-if-inflation-arrives-above-4-202607282230</link>
-            <guid isPermaLink="false">bf9fd3a7-4669-4a2b-b7a5-1bbee008d99d</guid>
-            <pubDate>Tue, 28 Jul 2026 22:30:00 GMT</pubDate>
-            <description><![CDATA[The Australian Bureau of Statistics (ABS) will publish the June Consumer Price Index (CPI)  on Wednesday at 01:30 GMT. The report is expected to show that inflation rose 4% from a year earlier, matching the May reading. The monthly CPI is foreseen at 0.2% following the -0.7% print from May. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-basic-products.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Singapore Dollar: MAS tightening keeps pair under pressure – Commerzbank]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 28 Jul 2026 11:14:24 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) trades on the back foot on Tuesday, pressured by a firmer US Dollar (USD), even as Oil prices extend their pullback on hopes of an end to the US-Iran war.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA keeps hike option alive – BNY]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-keeps-hike-option-alive-bny-202607281439</link>
-            <guid isPermaLink="false">668c1142-c762-4792-bd99-c9bf3a0eed18</guid>
-            <pubDate>Tue, 28 Jul 2026 14:39:31 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu highlights that Reserve Bank of Australia (RBA) Governor Michele Bullock signaled a possible rate hike at the August 10–11 meeting, stressing inflation is still too high and productivity weak.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Michele-Bullock_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar benefits from softer US Dollar despite lower Oil prices]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-benefits-from-softer-us-dollar-despite-lower-oil-prices-202607281430</link>
-            <guid isPermaLink="false">cd397d9f-f209-4fa9-afa5-5e814829724a</guid>
-            <pubDate>Tue, 28 Jul 2026 14:30:36 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades near 1.4105 on Tuesday at the time of writing, down 0.14% on the day, though the pair remains close to its recent highs as traders refrain from taking aggressive positions ahead of the Federal Reserve (Fed) monetary policy decision.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
