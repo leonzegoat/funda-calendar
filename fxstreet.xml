@@ -4,15 +4,63 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 29 Jul 2026 16:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 17:56:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mexican Peso tumbles as Gulf War escalation weighs on mood, Fed eyed]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-tumbles-as-gulf-war-escalation-weighs-on-mood-fed-eyed-202607291747</link>
+            <guid isPermaLink="false">579168b1-b5b7-4793-b48a-484ae5f9563d</guid>
+            <pubDate>Wed, 29 Jul 2026 17:47:14 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso loses ground against the US Dollar on Wednesday as risk appetite turns sour amid the escalation of the Gulf War, while traders await the Federal Reserve’s monetary policy decision. The USD/MXN trades at 17.51, up 0.47%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Bank of Canada shows its work while the Canadian Dollar reads Washington]]></title>
+            <link>https://www.fxstreet.com/news/the-bank-of-canada-shows-its-work-while-the-canadian-dollar-reads-washington-202607291744</link>
+            <guid isPermaLink="false">e2cbe1b4-f4a7-476c-aaf7-3a24818a8a32</guid>
+            <pubDate>Wed, 29 Jul 2026 17:44:19 GMT</pubDate>
+            <description><![CDATA[The Bank of Canada published the deliberations behind its July 15 hold this morning, roughly half an hour before the Federal Reserve announces whether it does the same thing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar slides on softer inflation, intervention fears bolster Japanese Yen]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-slides-on-softer-inflation-intervention-fears-bolster-japanese-yen-202607291727</link>
+            <guid isPermaLink="false">7ec391d0-5aaa-4028-bf97-819e5d8829c2</guid>
+            <pubDate>Wed, 29 Jul 2026 17:27:51 GMT</pubDate>
+            <description><![CDATA[AUD/JPY trades around 113.60 on Wednesday at the time of writing, down 0.61% on the day, after weaker-than-expected Australian inflation data triggered broad selling pressure on the Australian Dollar (AUD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal Reserve set to hold interest rates as pressure to hike mounts]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400</link>
+            <guid isPermaLink="false">5678dda1-3177-46aa-ba4a-bf736802b5df</guid>
+            <pubDate>Wed, 29 Jul 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[The United States (US) Federal Reserve (Fed) announces its interest rate decision on Wednesday, another pivotal meeting for markets to gauge the stance of policymakers as they assess how rising crude Oil prices could impact the inflation outlook.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-77.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc falls against US Dollar for eighth straight day as Fed decision looms]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-falls-against-us-dollar-for-eighth-straight-day-as-fed-decision-looms-202607291659</link>
+            <guid isPermaLink="false">e73107b8-4799-4b1f-a654-a1265a2bd4da</guid>
+            <pubDate>Wed, 29 Jul 2026 16:59:03 GMT</pubDate>
+            <description><![CDATA[USD/CHF edges higher on Wednesday, hovering near its highest level in more than a year as hawkish Federal Reserve (Fed) expectations contrast with a steady Swiss National Bank (SNB) outlook, weighing on the Swiss Franc (CHF).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: FOMC risk guides downside scope – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-fomc-risk-guides-downside-scope-scotiabank-202607291637</link>
+            <guid isPermaLink="false">4ba32962-d196-4fb0-ba4b-4807a7b37bc8</guid>
+            <pubDate>Wed, 29 Jul 2026 16:37:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the US Dollar (USD) is narrowly mixed to softer ahead of the Federal Open Market Committee (FOMC), with swaps pricing a modest chance of a hike but the bank seeing that risk as much lower. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Dow Jones Industrial Average pulls back hours before the Fed's answer]]></title>
             <link>https://www.fxstreet.com/news/dow-jones-industrial-average-pulls-back-hours-before-the-feds-answer-202607291633</link>
             <guid isPermaLink="false">3d0f7aa1-336f-4096-94f8-63e53b49dce9</guid>
             <pubDate>Wed, 29 Jul 2026 16:33:33 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average trades just above 51,800 on Wednesday afternoon, down roughly 900 points and 1.7% from Tuesday's close. The session high just above 52,800 printed before 09:00 GMT, and the tape has sold in one near-continuous line ever since.]]></description>
+            <description><![CDATA[The Dow Jones Industrial Average trades just above 51,800 on Wednesday afternoon, down roughly 900 points and 1.7% from Tuesday's close. ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_DJI-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -38,14 +86,6 @@
             <pubDate>Wed, 29 Jul 2026 16:13:59 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight that GBP/USD is flat around 1.33, supported by stronger United Kingdom (UK) lending data and stabilizing Bank of England (BoE) expectations. They stress that UK fiscal narratives remain important for sentiment toward government debt.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve widely expected to stand pat as markets increase bets of imminent interest-rate hike ]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400</link>
-            <guid isPermaLink="false">5678dda1-3177-46aa-ba4a-bf736802b5df</guid>
-            <pubDate>Wed, 29 Jul 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[The United States (US) Federal Reserve (Fed) announces its interest rate decision on Wednesday, another pivotal meeting for markets to gauge the stance of policymakers as they assess how rising crude Oil prices could impact the inflation outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-101.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Bank of Japan: Gradual tightening path and neutral rate debate – ING]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 29 Jul 2026 12:33:53 GMT</pubDate>
             <description><![CDATA[ING’s Warren Patterson and Ewa Manthey highlight that speculative net long positions in LME Copper increased notably in the latest COTR data, supported by tight supply and low inventories.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI rebounds sharply on fears of renewed escalation in US-Iran war]]></title>
-            <link>https://www.fxstreet.com/news/wti-rebounds-sharply-on-fears-of-renewed-escalation-in-us-iran-war-202607291225</link>
-            <guid isPermaLink="false">295c9c5c-d749-4200-ac66-ddf393cceb0a</guid>
-            <pubDate>Wed, 29 Jul 2026 12:25:29 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) futures on NYMEX trades 6% higher on the day, slightly above $83.00 during the European trading session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Stretched positioning caps gains against peers – BNY]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-stretched-positioning-caps-gains-against-peers-bny-202607291222</link>
-            <guid isPermaLink="false">a6fc522a-b6d3-4167-aabc-d615d88b20de</guid>
-            <pubDate>Wed, 29 Jul 2026 12:22:04 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu notes the US Dollar (USD) enters the Federal Open Market Committee (FOMC) with strong recent demand but stretched positioning, as cross-border buying and late-July spot demand remain supportive.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound consolidates against Japanese Yen ahead of central bank decisions]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-consolidates-against-japanese-yen-ahead-of-central-bank-decisions-202607291215</link>
-            <guid isPermaLink="false">5a30e4e8-b599-483b-89fb-5f2518c431ee</guid>
-            <pubDate>Wed, 29 Jul 2026 12:15:17 GMT</pubDate>
-            <description><![CDATA[GBP/JPY extends its subdued price action on Wednesday, forming a series of small-bodied candlesticks after briefly climbing above 219 earlier this month, its highest level since December 2007. At the time of writing, the cross trades around 217.50.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Softer CPI keeps RBA on hold – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-softer-cpi-keeps-rba-on-hold-td-securities-202607291212</link>
-            <guid isPermaLink="false">6f58edf2-43ce-4b24-ac06-41a740e3f924</guid>
-            <pubDate>Wed, 29 Jul 2026 12:12:47 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists note that Australia’s Q2 Consumer Price Index (CPI) and June headline inflation came in below expectations, easing pressure on the Reserve Bank of Australia (RBA).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound languishes below 1.3300 heading into Fed and BoE decisions]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-languishes-below-13300-heading-into-fed-and-boe-decisions-202607291202</link>
-            <guid isPermaLink="false">36914ea2-dfd5-45d1-a8b8-b76eeb0243f2</guid>
-            <pubDate>Wed, 29 Jul 2026 12:02:21 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) has given away previous gains against the US Dollar (USD) on Wednesday and remains practically flat in the daily chart, trading below 1.3300 and on track to complete a nearly 1.20% decline over the last two weeks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-62.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
