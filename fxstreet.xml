@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 29 Jul 2026 22:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 23:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yemen's Houthis reportedly considering fees for ships sailing through Red Sea]]></title>
+            <link>https://www.fxstreet.com/news/yemens-houthis-reportedly-considering-fees-for-ships-sailing-through-red-sea-202607292345</link>
+            <guid isPermaLink="false">3f2deda0-b4f8-4da7-89cc-30b99ecc97cd</guid>
+            <pubDate>Wed, 29 Jul 2026 23:45:08 GMT</pubDate>
+            <description><![CDATA[Yemen’s Iran-backed Houthi rebels are considering imposing fees on commercial ships sailing through the southern Red Sea, Reuters reported on Wednesday. This development came a week after the Houthi declared a naval blockade on Saudi Arabia.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Donald Trump says US will strike Iran hard ]]></title>
+            <link>https://www.fxstreet.com/news/us-president-donald-trump-says-us-will-strike-iran-hard-202607292338</link>
+            <guid isPermaLink="false">d8687709-e8af-4125-97bf-95b71dcf262d</guid>
+            <pubDate>Wed, 29 Jul 2026 23:38:28 GMT</pubDate>
+            <description><![CDATA[US President Donald Trump said that he will order heavy strikes on Iran in retaliation for its “surprise attack” on US forces overnight, Bloomberg reported on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rebounds to near $4,100 as Fed leaves interest rates unchanged]]></title>
+            <link>https://www.fxstreet.com/news/gold-rebounds-to-near-4-100-as-fed-leaves-interest-rates-unchanged-202607292320</link>
+            <guid isPermaLink="false">e2df3689-b715-484f-bf8e-03dc17219d5d</guid>
+            <pubDate>Wed, 29 Jul 2026 23:20:15 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) rebounds to around $4,095 during the early Asian session on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Bulls reclaim 218.00 as RSI improves]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-reclaim-21800-as-rsi-improves-202607292312</link>
+            <guid isPermaLink="false">47f3da0d-65db-4dcf-87af-90733a9d78bc</guid>
+            <pubDate>Wed, 29 Jul 2026 23:12:14 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY advances by over 0.30%, rising above 218.00, as risk appetite improves amid overall US Dollar weakness following the Federal Reserve's monetary policy decision. The pair trades near 218.50 after hitting a low of the day (LOD) of 217.16.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Fed hold, a Warsh non-answer, and one day of cover for the Japanese Yen]]></title>
+            <link>https://www.fxstreet.com/news/a-fed-hold-a-warsh-non-answer-and-one-day-of-cover-for-the-japanese-yen-202607292247</link>
+            <guid isPermaLink="false">6b96fe21-09b9-484e-bc42-a47269d82212</guid>
+            <pubDate>Wed, 29 Jul 2026 22:47:52 GMT</pubDate>
+            <description><![CDATA[The Federal Reserve (Fed) held its target range at 3.50% to 3.75% for a fifth consecutive meeting at 18:00 GMT, and the pair did what a market short the Yen against a 1.00% policy rate does when a hike it partly paid for fails to arrive.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Forex Today: US Dollar tumbles after divided Fed hold, Oil surges on Middle East escalation]]></title>
             <link>https://www.fxstreet.com/news/forex-today-us-dollar-tumbles-after-divided-fed-hold-oil-surges-on-middle-east-escalation-202607292050</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 29 Jul 2026 15:56:02 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that EUR/USD is consolidating within a very tight range in the mid-to-upper 1.13s.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold remains under pressure near $4,000 as Fed decision looms]]></title>
-            <link>https://www.fxstreet.com/news/gold-remains-under-pressure-near-4-000-as-fed-decision-looms-202607291548</link>
-            <guid isPermaLink="false">3bd05750-6757-4068-bc5a-0bfcf813971b</guid>
-            <pubDate>Wed, 29 Jul 2026 15:48:16 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) trades lower near the $4,003 area on Wednesday, extending its recent decline as investors remain cautious ahead of the Federal Reserve’s (Fed) monetary policy announcement.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound holds below 1.33 as Trump warns Iran, Oil jumps]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-holds-below-133-as-trump-warns-iran-oil-jumps-202607291530</link>
-            <guid isPermaLink="false">a2ffaf1c-150b-48ab-9196-9e8c966b8c6f</guid>
-            <pubDate>Wed, 29 Jul 2026 15:30:31 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling holds firm on Wednesday as the US-Iran conflict escalates, with US President Donald Trump warning of further attacks on Iran in retaliation for Tehran's strikes on US forces in Jordan. The GBP/USD trades below 1.3300, barely unchanged.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil surges 7% as Middle East war and supply risks fuel rally]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-surges-7-as-middle-east-war-and-supply-risks-fuel-rally-202607291530</link>
-            <guid isPermaLink="false">33336b29-d81e-4806-9b81-22a53f3a7354</guid>
-            <pubDate>Wed, 29 Jul 2026 15:30:00 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) Oil jumps nearly 7% on Wednesday as the war in the Middle East keeps geopolitical risks firmly priced into the market. At the time of writing, WTI trades around $84 per barrel, snapping a three-day losing streak.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Hawkish hold may offer US Dollar limited support – BNY]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-hawkish-hold-may-offer-us-dollar-limited-support-bny-202607291517</link>
-            <guid isPermaLink="false">b4ae782e-93da-43b5-a7d0-987fa67f12b9</guid>
-            <pubDate>Wed, 29 Jul 2026 15:17:49 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu highlights that markets face a genuinely live Federal Reserve (Fed) decision, with futures implying about a 35% chance of a hike and a hold still the base case.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen faces its moment of truth ahead of Fed decision]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-faces-its-moment-of-truth-ahead-of-fed-decision-202607291502</link>
-            <guid isPermaLink="false">c28f1312-b79c-4c9b-95ca-a360a3772a5f</guid>
-            <pubDate>Wed, 29 Jul 2026 15:02:57 GMT</pubDate>
-            <description><![CDATA[USD/JPY trades around 163.80 on Wednesday at the time of writing, virtually unchanged on the day, as investors remain cautious ahead of the Federal Reserve's (Fed) monetary policy decision, which is due later in the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
