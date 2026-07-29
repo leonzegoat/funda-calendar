@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 29 Jul 2026 19:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 20:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver holds firm as Dollar slides after split Fed decision]]></title>
+            <link>https://www.fxstreet.com/news/silver-holds-firm-as-dollar-slides-after-split-fed-decision-202607292024</link>
+            <guid isPermaLink="false">12e0c698-3a40-4dbb-b732-2837c270e9fe</guid>
+            <pubDate>Wed, 29 Jul 2026 20:24:50 GMT</pubDate>
+            <description><![CDATA[Silver price clings to gains on Wednesday late in the North American session, as the Federal Reserve held rates unchanged, which, instead of strengthening the Dollar, weakened it, while US Treasury yields spiked. The XAG/USD trades at $57.17, barely unchanged.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No soft target: Warsh vows to return inflation to 2%]]></title>
+            <link>https://www.fxstreet.com/news/no-soft-target-warsh-vows-to-return-inflation-to-2-202607292011</link>
+            <guid isPermaLink="false">70562234-7d7a-4d23-827b-9d8939c6460a</guid>
+            <pubDate>Wed, 29 Jul 2026 20:11:49 GMT</pubDate>
+            <description><![CDATA[The Fed left interest rates unchanged at 3.50%-3.75%, but the decision carried a distinctly hawkish edge as three officials voted for an immediate 25-basis-point increase.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/KevinWarshFED2-14526.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI remains muted after Fed hold]]></title>
+            <link>https://www.fxstreet.com/news/wti-remains-muted-after-fed-hold-202607291945</link>
+            <guid isPermaLink="false">a965b0ee-2aa8-4231-b109-fc09f66a7462</guid>
+            <pubDate>Wed, 29 Jul 2026 19:45:46 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) Oil stayed muted near $83 per barrel following the Federal Reserve's (Fed) decision to hold interest rates constant on Wednesday afternoon. The price consolidation comes after recovering sharply from an intraday low near $78.90.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The Canadian Dollar waited for the Fed and got paid]]></title>
             <link>https://www.fxstreet.com/news/the-canadian-dollar-takes-its-bid-from-washington-as-usual-202607291808</link>
@@ -20,7 +44,7 @@
             <link>https://www.fxstreet.com/news/british-pound-sterling-collects-a-refund-on-the-fed-hike-that-never-came-202607291809</link>
             <guid isPermaLink="false">51e7f089-3427-4287-8345-dc43e1f4a53d</guid>
             <pubDate>Wed, 29 Jul 2026 18:09:16 GMT</pubDate>
-            <description><![CDATA[The Federal Reserve held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase, and Sterling rallied through the 1.3300 shelf it lost last week to trade just above 1.3350. None of that is a British story.]]></description>
+            <description><![CDATA[The Federal Reserve (Fed) held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase, and Sterling rallied through the 1.3300 shelf it lost last week to trade just above 1.3350. None of that is a British story.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://www.fxstreet.com/news/dow-jones-industrial-average-finds-a-bid-in-the-thing-the-fed-did-not-do-202607291810</link>
             <guid isPermaLink="false">704630cd-595c-4a01-b628-29693b88100f</guid>
             <pubDate>Wed, 29 Jul 2026 18:10:41 GMT</pubDate>
-            <description><![CDATA[The Federal Reserve held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase.]]></description>
+            <description><![CDATA[The Federal Reserve (Fed) held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 29 Jul 2026 14:54:44 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret describe USD/CAD as broadly stable around 1.41, with Canadian Dollar (CAD) performance driven mainly by front‑end rate differentials despite support from stronger Oil prices.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar extends decline ahead of Fed's decision]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-extends-decline-ahead-of-feds-decision-202607291450</link>
-            <guid isPermaLink="false">ccc535a5-6726-46c5-9c06-be0298cb47ad</guid>
-            <pubDate>Wed, 29 Jul 2026 14:50:05 GMT</pubDate>
-            <description><![CDATA[AUD/USD trades 0.4% lower near the 0.6945 area on Wednesday, extending its recent decline as the Australian Dollar (AUD) weakens following softer-than-expected domestic inflation data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-70.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold struggles near $4,000 ahead of Federal Reserve policy verdict]]></title>
-            <link>https://www.fxstreet.com/news/gold-struggles-for-direction-ahead-of-federal-reserve-policy-verdict-202607291108</link>
-            <guid isPermaLink="false">b47afda7-f3e6-4567-904d-778f5762da68</guid>
-            <pubDate>Wed, 29 Jul 2026 11:08:44 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) consolidates above $4,000 on Wednesday as price action remains choppy amid growing caution ahead of the Federal Reserve’s (Fed) monetary policy announcement, while the war in the Middle East intensifies again after a brief lull.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds below 1.1400 against US Dollar as Fed interest rate decision looms]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-below-11400-against-us-dollar-as-fed-interest-rate-decision-looms-202607291431</link>
-            <guid isPermaLink="false">2e0eee2a-a430-49f8-93fb-e8901a13876c</guid>
-            <pubDate>Wed, 29 Jul 2026 14:31:22 GMT</pubDate>
-            <description><![CDATA[EUR/USD struggles below 1.1400 on Wednesday as traders brace for the Federal Reserve’s (Fed) interest-rate decision at 18:00 GMT, while the war in the Middle East fuels volatility across financial markets. At the time of writing, the pair trades around 1.1393, little changed on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
