@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 30 Jul 2026 21:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 22:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[British Pound Sterling rallies on a hawkish vote the Bank of England immediately talked down]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sterling-rallies-on-a-hawkish-vote-the-bank-of-england-immediately-talked-down-202607302249</link>
+            <guid isPermaLink="false">f3ea0277-efb3-4e30-ac57-dfcf37228aed</guid>
+            <pubDate>Thu, 30 Jul 2026 22:49:19 GMT</pubDate>
+            <description><![CDATA[The Bank of England held Bank Rate at 3.75% for a fifth straight meeting on Thursday, and the Monetary Policy Committee (MPC) got there on a 6-3 vote, with three members backing an immediate quarter-point increase against a consensus that had looked for 7-2.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: 50-day SMA guards bullish structure]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-50-day-sma-guards-bullish-structure-202607302216</link>
+            <guid isPermaLink="false">28f89957-fa18-4d6d-afe2-afc5c89bc38a</guid>
+            <pubDate>Thu, 30 Jul 2026 22:16:28 GMT</pubDate>
+            <description><![CDATA[The USD/CHF retreats for the second straight day, down more than 1% amid growing speculation of an intervention in the FX markets, which boosted the Japanese Yen. The pair fell to a 10-day low of 0.8039, slightly above the 50-day Simple Moving Average (SMA) at 0.8027.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of Japan set to keep interest rates unchanged after suspected Yen intervention]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-japan-set-to-keep-interest-rates-unchanged-after-suspected-yen-intervention-202607302200</link>
+            <guid isPermaLink="false">6b5f3600-ac7a-47c7-adc4-b4ff5d705e31</guid>
+            <pubDate>Thu, 30 Jul 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[Investors are turning their attention to the Bank of Japan’s (BoJ) monetary policy announcement on Friday, after the Japanese Yen (JPY) staged a dramatic rebound during Thursday's American session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Forex Today: US Dollar extends sell-off after weak US growth, Yen surges on suspected intervention]]></title>
             <link>https://www.fxstreet.com/news/forex-today-us-dollar-extends-sell-off-after-weak-us-growth-yen-surges-on-suspected-intervention-202607302100</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 30 Jul 2026 14:15:29 GMT</pubDate>
             <description><![CDATA[EUR/JPY plunges on Thursday, down 2.54% on the day to trade around 182.60 at the time of writing, after a sudden surge in the Japanese Yen (JPY) triggered by what appears to be another intervention by Japanese authorities in the foreign exchange market.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: Japanese Yen surges on suspected intervention, USD/JPY plunges below 160.00]]></title>
-            <link>https://www.fxstreet.com/news/breaking-japanese-yen-surges-on-suspected-intervention-usd-jpy-plunges-below-16100-202607301350</link>
-            <guid isPermaLink="false">10f0809e-4802-4570-8e0d-5db6561658c9</guid>
-            <pubDate>Thu, 30 Jul 2026 13:50:01 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) is surging across the board in the American session on Thursday, without a clear catalyst. This development hints that Japanese authorities may finally be intervening in foreign exchange markets following days of speculation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Eurozone: Strategic push reshapes dependencies – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/eurozone-strategic-push-reshapes-dependencies-rabobank-202607301406</link>
-            <guid isPermaLink="false">ed20f6a3-d4e9-47b5-92f2-c84c38879454</guid>
-            <pubDate>Thu, 30 Jul 2026 14:06:54 GMT</pubDate>
-            <description><![CDATA[RaboResearch economists Maartje Wijffelaars and Leander Kalff outline how the European Union is intensifying efforts to strengthen Eurozone industry and reduce external dependencies.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro climbs to six-week high as suspected Japanese intervention pressures Greenback]]></title>
-            <link>https://www.fxstreet.com/news/euro-climbs-to-six-week-high-as-suspected-japanese-intervention-pressures-greenback-202607301404</link>
-            <guid isPermaLink="false">8e3889b0-70c1-4691-865b-25381b2b5ef5</guid>
-            <pubDate>Thu, 30 Jul 2026 14:04:50 GMT</pubDate>
-            <description><![CDATA[EUR/USD extends its gains on Thursday as the Greenback remains under pressure as traders digest a busy batch of US economic data after the Federal Reserve (Fed) left interest rates unchanged at 3.50%-3.75% on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
