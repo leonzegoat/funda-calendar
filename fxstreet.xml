@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 30 Jul 2026 20:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 21:44:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar extends sell-off after weak US growth, Yen surges on suspected intervention]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-extends-sell-off-after-weak-us-growth-yen-surges-on-suspected-intervention-202607302100</link>
+            <guid isPermaLink="false">fed7dda4-0ac5-43d2-81be-65e4b9e15ffb</guid>
+            <pubDate>Thu, 30 Jul 2026 21:00:49 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) falls sharply during the American session on Thursday after United States economic growth missed expectations and underlying inflation moderated.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currencies-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China: Incremental support and trade risks – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/china-incremental-support-and-trade-risks-td-securities-202607302058</link>
+            <guid isPermaLink="false">a224ac04-616f-4f02-8823-a40114e2f059</guid>
+            <pubDate>Thu, 30 Jul 2026 20:58:00 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Senior Asia Economist Alex Loo assesses the July Politburo meeting, noting no major new stimulus despite acknowledged growth challenges. The focus is on fiscal execution, accelerating spending and bond use to support the Six Networks infrastructure program.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/china.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Key driver of UK inflation scenarios – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/oil-key-driver-of-uk-inflation-scenarios-rabobank-202607302024</link>
+            <guid isPermaLink="false">1ae0b6a6-55a4-4027-b2f6-6ece62991ed8</guid>
+            <pubDate>Thu, 30 Jul 2026 20:24:58 GMT</pubDate>
+            <description><![CDATA[RaboResearch highlights Oil as the dominant input for UK monetary policy. The Bank of England’s central forecast assumes Oil prices fall from $76 to around $71, with inflation peaking near 3.2%, but Brent already trades above $90.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Chinese Yuan: Gradual gains versus US Dollar – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/chinese-yuan-gradual-gains-versus-us-dollar-commerzbank-202607302011</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 30 Jul 2026 14:04:50 GMT</pubDate>
             <description><![CDATA[EUR/USD extends its gains on Thursday as the Greenback remains under pressure as traders digest a busy batch of US economic data after the Federal Reserve (Fed) left interest rates unchanged at 3.50%-3.75% on Wednesday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany: War-driven energy shock shapes outlook – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/germany-war-driven-energy-shock-shapes-outlook-commerzbank-202607301356</link>
-            <guid isPermaLink="false">3eb54820-bf9a-4674-b457-c124ca3fff42</guid>
-            <pubDate>Thu, 30 Jul 2026 13:56:44 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Dr. Ralph Solveen analyzes German inflation after the July national Consumer Price Index (CPI) rose from 2.3% to 2.8%, driven mainly by higher energy prices linked to conflict in the Persian Gulf and the end of fuel tax rebates.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/german-bank-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: BoC minutes flags two-sided economic risks – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-boc-minutes-flags-two-sided-economic-risks-td-securities-202607301339</link>
-            <guid isPermaLink="false">fd088442-71d9-461b-8aa7-ad121b805d3e</guid>
-            <pubDate>Thu, 30 Jul 2026 13:39:27 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists note the Bank of Canada’s (BoC) July Summary of Deliberations was balanced, with the Bank seeing the economy adjusting to recent shocks and expecting growth to strengthen, while worrying about medium-term inflation expectations drifting higher.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen gains the upper hand after US GDP miss, BoJ eyed]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-gains-the-upper-hand-after-us-gdp-miss-boj-eyed-202607301329</link>
-            <guid isPermaLink="false">cfb9ca49-6380-4189-b1ef-0575d4a9e8cb</guid>
-            <pubDate>Thu, 30 Jul 2026 13:29:31 GMT</pubDate>
-            <description><![CDATA[USD/JPY trades around 162.90 at the time of writing on Thursday, down 0.31% on the day, as the US Dollar (USD) comes under pressure following the Federal Reserve (Fed) meeting on Wednesday and a series of weaker-than-expected United States (US) economic data released earlier in the day, ahead of the]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
