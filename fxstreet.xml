@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 30 Jul 2026 18:47:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 20:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chinese Yuan: Gradual gains versus US Dollar – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-gradual-gains-versus-us-dollar-commerzbank-202607302011</link>
+            <guid isPermaLink="false">bdbeadbd-0fb1-4907-93d4-45c4842d67ad</guid>
+            <pubDate>Thu, 30 Jul 2026 20:11:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank FX & Commodity Analyst Volkmar Baur argues that China’s large trade surplus, driven increasingly by green technology exports, is supporting a stronger Chinese Yuan.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG eyes $60.00 as rebound builds]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-eyes-6000-as-rebound-builds-202607302000</link>
+            <guid isPermaLink="false">0e8b2356-c69f-4db4-a52d-ab56135256be</guid>
+            <pubDate>Thu, 30 Jul 2026 20:00:06 GMT</pubDate>
+            <description><![CDATA[Silver price advances for the second straight day and hits a three-day high above $59.00mid growing speculation of intervention in the foreign exchange markets, to boost the Yen, and weaken the Greenback.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold jumps as suspected Yen intervention crushes US Dollar as Fed bets ease]]></title>
+            <link>https://www.fxstreet.com/news/gold-jumps-as-suspected-yen-intervention-crushes-dollar-fed-bets-ease-202607301938</link>
+            <guid isPermaLink="false">fbc05c37-c25f-43ff-b034-721282385b98</guid>
+            <pubDate>Thu, 30 Jul 2026 19:38:38 GMT</pubDate>
+            <description><![CDATA[Gold price advances some 0.92% on Thursday after the US Dollar drops following a suspected intervention in the foreign exchange markets, with the Japanese Yen hitting a near two-month high versus the Greenback. The XAU/USD trades at $4,100 after bouncing off the low of the day (LOD) at $4,028.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Malaysian Ringgit: Political risks rise as fundamentals hold firm – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/malaysian-ringgit-political-risks-rise-as-fundamentals-hold-firm-mufg-202607301938</link>
+            <guid isPermaLink="false">d05ae995-9d9a-4507-ac78-ca4e3fccb712</guid>
+            <pubDate>Thu, 30 Jul 2026 19:38:00 GMT</pubDate>
+            <description><![CDATA[MUFG’s Lloyd Chan highlights that Malaysia’s solid growth, low inflation and prudent policy are supporting the Ringgit, but rising domestic political risks could drive USD/MYR in coming months.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/MYR2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Policy tightening expectations lift KRW against US Dollar – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-policy-tightening-expectations-lift-krw-against-us-dollar-commerzbank-202607301858</link>
+            <guid isPermaLink="false">b73c056b-d66d-4f12-af62-1edacbd68381</guid>
+            <pubDate>Thu, 30 Jul 2026 18:58:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank Research notes that USD/KRW has fallen to its lowest level since February as South Korean authorities tighten rules on leveraged ETFs to curb Kospi volatility.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crude Oil is pricing a Hormuz deal, not a peace deal]]></title>
+            <link>https://www.fxstreet.com/news/crude-oil-is-pricing-a-hormuz-deal-not-a-peace-deal-202607301848</link>
+            <guid isPermaLink="false">1d7b9202-d6b4-429f-b951-0f61729dcf64</guid>
+            <pubDate>Thu, 30 Jul 2026 18:48:31 GMT</pubDate>
+            <description><![CDATA[Crude Oil is lower on Thursday even as the war that sets its price reached a country it had spared for five months. WTI trades just above the $82.00 handle, down more than 1.5%, and Brent holds just above $86.50 with a near-identical loss after both gave back a chunk of Wednesday's rally.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[China: Consumption pivot points to slower growth - Rabobank]]></title>
             <link>https://www.fxstreet.com/news/china-consumption-pivot-points-to-slower-growth-rabobank-202607301813</link>
@@ -16,7 +64,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/china-people-bank-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Canadian Dollar climbs to 1.4000 against US Dollar after suspected Japanese intervention]]></title>
+            <title><![CDATA[Canadian Dollar strengthens to 1.4000 against US Dollar after suspected Japanese intervention]]></title>
             <link>https://www.fxstreet.com/news/canadian-dollar-climbs-to-14000-against-us-dollar-after-suspected-japanese-intervention-202607301806</link>
             <guid isPermaLink="false">c19538d6-d92e-44b5-b604-c82ef3ebae89</guid>
             <pubDate>Thu, 30 Jul 2026 18:06:31 GMT</pubDate>
@@ -198,54 +246,6 @@
             <pubDate>Thu, 30 Jul 2026 13:29:31 GMT</pubDate>
             <description><![CDATA[USD/JPY trades around 162.90 at the time of writing on Thursday, down 0.31% on the day, as the US Dollar (USD) comes under pressure following the Federal Reserve (Fed) meeting on Wednesday and a series of weaker-than-expected United States (US) economic data released earlier in the day, ahead of the]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Warsh rhetoric weakens policy credibility – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-warsh-rhetoric-weakens-policy-credibility-bbh-202607301329</link>
-            <guid isPermaLink="false">785ecd6b-e14c-45c6-b6ce-e43d0b4d646f</guid>
-            <pubDate>Thu, 30 Jul 2026 13:29:21 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is struggling to recover after the Federal Reserve’s (Fed) hawkish hold, as Chair Kevin Warsh’s tough inflation rhetoric failed to convince markets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Fed holds rates and supports Dollar – HSBC]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-fed-holds-rates-and-supports-dollar-hsbc-202607301318</link>
-            <guid isPermaLink="false">ff36e651-ad23-4d6b-b54a-38afe33db853</guid>
-            <pubDate>Thu, 30 Jul 2026 13:18:24 GMT</pubDate>
-            <description><![CDATA[HSBC’s Jose Rasco and Michael Zervos note that the US Federal Reserve (Fed) kept rates unchanged for a fifth straight meeting, with a 9-3 split highlighting internal debate.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Turkish Lira: Bank stress heightens TRY vulnerability – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/turkish-lira-bank-stress-heightens-try-vulnerability-commerzbank-202607301306</link>
-            <guid isPermaLink="false">d8b7ad1b-67e4-453b-aa13-9955d4b6dab8</guid>
-            <pubDate>Thu, 30 Jul 2026 13:06:07 GMT</pubDate>
-            <description><![CDATA[Tatha Ghose at Commerzbank flags Fitch’s latest review of Turkish banks as another negative signal for the Lira. Profitability has weakened after regulatory changes on FX risk-weighted assets, with capital ratios lower and margins squeezed by prior rate cuts and high costs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/turkish-lira-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Rally against EUR and USD unlikely to last – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-rally-against-eur-and-usd-unlikely-to-last-td-securities-202607301253</link>
-            <guid isPermaLink="false">d091e77a-fd20-4e50-9650-4aa7027417b7</guid>
-            <pubDate>Thu, 30 Jul 2026 12:53:10 GMT</pubDate>
-            <description><![CDATA[TD Securities FX strategist Howard Du highlights that GBP/USD initially rose 0.3% on the hawkish 6-3 BoE vote split, with Mann joining the hike camp. However, the rest of the committee appears comfortable holding rates given limited second-round effects.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US PCE inflation data confirm steady disinflation]]></title>
-            <link>https://www.fxstreet.com/news/us-pce-inflation-data-confirm-steady-disinflation-202607301250</link>
-            <guid isPermaLink="false">c53c5581-19fb-4f26-a7a5-d649e2d68e1f</guid>
-            <pubDate>Thu, 30 Jul 2026 12:50:16 GMT</pubDate>
-            <description><![CDATA[The United States (US) Personal Consumption Expenditures (PCE) Price Index pointed to a further moderation in inflation in June. The headline index fell by 0.1% MoM after a revised 0.5% increase in May, while the annual rate eased to 3.7% from 4.1%, in line with market expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-43.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BoE Press Conference: Governor Bailey speaks on interest rate outlook after July policy hold]]></title>
-            <link>https://www.fxstreet.com/news/boe-interest-rate-expected-to-remain-unchanged-at-375-as-markets-look-for-policy-clues-202607300900</link>
-            <guid isPermaLink="false">4c5b4b64-ba62-4d4a-9f29-e1ddb5519fdd</guid>
-            <pubDate>Thu, 30 Jul 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[Bank of England (BoE) Governor Andrew Bailey explains the decision to maintain the bank rate at 3.75% in a 6-3 vote split following the July monetary policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Andrew-Bailey_4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
