@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 30 Jul 2026 17:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 18:47:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[China: Consumption pivot points to slower growth - Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/china-consumption-pivot-points-to-slower-growth-rabobank-202607301813</link>
+            <guid isPermaLink="false">7a02a866-79f0-4c0b-95c9-5520d1243b83</guid>
+            <pubDate>Thu, 30 Jul 2026 18:13:00 GMT</pubDate>
+            <description><![CDATA[Rabobank’s Teeuwe Mevissen highlights that China’s Gross Domestic Product (GDP) growth undershot expectations in Q2, with persistent headwinds from weak domestic demand and a deepening real estate crisis.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/china-people-bank-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar climbs to 1.4000 against US Dollar after suspected Japanese intervention]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-climbs-to-14000-against-us-dollar-after-suspected-japanese-intervention-202607301806</link>
+            <guid isPermaLink="false">c19538d6-d92e-44b5-b604-c82ef3ebae89</guid>
+            <pubDate>Thu, 30 Jul 2026 18:06:31 GMT</pubDate>
+            <description><![CDATA[USD/CAD extends its decline on Thursday, slipping to a six-week low as the US Dollar (USD) weakens across the board following a sharp rally in the Japanese Yen (JPY). At the time of writing, the pair trades around 1.3996, staying on the back foot for a third consecutive day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver rises as softer US inflation weighs on US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/silver-rises-as-softer-us-inflation-weighs-on-us-dollar-202607301800</link>
+            <guid isPermaLink="false">ac72114d-4b4c-4bd5-a886-56abd3540e92</guid>
+            <pubDate>Thu, 30 Jul 2026 18:00:35 GMT</pubDate>
+            <description><![CDATA[Silver prices advance toward $58.80 per ounce on Thursday, gaining around 1.7% as softer United States inflation data and weaker-than-expected economic growth place pressure on the US Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore: Fiscal and FX coordination on policy – DBS]]></title>
+            <link>https://www.fxstreet.com/news/singapore-fiscal-and-fx-coordination-on-policy-dbs-202607301731</link>
+            <guid isPermaLink="false">1f3bc470-54f1-4a3b-a637-4a49208d4232</guid>
+            <pubDate>Thu, 30 Jul 2026 17:31:44 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economist Chua Han Teng analyzes Singapore’s latest SGD900mn fiscal support package and the Monetary Authority of Singapore’s (MAS) calibrated tightening of the Singapore Dollar (SGD) Nominal Effective Exchange Rate (NEER) band.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NASDAQ 100 rallies on one earnings report, while Dow Jones Industrial Average barely moves]]></title>
             <link>https://www.fxstreet.com/news/the-nasdaq-100-rallies-on-one-earnings-report-while-the-dow-jones-industrial-average-barely-moves-202607301604</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 30 Jul 2026 09:00:00 GMT</pubDate>
             <description><![CDATA[Bank of England (BoE) Governor Andrew Bailey explains the decision to maintain the bank rate at 3.75% in a 6-3 vote split following the July monetary policy meeting and responds to questions from the press.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Andrew-Bailey_4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA sees inflation still above target – BNY]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-sees-inflation-still-above-target-bny-202607301243</link>
-            <guid isPermaLink="false">887eafeb-dfa0-4448-8172-fa80f6f74372</guid>
-            <pubDate>Thu, 30 Jul 2026 12:43:38 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu reports that Reserve Bank of Australia (RBA) Assistant Governor Sarah Hunter described Australia’s Consumer Price Index (CPI) as slightly softer than expected, mainly due to fuel prices, but stressed inflation remains above the 2–3% band.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: US GDP expands 1.5% in Q2 vs 2.1% expected]]></title>
-            <link>https://www.fxstreet.com/news/us-gdp-expected-to-grow-at-21-in-q2-unshaken-by-iran-conflict-202607300830</link>
-            <guid isPermaLink="false">4863b38a-e4b7-48e1-8810-73411b80dbc8</guid>
-            <pubDate>Thu, 30 Jul 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[The United States' (US) Gross Domestic Product expanded at an annual rate of 1.5% in the second quarter, the US Bureau of Economic Analysis' (BEA) first estimate showed on Thursday. This print followed the 2.1% growth recorded in the first quarter and came in below the market expectation of 2.1%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar: Business survey supports RBNZ hikes – BBH]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-business-survey-supports-rbnz-hikes-bbh-202607301235</link>
-            <guid isPermaLink="false">078643b6-5b2b-469e-acfd-bab0b0a28683</guid>
-            <pubDate>Thu, 30 Jul 2026 12:35:16 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the New Zealand Dollar (NZD) is stronger against major currencies, with local bonds underperforming as domestic data improve.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound steadies against Euro as BoE leaves interest rate unchanged]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-steadies-against-euro-as-boe-leaves-interest-rate-unchanged-202607301230</link>
-            <guid isPermaLink="false">9bb916fe-f414-4c2f-9f25-c118c33b91ff</guid>
-            <pubDate>Thu, 30 Jul 2026 12:30:18 GMT</pubDate>
-            <description><![CDATA[EUR/GBP trades almost flat on Thursday, hovering close to its highest level in nearly a month as the British Pound (GBP) modestly outperforms the Euro (EUR) following the Bank of England’s (BoE) monetary policy decision.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
