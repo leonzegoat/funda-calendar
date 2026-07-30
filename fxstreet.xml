@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 30 Jul 2026 15:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 17:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NASDAQ 100 rallies on one earnings report, while Dow Jones Industrial Average barely moves]]></title>
+            <link>https://www.fxstreet.com/news/the-nasdaq-100-rallies-on-one-earnings-report-while-the-dow-jones-industrial-average-barely-moves-202607301604</link>
+            <guid isPermaLink="false">3532d238-d28a-4d9b-9282-3a8a82091e5b</guid>
+            <pubDate>Thu, 30 Jul 2026 16:04:30 GMT</pubDate>
+            <description><![CDATA[The rebound in United States equities on Thursday is real, and it is one name deep. The NASDAQ 100 (NDX) trades near 27,950 after a gain of almost 3%, having printed its lowest level in two months in the 27,200 area inside the opening minutes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index slumps as suspected Japanese intervention rattles markets]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-slumps-as-suspected-japanese-intervention-rattles-markets-202607301554</link>
+            <guid isPermaLink="false">6a89b8cc-df73-4b71-8611-3b582e081e0f</guid>
+            <pubDate>Thu, 30 Jul 2026 15:54:37 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) tumbles on Thursday as a sharp surge in the Japanese Yen (JPY) fuels speculation that Japanese authorities intervened to support the currency. USD/JPY plunged nearly 480 pips, falling below the psychological 160 mark and dragging the Greenback lower across the board.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia: Balanced macro profile supports Ringgit – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/malaysia-balanced-macro-profile-supports-ringgit-mufg-202607301551</link>
+            <guid isPermaLink="false">1ecefbdd-b117-4660-94d3-9000c1a6cede</guid>
+            <pubDate>Thu, 30 Jul 2026 15:51:00 GMT</pubDate>
+            <description><![CDATA[MUFG notes Malaysia remains one of Asia’s stronger-performing economies, with above-trend growth, low inflation and robust external demand, especially in electronics.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Malaysia2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound surges on BoE hawkish hold, Yen intervention crushes USD]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-surges-on-boe-hawkish-hold-yen-intervention-crushes-usd-202607301550</link>
+            <guid isPermaLink="false">dbc73b76-4727-4294-8b23-f690a52172d6</guid>
+            <pubDate>Thu, 30 Jul 2026 15:50:59 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling registers gains versus the US Dollar after the Bank of England decided to hold rates unchanged, in a 6-3 vote, while suspected intervention to propel the Japanese Yen weakened the Greenback against most G8 currencies. The GBP/USD trades at 1.3430, up 0.40%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro rises as Eurozone growth outpaces forecasts ]]></title>
+            <link>https://www.fxstreet.com/news/euro-rises-as-eurozone-growth-outpaces-forecasts-202607301547</link>
+            <guid isPermaLink="false">fb336ea7-779c-4eaa-b137-b6ed7736b27d</guid>
+            <pubDate>Thu, 30 Jul 2026 15:47:55 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades higher near the 1.1460 area on Thursday as stronger-than-expected European economic data and softer United States (US) growth figures place pressure on the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-chart.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar tumbles against Japanese Yen on suspected intervention]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-tumbles-against-japanese-yen-on-suspected-intervention-202607301512</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 30 Jul 2026 12:30:18 GMT</pubDate>
             <description><![CDATA[EUR/GBP trades almost flat on Thursday, hovering close to its highest level in nearly a month as the British Pound (GBP) modestly outperforms the Euro (EUR) following the Bank of England’s (BoE) monetary policy decision.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: September hike risk stays elevated – ABN AMRO]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-september-hike-risk-stays-elevated-abn-amro-202607301226</link>
-            <guid isPermaLink="false">7a03f141-c9fa-483f-a9de-857a437d67dd</guid>
-            <pubDate>Thu, 30 Jul 2026 12:26:27 GMT</pubDate>
-            <description><![CDATA[ABN AMRO strategists analyze the latest Federal Reserve decision to keep the federal funds rate at 3.5-3.75%. They highlight dissenting votes, Kevin Warsh’s emphasis on the 2% inflation target, and the Fed’s reliance on market signals.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Bailey speech: Encouraging CPI is below where we thought it would be]]></title>
-            <link>https://www.fxstreet.com/news/bailey-speech-encouraging-cpi-is-below-where-we-thought-it-would-be-202607301222</link>
-            <guid isPermaLink="false">eae5b75f-6b8d-43cd-9760-44f4f1bc6941</guid>
-            <pubDate>Thu, 30 Jul 2026 12:22:16 GMT</pubDate>
-            <description><![CDATA[Bank of England (BoE) Governor Andrew Bailey explains the decision to maintain the bank rate at 3.75% in a 6-3 vote split following the July monetary policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Bailey speech: Need to raise rates if Mideast conflict leads to second-round effects]]></title>
-            <link>https://www.fxstreet.com/news/bailey-speech-need-to-raise-rates-if-mideast-conflict-leads-to-2nd-round-effects-202607301217</link>
-            <guid isPermaLink="false">275cf966-b427-4a88-842f-7cab1b392a8c</guid>
-            <pubDate>Thu, 30 Jul 2026 12:17:45 GMT</pubDate>
-            <description><![CDATA[Bank of England (BoE) Governor Andrew Bailey explains the decision to maintain the bank rate at 3.75% in a 6-3 vote split following the July monetary policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Hawkish hold tempers USD strength – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-hawkish-hold-tempers-usd-strength-ing-202607301216</link>
-            <guid isPermaLink="false">f1c39d86-61f3-48e8-9e63-a4f2d9604b6f</guid>
-            <pubDate>Thu, 30 Jul 2026 12:16:39 GMT</pubDate>
-            <description><![CDATA[ING's Knightley and Turner highlight that a neutral‑hawkish Fed hold has slightly weakened the Dollar, reversing positioning that had shifted toward a rate hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bailey speech: Ready to adjust our stance as evidence evolves]]></title>
-            <link>https://www.fxstreet.com/news/bailey-speech-ready-to-adjust-our-stance-as-evidence-evolves-202607301210</link>
-            <guid isPermaLink="false">e9131eaa-30c6-4d2c-8c8f-aa7dcb51fd9d</guid>
-            <pubDate>Thu, 30 Jul 2026 12:10:25 GMT</pubDate>
-            <description><![CDATA[Bank of England (BoE) Governor Andrew Bailey explains the decision to maintain the bank rate at 3.75% in a 6-3 vote split following the July monetary policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Andrew-Bailey_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
