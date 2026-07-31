@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 31 Jul 2026 18:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 19:54:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Bulls defend 50-day SMA as rebound builds]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-defend-50-day-sma-as-rebound-builds-202607311949</link>
+            <guid isPermaLink="false">f77a2609-cd6c-47da-b769-9e82b70d6f03</guid>
+            <pubDate>Fri, 31 Jul 2026 19:49:05 GMT</pubDate>
+            <description><![CDATA[The USD/CHF bounces off weekly lows and meanders around 0.8080 after hitting a daily high of 0.8127, amid presumed intervention, with Nikkei reporting that the US Treasury Department has told currency market participants to prepare for additional intervention, following Thursday's action by Japanese]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-realistic.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold slides as US yields surge, keeping $4,100 out of reach]]></title>
+            <link>https://www.fxstreet.com/news/gold-slides-as-us-yields-surge-keeping-4-100-out-of-reach-202607311944</link>
+            <guid isPermaLink="false">6096d20d-fc75-4fcd-9708-e4f6666b513d</guid>
+            <pubDate>Fri, 31 Jul 2026 19:44:44 GMT</pubDate>
+            <description><![CDATA[Gold price tumbles nearly 1.50% on Friday as the US Dollar recovers some ground after Japanese authorities intervened in the foreign exchange markets a day ago, driving the Greenback to a 30-day low before recovering, according to the US Dollar Index (DXY). The XAU/USD trades at $4,045.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Japanese Yen has a second buyer nobody will name]]></title>
+            <link>https://www.fxstreet.com/news/the-japanese-yen-has-a-second-buyer-nobody-will-name-202607311901</link>
+            <guid isPermaLink="false">bbcb6fed-432b-4810-a4bb-65e9fefb470e</guid>
+            <pubDate>Fri, 31 Jul 2026 19:01:22 GMT</pubDate>
+            <description><![CDATA[Thursday's record Yen defence is the story everyone has written.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index struggles near 100 after suspected Japanese intervention]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-struggles-near-100-after-suspected-japanese-intervention-202607311855</link>
+            <guid isPermaLink="false">c4ec092f-4220-489b-9e6f-f2ec28fb198b</guid>
+            <pubDate>Fri, 31 Jul 2026 18:55:14 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) struggles to hold its early recovery on Friday as the fallout from suspected Japanese intervention and the possibility of direct action by the United States (US) keep the Greenback under pressure. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed's Barkin: It's a close call whether interest rates are high enough]]></title>
+            <link>https://www.fxstreet.com/news/feds-barkin-its-a-close-call-whether-interest-rates-are-high-enough-202607311824</link>
+            <guid isPermaLink="false">44ccdfa8-da4c-4b8c-91f0-eb9763e10ec0</guid>
+            <pubDate>Fri, 31 Jul 2026 18:24:36 GMT</pubDate>
+            <description><![CDATA[Richmond Federal Reserve (Fed) President Tom Barkin said on Friday that it remains uncertain whether the current level of interest rates is sufficiently restrictive to bring inflation back to the Fed's 2% target, according to an interview with The Wall Street Journal.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Euro recovers as Eurozone inflation stays firm ]]></title>
             <link>https://www.fxstreet.com/news/euro-recovers-as-eurozone-inflation-stays-firm-202607311800</link>
@@ -24,7 +64,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Two earnings shocks cancel inside the Dow Jones Industrial Average]]></title>
+            <title><![CDATA[Two earnings shocks cancel each other inside the Dow Jones Industrial Average]]></title>
             <link>https://www.fxstreet.com/news/two-earnings-shocks-cancel-inside-the-dow-jones-industrial-average-202607311657</link>
             <guid isPermaLink="false">528f08e3-1a95-4974-906f-c7a3b9f3dd8c</guid>
             <pubDate>Fri, 31 Jul 2026 16:57:36 GMT</pubDate>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 31 Jul 2026 12:30:50 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Carsten Fritsch notes that gold briefly traded above USD 4,100 after the Fed meeting as markets pared back expectations of further rate hikes. Fed funds futures nevertheless continue to imply additional tightening, while persistent inflation is keeping those expectations alive.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Softer BoE stance seen weighing on Sterling – BBH]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-softer-boe-stance-seen-weighing-on-sterling-bbh-202607311220</link>
-            <guid isPermaLink="false">ed7c19d9-d1a8-482e-b4a7-703b00e765d4</guid>
-            <pubDate>Fri, 31 Jul 2026 12:20:16 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights that the Bank of England (BoE) left rates at 3.75% with a 6–3 vote, while Governor Andrew Bailey pushed back against expectations of an imminent hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: ECB September hike still base case – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/euro-ecb-september-hike-still-base-case-td-securities-202607311209</link>
-            <guid isPermaLink="false">0c8c13ce-a395-49fc-96c6-f845671c16d9</guid>
-            <pubDate>Fri, 31 Jul 2026 12:09:01 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists highlight that Euro area Harmonised Index of Consumer Prices (HICP) inflation rose to 2.9% y/y in July, with core inflation at 2.5% and services inflation at 3.3%, indicating only limited evidence of meaningful second-round effects.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-eur.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Policy credibility and intervention dynamics – BNY]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-policy-credibility-and-intervention-dynamics-bny-202607311157</link>
-            <guid isPermaLink="false">188594d3-27e3-4dd4-9f68-538f5c07a0f6</guid>
-            <pubDate>Fri, 31 Jul 2026 11:57:30 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu highlights that the Japanese Yen (JPY) entered the latest Bank of Japan (BoJ) decision and suspected intervention with weak flow momentum and lighter positioning, even as investors remained net long JPY and net short USD/JPY.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD remains under pressure as bond yields, US Dollar rebound]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-under-pressure-as-bond-yields-us-dollar-rebound-202607311149</link>
-            <guid isPermaLink="false">4ce8c8b0-18ae-40dd-ad1e-03da3d066601</guid>
-            <pubDate>Fri, 31 Jul 2026 11:49:27 GMT</pubDate>
-            <description><![CDATA[Silver price (XAG/USD) is down 1.7% to near $58.00 during the European trading session on Friday. The white metal continues to decline throughout the day as United States (US) Treasury Yields have bounced back amid fears that inflationary pressures will remain elevated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Conflict risks keep prices elevated – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/brent-conflict-risks-keep-prices-elevated-commerzbank-202607311145</link>
-            <guid isPermaLink="false">0471d1b8-8eea-4f49-a44e-f87b944da341</guid>
-            <pubDate>Fri, 31 Jul 2026 11:45:38 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Norman Liebke and colleagues highlight that Brent remains volatile as Middle East tensions and shipping disruptions through key chokepoints constrain supply.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
