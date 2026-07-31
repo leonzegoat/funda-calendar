@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 31 Jul 2026 19:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 21:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NZD/USD Price Forecast: Bulls eye 0.6000 after SMA break]]></title>
+            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-bulls-eye-06000-after-sma-break-202607312015</link>
+            <guid isPermaLink="false">1b50ae33-037e-42a2-bbea-634950c1905d</guid>
+            <pubDate>Fri, 31 Jul 2026 20:15:11 GMT</pubDate>
+            <description><![CDATA[The Kiwi Dollar extends its three-day rally, climbing above 0.5850 and is poised to challenge 0.5900 amid improving risk appetite and broad US Dollar weakness. The clearance of the 200-day Simple Moving Average (SMA) supports the bullish trend, as traders eye the May monthly high at 0.5995.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forecasting the upcoming week: US labor market takes center stage after hawkish Fed split]]></title>
+            <link>https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-labor-market-takes-center-stage-after-hawkish-fed-split-202607312014</link>
+            <guid isPermaLink="false">6fb6224c-4d10-4007-86ca-f73304a5c5a7</guid>
+            <pubDate>Fri, 31 Jul 2026 20:14:39 GMT</pubDate>
+            <description><![CDATA[The first full week of August will test whether the US Dollar can recover from its sell-off during the last week of July as investors shift their attention from central bank decisions to a fresh round of economic data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_newspaper.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[USD/CHF Price Forecast: Bulls defend 50-day SMA as rebound builds]]></title>
             <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-defend-50-day-sma-as-rebound-builds-202607311949</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 31 Jul 2026 12:46:07 GMT</pubDate>
             <description><![CDATA[TD Securities notes the Bank of Japan (BoJ) left its policy rate at 1% with an 8–1 vote, as Governor Ueda delivered notably hawkish remarks. Despite this, the Japanese Yen (JPY) reaction was muted, and the TD forecasts the next 25 bps hike only in December.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: Canada's GDP expanded by 0.3% MoM in May]]></title>
-            <link>https://www.fxstreet.com/news/breaking-canadas-gdp-expanded-by-03-mom-in-may-202607311234</link>
-            <guid isPermaLink="false">7dd9553b-a4d5-4417-8089-d8da9e82b6c3</guid>
-            <pubDate>Fri, 31 Jul 2026 12:34:09 GMT</pubDate>
-            <description><![CDATA[Canada’s economy cooled a tad in May. Indeed, the Gross Domestic Product (GDP) grew by 0.3%, adding to the previous month's 0.6% expansion (revised from 0.5%), according to data released by Statistics Canada.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Reduced Fed hike bets support prices - Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/gold-reduced-fed-hike-bets-support-prices-commerzbank-202607311230</link>
-            <guid isPermaLink="false">2361a508-c356-4f11-a82b-eda3d052fec6</guid>
-            <pubDate>Fri, 31 Jul 2026 12:30:50 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Carsten Fritsch notes that gold briefly traded above USD 4,100 after the Fed meeting as markets pared back expectations of further rate hikes. Fed funds futures nevertheless continue to imply additional tightening, while persistent inflation is keeping those expectations alive.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
