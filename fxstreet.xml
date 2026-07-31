@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 31 Jul 2026 14:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 16:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI Oil recovers above $83 ahead of OPEC meeting]]></title>
+            <link>https://www.fxstreet.com/news/wti-oil-recovers-above-83-ahead-of-opec-meeting-202607311611</link>
+            <guid isPermaLink="false">eda23671-846e-4ee7-9645-12d5d4e0cfe7</guid>
+            <pubDate>Fri, 31 Jul 2026 16:11:28 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) US Oil trades higher on Friday, rising 0.76% to around $83.30 after staging a sharp rebound from an intraday low below $80.00.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar holds despite weak Chinese PMIs ]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-holds-despite-weak-chinese-pmis-202607311605</link>
+            <guid isPermaLink="false">0c4309c0-6e7e-4ca4-83e0-c94fc42bbb27</guid>
+            <pubDate>Fri, 31 Jul 2026 16:05:14 GMT</pubDate>
+            <description><![CDATA[AUD/USD trades around the 0.7020 area during Friday's American session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound holds firm as USD rebounds from intervention rout]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-holds-firm-as-usd-rebounds-from-intervention-rout-202607311600</link>
+            <guid isPermaLink="false">9ac29a43-8847-48d4-8f1e-01308a2ac806</guid>
+            <pubDate>Fri, 31 Jul 2026 16:00:45 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling retreats some 0.02% on Friday as the Greenback stages a recovery following Thursday’s intervention day, which weakened the US Dollar Index (DXY) to a 30-day low. At the time of writing, the GBP/USD trades at 1.3458, virtually unchanged.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc trims losses against US Dollar amid Japanese intervention concerns]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-trims-losses-against-us-dollar-amid-japanese-intervention-concerns-202607311544</link>
+            <guid isPermaLink="false">de5991f1-b2a5-4fc9-b9f4-9e4810c832a3</guid>
+            <pubDate>Fri, 31 Jul 2026 15:44:35 GMT</pubDate>
+            <description><![CDATA[USD/CHF trims part of its earlier gains on Friday as the US Dollar (USD) struggles to regain momentum following Thursday’s sharp sell-off, which was driven by suspected intervention by Japanese authorities to curb excessive weakness in the Japanese Yen (JPY).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-chf-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of Canada: Strong GDP lowers cut risk – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-canada-strong-gdp-lowers-cut-risk-td-securities-202607311459</link>
+            <guid isPermaLink="false">db43288c-a1d4-4064-bdb1-92350b915062</guid>
+            <pubDate>Fri, 31 Jul 2026 14:59:13 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Robert Both and Emma Lawrence note that stronger-than-expected Canadian Gross Domestic Product (GDP) data support a brighter growth outlook but do not materially change their Bank of Canada (BoC) view.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Intervention slows but does not reverse trend – ING]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-intervention-slows-but-does-not-reverse-trend-ing-202607311446</link>
+            <guid isPermaLink="false">ec33d3d5-91dc-4526-b9a9-6dcf00afabba</guid>
+            <pubDate>Fri, 31 Jul 2026 14:46:25 GMT</pubDate>
+            <description><![CDATA[ING’s Chris Turner describes USD/JPY’s rollercoaster, with a 3% drop on reported Japanese intervention followed by a near 2% rebound. He notes that coordinated Fed-Treasury involvement was key in January but now sees the story as having moved on.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold declines as firmer US Dollar, hawkish Fed outlook weigh]]></title>
+            <link>https://www.fxstreet.com/news/gold-declines-as-firmer-us-dollar-and-hawkish-fed-outlook-weigh-202607311148</link>
+            <guid isPermaLink="false">0b3c027c-dbfe-4383-997c-53b8552be102</guid>
+            <pubDate>Fri, 31 Jul 2026 11:48:49 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) edges lower on Friday as the US Dollar (USD) stabilizes following the previous day’s sharp sell-off, while hawkish Federal Reserve (Fed) expectations remain a key headwind for the non-yielding metal.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Zealnd Dollar weakens after China PMI miss as the US Dollar rebounds]]></title>
             <link>https://www.fxstreet.com/news/new-zealnd-dollar-weakens-after-china-pmi-miss-as-the-us-dollar-rebounds-202607311436</link>
@@ -70,14 +126,6 @@
             <pubDate>Fri, 31 Jul 2026 13:34:12 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports that USD/JPY briefly fell about five big figures to 158.00 on suspected Japanese intervention before rebounding near 161.00 and then dropping again.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold declines as firmer US Dollar, hawkish Fed outlook weigh]]></title>
-            <link>https://www.fxstreet.com/news/gold-declines-as-firmer-us-dollar-and-hawkish-fed-outlook-weigh-202607311148</link>
-            <guid isPermaLink="false">0b3c027c-dbfe-4383-997c-53b8552be102</guid>
-            <pubDate>Fri, 31 Jul 2026 11:48:49 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) edges lower on Friday as the US Dollar (USD) stabilizes following the previous day’s sharp sell-off, while hawkish Federal Reserve (Fed) expectations remain a key headwind for the non-yielding metal.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[India: RBI hold expectations shape policy outlook – ING]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 31 Jul 2026 11:21:08 GMT</pubDate>
             <description><![CDATA[AUD/USD trades around 0.7030 at the time of writing on Friday, little changed on the day after Thursday's strong rally.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Balanced growth supports CAD – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-balanced-growth-supports-cad-td-securities-202607311114</link>
-            <guid isPermaLink="false">b5ae9ea3-e7c0-45a9-8028-c6348624a06f</guid>
-            <pubDate>Fri, 31 Jul 2026 11:14:57 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists expect Canadian real Gross Domestic Product (GDP) to rise by 0.2% m/m in May, exceeding the flash estimate and extending April’s 0.5% gain. They highlight balanced growth across goods and services, with manufacturing, existing home sales and retail trade all contributing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee sets for bets weekly close in four months]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-week-high-against-us-dollar-202607310543</link>
-            <guid isPermaLink="false">8000ef0b-49e0-4319-bac0-2fbc7ea23e39</guid>
-            <pubDate>Fri, 31 Jul 2026 05:43:47 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) extends the week-long rally against the US Dollar (USD) on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Experts agree: The US Dollar rally might have found serious headwinds]]></title>
-            <link>https://www.fxstreet.com/news/experts-agree-the-us-dollar-rally-might-have-found-serious-headwinds-202607311025</link>
-            <guid isPermaLink="false">8ede086f-d87f-4077-af12-a54d2f4b4d10</guid>
-            <pubDate>Fri, 31 Jul 2026 10:25:00 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) attempts to cling above the 100.00 psychological level on Friday after a nearly 1.5% selloff in the previous three days, as the Federal Reserve's (Fed) lack of forward guidance at Wednesday's monetary policy meeting raised concerns that the bank might fail on its commitment]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Post-Fed losses extend as positioning unwinds – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-post-fed-losses-extend-as-positioning-unwinds-ing-202607311005</link>
-            <guid isPermaLink="false">d3db8055-6719-47c1-ae64-445d8952ed75</guid>
-            <pubDate>Fri, 31 Jul 2026 10:05:31 GMT</pubDate>
-            <description><![CDATA[ING’s Francesco Pesole notes the Dollar’s post-FOMC selloff has accelerated, with DXY briefly dipping below 100.0 and returning to levels seen after Kevin Warsh’s June press conference. He highlights stretched net-long USD positioning versus G9 and large EUR/USD shorts.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro rebounds vs Yen as BoJ rate hold, Eurozone inflation support]]></title>
-            <link>https://www.fxstreet.com/news/euro-rebounds-vs-yen-as-boj-rate-hold-eurozone-inflation-support-202607311002</link>
-            <guid isPermaLink="false">fc71ae77-9aef-42b1-ae27-609c2df46687</guid>
-            <pubDate>Fri, 31 Jul 2026 10:02:54 GMT</pubDate>
-            <description><![CDATA[EUR/JPY trades around 184.00 on Friday, stabilizing after the sharp volatility seen on Thursday. The cross plunged to near 182.00 from around 187.00, losing almost 500 pips within minutes after what appears to have been another intervention by Japanese authorities in the foreign exchange market.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Wide range trading outlook – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-wide-range-trading-outlook-td-securities-202607310954</link>
-            <guid isPermaLink="false">82291dce-7212-4f47-8520-203a2f410d52</guid>
-            <pubDate>Fri, 31 Jul 2026 09:54:49 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Alex Loo notes that despite Governor Ueda’s hawkish tone, the Japanese Yen reaction was muted and the BoJ kept its policy rate at 1%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
