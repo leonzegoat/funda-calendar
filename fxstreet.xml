@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 31 Jul 2026 21:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 22:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US and Israel plan to attack Iran's energy infrastructure – CBS News]]></title>
+            <link>https://www.fxstreet.com/news/us-and-israel-plan-to-attack-irans-energy-infrastructure-cbs-news-202607312202</link>
+            <guid isPermaLink="false">a57c4812-03c9-4c07-bed5-8e3c2568136a</guid>
+            <pubDate>Fri, 31 Jul 2026 22:02:48 GMT</pubDate>
+            <description><![CDATA[CBS News reported that the United States and Israel may engage in a large campaign against Iran, targeting Iran's energy infrastructure, said multiple sources.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NZD/USD Price Forecast: Bulls eye 0.6000 after SMA break]]></title>
             <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-bulls-eye-06000-after-sma-break-202607312015</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Jul 2026 13:02:12 GMT</pubDate>
             <description><![CDATA[USD/CAD trades around 1.4045 on Friday at the time of writing, recovering from a two-week low hit on Thursday at 1.3991.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ patience keeps wide trading range – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-patience-keeps-wide-trading-range-td-securities-202607311246</link>
-            <guid isPermaLink="false">1f294b57-e3dd-4f56-b32b-70ba872969c8</guid>
-            <pubDate>Fri, 31 Jul 2026 12:46:07 GMT</pubDate>
-            <description><![CDATA[TD Securities notes the Bank of Japan (BoJ) left its policy rate at 1% with an 8–1 vote, as Governor Ueda delivered notably hawkish remarks. Despite this, the Japanese Yen (JPY) reaction was muted, and the TD forecasts the next 25 bps hike only in December.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
