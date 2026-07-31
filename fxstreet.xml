@@ -4,9 +4,153 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 31 Jul 2026 12:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 14:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealnd Dollar weakens after China PMI miss as the US Dollar rebounds]]></title>
+            <link>https://www.fxstreet.com/news/new-zealnd-dollar-weakens-after-china-pmi-miss-as-the-us-dollar-rebounds-202607311436</link>
+            <guid isPermaLink="false">62bb08cb-e277-4988-8af2-466ae6e28959</guid>
+            <pubDate>Fri, 31 Jul 2026 14:36:06 GMT</pubDate>
+            <description><![CDATA[NZD/USD trades around 0.5860 on Friday, down 0.33% on the day, as investors react to another deterioration in Chinese business activity.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Range seen around mid‑1.15s against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/euro-range-seen-around-mid-115s-against-us-dollar-scotiabank-202607311435</link>
+            <guid isPermaLink="false">1a513102-2e6d-40b4-9333-d85f0bcbd578</guid>
+            <pubDate>Fri, 31 Jul 2026 14:35:34 GMT</pubDate>
+            <description><![CDATA[Scotiabank’s FX team notes EUR/USD is drifting toward 1.15 after a Fed‑driven rally, with euro area CPI broadly in line with expectations and French data briefly lifting the Euro. Rate expectations are stabilizing, with about 42 bps of tightening priced by December.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen strengthens against British Pound amid intervention speculation]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-strengthens-against-british-pound-amid-intervention-speculation-202607311432</link>
+            <guid isPermaLink="false">0000a4bb-3542-488d-a5d8-90d76266625c</guid>
+            <pubDate>Fri, 31 Jul 2026 14:32:14 GMT</pubDate>
+            <description><![CDATA[GBP/JPY extends its slide on Friday as suspected intervention by Japanese authorities rattles the FX market and lifts the Yen across the board, pushing the cross further away from the multi-year high of 219.16 touched earlier this month.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen surges amid hawkish BoJ ]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-surges-amid-hawkish-boj-202607311420</link>
+            <guid isPermaLink="false">326f7bb8-4557-4a7a-b5a2-8f6a9c8c29d0</guid>
+            <pubDate>Fri, 31 Jul 2026 14:20:29 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades sharply lower near the 159.50 area on Friday as the Japanese Yen (JPY) strengthens following intervention by Japanese authorities and a relatively hawkish Bank of Japan (BoJ) policy announcement.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/PM-japan-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada: Growth outpaces forecasts – RBC]]></title>
+            <link>https://www.fxstreet.com/news/canada-growth-outpaces-forecasts-rbc-202607311417</link>
+            <guid isPermaLink="false">610dd139-19fb-4a91-ad93-4286f87a1cba</guid>
+            <pubDate>Fri, 31 Jul 2026 14:17:21 GMT</pubDate>
+            <description><![CDATA[Royal Bank of Canada (RBC) economists Abbey Xu and Nathan Janzen note that Canadian Gross Domestic Product (GDP) rose 0.3% in May, with an advance estimate of 0.2% for June, indicating a solid second-quarter rebound after winter stagnation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: Broad-based Q2 GDP strength beyond AI – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/united-states-broad-based-q2-gdp-strength-beyond-ai-td-securities-202607311405</link>
+            <guid isPermaLink="false">718964b9-7014-4d1d-ad37-653e35f1f9e8</guid>
+            <pubDate>Fri, 31 Jul 2026 14:05:20 GMT</pubDate>
+            <description><![CDATA[TD Securities economists Eli Nir and Oscar Munoz highlight that Q2 United States (US) Gross Domestic Product (GDP) growth slowed to 1.5% q/q AR, but underlying private domestic final purchases accelerated to 3.9%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Aluminium: Tightness points to higher prices – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/aluminium-tightness-points-to-higher-prices-commerzbank-202607311349</link>
+            <guid isPermaLink="false">8119c821-97ed-468c-a7c6-f96ac02da8f7</guid>
+            <pubDate>Fri, 31 Jul 2026 13:49:43 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Norman Liebke highlights that China’s July trade data will be key for base metals, especially Aluminium. Chinese Aluminium output in H1 exceeded the official cap, suggesting production may ease later this year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Intervention risk and hawkish BoJ support Yen – BBH]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-hawkish-boj-support-yen-bbh-202607311334</link>
+            <guid isPermaLink="false">610fe9b9-9419-415c-a477-f4c57d47338e</guid>
+            <pubDate>Fri, 31 Jul 2026 13:34:12 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports that USD/JPY briefly fell about five big figures to 158.00 on suspected Japanese intervention before rebounding near 161.00 and then dropping again.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold declines as firmer US Dollar, hawkish Fed outlook weigh]]></title>
+            <link>https://www.fxstreet.com/news/gold-declines-as-firmer-us-dollar-and-hawkish-fed-outlook-weigh-202607311148</link>
+            <guid isPermaLink="false">0b3c027c-dbfe-4383-997c-53b8552be102</guid>
+            <pubDate>Fri, 31 Jul 2026 11:48:49 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) edges lower on Friday as the US Dollar (USD) stabilizes following the previous day’s sharp sell-off, while hawkish Federal Reserve (Fed) expectations remain a key headwind for the non-yielding metal.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India: RBI hold expectations shape policy outlook – ING]]></title>
+            <link>https://www.fxstreet.com/news/india-rbi-hold-expectations-shape-policy-outlook-ing-202607311320</link>
+            <guid isPermaLink="false">848942b9-4016-4252-9452-d4f061d12f80</guid>
+            <pubDate>Fri, 31 Jul 2026 13:20:47 GMT</pubDate>
+            <description><![CDATA[ING economists Deepali Bhargava and Lynn Song expect the Reserve Bank of India to keep the repo rate at 5.25% this week. They note that while June headline inflation rose on higher fuel prices, core inflation remains below target.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro slips back below 1.1500 as US Dollar recovers]]></title>
+            <link>https://www.fxstreet.com/news/euro-slips-back-below-11500-as-us-dollar-recovers-202607311308</link>
+            <guid isPermaLink="false">a0af45c6-f5c0-4f89-a68a-e9c5a936029b</guid>
+            <pubDate>Fri, 31 Jul 2026 13:08:56 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) weakens against the US Dollar (USD) on Friday as short-covering in the Greenback following the previous day’s sharp sell-off pushes EUR/USD back below 1.1500. At the time of writing, the pair trades around 1.1488, easing from the six-week high of 1.1537 touched on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[China: Policy support balances weak PMIs – UOB]]></title>
+            <link>https://www.fxstreet.com/news/china-policy-support-balances-weak-pmis-uob-202607311304</link>
+            <guid isPermaLink="false">4655d349-7863-449a-96d5-80131c4249c2</guid>
+            <pubDate>Fri, 31 Jul 2026 13:04:13 GMT</pubDate>
+            <description><![CDATA[UOB economist Ho Woei Chen highlights that China’s July CFLP PMIs slipped into contraction, with both manufacturing and non-manufacturing gauges signaling broad-based weakness in activity. The report notes particularly soft industrial output and services, while construction also declined.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Manufacturing-4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar shrugs off upbeat GDP as US Dollar stages a comeback]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-shrugs-off-upbeat-gdp-as-us-dollar-stages-a-comeback-202607311302</link>
+            <guid isPermaLink="false">a7d55627-f8f7-46f7-a05b-9976dde639c0</guid>
+            <pubDate>Fri, 31 Jul 2026 13:02:12 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades around 1.4045 on Friday at the time of writing, recovering from a two-week low hit on Thursday at 1.3991.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: BoJ patience keeps wide trading range – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-boj-patience-keeps-wide-trading-range-td-securities-202607311246</link>
+            <guid isPermaLink="false">1f294b57-e3dd-4f56-b32b-70ba872969c8</guid>
+            <pubDate>Fri, 31 Jul 2026 12:46:07 GMT</pubDate>
+            <description><![CDATA[TD Securities notes the Bank of Japan (BoJ) left its policy rate at 1% with an 8–1 vote, as Governor Ueda delivered notably hawkish remarks. Despite this, the Japanese Yen (JPY) reaction was muted, and the TD forecasts the next 25 bps hike only in December.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: Canada's GDP expanded by 0.3% MoM in May]]></title>
+            <link>https://www.fxstreet.com/news/breaking-canadas-gdp-expanded-by-03-mom-in-may-202607311234</link>
+            <guid isPermaLink="false">7dd9553b-a4d5-4417-8089-d8da9e82b6c3</guid>
+            <pubDate>Fri, 31 Jul 2026 12:34:09 GMT</pubDate>
+            <description><![CDATA[Canada’s economy cooled a tad in May. Indeed, the Gross Domestic Product (GDP) grew by 0.3%, adding to the previous month's 0.6% expansion (revised from 0.5%), according to data released by Statistics Canada.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold: Reduced Fed hike bets support prices - Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/gold-reduced-fed-hike-bets-support-prices-commerzbank-202607311230</link>
+            <guid isPermaLink="false">2361a508-c356-4f11-a82b-eda3d052fec6</guid>
+            <pubDate>Fri, 31 Jul 2026 12:30:50 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Carsten Fritsch notes that gold briefly traded above USD 4,100 after the Fed meeting as markets pared back expectations of further rate hikes. Fed funds futures nevertheless continue to imply additional tightening, while persistent inflation is keeping those expectations alive.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Softer BoE stance seen weighing on Sterling – BBH]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-softer-boe-stance-seen-weighing-on-sterling-bbh-202607311220</link>
+            <guid isPermaLink="false">ed7c19d9-d1a8-482e-b4a7-703b00e765d4</guid>
+            <pubDate>Fri, 31 Jul 2026 12:20:16 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights that the Bank of England (BoE) left rates at 3.75% with a 6–3 vote, while Governor Andrew Bailey pushed back against expectations of an imminent hike.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: ECB September hike still base case – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/euro-ecb-september-hike-still-base-case-td-securities-202607311209</link>
+            <guid isPermaLink="false">0c8c13ce-a395-49fc-96c6-f845671c16d9</guid>
+            <pubDate>Fri, 31 Jul 2026 12:09:01 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists highlight that Euro area Harmonised Index of Consumer Prices (HICP) inflation rose to 2.9% y/y in July, with core inflation at 2.5% and services inflation at 3.3%, indicating only limited evidence of meaningful second-round effects.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-eur.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen: Policy credibility and intervention dynamics – BNY]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-policy-credibility-and-intervention-dynamics-bny-202607311157</link>
@@ -22,14 +166,6 @@
             <pubDate>Fri, 31 Jul 2026 11:49:27 GMT</pubDate>
             <description><![CDATA[Silver price (XAG/USD) is down 1.7% to near $58.00 during the European trading session on Friday. The white metal continues to decline throughout the day as United States (US) Treasury Yields have bounced back amid fears that inflationary pressures will remain elevated.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold declines as firmer US Dollar, hawkish Fed outlook weigh]]></title>
-            <link>https://www.fxstreet.com/news/gold-declines-as-firmer-us-dollar-and-hawkish-fed-outlook-weigh-202607311148</link>
-            <guid isPermaLink="false">0b3c027c-dbfe-4383-997c-53b8552be102</guid>
-            <pubDate>Fri, 31 Jul 2026 11:48:49 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) edges lower on Friday as the US Dollar (USD) stabilizes following the previous day’s sharp sell-off, while hawkish Federal Reserve (Fed) expectations remain a key headwind for the non-yielding metal.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Brent: Conflict risks keep prices elevated – Commerzbank]]></title>
@@ -110,142 +246,6 @@
             <pubDate>Fri, 31 Jul 2026 09:54:49 GMT</pubDate>
             <description><![CDATA[TD Securities’ Alex Loo notes that despite Governor Ueda’s hawkish tone, the Japanese Yen reaction was muted and the BoJ kept its policy rate at 1%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro hits session lows against the British Pound following Eurozone inflation data]]></title>
-            <link>https://www.fxstreet.com/news/euro-hits-session-lows-against-the-british-pound-following-eurozone-inflation-data-202607310939</link>
-            <guid isPermaLink="false">b8d5485b-f522-41d4-9bd0-8801e2d68de2</guid>
-            <pubDate>Fri, 31 Jul 2026 09:39:18 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) edges lower against the British Pound (GBP) on Friday, hitting session lows at 0.8554 following the Eurozone’s preliminary inflation figures from July.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/inflation-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound underperforms as traders reconsider BoE interest rate hike bets]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-underperforms-as-traders-reconsider-boe-interest-rate-hike-bets-202607310936</link>
-            <guid isPermaLink="false">3e3a3f52-504d-441b-99f8-dd8323d0470e</guid>
-            <pubDate>Fri, 31 Jul 2026 09:36:52 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) is down against its major currency peers, trading marginally lower at around 1.3444 against the US Dollar (USD) during the European trading session on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607310931</link>
-            <guid isPermaLink="false">4a11a96b-3e92-4e44-87b8-06b807a3c0ae</guid>
-            <pubDate>Fri, 31 Jul 2026 09:31:32 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) fell on Friday, according to FXStreet data. Silver trades at $58.08 per troy ounce, down 1.59% from the $59.02 it cost on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[China: Growth drift and export reliance – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/china-growth-drift-and-export-reliance-rabobank-202607310931</link>
-            <guid isPermaLink="false">b87c54f3-dd05-4f43-88c5-e4c8c8c7f0fb</guid>
-            <pubDate>Fri, 31 Jul 2026 09:31:20 GMT</pubDate>
-            <description><![CDATA[Rabobank strategists highlight renewed weakness in China, with official PMI data showing both manufacturing and non-manufacturing back in contraction and domestic demand still soft. Policymakers are prioritizing faster implementation of existing measures over new stimulus.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ECB’s Kocher: Central bank policies will remain data-dependent]]></title>
-            <link>https://www.fxstreet.com/news/ecbs-kocher-central-bank-policies-will-remain-data-dependent-202607310927</link>
-            <guid isPermaLink="false">30b91e55-4b1d-44c3-b7ba-6073cb4d4d39</guid>
-            <pubDate>Fri, 31 Jul 2026 09:27:52 GMT</pubDate>
-            <description><![CDATA[European Central Bank (ECB) Governing Council member Martin Kocher said in European trade on Friday that recent weeks have demonstrated how quickly geopolitical developments can alter energy prices and, consequently, the inflation outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: BoE communication keeps restrictive stance – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-boe-communication-keeps-restrictive-stance-mufg-202607310909</link>
-            <guid isPermaLink="false">c1cf96f0-2264-4cbb-a37b-80bc213fc3a4</guid>
-            <pubDate>Fri, 31 Jul 2026 09:09:30 GMT</pubDate>
-            <description><![CDATA[MUFG analysts use a textual sentiment framework on the latest Bank of England (BoE) decision, finding a hawkish hold in Monetary Policy Committee (MPC) member contributions but a more balanced tone from Governor Bailey’s press conference.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eurozone flash headline HICP rises at a stronger pace of 2.9% YoY, as expected]]></title>
-            <link>https://www.fxstreet.com/news/eurozone-flash-headline-hicp-rises-strongly-by-32-yoy-vs-29-estimates-202607310903</link>
-            <guid isPermaLink="false">9549c72a-79a6-49aa-a8c3-dfa8d425e695</guid>
-            <pubDate>Fri, 31 Jul 2026 09:03:08 GMT</pubDate>
-            <description><![CDATA[Annual Harmonized Index of Consumer Prices (HICP) in the Eurozone, as measured by changes in the prices of a representative basket of goods and services in the European Monetary Union, rises at a faster pace of 2.9% in July, as expected, against 2.8% in June.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-78.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Central bank buying offsets ETF outflows – ING]]></title>
-            <link>https://www.fxstreet.com/news/gold-central-bank-buying-offsets-etf-outflows-ing-202607310855</link>
-            <guid isPermaLink="false">79f6ef8f-52cb-4dc1-89c1-48e4020cc700</guid>
-            <pubDate>Fri, 31 Jul 2026 08:55:24 GMT</pubDate>
-            <description><![CDATA[ING’s commodities team reports that Gold demand was steady in 2Q 2026, with total demand flat year-on-year at 1,269 tonnes as strong central bank purchases balanced weaker ETF demand.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Limited support from BoE policy – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-limited-support-from-boe-policy-commerzbank-202607310843</link>
-            <guid isPermaLink="false">ffb4ae32-8dc7-4aa2-bf00-f6b914794ae4</guid>
-            <pubDate>Fri, 31 Jul 2026 08:43:01 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Michael Pfister notes that the Bank of England kept rates unchanged and avoided signalling future hikes, despite a closer-than-expected 6–3 vote and Governor Bailey’s insistence that the BoE is not edging toward tightening.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil drifts closer to $80.00 amid a mild increase in traffic through Hormuz ]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-drifts-closer-to-8000-amid-a-mild-increase-in-traffic-through-hormuz-202607310841</link>
-            <guid isPermaLink="false">91b60156-a810-4e25-b13b-a6fae1d6850c</guid>
-            <pubDate>Fri, 31 Jul 2026 08:41:09 GMT</pubDate>
-            <description><![CDATA[Oil prices are ticking lower for the second consecutive day on Friday, with the US benchmark West Texas Intermediate (WTI) barrel hitting session lows a few cents above $80.00.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Prolonged pause with hike risks – UOB]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-prolonged-pause-with-hike-risks-uob-202607310830</link>
-            <guid isPermaLink="false">5518a0fb-2c53-492e-9a44-5cb64781bbb8</guid>
-            <pubDate>Fri, 31 Jul 2026 08:30:46 GMT</pubDate>
-            <description><![CDATA[UOB strategists observe that the Federal Open Market Committee (FOMC) kept the Fed Funds Target Rate at 3.50%–3.75% for a fifth meeting, with a 9–3 split as three presidents sought a 25 bps hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold weakens towards $4,050 as USD preserves gains on Iran risks and Fed hike bets]]></title>
-            <link>https://www.fxstreet.com/news/gold-drifts-lower-as-usd-recovers-amid-fed-hike-bets-and-geopolitical-tensions-202607310355</link>
-            <guid isPermaLink="false">0b2a4303-2d80-4d98-a918-f86fc6cdb703</guid>
-            <pubDate>Fri, 31 Jul 2026 03:55:06 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its steady intraday descent through the first half of the European session on Friday and hits a fresh daily low, around the $4,060 area in the last hour.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound struggles to extend recovery against Japanese Yen]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-struggles-to-extend-recovery-against-japanese-yen-202607310824</link>
-            <guid isPermaLink="false">b9f694f1-fbf0-406f-892e-ac839a13d766</guid>
-            <pubDate>Fri, 31 Jul 2026 08:24:23 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) faces roadblocks in extending the early recovery against the Japanese Yen (JPY) above 216.33 during the European trading session on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CAD Price Forecast: Steadies above June low as bears await 1.4000 breakdown]]></title>
-            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-steadies-above-june-low-as-bears-await-14000-breakdown-202607310818</link>
-            <guid isPermaLink="false">1600303f-407d-441e-bbc7-1f9a56c5bf43</guid>
-            <pubDate>Fri, 31 Jul 2026 08:18:00 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair seesaws between tepid gains/minor losses through the early European session on Friday, consolidating its recent losses to the lowest level since June 17, touched the previous day.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bearish-realist.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: September hike path shaped by Iran war – Nomura]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-september-hike-path-shaped-by-iran-war-nomura-202607310811</link>
-            <guid isPermaLink="false">08b7a557-81a8-45b5-b352-38982d6066cc</guid>
-            <pubDate>Fri, 31 Jul 2026 08:11:21 GMT</pubDate>
-            <description><![CDATA[Nomura strategists highlight that Euro area Gross Domestic Product (GDP) excluding Ireland has been growing around potential despite the Iran war.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-EU-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: Japanese Yen retreats after rallying on suspected intervention, BoJ holds steady]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-japanese-yen-retreats-after-rallying-on-suspected-intervention-boj-holds-steady-202607310806</link>
-            <guid isPermaLink="false">d31b2059-c30d-4400-b903-67c140f60896</guid>
-            <pubDate>Fri, 31 Jul 2026 08:06:49 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Friday, July 31:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Intervention risks and BoJ stance – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-intervention-risks-and-boj-stance-mufg-202607310804</link>
-            <guid isPermaLink="false">4594339c-3cb3-4f20-b143-f788d7b0a9ac</guid>
-            <pubDate>Fri, 31 Jul 2026 08:04:03 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny and Abdul-Ahad Lockhart note that the Japanese Yen surged as USD/JPY dropped from 163.00 to 158.00, in a move they attribute to probable Ministry of Finance intervention during New York trading.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
