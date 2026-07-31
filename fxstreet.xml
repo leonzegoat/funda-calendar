@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 31 Jul 2026 16:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 18:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro recovers as Eurozone inflation stays firm ]]></title>
+            <link>https://www.fxstreet.com/news/euro-recovers-as-eurozone-inflation-stays-firm-202607311800</link>
+            <guid isPermaLink="false">355b633b-ba40-492c-9977-3ebb9fd66ed7</guid>
+            <pubDate>Fri, 31 Jul 2026 18:00:10 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades near the 1.1530 area during Friday's American session, consolidating after a strong rally off intraday lows. The Euro found support from resilient Eurozone inflation data, although gains remain capped as hawkish Federal Reserve (Fed) rhetoric boosts the US Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD consolidates above $55 as downside momentum eases]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-above-55-as-downside-momentum-eases-202607311740</link>
+            <guid isPermaLink="false">5c939176-f437-4c75-9547-e132f4b15ebd</guid>
+            <pubDate>Fri, 31 Jul 2026 17:40:43 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) trades on the back foot on Friday as rising US Treasury yields outweigh support from a weaker US Dollar (USD). At the time of writing, XAG/USD trades around $57.50, down 2% on the day and on track to close July in negative territory.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Two earnings shocks cancel inside the Dow Jones Industrial Average]]></title>
+            <link>https://www.fxstreet.com/news/two-earnings-shocks-cancel-inside-the-dow-jones-industrial-average-202607311657</link>
+            <guid isPermaLink="false">528f08e3-1a95-4974-906f-c7a3b9f3dd8c</guid>
+            <pubDate>Fri, 31 Jul 2026 16:57:36 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades just beneath 52,500 on Friday, up around 230 points and roughly 1.6% under the record set early in July.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[WTI Oil recovers above $83 ahead of OPEC meeting]]></title>
             <link>https://www.fxstreet.com/news/wti-oil-recovers-above-83-ahead-of-opec-meeting-202607311611</link>
@@ -64,7 +88,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[New Zealnd Dollar weakens after China PMI miss as the US Dollar rebounds]]></title>
+            <title><![CDATA[New Zealand Dollar weakens after China PMI miss as the US Dollar rebounds]]></title>
             <link>https://www.fxstreet.com/news/new-zealnd-dollar-weakens-after-china-pmi-miss-as-the-us-dollar-rebounds-202607311436</link>
             <guid isPermaLink="false">62bb08cb-e277-4988-8af2-466ae6e28959</guid>
             <pubDate>Fri, 31 Jul 2026 14:36:06 GMT</pubDate>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 31 Jul 2026 11:45:38 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Norman Liebke and colleagues highlight that Brent remains volatile as Middle East tensions and shipping disruptions through key chokepoints constrain supply.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen dips back to 160.00 against the US Dollar as post-BoJ gains fade]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-dips-back-to-16000-against-the-us-dollar-as-post-boj-gains-fade-202607311132</link>
-            <guid isPermaLink="false">19d3363e-2e04-458a-9167-9ac7bd245983</guid>
-            <pubDate>Fri, 31 Jul 2026 11:32:58 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) posts moderate losses against the US Dollar (USD) on Friday, with the USD/JPY pair trading just above 160.00 at the time of writing, after whipsawing within a rough 240-pip range between 158.60 and 161.00 earlier on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index: DXY seen returning to 96.00–100.00 range – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-dxy-seen-returning-to-9600-10000-range-bbh-202607311128</link>
-            <guid isPermaLink="false">a13818fd-5f3d-4df8-ac14-001767b522e1</guid>
-            <pubDate>Fri, 31 Jul 2026 11:28:10 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that the Dollar stabilized after a sharp sell-off linked to suspected USD/JPY intervention, but argues the broader USD rally since May has likely ended, with US Dollar Index (DXY) expected to move back into a 96.00–100.00 range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar holds firm despite weak Chinese data, fading RBA rate hike bets]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-holds-firm-despite-weak-chinese-data-fading-rba-rate-hike-bets-202607311121</link>
-            <guid isPermaLink="false">818e5484-5a0e-407b-ad3a-576cca78d0f0</guid>
-            <pubDate>Fri, 31 Jul 2026 11:21:08 GMT</pubDate>
-            <description><![CDATA[AUD/USD trades around 0.7030 at the time of writing on Friday, little changed on the day after Thursday's strong rally.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
