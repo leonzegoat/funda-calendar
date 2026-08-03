@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 03 Aug 2026 22:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 23:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iran rejects any second corridor through Strait of Hormuz]]></title>
+            <link>https://www.fxstreet.com/news/iran-rejects-any-second-corridor-through-strait-of-hormuz-202608032344</link>
+            <guid isPermaLink="false">d2b96cd7-c071-4a3c-844f-60bd778b0e4d</guid>
+            <pubDate>Mon, 03 Aug 2026 23:44:17 GMT</pubDate>
+            <description><![CDATA[Iranian state television, advisor to the Supreme Leader, General Mohsen Rezaei said that the country will absolutely not allow the opening of a second corridor in the Strait of Hormuz, Reuters reported on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Iran.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold declines to near $4,050 on US–Iran talks uncertainty]]></title>
+            <link>https://www.fxstreet.com/news/gold-declines-to-near-4-050-on-us-iran-talks-uncertainty-202608032319</link>
+            <guid isPermaLink="false">94bf1991-e736-4c59-9ec1-6b75485d0c25</guid>
+            <pubDate>Mon, 03 Aug 2026 23:19:53 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) declines to near $4,050 during the early Asian session on Tuesday. The precious metal eased slightly from the recent rally after the US paused planned airstrikes against Iran. Traders will closely monitor the developments surrounding US-Iran talks for fresh impetus. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar slides to 0.70 as US ISM PMI, revives the US Dollar]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-slides-to-070-as-us-ism-pmi-revives-the-us-dollar-202608032230</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 03 Aug 2026 12:58:46 GMT</pubDate>
             <description><![CDATA[DBS Group Research economist Philip Wee argues that the Dollar’s outlook in August is weak after a sharp stumble at the end of July.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen holds firm after coordinated US-Japan intervention]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-holds-firm-after-coordinated-us-japan-intervention-202608031258</link>
-            <guid isPermaLink="false">094af6c1-180e-4511-8b46-5f3cb7e96cd0</guid>
-            <pubDate>Mon, 03 Aug 2026 12:58:33 GMT</pubDate>
-            <description><![CDATA[USD/JPY steadies on Monday after a sharp decline at the weekly open fuelled speculation that authorities may have stepped into the market again following last week’s coordinated intervention by Japan and the United States (US).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Intervention seen as containment – ING]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-intervention-seen-as-containment-ing-202608031245</link>
-            <guid isPermaLink="false">39f64dca-5b93-4a94-b1b3-ea308b3aad2d</guid>
-            <pubDate>Mon, 03 Aug 2026 12:45:03 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner highlights rare joint US-Japan FX intervention, with Washington participating via the Fed and Japan using the FIMA repo facility to raise Dollars against Treasuries.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
