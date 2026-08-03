@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 03 Aug 2026 18:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 20:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mexican Peso outpace broad US Dollar strength, ahead of Banxico’s day]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-outpace-broad-us-dollar-strength-ahead-of-banxicos-day-202608031952</link>
+            <guid isPermaLink="false">e2f43a58-48d2-40a1-9bc2-c93bbf5ea2ba</guid>
+            <pubDate>Mon, 03 Aug 2026 19:52:36 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso gains ground versus the US Dollar on Monday as risk appetite increases the carry-trade appeal of the emerging-market currency, while traders await the release of the Bank of Mexico (Banxico) monetary policy meeting late this week. The USD/MXN trades at 17.32, down 0.14%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/MXN2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold slips as USD rebounds, strong ISM data clouds Fed path]]></title>
+            <link>https://www.fxstreet.com/news/gold-slips-as-usd-rebounds-strong-ism-data-clouds-fed-path-202608031917</link>
+            <guid isPermaLink="false">d3a043a1-5b99-4639-bbbc-b67b50473ab2</guid>
+            <pubDate>Mon, 03 Aug 2026 19:17:11 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) price retreats on Monday as the US Dollar (USD) recovers some ground, even though hostilities in the Middle East paused at the request of Iran and other Middle Eastern countries, according to US President Donald Trump. The XAU/USD pair trades at $4,037, down 0.12%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump: This is a last chance for Iran]]></title>
+            <link>https://www.fxstreet.com/news/trump-this-is-a-last-chance-for-iran-202608031900</link>
+            <guid isPermaLink="false">89ce69e0-cdde-4aa3-86a0-057ef7166776</guid>
+            <pubDate>Mon, 03 Aug 2026 19:00:20 GMT</pubDate>
+            <description><![CDATA[United States (US) President Donald Trump said on Monday that Washington is currently holding talks with Iran, adding that the discussions are taking place at Tehran's request and describing them as a final opportunity for the Islamic Republic.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-capitol.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[United States Dollar Index rebounds toward 100 amid US-Iran, Fed uncertainty]]></title>
             <link>https://www.fxstreet.com/news/united-states-dollar-index-rebounds-toward-100-amid-us-iran-fed-uncertainty-202608031759</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 03 Aug 2026 11:55:12 GMT</pubDate>
             <description><![CDATA[Deutsche Bank strategists outlines a United States (US) macro backdrop where the Federal Reserve (Fed) held rates but three officials dissented for a hike, keeping inflation concerns alive. They expect two further 25bp increases this year and closely watch upcoming labour and activity data.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Joint intervention supports yen outlook – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-joint-intervention-supports-yen-outlook-mufg-202608031141</link>
-            <guid isPermaLink="false">15523282-54fd-4cea-935a-67d20b80a0a6</guid>
-            <pubDate>Mon, 03 Aug 2026 11:41:35 GMT</pubDate>
-            <description><![CDATA[MUFG’s Lee Hardman notes that the Japanese Yen has strengthened as Japan and the US conducted joint intervention to counter recent volatility. He highlights planned use of the Federal Reserve’s FIMA Repo Facility, US euro-to-yen reallocations, and Japan’s sizeable FX reserves.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar comes under pressure as US Dollar regains ground]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-comes-under-pressure-as-us-dollar-regains-ground-202608031131</link>
-            <guid isPermaLink="false">6f76b57b-780b-4200-ad63-52ac7091902b</guid>
-            <pubDate>Mon, 03 Aug 2026 11:31:04 GMT</pubDate>
-            <description><![CDATA[AUD/USD falls to around 0.7000 on Monday at the time of writing, down 0.30% on the day, as a rebound in the US Dollar (USD) outweighs the support provided by Chinese economic data for the Australian Dollar (AUD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Data driven rate path – HSBC]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-data-driven-rate-path-hsbc-202608031126</link>
-            <guid isPermaLink="false">ba0a2463-633e-421f-aabf-31bfc96ef236</guid>
-            <pubDate>Mon, 03 Aug 2026 11:26:42 GMT</pubDate>
-            <description><![CDATA[HSBC strategists note that the Federal Reserve (Fed) left policy rates unchanged in July, with markets now assigning a two-thirds probability to a September hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
