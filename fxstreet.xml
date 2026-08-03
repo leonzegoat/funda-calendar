@@ -4,9 +4,105 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 03 Aug 2026 14:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 16:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[British Pound slips as strong ISM data revives the US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-slips-as-strong-ism-data-revives-the-us-dollar-202608031637</link>
+            <guid isPermaLink="false">7bfb5291-ce4a-4135-b9d0-1d8fbbbad388</guid>
+            <pubDate>Mon, 03 Aug 2026 16:37:00 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling retreats somne 0.27% on Monday as the Greenback recovers some ground, as the US pauses strikes on Iran, and as both parties resume negotiations aimed at securing a rapid deal. The GBP/USD trades at 1.3439, after reaching a daily high of 1.3506.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Oil plunges as Trump revives US-Iran peace hopes]]></title>
+            <link>https://www.fxstreet.com/news/wti-oil-plunges-as-trump-revives-us-iran-peace-hopes-202608031558</link>
+            <guid isPermaLink="false">42f335d5-1fc4-4e45-a533-17a609335ea2</guid>
+            <pubDate>Mon, 03 Aug 2026 15:58:58 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) US Oil trades around $78.45 at the time of writing on Monday, down 7.76% on the day, as investors unwind the geopolitical risk premium following announcements of a potential agreement between the United States (US) and Iran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Technical outlook stays constructive above 0.8000]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-technical-outlook-stays-constructive-above-08000-202608031531</link>
+            <guid isPermaLink="false">7a4530db-f9b7-42de-965b-a6c8053039e9</guid>
+            <pubDate>Mon, 03 Aug 2026 15:31:28 GMT</pubDate>
+            <description><![CDATA[USD/CHF edges higher on Monday as softer Swiss inflation data and a modest recovery in the US Dollar (USD) weigh on the Swiss Franc (CHF). At the time of writing, the pair trades around 0.8109, up 0.38% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-realistic.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar slips after upbeat US ISM Manufacturing data ]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-slips-after-upbeat-us-ism-manufacturing-data-202608031522</link>
+            <guid isPermaLink="false">4c64f991-3a66-4d0d-84d4-1c8b715dbc96</guid>
+            <pubDate>Mon, 03 Aug 2026 15:22:42 GMT</pubDate>
+            <description><![CDATA[AUD/USD extends its pullback toward the 0.6990 area during Monday's American session after stronger-than-expected United States (US) manufacturing data reinforced the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Upside bias capped against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-upside-bias-capped-against-us-dollar-uob-202608031450</link>
+            <guid isPermaLink="false">9d7c8e96-d625-4b0a-8fa2-100f82d964ef</guid>
+            <pubDate>Mon, 03 Aug 2026 14:50:46 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang notes USD/SGD slipped to 1.2809 but closed near 1.2821, with intraday bias still pointing lower.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver price falls as stronger US PMI reinforces hawkish Fed expectations]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-falls-as-stronger-us-pmi-reinforces-hawkish-fed-expectations-202608031444</link>
+            <guid isPermaLink="false">bfc66b17-3669-48b9-b7b8-0b0b9e5917dc</guid>
+            <pubDate>Mon, 03 Aug 2026 14:44:18 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) trades around $57.20 at the time of writing on Monday, down 0.73% on the day, after a strong US manufacturing report reinforced expectations that the Federal Reserve (Fed) will maintain a restrictive monetary policy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold consolidates as conflicting US-Iran headlines and hawkish Fed bets cap gains]]></title>
+            <link>https://www.fxstreet.com/news/gold-struggles-to-hold-gains-amid-mixed-us-iran-headlines-hawkish-fed-202608031058</link>
+            <guid isPermaLink="false">13bcf8ee-17bf-4763-a890-14ab4ea92923</guid>
+            <pubDate>Mon, 03 Aug 2026 10:58:17 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) trims gains after opening the week with a bullish gap as buyers lack conviction amid conflicting US-Iran headlines and caution ahead of key US employment data. At the time of writing, XAU/USD trades around $4,036, easing from an intraday high of $4,084.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro pares gains as traders seek clarity on US-Iran talks, Fed monetary policy]]></title>
+            <link>https://www.fxstreet.com/news/euro-pares-gains-as-traders-seek-clarity-on-us-iran-talks-fed-monetary-policy-202608031433</link>
+            <guid isPermaLink="false">7a8d9009-e9db-48f0-b04f-51434e7fd77e</guid>
+            <pubDate>Mon, 03 Aug 2026 14:33:55 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades in a narrow range on Monday as traders await clarity on US-Iran negotiations, while signs of stabilization in the US Dollar following the recent intervention-led weakness cap the Euro’s upside.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turkish Lira: Trade data underline external pressures – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/turkish-lira-trade-data-underline-external-pressures-commerzbank-202608031433</link>
+            <guid isPermaLink="false">f60a4041-7c66-4daa-aa69-8276da94c7ef</guid>
+            <pubDate>Mon, 03 Aug 2026 14:33:30 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Tatha Ghose analyses Turkey’s June trade figures, highlighting a 26.2% year-on-year widening of the trade deficit to USD 10.4 billion. While exports and imports both rebounded after May’s holiday distortions, imports are running stronger than exports.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/turkish-lira-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Latin America: Duration favored over carry – BNY]]></title>
+            <link>https://www.fxstreet.com/news/latin-america-duration-favored-over-carry-bny-202608031422</link>
+            <guid isPermaLink="false">1000f142-285f-463b-9923-ed815f6a1217</guid>
+            <pubDate>Mon, 03 Aug 2026 14:22:35 GMT</pubDate>
+            <description><![CDATA[Geoff Yu at BNY sees Brazil and Mexico operating in a more comfortable policy environment after the Fed decision, with anchored United States (US) front-end yields supporting emerging-market duration.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/south-american-continent-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: US ISM Manufacturing PMI rises to 55.6 in July vs. 54 expected]]></title>
+            <link>https://www.fxstreet.com/news/us-ism-manufacturing-pmi-is-expected-to-show-strong-factory-activity-in-july-202608031000</link>
+            <guid isPermaLink="false">3a098e1a-8d2f-44f3-9634-d2c15d061ffa</guid>
+            <pubDate>Mon, 03 Aug 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[Business activity in the US manufacturing sector expanded at an accelerating pace in July, with the Institute for Supply Management's (ISM) Manufacturing Purchasing Managers' Index (PMI) rising to 55.6 from 53.3 in June. This reading came in better than the market expectation of 54.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan: Growth stays strong as normalization begins – DBS]]></title>
+            <link>https://www.fxstreet.com/news/taiwan-growth-stays-strong-as-normalization-begins-dbs-202608031411</link>
+            <guid isPermaLink="false">bfcd7026-2329-4350-b22a-fd8bf091efe2</guid>
+            <pubDate>Mon, 03 Aug 2026 14:11:08 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economist Ma Tieying notes Taiwan’s 2Q GDP growth slowed to 12.9% year-on-year from 14.5% in 1Q, but remained solid on a quarterly basis.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hong Kong: Growth seen moderating – UOB]]></title>
             <link>https://www.fxstreet.com/news/hong-kong-growth-seen-moderating-uob-202608031359</link>
@@ -48,14 +144,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/South_Africa.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Gold struggles to hold gains amid mixed US-Iran headlines, hawkish Fed]]></title>
-            <link>https://www.fxstreet.com/news/gold-struggles-to-hold-gains-amid-mixed-us-iran-headlines-hawkish-fed-202608031058</link>
-            <guid isPermaLink="false">13bcf8ee-17bf-4763-a890-14ab4ea92923</guid>
-            <pubDate>Mon, 03 Aug 2026 10:58:17 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) trims gains after opening the week with a bullish gap as buyers lack conviction amid conflicting US-Iran headlines and caution ahead of key US employment data. At the time of writing, XAU/USD trades around $4,036, easing from an intraday high of $4,084.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Indian Rupee: Policy holds with FX intervention – BNY]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-policy-holds-with-fx-intervention-bny-202608031309</link>
             <guid isPermaLink="false">d7007681-ae91-43d1-a324-de7a8ae3897d</guid>
@@ -86,14 +174,6 @@
             <pubDate>Mon, 03 Aug 2026 12:45:03 GMT</pubDate>
             <description><![CDATA[ING’s Chris Turner highlights rare joint US-Japan FX intervention, with Washington participating via the Fed and Japan using the FIMA repo facility to raise Dollars against Treasuries.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US ISM Manufacturing PMI is set to have improved in July, with prices easing]]></title>
-            <link>https://www.fxstreet.com/news/us-ism-manufacturing-pmi-is-expected-to-show-strong-factory-activity-in-july-202608031000</link>
-            <guid isPermaLink="false">3a098e1a-8d2f-44f3-9634-d2c15d061ffa</guid>
-            <pubDate>Mon, 03 Aug 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[Investors are attentive to the US Institute for Supply Management (ISM) on Monday, as it releases July’s Manufacturing Purchasing Managers Index (PMI).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Manufacturing-2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Norwegian Krone: Policy rate seen on hold from Norges Bank – Nordea]]></title>
@@ -166,86 +246,6 @@
             <pubDate>Mon, 03 Aug 2026 11:09:45 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trade 7.4% lower at around $78.50 during the European trading session on Monday. The Oil price holds onto its opening losses, driven by the announcement of a ceasefire 2.0 between the United States (US) and Iran.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed’s Williams: Affirms confidence for inflation to return to 2% target]]></title>
-            <link>https://www.fxstreet.com/news/feds-williams-affirms-confidence-for-inflation-to-return-to-2-target-202608031027</link>
-            <guid isPermaLink="false">4f5d8f27-00c7-421e-af60-ed7bb3677738</guid>
-            <pubDate>Mon, 03 Aug 2026 10:27:00 GMT</pubDate>
-            <description><![CDATA[The remarks from New York Federal Reserve (Fed) Bank President John Williams, in an interview with Reuters that took place on Friday and was released during the European trading session on Monday, signal that he was confident about inflation returning to the central bank’s 2% target.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar eases as markets focus on US-Iran talks]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-eases-as-markets-focus-on-us-iran-talks-202608031000</link>
-            <guid isPermaLink="false">d408e4b4-39eb-4aad-95f4-3927034d8854</guid>
-            <pubDate>Mon, 03 Aug 2026 10:00:31 GMT</pubDate>
-            <description><![CDATA[NZD/USD trades around 0.5870 on Monday at the time of writing, down 0.11% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro area: Services PMI and inflation risks – BNY]]></title>
-            <link>https://www.fxstreet.com/news/euro-area-services-pmi-and-inflation-risks-bny-202608030954</link>
-            <guid isPermaLink="false">ced1fb73-52ed-4f53-b332-c7e20e11e8da</guid>
-            <pubDate>Mon, 03 Aug 2026 09:54:48 GMT</pubDate>
-            <description><![CDATA[Geoff Yu at BNY argues that the lack of further Fed tightening has eased global financial conditions and partially offset European Central Bank (ECB) tightening, but European inflation dynamics remain distinct from the U.S.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound eases to 1.3450 area following downwardly revised Manufacturing PMI data]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-eases-to-13450-area-following-downwardly-revised-manufacturing-pmi-data-202608030952</link>
-            <guid isPermaLink="false">34976f97-7752-411b-b4af-f1b35b222732</guid>
-            <pubDate>Mon, 03 Aug 2026 09:52:59 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) is trimming previous gains against the US Dollar (USD) on Monday, returning to the mid-range of the 1.3400s down from fresh seven-week highs, above 1.3500 earlier on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Manufacturing-4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Explosive phase, muted correction – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/gold-explosive-phase-muted-correction-deutsche-bank-202608030937</link>
-            <guid isPermaLink="false">ec9a74d0-149d-48d6-8a7b-20b8cf323455</guid>
-            <pubDate>Mon, 03 Aug 2026 09:37:51 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank Research analysts Michael Hsueh and Bryant Xu argue that Gold has been in an explosive price phase since August 2024, but recent moves suggest a muted correction.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608030931</link>
-            <guid isPermaLink="false">d6f35f05-1ebf-4be1-b49d-e0662d099260</guid>
-            <pubDate>Mon, 03 Aug 2026 09:31:22 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) rose on Monday, according to FXStreet data. Silver trades at $58.38 per troy ounce, up 1.37% from the $57.59 it cost on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD struggles to extend opening gains amid hawkish Fed bets]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-to-extend-opening-gains-amid-hawkish-fed-bets-202608030920</link>
-            <guid isPermaLink="false">dd3725bf-d8f0-4c1b-adc5-afc27d6e6106</guid>
-            <pubDate>Mon, 03 Aug 2026 09:20:57 GMT</pubDate>
-            <description><![CDATA[Silver price (XAG/USD) opens strongly due to a sharp decline in oil prices, but struggles to extend gains beyond $58.68 during the day. At press time, the Silver price is up 1% to near $58.20.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: prices slide on halted strikes – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/oil-prices-slide-on-halted-strikes-commerzbank-202608030916</link>
-            <guid isPermaLink="false">115db3fc-b692-40f2-96a2-2819e180f367</guid>
-            <pubDate>Mon, 03 Aug 2026 09:16:40 GMT</pubDate>
-            <description><![CDATA[Commerzbank strategists report that Brent Oil opened over 7% lower under USD84 into the Asian session after President Trump said the United States (US) would hold off on new strikes against Iran.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc weakens following soft inflation, manufacturing data]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-weakens-following-soft-inflation-manufacturing-data-202608030912</link>
-            <guid isPermaLink="false">158ce674-b580-476b-a4b4-6189c9382cf9</guid>
-            <pubDate>Mon, 03 Aug 2026 09:12:08 GMT</pubDate>
-            <description><![CDATA[USD/CHF extends its gains for the second successive day, trading around 0.8090 during the European hours on Monday. The pair remains on a stronger footing as the Swiss Franc (CHF) holds onto losses following the release of soft domestic inflation and manufacturing data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold bulls seem hesitant amid rebounding USD; receding Fed hike bets limit the downside]]></title>
-            <link>https://www.fxstreet.com/news/gold-holds-above-4-050-as-easing-inflation-fears-curb-fed-hike-bets-usd-bounce-caps-gains-202608030440</link>
-            <guid isPermaLink="false">1ee36f25-3912-49c4-88c8-71e1c6ea6e11</guid>
-            <pubDate>Mon, 03 Aug 2026 04:40:49 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its sideways consolidative price move through the first half of the European session and trades above the $4,050 level following a modest bullish gap on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
