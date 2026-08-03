@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 02 Aug 2026 23:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 00:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen softens, traders watch further US-Japan joint currency intervention  ]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-softens-traders-watch-further-us-japan-joint-currency-intervention-202608030016</link>
+            <guid isPermaLink="false">a149d8c9-ff32-4897-a4f6-ddd001c9b052</guid>
+            <pubDate>Mon, 03 Aug 2026 00:16:18 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair recovers some lost ground to near 157.65, snapping the three-day losing streak during the early Asian trading hours on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OPEC+ agrees to boost September production by 188,000 barrels per day]]></title>
+            <link>https://www.fxstreet.com/news/opec-agrees-to-boost-september-production-by-188-000-barrels-per-day-202608022343</link>
+            <guid isPermaLink="false">344f8b68-775d-4f22-ad7a-97da2fc907f8</guid>
+            <pubDate>Sun, 02 Aug 2026 23:43:33 GMT</pubDate>
+            <description><![CDATA[The Organization of Petroleum Exporting Countries and its allies (OPEC+) agreed on Sunday to boost oil production by 188,000 barrels a day (bpd) from September, against a backdrop of disruption caused by the Mideast war.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar gathers strength to near 0.7050 as Trump cancels Iran strikes ]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-gathers-strength-to-near-07050-as-trump-cancels-iran-strikes-202608022332</link>
+            <guid isPermaLink="false">f58ac223-6423-4947-9249-49a2a4974549</guid>
+            <pubDate>Sun, 02 Aug 2026 23:32:20 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair gains ground to near 0.7040 during the early Asian session on Monday. The Australian Dollar (AUD) strengthens against the US Dollar (USD) on improved risk sentiment after the reports that US President Donald Trump holds off Iran strikes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Middle East War updates: Trump holds off Iran strikes on pledge Hormuz deal is close]]></title>
             <link>https://www.fxstreet.com/news/middle-east-war-updates-trump-holds-off-iran-strikes-on-pledge-hormuz-deal-is-close-202608022237</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 31 Jul 2026 13:34:12 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports that USD/JPY briefly fell about five big figures to 158.00 on suspected Japanese intervention before rebounding near 161.00 and then dropping again.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[India: RBI hold expectations shape policy outlook – ING]]></title>
-            <link>https://www.fxstreet.com/news/india-rbi-hold-expectations-shape-policy-outlook-ing-202607311320</link>
-            <guid isPermaLink="false">848942b9-4016-4252-9452-d4f061d12f80</guid>
-            <pubDate>Fri, 31 Jul 2026 13:20:47 GMT</pubDate>
-            <description><![CDATA[ING economists Deepali Bhargava and Lynn Song expect the Reserve Bank of India to keep the repo rate at 5.25% this week. They note that while June headline inflation rose on higher fuel prices, core inflation remains below target.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro slips back below 1.1500 as US Dollar recovers]]></title>
-            <link>https://www.fxstreet.com/news/euro-slips-back-below-11500-as-us-dollar-recovers-202607311308</link>
-            <guid isPermaLink="false">a0af45c6-f5c0-4f89-a68a-e9c5a936029b</guid>
-            <pubDate>Fri, 31 Jul 2026 13:08:56 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) weakens against the US Dollar (USD) on Friday as short-covering in the Greenback following the previous day’s sharp sell-off pushes EUR/USD back below 1.1500. At the time of writing, the pair trades around 1.1488, easing from the six-week high of 1.1537 touched on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[China: Policy support balances weak PMIs – UOB]]></title>
-            <link>https://www.fxstreet.com/news/china-policy-support-balances-weak-pmis-uob-202607311304</link>
-            <guid isPermaLink="false">4655d349-7863-449a-96d5-80131c4249c2</guid>
-            <pubDate>Fri, 31 Jul 2026 13:04:13 GMT</pubDate>
-            <description><![CDATA[UOB economist Ho Woei Chen highlights that China’s July CFLP PMIs slipped into contraction, with both manufacturing and non-manufacturing gauges signaling broad-based weakness in activity. The report notes particularly soft industrial output and services, while construction also declined.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Manufacturing-4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
