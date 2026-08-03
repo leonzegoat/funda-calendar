@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 03 Aug 2026 21:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 22:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar slides to 0.70 as US ISM PMI, revives the US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-slides-to-070-as-us-ism-pmi-revives-the-us-dollar-202608032230</link>
+            <guid isPermaLink="false">7bd0772f-43ad-4c74-8536-3a843d4cde83</guid>
+            <pubDate>Mon, 03 Aug 2026 22:30:21 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar retraces despite an overall risk-on mood as the US Dollar recovers some ground, sponsored by positive data, and easing geopolitical tensions in the Middle East. The AUD/USD trades at 0.7000 after reaching a daily high of 0.7050.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Bulls target 0.8150 after SMA bounce]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-target-08150-after-sma-bounce-202608032154</link>
+            <guid isPermaLink="false">341bd8f1-fb73-473f-b3b2-1f490b255e4e</guid>
+            <pubDate>Mon, 03 Aug 2026 21:54:48 GMT</pubDate>
+            <description><![CDATA[The USD/CHF rises by about 0.27% on Monday as traders buy the Greenback following an intervention in FX markets by US and Japanese authorities.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-realistic.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar holds as traders brace for New Zealand jobs data]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-holds-as-traders-brace-for-new-zealand-jobs-data-202608032136</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 03 Aug 2026 12:45:03 GMT</pubDate>
             <description><![CDATA[ING’s Chris Turner highlights rare joint US-Japan FX intervention, with Washington participating via the Fed and Japan using the FIMA repo facility to raise Dollars against Treasuries.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Policy rate seen on hold from Norges Bank – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-policy-rate-seen-on-hold-from-norges-bank-nordea-202608031226</link>
-            <guid isPermaLink="false">a271d4a0-bb2e-47d9-a780-9663607f4bf0</guid>
-            <pubDate>Mon, 03 Aug 2026 12:26:13 GMT</pubDate>
-            <description><![CDATA[Nordea economists Kjetil Olsen and Sara Midtgaard expect Norges Bank to leave the policy rate at 4.25% at next week’s meeting. They highlight that June core inflation was well below the Bank’s projection and see July data remaining subdued.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Hormuz risks keep prices in focus – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/oil-hormuz-risks-keep-prices-in-focus-rabobank-202608031207</link>
-            <guid isPermaLink="false">49d6f0d6-1919-4648-8c4f-7dfc9c9004f4</guid>
-            <pubDate>Mon, 03 Aug 2026 12:07:24 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior Market Strategist Benjamin Picton discusses recurring Middle East tensions around the Strait of Hormuz and their impact on Oil and Brent.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
