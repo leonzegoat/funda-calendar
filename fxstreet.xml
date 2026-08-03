@@ -4,15 +4,31 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 03 Aug 2026 20:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 21:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Mexican Peso outpace broad US Dollar strength, ahead of Banxico’s day]]></title>
+            <title><![CDATA[New Zealand Dollar holds as traders brace for New Zealand jobs data]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-holds-as-traders-brace-for-new-zealand-jobs-data-202608032136</link>
+            <guid isPermaLink="false">14bf8258-42af-4062-a1ae-7cf9fdfd6ee7</guid>
+            <pubDate>Mon, 03 Aug 2026 21:36:05 GMT</pubDate>
+            <description><![CDATA[NZD/USD trades with a flat tone near the 0.5870 zone on Monday, holding onto the bulk of last week's advance but struggling to extend it as the US Dollar (USD) regains composure.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: Oil collapses on Iran talks, Yen holds gains]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-oil-collapses-on-iran-talks-yen-holds-gains-202608032043</link>
+            <guid isPermaLink="false">cdb19d85-e39f-454a-bc47-73fcfe50feb8</guid>
+            <pubDate>Mon, 03 Aug 2026 20:43:26 GMT</pubDate>
+            <description><![CDATA[Oil prices fell sharply on Monday amid growing expectations that talks between the US and Iran will resume soon. US President Donald Trump stated that conversations are underway after Tehran said it had no plans for direct negotiations. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso outpaces broad US Dollar strength ahead of Banxico’s rate decision]]></title>
             <link>https://www.fxstreet.com/news/mexican-peso-outpace-broad-us-dollar-strength-ahead-of-banxicos-day-202608031952</link>
             <guid isPermaLink="false">e2f43a58-48d2-40a1-9bc2-c93bbf5ea2ba</guid>
             <pubDate>Mon, 03 Aug 2026 19:52:36 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso gains ground versus the US Dollar on Monday as risk appetite increases the carry-trade appeal of the emerging-market currency, while traders await the release of the Bank of Mexico (Banxico) monetary policy meeting late this week. The USD/MXN trades at 17.32, down 0.14%.]]></description>
+            <description><![CDATA[The Mexican Peso (MXN) gains ground against the US Dollar (USD) on Monday as risk appetite increases the carry-trade appeal of the emerging-market currency, while traders await the release of the Bank of Mexico (Banxico) monetary policy meeting later this week.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/MXN2-18326.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 03 Aug 2026 12:07:24 GMT</pubDate>
             <description><![CDATA[Rabobank's Senior Market Strategist Benjamin Picton discusses recurring Middle East tensions around the Strait of Hormuz and their impact on Oil and Brent.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP Price Forecast: Cross remains capped near bottom of bullish channel]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-price-forecast-below-the-bottom-of-the-bullish-channel-at-08570-202608031206</link>
-            <guid isPermaLink="false">39a8bd03-f7c3-4cc7-9a83-66eb9498d774</guid>
-            <pubDate>Mon, 03 Aug 2026 12:06:43 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) ticks higher against the British Pound (GBP) on Monday but remains capped below the bottom of an ascending channel at the 0.8575 area following Thursday and Friday's declines.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Labour data and hawkish risks in focus – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-labour-data-and-hawkish-risks-in-focus-deutsche-bank-202608031155</link>
-            <guid isPermaLink="false">97f9daa8-79eb-4304-957d-76f744c3ad6c</guid>
-            <pubDate>Mon, 03 Aug 2026 11:55:12 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists outlines a United States (US) macro backdrop where the Federal Reserve (Fed) held rates but three officials dissented for a hike, keeping inflation concerns alive. They expect two further 25bp increases this year and closely watch upcoming labour and activity data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
