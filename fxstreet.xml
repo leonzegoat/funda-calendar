@@ -4,15 +4,55 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 04 Aug 2026 19:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 21:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Mexican Peso rallies to a one-month high on Hormuz deal speculation]]></title>
+            <title><![CDATA[Chinese Yuan: Strengthening toward 6.7300 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-strengthening-toward-67300-against-us-dollar-uob-202608042117</link>
+            <guid isPermaLink="false">a08dcdd6-ca25-47d3-bbfd-0f15c878e6e2</guid>
+            <pubDate>Tue, 04 Aug 2026 21:17:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang sees USD/CNH trading slightly higher within a developing range, with intraday levels expected between 6.7500 and 6.7620. On a 1–3 week horizon, the pair could continue to edge lower toward 6.7300 as long as 6.7640 holds as strong resistance.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vietnam Dong: Stable despite widening trade deficit – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/vietnam-dong-stable-despite-widening-trade-deficit-commerzbank-202608042034</link>
+            <guid isPermaLink="false">1c1e11a7-f93c-48b6-81df-29ed78a43ff2</guid>
+            <pubDate>Tue, 04 Aug 2026 20:34:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank analysts note that Vietnam’s July inflation eased to 4.5% year-on-year, keeping the average near the 4.5% target, while the trade deficit widened to USD 3.6 billion on strong import growth driven by energy and capital goods.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Vietnam-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Nothing Britain does moves the Pound against the Dollar]]></title>
+            <link>https://www.fxstreet.com/news/nothing-britain-does-moves-the-pound-against-the-dollar-202608041954</link>
+            <guid isPermaLink="false">7f494c01-687e-4e7c-acf1-a8ddc1afa295</guid>
+            <pubDate>Tue, 04 Aug 2026 19:54:36 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) trades near 1.3450 against the US Dollar (USD) on Tuesday, higher by 0.11% inside a session range of 36 pips, the second sub-40-pip day cable has produced inside a week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-62.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: Oil extends collapse on Hormuz reopening reports, Silver surges]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-oil-extends-collapse-on-hormuz-reopening-reports-silver-surges-202608041951</link>
+            <guid isPermaLink="false">14b0eeec-8122-4e4f-8e37-eda25fb12449</guid>
+            <pubDate>Tue, 04 Aug 2026 19:51:39 GMT</pubDate>
+            <description><![CDATA[Oil prices extended their slide on Tuesday after reports that an announcement on the reopening of the Strait of Hormuz could come within hours.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Gains risk watched below 1.2790 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-gains-risk-watched-below-12790-against-us-dollar-uob-202608041951</link>
+            <guid isPermaLink="false">ed823c7f-5cbf-4b6c-9bb6-a18be485788c</guid>
+            <pubDate>Tue, 04 Aug 2026 19:51:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang notes USD/SGD’s recent downside bias has faded after a dip to 1.2790 and recovery to 1.2827.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso rallies to six-week high on Hormuz deal speculation]]></title>
             <link>https://www.fxstreet.com/news/mexican-peso-rallies-to-a-one-month-high-on-hormuz-deal-speculation-202608041928</link>
             <guid isPermaLink="false">3ebaffbe-e474-4e3d-adf6-99a7dd8a2fab</guid>
             <pubDate>Tue, 04 Aug 2026 19:28:37 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso surges to a one-month high on Tuesday as talks between the US and Iran could reopen the Strait of Hormuz, easing global inflationary pressures by freeing ship traffic. At the time of writing, the USD/MXN pair trades at 17.26, after reaching a high of 17.33.]]></description>
+            <description><![CDATA[The Mexican Peso (MXN) surges to a six-week high on Tuesday as talks between the US and Iran could reopen the Strait of Hormuz, easing global inflationary pressures by freeing ship traffic. At the time of writing, the USD/MXN pair trades at 17.26, after reaching a high of 17.33.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 04 Aug 2026 13:27:11 GMT</pubDate>
             <description><![CDATA[BNY’s Geoff Yu highlights ongoing market focus on Japanese Yen intervention, noting authorities stepped back from action overnight as Tokyo seeks to preserve its International Monetary Fund (IMF) free‑floating status.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar: Labor market soft, RBNZ hike eyed – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-labor-market-soft-rbnz-hike-eyed-td-securities-202608041309</link>
-            <guid isPermaLink="false">ccc981bf-ff86-4c24-a033-941e0d08dcfb</guid>
-            <pubDate>Tue, 04 Aug 2026 13:09:29 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Australia/NZ macro team sees New Zealand Employment growth at 0.1% q/q in Q2, insufficient to match population gains. They expect the Unemployment Rate to rise to 5.4%, returning to its recent cycle high and aligning with the RBNZ’s May forecast.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: FOMC fallout weighs on USD – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fomc-fallout-weighs-on-usd-mufg-202608041247</link>
-            <guid isPermaLink="false">1b694a51-d966-42b8-9414-9eeccb483d16</guid>
-            <pubDate>Tue, 04 Aug 2026 12:47:29 GMT</pubDate>
-            <description><![CDATA[Lee Hardman at MUFG highlights that the US Dollar index has fallen back below 100.00 following last week’s FOMC meeting, as the Fed left rates on hold and Chair Kevin Warsh offered less hawkish guidance.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver shines near $60 as falling Oil supports precious metals]]></title>
-            <link>https://www.fxstreet.com/news/silver-shines-near-60-as-falling-oil-supports-precious-metals-202608041243</link>
-            <guid isPermaLink="false">17773640-7dde-4d1d-8fd9-b98b054cd0b6</guid>
-            <pubDate>Tue, 04 Aug 2026 12:43:18 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) trades around $59.80 at the time of writing on Tuesday, up 2.81% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Tariff uncertainty and tight supply – BNY]]></title>
-            <link>https://www.fxstreet.com/news/copper-tariff-uncertainty-and-tight-supply-bny-202608041232</link>
-            <guid isPermaLink="false">72240e09-85ce-4498-8dbe-d5b1267c42c2</guid>
-            <pubDate>Tue, 04 Aug 2026 12:32:15 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu notes Copper is surging as tighter availability meets uncertainty over United States (US) tariffs, with shipments to the United States draining inventories elsewhere and constrained mine output leaving the market exposed to squeezes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Joint intervention lifts JPY against US Dollar – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-joint-intervention-lifts-jpy-against-us-dollar-rabobank-202608041218</link>
-            <guid isPermaLink="false">1963bf99-70fd-4c08-8ed5-7b8546c053d8</guid>
-            <pubDate>Tue, 04 Aug 2026 12:18:20 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley highlights that Japanese authorities benefited from the post-FOMC US Dollar (USD) drop, which eased pressure on the Japanese Yen (JPY).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
