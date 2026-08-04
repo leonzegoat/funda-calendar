@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 04 Aug 2026 17:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 19:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mexican Peso rallies to a one-month high on Hormuz deal speculation]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-rallies-to-a-one-month-high-on-hormuz-deal-speculation-202608041928</link>
+            <guid isPermaLink="false">3ebaffbe-e474-4e3d-adf6-99a7dd8a2fab</guid>
+            <pubDate>Tue, 04 Aug 2026 19:28:37 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso surges to a one-month high on Tuesday as talks between the US and Iran could reopen the Strait of Hormuz, easing global inflationary pressures by freeing ship traffic. At the time of writing, the USD/MXN pair trades at 17.26, after reaching a high of 17.33.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: PMI weakness boosts easing expectations – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-pmi-weakness-boosts-easing-expectations-commerzbank-202608041912</link>
+            <guid isPermaLink="false">0431fb22-e1c9-4724-96eb-22d84ca7e1af</guid>
+            <pubDate>Tue, 04 Aug 2026 19:12:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank economist Dr. Henry Hao highlights that China’s private manufacturing PMI fell to 50.9 in July, reinforcing signs of slowing factory momentum alongside the official NBS PMI at 49.2.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Range trade with upside risk against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-range-trade-with-upside-risk-against-us-dollar-scotiabank-202608041831</link>
+            <guid isPermaLink="false">36a84a4b-cdd4-4b06-93a9-48847f39b1e6</guid>
+            <pubDate>Tue, 04 Aug 2026 18:31:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank’s Global FX Strategy team notes that Sterling remains modestly firmer, with GBP/USD continuing to pivot around long-term moving averages near 1.34.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gold shines and rises on Iran’s deal hopes, lower US yields]]></title>
             <link>https://www.fxstreet.com/news/gold-shines-and-rises-on-irans-deal-hopes-lower-us-yields-202608041753</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 04 Aug 2026 12:18:20 GMT</pubDate>
             <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley highlights that Japanese authorities benefited from the post-FOMC US Dollar (USD) drop, which eased pressure on the Japanese Yen (JPY).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/JPY Price Forecast: Bears test 200-day SMA after sharp sell-off]]></title>
-            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bears-test-200-day-sma-after-sharp-selloff-202608041211</link>
-            <guid isPermaLink="false">59cf19f9-2f6d-4a7b-91c9-511bbca7ef6c</guid>
-            <pubDate>Tue, 04 Aug 2026 12:11:27 GMT</pubDate>
-            <description><![CDATA[GBP/JPY rises on Tuesday as the Japanese Yen (JPY) gives back part of its recent rally, which was driven by coordinated intervention from Tokyo and Washington.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Treasury Secretary Bessent says Hormuz deal nears as Oil prices tumble]]></title>
-            <link>https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-hormuz-deal-nears-as-oil-prices-tumble-202608041208</link>
-            <guid isPermaLink="false">14a6954b-a048-4f15-aef4-989651dbcdfd</guid>
-            <pubDate>Tue, 04 Aug 2026 12:08:16 GMT</pubDate>
-            <description><![CDATA[US Treasury Secretary Scott Bessent said in a CNBC interview on Tuesday that a deal with Iran to reopen the Strait of Hormuz could be reached as soon as Tuesday or Wednesday. He added that he expects energy prices to "settle back down".]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/scott-bessent-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Natural gas: Tight market but less stressed – ING]]></title>
-            <link>https://www.fxstreet.com/news/natural-gas-tight-market-but-less-stressed-ing-202608041159</link>
-            <guid isPermaLink="false">0b127d87-98f2-4793-bf0f-f8df0fd92d9b</guid>
-            <pubDate>Tue, 04 Aug 2026 11:59:30 GMT</pubDate>
-            <description><![CDATA[ING’s commodities team points out that European gas prices fell, with TTF down modestly, as the market digests storage and demand trends.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
