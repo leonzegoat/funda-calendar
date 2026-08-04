@@ -4,15 +4,63 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 04 Aug 2026 15:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 17:58:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[British Pound rebounds as soft JOLTS, Oil fall pressures the USD]]></title>
+            <title><![CDATA[Gold shines and rises on Iran’s deal hopes, lower US yields]]></title>
+            <link>https://www.fxstreet.com/news/gold-shines-and-rises-on-irans-deal-hopes-lower-us-yields-202608041753</link>
+            <guid isPermaLink="false">f9d8466f-885e-4896-bcc4-20bdeae7db7c</guid>
+            <pubDate>Tue, 04 Aug 2026 17:53:32 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) advances some 0.75% on Tuesday as Oil prices fall, along with US Treasury yields. Also, an improvement in risk appetite propelled the yellow metal to a two-day peak of $4,106.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: 200-day SMA caps rebound after intervention-led selloff]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-200-day-sma-caps-rebound-after-intervention-led-selloff-202608041747</link>
+            <guid isPermaLink="false">437c8a04-9fbd-4816-b63d-e93a2fc76164</guid>
+            <pubDate>Tue, 04 Aug 2026 17:47:04 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades modestly higher on Tuesday despite a softer US Dollar (USD), as the impact of recent intervention fades and the Japanese Yen (JPY) comes under pressure again.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia: Trade risks and structural support – UOB]]></title>
+            <link>https://www.fxstreet.com/news/indonesia-trade-risks-and-structural-support-uob-202608041745</link>
+            <guid isPermaLink="false">774095ae-5a77-4f0c-bf65-648d064d566d</guid>
+            <pubDate>Tue, 04 Aug 2026 17:45:48 GMT</pubDate>
+            <description><![CDATA[UOB economists Enrico Tanuwidjaja and Vincentius Ming Shen assess Indonesia’s June 2026 trade data, highlighting that the trade deficit narrowed as stronger non-oil and gas exports partly offset rapid import growth.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesia3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bulldozers built a third of the Dow Jones Industrial Average record]]></title>
+            <link>https://www.fxstreet.com/news/bulldozers-built-a-third-of-the-dow-jones-industrial-average-record-202608041645</link>
+            <guid isPermaLink="false">b144498a-e9ce-472c-95f9-ba9b56ccc075</guid>
+            <pubDate>Tue, 04 Aug 2026 16:45:25 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average trades above 54,100 on Tuesday, more than 900 points higher and through the July peak just over 53,300 that had stood since the first week of last month. The run reaches a fourth consecutive session and close to 2,500 points, near 5%, since the 29 July decision.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Oil drops sharply after Bessent signals an imminent Iran deal]]></title>
+            <link>https://www.fxstreet.com/news/wti-oil-drops-sharply-after-bessent-signals-an-imminent-iran-deal-202608041613</link>
+            <guid isPermaLink="false">d44e8dfd-a0e9-46bf-a0fc-13630195f29f</guid>
+            <pubDate>Tue, 04 Aug 2026 16:13:42 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) US Oil is falling sharply on Tuesday, trading around $75.70 per barrel at the time of writing, down 3.91% on the day and at its lowest level in the last three weeks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Bullish signals point to gains versus US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-bullish-signals-point-to-gains-versus-us-dollar-scotiabank-202608041558</link>
+            <guid isPermaLink="false">079b91ce-1a13-48ff-8e2f-d96cd99f9a72</guid>
+            <pubDate>Tue, 04 Aug 2026 15:58:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank’s Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) has lagged other G10 currencies despite a softer US Dollar (USD) tone and improving Canadian data surprises versus the United States (US).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound rebounds as soft JOLTS and Oil decline pressure USD]]></title>
             <link>https://www.fxstreet.com/news/british-pound-rebounds-as-soft-jolts-oil-fall-pressures-the-usd-202608041551</link>
             <guid isPermaLink="false">7279c73f-43f5-46e5-a43f-29460f0b97ac</guid>
             <pubDate>Tue, 04 Aug 2026 15:51:35 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling recovers some ground against the US Dollar on Tuesday, up 0.14%, as US jobs data was softer than expected but confirmed the strength of the labour market, with layoffs being little changed. The GBP/USD trades at 1.3451 after rebounding at 1.3419.]]></description>
+            <description><![CDATA[The Pound Sterling (GBP) recovers some ground against the US Dollar (USD) on Tuesday, up 0.14%, as US jobs data was softer than expected but confirmed the strength of the labor market, with layoffs being little changed. The GBP/USD pair trades at 1.3451 after rebounding from 1.3419.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 04 Aug 2026 11:59:30 GMT</pubDate>
             <description><![CDATA[ING’s commodities team points out that European gas prices fell, with TTF down modestly, as the market digests storage and demand trends.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: JOLTS openings seen retreating – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-jolts-openings-seen-retreating-td-securities-202608041149</link>
-            <guid isPermaLink="false">86ce995d-a6fc-4d8b-a48c-b3f99024f60e</guid>
-            <pubDate>Tue, 04 Aug 2026 11:49:53 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists expect US JOLTS job openings to fall to 7.0 million in June from 7.594 million in May, below the 7.504 million consensus forecast, as the recent increase appears difficult to sustain. They expect the data to move closer to softer private-sector hiring indicators.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro defends the 1.1500 level ahead of a string of US labour data ]]></title>
-            <link>https://www.fxstreet.com/news/euro-defends-the-11500-level-ahead-of-a-string-of-us-labour-data-202608041149</link>
-            <guid isPermaLink="false">d04e0005-c602-4149-b956-d9b64dc90165</guid>
-            <pubDate>Tue, 04 Aug 2026 11:49:15 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) posts marginal gains against the US Dollar (USD) on Tuesday as Monday’s reversal from three-week highs at 1.1560 has been contained at 1.1500 so far.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_newspaper.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Supply resilience and geopolitical risks – BNY]]></title>
-            <link>https://www.fxstreet.com/news/oil-supply-resilience-and-geopolitical-risks-bny-202608041144</link>
-            <guid isPermaLink="false">efe4d3a4-bf34-4260-b1e8-1c548e94e4a4</guid>
-            <pubDate>Tue, 04 Aug 2026 11:44:37 GMT</pubDate>
-            <description><![CDATA[BNY's Geoff Yu reports that Saudi Aramco sees no material operational or financial impact from July attacks, with alternative pipelines, storage and export terminals preserving output.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Relief rallies seen as selling opportunity – BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-relief-rallies-seen-as-selling-opportunity-bbh-202608041135</link>
-            <guid isPermaLink="false">b11e781c-42dd-459f-8c05-80c914e043b1</guid>
-            <pubDate>Tue, 04 Aug 2026 11:35:27 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports USD/JPY has fully retraced its prior slump and is testing key resistance at the 200-day moving average near 158.02.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Qatar’s Ansari: Efforts are ongoing to seek diplomatic solution in US-Iran conflict]]></title>
-            <link>https://www.fxstreet.com/news/qatars-ansari-efforts-are-ongoing-to-seek-diplomatic-solution-in-us-iran-conflict-202608041131</link>
-            <guid isPermaLink="false">700d849d-f931-4677-ab68-c024c14211b3</guid>
-            <pubDate>Tue, 04 Aug 2026 11:31:33 GMT</pubDate>
-            <description><![CDATA[Qatar's Foreign Ministry spokesperson, Majed Al Ansari, confirms during the European trading session on Tuesday that efforts are ongoing with the United States (US) and Iran to seek a diplomatic resolution. Ansari added, “What is important right now is getting back to the negotiation talks.”]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Qatar_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Rebound supported by lower energy – ING]]></title>
-            <link>https://www.fxstreet.com/news/gold-rebound-supported-by-lower-energy-ing-202608041123</link>
-            <guid isPermaLink="false">f443a3ee-52e4-412b-9c95-62365efe5ecd</guid>
-            <pubDate>Tue, 04 Aug 2026 11:23:43 GMT</pubDate>
-            <description><![CDATA[ING strategist Ewa Manthey highlights that Gold has extended its recovery, posting its first monthly gain since February. The metal is supported by easing Middle East geopolitical tensions and sharply lower Oil prices, which reduce inflation concerns.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
