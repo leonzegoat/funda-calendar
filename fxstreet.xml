@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 04 Aug 2026 22:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 23:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold edges lower below $4,100 as markets focus on US-Iran talks ]]></title>
+            <link>https://www.fxstreet.com/news/gold-edges-lower-below-4-100-as-markets-focus-on-us-iran-talks-202608042325</link>
+            <guid isPermaLink="false">65802cc2-2af8-475b-89fd-a10679d429f1</guid>
+            <pubDate>Tue, 04 Aug 2026 23:25:05 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) declines to near $4,070 during the early Asian session on Wednesday. The precious metal fluctuates as traders weigh the Federal Reserve’s (Fed) interest-rate path amid uncertainty in the Middle East. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Rebound stalls below 200-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-rebound-stalls-below-200-day-sma-202608042247</link>
+            <guid isPermaLink="false">287a1dbc-2dde-4b7d-b95d-19b5330106fd</guid>
+            <pubDate>Tue, 04 Aug 2026 22:47:45 GMT</pubDate>
+            <description><![CDATA[The EUR/JPY buyers stop the bleeding after three consecutive days of losses, registering modest gains of 0.56% on Tuesday. At the time of writing, the cross-pair trades at around 181.90 after US and Japanese authorities intervened in the FX markets to propel the Japanese Yen against its pairs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand’s Unemployment Rate climbs to 5.6% in Q2 vs. 5.4% expected]]></title>
+            <link>https://www.fxstreet.com/news/new-zealands-unemployment-rate-climbs-to-56-in-q2-vs-54-expected-202608042246</link>
+            <guid isPermaLink="false">f34fe6bf-cd68-4155-b853-0d4ccf615704</guid>
+            <pubDate>Tue, 04 Aug 2026 22:46:13 GMT</pubDate>
+            <description><![CDATA[New Zealand’s Unemployment Rate rose to 5.6% in the second quarter (Q2) of 2026 from 5.3% in the first quarter, according to the official data released by Statistics New Zealand on Wednesday. The figure came in above the market consensus of 5.4%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-clock.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar climbs ahead of NZ employment data]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-climbs-ahead-of-nz-employment-data-202608042228</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 04 Aug 2026 14:14:41 GMT</pubDate>
             <description><![CDATA[AUD/USD trades around 0.7035 on Tuesday at the time of writing, up 0.50% on the day. The pair is supported by improving market sentiment after US Treasury Secretary Scott Bessent said that an agreement with Iran to reopen the Strait of Hormuz could be reached as soon as Tuesday or Wednesday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States: Growth impulse questioned – Standard Chartered]]></title>
-            <link>https://www.fxstreet.com/news/united-states-growth-impulse-questioned-standard-chartered-202608041412</link>
-            <guid isPermaLink="false">3560180c-670c-4457-8ffa-b4ab79731096</guid>
-            <pubDate>Tue, 04 Aug 2026 14:12:18 GMT</pubDate>
-            <description><![CDATA[Standard Chartered analysts Dan Pan and Steve Englander discuss the Federal Reserve’s Financial Conditions Impulse on Growth (FCI-G) index, noting it was highly accommodative in May 2026 and still supportive after the July FOMC.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States JOLTS Job Openings decline to 7.35 million in June]]></title>
-            <link>https://www.fxstreet.com/news/united-states-jolts-job-openings-decline-to-735-million-in-june-202608041410</link>
-            <guid isPermaLink="false">00ce4777-9a47-4ffc-9c06-ba3513a1c2ad</guid>
-            <pubDate>Tue, 04 Aug 2026 14:10:17 GMT</pubDate>
-            <description><![CDATA[The number of job openings stood at 7.359 million in June, the US Bureau of Labor Statistics reported on Tuesday. This print followed the 7.537 million openings reported in May and came in slightly below the market expectation of 7.4 million.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_newspaper.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Dip after FOMC but strength expected – HSBC]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-dip-after-fomc-but-strength-expected-hsbc-202608041347</link>
-            <guid isPermaLink="false">f1032783-2de3-45c9-84e4-78546705af54</guid>
-            <pubDate>Tue, 04 Aug 2026 13:47:17 GMT</pubDate>
-            <description><![CDATA[HSBC strategists discuss the US Dollar (USD) reaction to the July Federal Open Market Committee (FOMC) meeting, where the Federal Reserve (Fed) kept rates at 3.50-3.75% despite some dissent for a hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-77.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
