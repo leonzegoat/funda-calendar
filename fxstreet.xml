@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 05 Aug 2026 16:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 18:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold rallies as Iran-US deal seems closer ahead of NFP]]></title>
+            <link>https://www.fxstreet.com/news/gold-rallies-as-iran-us-deal-seems-closer-ahead-of-nfp-202608051819</link>
+            <guid isPermaLink="false">796ad070-5a64-4602-a042-ba93956a5d28</guid>
+            <pubDate>Wed, 05 Aug 2026 18:19:04 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) price surges to its highest level in nearly seven weeks, gaining nearly 3.80% on Wednesday as the Greenback loses ground and US Treasury yields fail to gain traction. The XAU/USD pair trades at $4,232, its highest level since June 18, after bouncing off daily lows of $4,065.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI holds near three-week low as traders await Hormuz agreement]]></title>
+            <link>https://www.fxstreet.com/news/wti-holds-near-three-week-low-as-traders-await-hormuz-agreement-202608051759</link>
+            <guid isPermaLink="false">ca27c092-dbf6-47dd-99cf-ca07817d8d8e</guid>
+            <pubDate>Wed, 05 Aug 2026 17:59:52 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) Crude Oil remains under pressure on Wednesday but struggles to attract fresh selling as traders await confirmation that commercial shipping through the Strait of Hormuz will resume. At the time of writing, WTI trades around $74 per barrel, hovering near three-week lows.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc gains as US economic data disappoints and Fed hike bets weaken]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-gains-as-us-economic-data-disappoints-and-fed-hike-bets-weaken-202608051730</link>
+            <guid isPermaLink="false">6d5a6cea-68d5-4808-a3de-e72e41772605</guid>
+            <pubDate>Wed, 05 Aug 2026 17:30:54 GMT</pubDate>
+            <description><![CDATA[The Swiss Franc (CHF) strengthens against the US Dollar (USD) on Wednesday as weaker-than-expected US economic data pressures the Greenback, while traders closely follow efforts to reopen the Strait of Hormuz. At the time of writing, USD/CHF trades around 0.8078, down nearly 0.18% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-realistic.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average takes another record on Tehran's terms]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-takes-another-record-on-tehrans-terms-202608051659</link>
+            <guid isPermaLink="false">2fd20d1a-738d-4a4f-84da-49b3abaa5f48</guid>
+            <pubDate>Wed, 05 Aug 2026 16:59:44 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades near 54,500 on Wednesday, 0.76% higher and at a fresh record, roughly 1,400 points above the high it set in early July.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen consolidates as traders weigh weak US data, market sentiment]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-consolidates-as-traders-weigh-weak-us-data-market-sentiment-202608051628</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 05 Aug 2026 12:22:20 GMT</pubDate>
             <description><![CDATA[Societe Generale’s Kit Juckes, drawing on Scott Bessent’s perspective, argues that recent coordinated US-Japan action in the Japanese Yen is part of a broader US trade strategy.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: ADP Employment Change declines to 44K in July vs. 70K forecast]]></title>
-            <link>https://www.fxstreet.com/news/adp-employment-report-expected-to-show-a-steady-labor-market-in-july-202608050830</link>
-            <guid isPermaLink="false">8818820c-5bd6-4d9b-a2c4-c72ac2f16083</guid>
-            <pubDate>Wed, 05 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[Employment in the United States' (US) private sector increased by 44K in July, the Automatic Data Processing (ADP) reported on Wednesday. This reading followed the 98K increase recorded in June and came in below the market expectation of 70K.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Tight supply supports breakout above $14,000 – ING]]></title>
-            <link>https://www.fxstreet.com/news/copper-tight-supply-supports-breakout-above-14-000-ing-202608051213</link>
-            <guid isPermaLink="false">c6cd5c09-a445-40bf-b6bf-c7fcd5063891</guid>
-            <pubDate>Wed, 05 Aug 2026 12:13:33 GMT</pubDate>
-            <description><![CDATA[ING’s Warren Patterson and Ewa Manthey highlight that Copper has surged above $14,000 per tonne on the LME, driven by tightening physical conditions and strong prompt demand.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Consolidation view into ISM and payrolls – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-consolidation-view-into-ism-and-payrolls-bbh-202608051154</link>
-            <guid isPermaLink="false">93279b22-8481-47b8-aa1c-724f13a40fcd</guid>
-            <pubDate>Wed, 05 Aug 2026 11:54:53 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the Dollar is mixed as global equities rise and Oil stabilizes. Haddad argues the USD rally from May has likely ended, with US Dollar Index (DXY) expected to consolidate in a 96.00–100.00 range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Price slips on Hormuz deal hopes – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/brent-price-slips-on-hormuz-deal-hopes-rabobank-202608051143</link>
-            <guid isPermaLink="false">05fa70bd-194e-4155-b2fd-b18d2e814eb1</guid>
-            <pubDate>Wed, 05 Aug 2026 11:43:39 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Global Daily notes Brent futures fell to around $79 as reports suggested the US, Iran and Oman are close to a temporary deal to reopen the Strait of Hormuz.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
