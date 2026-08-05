@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 05 Aug 2026 21:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 22:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar hits a seven-week high on nothing Australian]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-hits-a-seven-week-high-on-nothing-australian-202608052218</link>
+            <guid isPermaLink="false">8d92d4d4-1080-4102-834e-7a8a06d36304</guid>
+            <pubDate>Wed, 05 Aug 2026 22:18:29 GMT</pubDate>
+            <description><![CDATA[The Aussie is trading just above 0.7050 after a gain of not quite two tenths of a percent, its best level in seven weeks and the first time since mid-June that price has held clear of the 50-day Exponential Moving Average (EMA) near 0.7000.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia: Growth-inflation mix supports steady BI stance – DBS]]></title>
+            <link>https://www.fxstreet.com/news/indonesia-growth-inflation-mix-supports-steady-bi-stance-dbs-202608052211</link>
+            <guid isPermaLink="false">f3123c31-01cb-4691-96a7-d2797068b914</guid>
+            <pubDate>Wed, 05 Aug 2026 22:11:00 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economist Radhika Rao notes Indonesia’s onshore markets are focused on the appointment of a new Bank Indonesia Governor after Perry Warjiyo’s departure, with Acting Governor Destry Damayanti prioritising non-rate measures and IDR liquidity.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-flag-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pound Sterling cannot break its range with Britain on recess]]></title>
+            <link>https://www.fxstreet.com/news/pound-sterling-cannot-break-its-range-with-britain-on-recess-202608052200</link>
+            <guid isPermaLink="false">df0bdb8e-6762-4254-9446-ef5281403ecb</guid>
+            <pubDate>Wed, 05 Aug 2026 22:00:19 GMT</pubDate>
+            <description><![CDATA[Monday's session did the entire week's work in a single candle, reclaiming the moving-average band that had capped every rally since mid-July and stalling just short of 1.3500. The two sessions since have traded wholly inside it.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[South Korean Won: Strength extends on intervention talk against US Dollar – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/south-korean-won-strength-extends-on-intervention-talk-against-us-dollar-commerzbank-202608052133</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 05 Aug 2026 09:00:00 GMT</pubDate>
             <description><![CDATA[Fresh data from the Institute for Supply Management (ISM) showed the Services PMI improving a tad to 54.1 in July from 54 in the previous month, coming in short of expectations at 54.5 and signaling some marginal pickup of momentum in the sector.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar: Labor slack tempers strong jobs data – BBH]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-labor-slack-tempers-strong-jobs-data-bbh-202608051403</link>
-            <guid isPermaLink="false">207caacb-382e-4278-a29c-3c1485b53dce</guid>
-            <pubDate>Wed, 05 Aug 2026 14:03:13 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the New Zealand Dollar and local yields slumped after strong Q2 employment and wage gains were offset by rising labor supply and higher unemployment.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: RBI seen defending 97 band onshore – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rbi-seen-defending-97-band-onshore-societe-generale-202608051343</link>
-            <guid isPermaLink="false">e03d3e96-22b1-43c5-89dc-a56b99cbe8b2</guid>
-            <pubDate>Wed, 05 Aug 2026 13:43:18 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Kunal Kundu and Galvin Chia judge the Reserve Bank of India's (RBI) August policy outcome as neutral for the Indian Rupee (INR). They highlight fewer comments on INR and flows, but recall Governor Malhotra’s view that INR is not undervalued.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Intervention drop seen capped near 153 – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-intervention-drop-seen-capped-near-153-td-securities-202608051328</link>
-            <guid isPermaLink="false">bcc205bc-61b2-4f06-9a15-d3bed7467810</guid>
-            <pubDate>Wed, 05 Aug 2026 13:28:09 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists see the recent intervention-driven USD/JPY decline as cyclical rather than regime-changing. They expect December as the more likely timing for the next Bank of Japan (BoJ) hike and doubt sustained joint US‑Japan intervention support.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
