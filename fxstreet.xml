@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 05 Aug 2026 22:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 23:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold rises above $4,250 on US–Iran deal hopes]]></title>
+            <link>https://www.fxstreet.com/news/gold-rises-above-4-250-on-us-iran-deal-hopes-202608052332</link>
+            <guid isPermaLink="false">ac4b5e2a-9565-4903-b384-a58ea5566a55</guid>
+            <pubDate>Wed, 05 Aug 2026 23:32:27 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) rises to near $4,255 during the early Asian session on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Record intervention bought the Japanese Yen a return to mid-May]]></title>
+            <link>https://www.fxstreet.com/news/record-intervention-bought-the-japanese-yen-a-return-to-mid-may-202608052301</link>
+            <guid isPermaLink="false">64d216d4-8cae-4830-b667-4423ce5d05d2</guid>
+            <pubDate>Wed, 05 Aug 2026 23:01:01 GMT</pubDate>
+            <description><![CDATA[The pair changes hands just above 157.50, flat on the session and sitting directly on a 200-day Exponential Moving Average (EMA) that has risen to meet it. The range covers less than 60 pips.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Gradual strengthening against US Dollar toward 6.7300 – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-gradual-strengthening-against-us-dollar-toward-67300-uob-202608052249</link>
+            <guid isPermaLink="false">bceaa1f4-e577-4ba9-bee0-07bf54c3e7a8</guid>
+            <pubDate>Wed, 05 Aug 2026 22:49:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann reports USD/CNH slipped to 6.7459 after failing to extend a modest bounce, with limited downside momentum. Intraday, they see potential to test last week’s 6.7420 low but doubt a sustained break below.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar hits a seven-week high on nothing Australian]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-hits-a-seven-week-high-on-nothing-australian-202608052218</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 05 Aug 2026 14:20:50 GMT</pubDate>
             <description><![CDATA[BNY’s Geoff Yu notes Brazilian portfolio inflows are near post-COVID highs ahead of the Selic decision, with strong demand for equities and government bonds.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold tops $4,200 on softer US labour data as Fed outlook turns less hawkish]]></title>
-            <link>https://www.fxstreet.com/news/gold-advances-to-one-month-high-as-hormuz-reopening-hopes-ease-inflation-fears-202608051119</link>
-            <guid isPermaLink="false">d985ce60-d741-4a71-bc9e-b2d4bbc2a18e</guid>
-            <pubDate>Wed, 05 Aug 2026 11:19:27 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) jumps more than 3.50% on Wednesday as weaker-than-expected US labour market data pressures the US Dollar (USD), while lower Oil prices on hopes of reopening the Strait of Hormuz ease inflation concerns and weaken expectations for Federal Reserve (Fed) rate hikes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro edges higher as weak US labor data, lower Oil prices temper Fed hike bets]]></title>
-            <link>https://www.fxstreet.com/news/euro-edges-higher-as-weak-us-labour-data-lower-oil-prices-temper-fed-hike-bets-202608051411</link>
-            <guid isPermaLink="false">4405a830-c63f-418a-ad72-29462e33a750</guid>
-            <pubDate>Wed, 05 Aug 2026 14:11:10 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades modestly higher on Wednesday as weaker-than-expected US labor market data and easing energy-driven inflation risks temper Federal Reserve (Fed) rate-hike expectations and weigh on the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: ISM Services PMI came in at 54.1 in July]]></title>
-            <link>https://www.fxstreet.com/news/ism-services-pmi-preview-us-services-sector-expected-to-accelerate-in-july-202608050900</link>
-            <guid isPermaLink="false">bfeb1bb0-09fa-4316-871b-f0e3b24f6e4a</guid>
-            <pubDate>Wed, 05 Aug 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[Fresh data from the Institute for Supply Management (ISM) showed the Services PMI improving a tad to 54.1 in July from 54 in the previous month, coming in short of expectations at 54.5 and signaling some marginal pickup of momentum in the sector.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
