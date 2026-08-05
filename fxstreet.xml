@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 05 Aug 2026 20:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 21:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South Korean Won: Strength extends on intervention talk against US Dollar – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-strength-extends-on-intervention-talk-against-us-dollar-commerzbank-202608052133</link>
+            <guid isPermaLink="false">e03bace4-77b3-4cf7-ad8a-e9823dc0c0a0</guid>
+            <pubDate>Wed, 05 Aug 2026 21:33:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank economists highlight ongoing Korean Won (KRW) appreciation against the Dollar. USD/KRW slipped 0.1% to 1,430, extending declines from earlier in the week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: Gold surges above $4,240 as US labor data crumbles]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-gold-surges-above-4-240-as-us-labor-data-crumbles-202608052115</link>
+            <guid isPermaLink="false">74398c5b-f5c8-432e-801c-c288c13d8ef4</guid>
+            <pubDate>Wed, 05 Aug 2026 21:15:38 GMT</pubDate>
+            <description><![CDATA[Metals were the biggest earners of the day on Wednesday, with Gold surging more than 4% to trade near $4,247 per troy ounce and Silver rallying almost 5% toward $62.20 amid a softer-than-expected US labor market report, with a slowdown in private hiring. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-clock-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed Cook backs hold but warns rate hike possible if disinflation stalls]]></title>
+            <link>https://www.fxstreet.com/news/fed-cook-backs-hold-but-warns-rate-hike-possible-if-disinflation-stalls-202608052048</link>
+            <guid isPermaLink="false">b6bf53b3-fb9f-4cc9-a8fe-c6481b7e331e</guid>
+            <pubDate>Wed, 05 Aug 2026 20:48:45 GMT</pubDate>
+            <description><![CDATA[Fed Governor Lisa Cook said she supported leaving rates unchanged at the last Federal Open Market Committee (FOMC) meeting, as she awaits more data. She added that inflation risks outweigh job market risks, while reaffirming her full commitment to restoring price stability.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Break of 1.2790 may unlock further gains – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-break-of-12790-may-unlock-further-gains-uob-202608052047</link>
+            <guid isPermaLink="false">f039527d-42d2-4b92-bffa-d774815aa4b7</guid>
+            <pubDate>Wed, 05 Aug 2026 20:47:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD was broadly flat on Tuesday, with SGD NEER trading 1.5–2.0% above its mid-point, implying a 1.2773–1.2837 range. Intraday, they expect consolidation between 1.2805 and 1.2840.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso extends nine-day gains as Gulf War de-escalates]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-extends-nine-day-gains-as-gulf-war-de-escalates-202608052038</link>
+            <guid isPermaLink="false">6f0c37be-83e1-47e1-808c-87612950fc48</guid>
+            <pubDate>Wed, 05 Aug 2026 20:38:08 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso extends its gains for the ninth consecutive day on Wednesday, as the US Dollar remains on the back foot amid softer-than-expected US jobs data ahead of the crucial Nonfarm Payrolls report. The USD/MXN trades at 17.24, down 0.10%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bullish-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan: Passive foreign interest limits upside – BNY]]></title>
+            <link>https://www.fxstreet.com/news/japan-passive-foreign-interest-limits-upside-bny-202608052012</link>
+            <guid isPermaLink="false">5f540bfe-3c20-438a-972d-9cd15062e55a</guid>
+            <pubDate>Wed, 05 Aug 2026 20:12:00 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu notes that foreign demand for Japanese equities remains subdued compared with interest in JPY and JGBs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_NIKKEI-2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Asian FX: Repricing risk as policymakers resist weakness – DBS]]></title>
             <link>https://www.fxstreet.com/news/asian-fx-repricing-risk-as-policymakers-resist-weakness-dbs-202608051928</link>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 05 Aug 2026 13:28:09 GMT</pubDate>
             <description><![CDATA[TD Securities strategists see the recent intervention-driven USD/JPY decline as cyclical rather than regime-changing. They expect December as the more likely timing for the next Bank of Japan (BoJ) hike and doubt sustained joint US‑Japan intervention support.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Sterling pressured into autumn against Euro – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-sterling-pressured-into-autumn-against-euro-rabobank-202608051317</link>
-            <guid isPermaLink="false">3f8a3822-d6d6-4833-96b0-9cd426617f15</guid>
-            <pubDate>Wed, 05 Aug 2026 13:17:57 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses recent British Pound (GBP) weakness versus the Euro (EUR), linking it to reduced Bank of England (BoE) tightening expectations and political developments under UK Prime Minister Burnham.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Geopolitics test supply routes – BNY]]></title>
-            <link>https://www.fxstreet.com/news/oil-geopolitics-test-supply-routes-bny-202608051256</link>
-            <guid isPermaLink="false">50c00777-aa33-4737-92d4-7d9d3ebeb304</guid>
-            <pubDate>Wed, 05 Aug 2026 12:56:27 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu reports Oil prices rose after the Houthis claimed a missile strike on a Saudi tanker near Yanbu, highlighting risks to alternative export routes while Strait of Hormuz disruptions persist.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Strategists lower Euro forecasts, remain skeptical over Yen interventions – Reuters]]></title>
-            <link>https://www.fxstreet.com/news/strategists-lower-euro-forecasts-remain-skeptical-over-yen-interventions-reuters-202608051254</link>
-            <guid isPermaLink="false">4cbf3cc9-c82c-44d3-b4da-dcd9e43bfb3c</guid>
-            <pubDate>Wed, 05 Aug 2026 12:54:42 GMT</pubDate>
-            <description><![CDATA[Reuters’ latest poll of foreign exchange strategists shows a modest downward revision in Euro (EUR) forecasts while highlighting persistent market skepticism over the effectiveness of Japanese currency intervention.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: RBI stance and inflows support Rupee – BBH]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rbi-stance-and-inflows-support-rupee-bbh-202608051247</link>
-            <guid isPermaLink="false">0db79bd8-e067-43d4-bda0-f971ff97da8f</guid>
-            <pubDate>Wed, 05 Aug 2026 12:47:39 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports USD/INR is firmer after recently testing a one‑month low, following the Reserve Bank of India’s (RBI) unanimous decision to keep its policy rate at 5.25% and maintain a neutral bias.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazilian Real: Limited policy easing caps FX impact – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/brazilian-real-limited-policy-easing-caps-fx-impact-commerzbank-202608051238</link>
-            <guid isPermaLink="false">8d82256b-7ab4-4690-919e-417f2c8954b3</guid>
-            <pubDate>Wed, 05 Aug 2026 12:38:48 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Norman Liebke notes that markets expect a further 25 bps cut from the Brazilian Central Bank (BCB), but real rates would remain highly restrictive near 9.4%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/brasil-central-bank-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar firms as Oil rebounds, USD softens on weaker ADP data]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-firms-as-oil-rebounds-usd-softens-on-weaker-adp-data-202608051235</link>
-            <guid isPermaLink="false">29ff9ba9-aaa1-40a7-aa22-1f73ee75c431</guid>
-            <pubDate>Wed, 05 Aug 2026 12:35:10 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades around 1.4040 on Wednesday at the time of writing, down 0.14% on the day, as the Canadian Dollar (CAD) benefits from a rebound in Oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
