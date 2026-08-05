@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 04 Aug 2026 23:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 01:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US Treasury Secretary Bessent: Many Asian currencies track Yen now, including Won and Yuan]]></title>
+            <link>https://www.fxstreet.com/news/us-treasury-secretary-bessent-many-asian-currencies-track-yen-now-including-won-and-yuan-202608050051</link>
+            <guid isPermaLink="false">37b419f0-858a-4c80-b0eb-836fb83031ed</guid>
+            <pubDate>Wed, 05 Aug 2026 00:51:05 GMT</pubDate>
+            <description><![CDATA[US Treasury Secretary Scott Bessent said that the weakness of the Japanese Yen (JPY) has contributed to Japan’s inflation problem and raised the risk of broader depreciation of Asian currencies, Bloomberg reported on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/white-house-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Secretary of State Rubio says US-Iran talks progress, deal could come "very shortly"]]></title>
+            <link>https://www.fxstreet.com/news/us-secretary-of-state-rubio-says-us-iran-talks-progress-deal-could-come-very-shortly-202608050035</link>
+            <guid isPermaLink="false">b019a77c-cf07-4644-9e55-dd079b1f6000</guid>
+            <pubDate>Wed, 05 Aug 2026 00:35:25 GMT</pubDate>
+            <description><![CDATA[US Secretary of State Marco Rubio said there has been progress made in discussions with Iran and Oman on ‌getting ‌more ships through ‌the Strait of Hormuz but no final deal has been achieved, the Guardian reported on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/white-house-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RBI set to keep interest rates unchanged as inflation risks persist]]></title>
+            <link>https://www.fxstreet.com/news/rbi-set-to-keep-interest-rates-unchanged-as-inflation-risks-persist-202608050030</link>
+            <guid isPermaLink="false">c2e86d01-02e7-477f-afed-0ea38ced0fd0</guid>
+            <pubDate>Wed, 05 Aug 2026 00:30:00 GMT</pubDate>
+            <description><![CDATA[The Reserve Bank of India (RBI) is set to announce its bi-monthly monetary policy decision on Wednesday at 10:00 AM IST (04:30 GMT), another meeting coming at a time when uncertainty remains high over the duration and economic fallout of the ongoing Middle East conflict.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed's Schmid: Tighter monetary policy required to bring inflation back to 2% target]]></title>
+            <link>https://www.fxstreet.com/news/feds-schmid-tighter-monetary-policy-required-to-bring-inflation-back-to-2-target-202608050024</link>
+            <guid isPermaLink="false">9db9b22d-c2ea-4286-b718-274c261379b2</guid>
+            <pubDate>Wed, 05 Aug 2026 00:24:21 GMT</pubDate>
+            <description><![CDATA[Federal Reserve Bank of Kansas City President Jeff Schmid said on Wednesday that tighter monetary policy is needed to get inflation back to the 2% target. Schmid added that inflation is 'too high' and 'worrisome' and the current stance of Fed policy is not restrictive.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BoJ Minutes: Members firmly focus on upside inflation risk]]></title>
+            <link>https://www.fxstreet.com/news/boj-minutes-members-firmly-focus-on-upside-inflation-risk-202608050001</link>
+            <guid isPermaLink="false">5877ac6e-0c36-4d4a-be82-66da84b535d3</guid>
+            <pubDate>Wed, 05 Aug 2026 00:01:49 GMT</pubDate>
+            <description><![CDATA[The Bank of Japan (BoJ) board members shared their views on the monetary policy outlook on Thursday, per the BoJ Minutes of the June meeting.   ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar softens below 0.5900 after Unemployment Rate rises to decade high]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-softens-below-05900-after-unemployment-rate-rises-to-decade-high-202608042354</link>
+            <guid isPermaLink="false">0e0e9123-ed46-4413-a156-1890c2d9f261</guid>
+            <pubDate>Tue, 04 Aug 2026 23:54:50 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair loses momentum to near 0.5875 during the early Asian trading hours on Wednesday. The New Zealand Dollar (NZD) weakens against the US Dollar (USD) following the employment report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold edges lower below $4,100 as markets focus on US-Iran talks ]]></title>
             <link>https://www.fxstreet.com/news/gold-edges-lower-below-4-100-as-markets-focus-on-us-iran-talks-202608042325</link>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 04 Aug 2026 15:15:28 GMT</pubDate>
             <description><![CDATA[Michael Wan at MUFG explains that South Korean Won (KRW), Thai Baht (THB), Singapore Dollar (SGD) and, to a smaller extent, Philippine Peso (PHP) are the main Asian FX beneficiaries if Japanese Yen strength persists, given their higher sensitivity to USD/JPY.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Consolidation below resistance against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/euro-consolidation-below-resistance-against-us-dollar-scotiabank-202608041457</link>
-            <guid isPermaLink="false">531c00af-fbbf-4e57-9413-21f44b53df04</guid>
-            <pubDate>Tue, 04 Aug 2026 14:57:41 GMT</pubDate>
-            <description><![CDATA[Scotiabank’s analysts observe that the Euro is consolidating around the 1.15 area against the Dollar, with limited Eurozone data to drive price action.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen stalls amid soft JOLTS data]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-stalls-amid-soft-jolts-data-202608041440</link>
-            <guid isPermaLink="false">05d50cbe-aefb-4a99-b428-f631355ee76c</guid>
-            <pubDate>Tue, 04 Aug 2026 14:40:00 GMT</pubDate>
-            <description><![CDATA[USD/JPY trades on the back foot near the 157.40 area during Tuesday's American session as the Japanese Yen (JPY) builds on the gains secured over the past week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: Trade surplus hits four-year high – NBC]]></title>
-            <link>https://www.fxstreet.com/news/canada-trade-surplus-hits-four-year-high-nbc-202608041437</link>
-            <guid isPermaLink="false">c5e37597-e22f-41ee-8353-5948a30c779b</guid>
-            <pubDate>Tue, 04 Aug 2026 14:37:07 GMT</pubDate>
-            <description><![CDATA[National Bank of Canada’s (NBC) Jocelyn Paquet reports Canada’s merchandise trade surplus in goods reached a four-year high of C$3.86 billion in June, beating expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold recovers as Hormuz reopening hopes drag US Dollar, Oil prices lower]]></title>
-            <link>https://www.fxstreet.com/news/gold-recovers-as-hormuz-reopening-hopes-drag-us-dollar-oil-prices-lower-202608041427</link>
-            <guid isPermaLink="false">2e208441-5745-4756-8d9b-b07fb906106b</guid>
-            <pubDate>Tue, 04 Aug 2026 14:27:11 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) catches a fresh bid on Tuesday as traders react to encouraging headlines about the possible reopening of the Strait of Hormuz. At the time of writing, XAU/USD trades around $4,087, recovering from an intraday low near $4,042.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed's Paulson: Underlying inflation is too high]]></title>
-            <link>https://www.fxstreet.com/news/feds-paulson-underlying-inflation-is-too-high-202608041420</link>
-            <guid isPermaLink="false">a2dbb2d1-7896-45c8-82b3-fdc95a63a4b2</guid>
-            <pubDate>Tue, 04 Aug 2026 14:20:58 GMT</pubDate>
-            <description><![CDATA[Anna Paulson, President of the Federal Reserve (Fed) Bank of Philadelphia,  said in an interview with CNBC on Tuesday that underlying inflation remains too high and that monetary policy needs to stay mildly restrictive, adding that the current environment likely meets that description.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar climbs above 0.7000 as hopes of an Iran deal lift risk sentiment]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-climbs-above-07000-as-hopes-of-an-iran-deal-lift-risk-sentiment-202608041414</link>
-            <guid isPermaLink="false">e6328820-f506-4a95-9de7-2927885b0915</guid>
-            <pubDate>Tue, 04 Aug 2026 14:14:41 GMT</pubDate>
-            <description><![CDATA[AUD/USD trades around 0.7035 on Tuesday at the time of writing, up 0.50% on the day. The pair is supported by improving market sentiment after US Treasury Secretary Scott Bessent said that an agreement with Iran to reopen the Strait of Hormuz could be reached as soon as Tuesday or Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
