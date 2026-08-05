@@ -4,15 +4,167 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 05 Aug 2026 12:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 14:57:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Breaking: ADP Employment Change declines to 44K in July vs. 70K expected]]></title>
+            <title><![CDATA[US Dollar: Limited downside on softer payrolls – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-limited-downside-on-softer-payrolls-td-securities-202608051441</link>
+            <guid isPermaLink="false">675b77f5-8d4b-4332-864f-8592ac49a980</guid>
+            <pubDate>Wed, 05 Aug 2026 14:41:33 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists expect only modest US Dollar (USD) weakness if July payrolls or the unemployment rate disappoint.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-workers-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Treasury lifts Iran sanctions as deal hopes gain momentum]]></title>
+            <link>https://www.fxstreet.com/news/us-treasury-lifts-iran-sanctions-as-deal-hopes-gain-momentum-202608051438</link>
+            <guid isPermaLink="false">86f0799e-f299-498f-9b36-b5ac10cbab86</guid>
+            <pubDate>Wed, 05 Aug 2026 14:38:38 GMT</pubDate>
+            <description><![CDATA[On Wednesday, the US removed Iran-related sanctions, according to the US Treasury Department’s website. The US Treasury lifted sanctions imposed on two aircraft linked to the Islamic Revolutionary Guard ‌Corps (IRGC) and three airlines.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazilian Real: Flows support carry resilience – BNY]]></title>
+            <link>https://www.fxstreet.com/news/brazilian-real-flows-support-carry-resilience-bny-202608051420</link>
+            <guid isPermaLink="false">1a417d4a-eb5c-4aa4-9fec-5186ba874dc7</guid>
+            <pubDate>Wed, 05 Aug 2026 14:20:50 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu notes Brazilian portfolio inflows are near post-COVID highs ahead of the Selic decision, with strong demand for equities and government bonds.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold tops $4,200 on softer US labour data as Fed outlook turns less hawkish]]></title>
+            <link>https://www.fxstreet.com/news/gold-advances-to-one-month-high-as-hormuz-reopening-hopes-ease-inflation-fears-202608051119</link>
+            <guid isPermaLink="false">d985ce60-d741-4a71-bc9e-b2d4bbc2a18e</guid>
+            <pubDate>Wed, 05 Aug 2026 11:19:27 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) jumps more than 3.50% on Wednesday as weaker-than-expected US labour market data pressures the US Dollar (USD), while lower Oil prices on hopes of reopening the Strait of Hormuz ease inflation concerns and weaken expectations for Federal Reserve (Fed) rate hikes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro edges higher as weak US labor data, lower Oil prices temper Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/euro-edges-higher-as-weak-us-labour-data-lower-oil-prices-temper-fed-hike-bets-202608051411</link>
+            <guid isPermaLink="false">4405a830-c63f-418a-ad72-29462e33a750</guid>
+            <pubDate>Wed, 05 Aug 2026 14:11:10 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades modestly higher on Wednesday as weaker-than-expected US labor market data and easing energy-driven inflation risks temper Federal Reserve (Fed) rate-hike expectations and weigh on the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: ISM Services PMI came in at 54.1 in July]]></title>
+            <link>https://www.fxstreet.com/news/ism-services-pmi-preview-us-services-sector-expected-to-accelerate-in-july-202608050900</link>
+            <guid isPermaLink="false">bfeb1bb0-09fa-4316-871b-f0e3b24f6e4a</guid>
+            <pubDate>Wed, 05 Aug 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[Fresh data from the Institute for Supply Management (ISM) showed the Services PMI improving a tad to 54.1 in July from 54 in the previous month, coming in short of expectations at 54.5 and signaling some marginal pickup of momentum in the sector.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar: Labor slack tempers strong jobs data – BBH]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-labor-slack-tempers-strong-jobs-data-bbh-202608051403</link>
+            <guid isPermaLink="false">207caacb-382e-4278-a29c-3c1485b53dce</guid>
+            <pubDate>Wed, 05 Aug 2026 14:03:13 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the New Zealand Dollar and local yields slumped after strong Q2 employment and wage gains were offset by rising labor supply and higher unemployment.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee: RBI seen defending 97 band onshore – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-rbi-seen-defending-97-band-onshore-societe-generale-202608051343</link>
+            <guid isPermaLink="false">e03d3e96-22b1-43c5-89dc-a56b99cbe8b2</guid>
+            <pubDate>Wed, 05 Aug 2026 13:43:18 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Kunal Kundu and Galvin Chia judge the Reserve Bank of India's (RBI) August policy outcome as neutral for the Indian Rupee (INR). They highlight fewer comments on INR and flows, but recall Governor Malhotra’s view that INR is not undervalued.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Intervention drop seen capped near 153 – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-intervention-drop-seen-capped-near-153-td-securities-202608051328</link>
+            <guid isPermaLink="false">bcc205bc-61b2-4f06-9a15-d3bed7467810</guid>
+            <pubDate>Wed, 05 Aug 2026 13:28:09 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists see the recent intervention-driven USD/JPY decline as cyclical rather than regime-changing. They expect December as the more likely timing for the next Bank of Japan (BoJ) hike and doubt sustained joint US‑Japan intervention support.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Sterling pressured into autumn against Euro – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sterling-pressured-into-autumn-against-euro-rabobank-202608051317</link>
+            <guid isPermaLink="false">3f8a3822-d6d6-4833-96b0-9cd426617f15</guid>
+            <pubDate>Wed, 05 Aug 2026 13:17:57 GMT</pubDate>
+            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses recent British Pound (GBP) weakness versus the Euro (EUR), linking it to reduced Bank of England (BoE) tightening expectations and political developments under UK Prime Minister Burnham.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Geopolitics test supply routes – BNY]]></title>
+            <link>https://www.fxstreet.com/news/oil-geopolitics-test-supply-routes-bny-202608051256</link>
+            <guid isPermaLink="false">50c00777-aa33-4737-92d4-7d9d3ebeb304</guid>
+            <pubDate>Wed, 05 Aug 2026 12:56:27 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu reports Oil prices rose after the Houthis claimed a missile strike on a Saudi tanker near Yanbu, highlighting risks to alternative export routes while Strait of Hormuz disruptions persist.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strategists lower Euro forecasts, remain skeptical over Yen interventions – Reuters]]></title>
+            <link>https://www.fxstreet.com/news/strategists-lower-euro-forecasts-remain-skeptical-over-yen-interventions-reuters-202608051254</link>
+            <guid isPermaLink="false">4cbf3cc9-c82c-44d3-b4da-dcd9e43bfb3c</guid>
+            <pubDate>Wed, 05 Aug 2026 12:54:42 GMT</pubDate>
+            <description><![CDATA[Reuters’ latest poll of foreign exchange strategists shows a modest downward revision in Euro (EUR) forecasts while highlighting persistent market skepticism over the effectiveness of Japanese currency intervention.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee: RBI stance and inflows support Rupee – BBH]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-rbi-stance-and-inflows-support-rupee-bbh-202608051247</link>
+            <guid isPermaLink="false">0db79bd8-e067-43d4-bda0-f971ff97da8f</guid>
+            <pubDate>Wed, 05 Aug 2026 12:47:39 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports USD/INR is firmer after recently testing a one‑month low, following the Reserve Bank of India’s (RBI) unanimous decision to keep its policy rate at 5.25% and maintain a neutral bias.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazilian Real: Limited policy easing caps FX impact – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/brazilian-real-limited-policy-easing-caps-fx-impact-commerzbank-202608051238</link>
+            <guid isPermaLink="false">8d82256b-7ab4-4690-919e-417f2c8954b3</guid>
+            <pubDate>Wed, 05 Aug 2026 12:38:48 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Norman Liebke notes that markets expect a further 25 bps cut from the Brazilian Central Bank (BCB), but real rates would remain highly restrictive near 9.4%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/brasil-central-bank-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar firms as Oil rebounds, USD softens on weaker ADP data]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-firms-as-oil-rebounds-usd-softens-on-weaker-adp-data-202608051235</link>
+            <guid isPermaLink="false">29ff9ba9-aaa1-40a7-aa22-1f73ee75c431</guid>
+            <pubDate>Wed, 05 Aug 2026 12:35:10 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades around 1.4040 on Wednesday at the time of writing, down 0.14% on the day, as the Canadian Dollar (CAD) benefits from a rebound in Oil prices.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen edges higher after weak US employment data]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-edges-higher-after-weak-us-employment-data-202608051232</link>
+            <guid isPermaLink="false">e49abdd4-704a-4f6c-84c5-a6b345e6aacd</guid>
+            <pubDate>Wed, 05 Aug 2026 12:32:43 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades under modest pressure on Wednesday as easing tensions in the Middle East and weaker US labour market data weigh on the US Dollar (USD). At the time of writing, the pair trades around 157.45, down 0.2% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar: RBNZ seen hiking again – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-rbnz-seen-hiking-again-td-securities-202608051230</link>
+            <guid isPermaLink="false">e40f0010-499e-48ae-b65f-9da6023def1f</guid>
+            <pubDate>Wed, 05 Aug 2026 12:30:41 GMT</pubDate>
+            <description><![CDATA[TD Securities reviews New Zealand’s Q2 labour report, noting unemployment rose to 5.6%, an 11‑year high, partly on higher participation, while employment still grew 0.5% quarter‑on‑quarter. Private-sector wages slightly beat consensus and the RBNZ’s May forecast.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed's Kashkari: Not calling for dramatic increase in rates]]></title>
+            <link>https://www.fxstreet.com/news/feds-kashkari-not-calling-for-dramatic-increase-in-rates-202608051226</link>
+            <guid isPermaLink="false">f61ab7af-a1a5-4d07-b3f5-67eb95922dbd</guid>
+            <pubDate>Wed, 05 Aug 2026 12:26:13 GMT</pubDate>
+            <description><![CDATA[In an interview with CNBC on Wednesday, Minneapolis Federal Reserve (Fed) Bank President Neel Kashkari explained that he is not calling for a dramatic increase in interest rates.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: US trade focus shapes intervention – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-us-trade-focus-shapes-intervention-societe-generale-202608051222</link>
+            <guid isPermaLink="false">8e75cebe-5e2a-4351-84af-f3b873dccf82</guid>
+            <pubDate>Wed, 05 Aug 2026 12:22:20 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Kit Juckes, drawing on Scott Bessent’s perspective, argues that recent coordinated US-Japan action in the Japanese Yen is part of a broader US trade strategy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: ADP Employment Change declines to 44K in July vs. 70K forecast]]></title>
             <link>https://www.fxstreet.com/news/adp-employment-report-expected-to-show-a-steady-labor-market-in-july-202608050830</link>
             <guid isPermaLink="false">8818820c-5bd6-4d9b-a2c4-c72ac2f16083</guid>
             <pubDate>Wed, 05 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[Employment in the United States' (US) private sector increased by 44K in July, the Automatic Data Processing (ADP) reported on Wednesday. ]]></description>
+            <description><![CDATA[Employment in the United States' (US) private sector increased by 44K in July, the Automatic Data Processing (ADP) reported on Wednesday. This reading followed the 98K increase recorded in June and came in below the market expectation of 70K.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -64,14 +216,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-eur.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gold advances to one-month high as Hormuz reopening hopes ease inflation fears]]></title>
-            <link>https://www.fxstreet.com/news/gold-advances-to-one-month-high-as-hormuz-reopening-hopes-ease-inflation-fears-202608051119</link>
-            <guid isPermaLink="false">d985ce60-d741-4a71-bc9e-b2d4bbc2a18e</guid>
-            <pubDate>Wed, 05 Aug 2026 11:19:27 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) climbs to a one-month high on Wednesday as renewed optimism over the reopening of the Strait of Hormuz sends Oil prices lower. At the time of writing, XAU/USD trades around $4,155, up nearly 1.90% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[US Dollar: Soft labor firmer services outlook – TD Securities]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-soft-labor-firmer-services-outlook-td-securities-202608051116</link>
             <guid isPermaLink="false">18fb33cb-606d-4450-8b80-52af61ee407b</guid>
@@ -102,150 +246,6 @@
             <pubDate>Wed, 05 Aug 2026 10:31:03 GMT</pubDate>
             <description><![CDATA[The British Pound (GBP) extends gains for the second consecutive day against the Japanese Yen (JPY) on Wednesday, with the GBP/JPY pair holding around 212.30 after bouncing from five-month lows at 209.55 on Monday.]]></description>
             <enclosure url="https://editorial.fxstreet.com/images/i/BullishChart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee surrenders some gains, RBI maintain status quo again]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-gives-back-mild-gains-after-rbi-leaves-repo-rate-steady-at-525-202608050511</link>
-            <guid isPermaLink="false">17b4f182-12aa-4b11-9534-485b5fdce85e</guid>
-            <pubDate>Wed, 05 Aug 2026 05:11:03 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) surrenders some gains after a strong opening against the US Dollar (USD), following the Reserve Bank of India’s (RBI) monetary policy decision.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/economic-indicators-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: Dovish MPC hold supports prolonged pause – Standard Chartered]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-dovish-mpc-hold-supports-prolonged-pause-standard-chartered-202608051005</link>
-            <guid isPermaLink="false">118d43c5-b3f7-49ca-aac0-3fc968a4969f</guid>
-            <pubDate>Wed, 05 Aug 2026 10:05:42 GMT</pubDate>
-            <description><![CDATA[Standard Chartered Bank economists Saurav Anand and Anubhuti Sahay note that India’s Monetary Policy Committee (MPC) kept the repo rate at 5.25% with a neutral stance, sounding more dovish than in April and June.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Gains seen while below 160.00 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-gains-seen-while-below-16000-against-us-dollar-uob-202608050943</link>
-            <guid isPermaLink="false">4826666f-ba81-4563-a147-1510407d968d</guid>
-            <pubDate>Wed, 05 Aug 2026 09:43:07 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann describe USD/JPY price action as muted, with the pair confined to 157.15–157.95 and momentum turning flat. They expect intraday range trading between 157.00 and 158.30.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD hits fresh weekly highs beyond the top of a triangle pattern]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-hits-fresh-weekly-highs-beyond-the-top-of-a-triangle-pattern-202608050940</link>
-            <guid isPermaLink="false">9da735da-09e2-417d-b405-1838e586e9a9</guid>
-            <pubDate>Wed, 05 Aug 2026 09:40:22 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) has accelerated its recovery on Wednesday, favoured by a softer US Dollar as lower Oil prices and downbeat US macroeconomic data cooled market expectations of Federal Reserve (Fed) rate hikes on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungarian Forint: MPC minutes key for support against  Euro – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/hungarian-forint-mpc-minutes-key-for-support-against-euro-commerzbank-202608050930</link>
-            <guid isPermaLink="false">7f43436e-b02c-4ec8-89a9-42c28475d2f5</guid>
-            <pubDate>Wed, 05 Aug 2026 09:30:38 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose explains that the Hungarian Forint (HUF) has recently given back gains as external shocks and an ongoing Magyar Nemzeti Bank (MNB) easing cycle erode support.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608050930</link>
-            <guid isPermaLink="false">219d7a7a-c0e4-4a0a-aa2f-333ed6e7dea4</guid>
-            <pubDate>Wed, 05 Aug 2026 09:30:12 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) rose on Wednesday, according to FXStreet data. Silver trades at $61.52 per troy ounce, up 2.87% from the $59.81 it cost on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar comes under pressure after sharp deterioration in labor market]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-comes-under-pressure-after-sharp-deterioration-in-labor-market-202608050929</link>
-            <guid isPermaLink="false">6d80a24c-b0cc-4b2c-82f8-beced694ce8e</guid>
-            <pubDate>Wed, 05 Aug 2026 09:29:14 GMT</pubDate>
-            <description><![CDATA[NZD/USD declines to around 0.5860 on Wednesday at the time of writing, down 0.54% on the day, following the release of weaker-than-expected New Zealand employment data. The New Zealand Dollar (USD) comes under selling pressure as investors reassess the outlook for monetary policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Danish Krone: Weakness seen as structural against Euro – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/danish-krone-weakness-seen-as-structural-against-euro-nordea-202608050916</link>
-            <guid isPermaLink="false">c4db40a6-ce6f-42b6-9f3f-44afdf38fbcc</guid>
-            <pubDate>Wed, 05 Aug 2026 09:16:00 GMT</pubDate>
-            <description><![CDATA[Nordea’s Chief Analyst Jan Størup Nielsen notes that Nationalbanken did not intervene in July to support Denmark’s fixed exchange rate policy, after a small purchase of kroner in June.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Denmark.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/USD Price Forecast: Trades around 1.3450; bulls retain control above 100-hour SMA]]></title>
-            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-trades-around-13450-bulls-retain-control-above-100-hour-sma-202608050904</link>
-            <guid isPermaLink="false">70e2c30e-a1e7-4171-8536-cdd6f753d1d7</guid>
-            <pubDate>Wed, 05 Aug 2026 09:04:55 GMT</pubDate>
-            <description><![CDATA[The GBP/USD pair gains follow-through positive traction for the second straight day and sticks to modest intraday gains through the first half of the European session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro gains against Canadian Dollar following improved PMI data]]></title>
-            <link>https://www.fxstreet.com/news/euro-gains-against-canada-dollar-following-improved-pmi-data-202608050900</link>
-            <guid isPermaLink="false">076c4777-1cd1-4916-ad62-d4e10d085457</guid>
-            <pubDate>Wed, 05 Aug 2026 09:00:45 GMT</pubDate>
-            <description><![CDATA[EUR/CAD continues its winning streak that started on July 24, trading around 1.6240 during the European hours on Wednesday. The currency cross rises as the Euro (EUR) receives support following the release of HCOB Purchasing Managers’ Index (PMI) data from Germany and the Eurozone.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ISM Services PMI Preview: US services sector expected to accelerate in July]]></title>
-            <link>https://www.fxstreet.com/news/ism-services-pmi-preview-us-services-sector-expected-to-accelerate-in-july-202608050900</link>
-            <guid isPermaLink="false">bfeb1bb0-09fa-4316-871b-f0e3b24f6e4a</guid>
-            <pubDate>Wed, 05 Aug 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[On Wednesday, we’ll get the latest read on the US services sector when the Institute for Supply Management (ISM) publishes its July gauge. Consensus points to a marginal improvement to 54.5 from June’s 54.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Manufacturing-2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index: Negative bias builds with policy headwinds – DBS]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-negative-bias-builds-with-policy-headwinds-dbs-202608050854</link>
-            <guid isPermaLink="false">9d69eb57-557f-4fe6-a5ca-b10e55e552b7</guid>
-            <pubDate>Wed, 05 Aug 2026 08:54:55 GMT</pubDate>
-            <description><![CDATA[DBS Group Research strategist Philip Wee notes that the US Dollar Index (DXY) Index is struggling to regain the 100 level, with European currencies better reflecting underlying Dollar weakness once Japanese Yen (JPY) volatility is excluded.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan's Katayama sees inflation easing with tax reduction]]></title>
-            <link>https://www.fxstreet.com/news/japans-katayama-sees-inflation-easing-with-tax-reduction-202608050849</link>
-            <guid isPermaLink="false">6c382d56-45a3-4c49-961f-471d068443c6</guid>
-            <pubDate>Wed, 05 Aug 2026 08:49:08 GMT</pubDate>
-            <description><![CDATA[Japan Finance Minister (FM) Satsuki Katayama said during the European trading session on Wednesday that the government's tax policy would be able to cool down high inflation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar flattens against USD in countdown to US ADP labor data]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-flattens-against-usd-in-countdown-to-us-adp-labor-data-202608050844</link>
-            <guid isPermaLink="false">c47aa179-7605-49cf-bdac-9946f66891f0</guid>
-            <pubDate>Wed, 05 Aug 2026 08:44:18 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) trades flat against the US Dollar (USD) at around 0.7050 during the European trading session on Wednesday. The Aussie pair struggles for a direction as investors await the United States (US) ADP Employment Change data for July, which will be published at 12:15 GMT.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Policy follow-up needed for renewed demand – BNY]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-policy-follow-up-needed-for-renewed-demand-bny-202608050835</link>
-            <guid isPermaLink="false">aae4242e-2ebb-45bc-933a-9b43951e7fb9</guid>
-            <pubDate>Wed, 05 Aug 2026 08:35:54 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu argues that coordinated intervention has not significantly increased foreign exposure to the Japanese Yen (JPY), with investors still net long JPY but at much lower levels than in H1 2026.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures gain on expected US-Iran agreement to reopen Hormuz]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-gain-on-expected-us-iran-agreement-to-reopen-hormuz-202608050833</link>
-            <guid isPermaLink="false">927f3465-0acc-44e3-ac92-61fa156f9d72</guid>
-            <pubDate>Wed, 05 Aug 2026 08:33:16 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures rise 0.23% to trade around 54,390 during European hours on Wednesday. Meanwhile, S&P 500 futures gain 0.34% to trade near 7,790, while Nasdaq 100 futures advance 0.14%, trading near 29,900.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro steadies around 1.1540 after an upward revision of Eurozone's Services PMI]]></title>
-            <link>https://www.fxstreet.com/news/euro-steadies-around-11530-after-an-upward-revision-of-eurozones-services-pmi-202608050825</link>
-            <guid isPermaLink="false">667863f6-290f-4f7f-907b-daf29a36df9a</guid>
-            <pubDate>Wed, 05 Aug 2026 08:25:21 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) holds marginal gains against the US Dollar (USD) on Wednesday, with the EUR/USD pair consolidating around the 1.1530 area, a few pips below seven-week highs at 1.1558.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_PMI-2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold clings to gains near one-month top as receding Fed rate hike bets undermine USD]]></title>
-            <link>https://www.fxstreet.com/news/gold-rallies-to-two-week-high-as-usd-softens-on-iran-deal-hopes-receding-fed-hike-bets-202608050354</link>
-            <guid isPermaLink="false">e9cf0a14-afb0-4dd2-9746-ec8bf35431dc</guid>
-            <pubDate>Wed, 05 Aug 2026 03:54:58 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) maintains its strong bid tone through the first half of the European session and currently trades around $4,170, just below a nearly one-month high touched earlier this Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GoldBullishChart.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
