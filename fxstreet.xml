@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 05 Aug 2026 23:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 01:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI remains subdued near $74.00 due to Iran-Oman agreement on Hormuz]]></title>
+            <link>https://www.fxstreet.com/news/wti-remains-subdued-near-7400-due-to-iran-oman-agreement-on-hormuz-202608060050</link>
+            <guid isPermaLink="false">7aef4f65-f7fb-40c5-be7b-83041a5673f8</guid>
+            <pubDate>Thu, 06 Aug 2026 00:50:13 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price remains subdued for the fourth successive day, trading around $74.20 per barrel during the Asian hours on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yemen's Houthis say they attacked a Saudi oil tanker in the Red Sea, Gulf of Aden]]></title>
+            <link>https://www.fxstreet.com/news/yemens-houthis-say-they-attacked-a-saudi-oil-tanker-in-the-red-sea-gulf-of-aden-202608060001</link>
+            <guid isPermaLink="false">d5702da9-02ec-4c02-8a39-44d3a7182c93</guid>
+            <pubDate>Thu, 06 Aug 2026 00:01:40 GMT</pubDate>
+            <description><![CDATA[Yemen’s Iran-backed Houthis said ‌that they had launched a missile attack on a Saudi oil tanker off the coast of the kingdom's Red Sea port city of Yanbu and another missile attack on a Saudi oil tanker in the Gulf of Aden, Reuters reported on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran says it has agreed on coordinates of route through Strait of Hormuz with Oman]]></title>
+            <link>https://www.fxstreet.com/news/iran-says-it-has-agreed-on-coordinates-of-route-through-strait-of-hormuz-with-oman-202608052351</link>
+            <guid isPermaLink="false">1a9065c4-e844-4b04-9d1a-fc4c754a2c89</guid>
+            <pubDate>Wed, 05 Aug 2026 23:51:42 GMT</pubDate>
+            <description><![CDATA[Iran’s Foreign Ministry spokesperson , Esmaeil Baghaei, said that Iran and Oman are close to finalizing a proposed framework for commercial shipping through the Strait of Hormuz, the Guardian reported on Wednesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold rises above $4,250 on US–Iran deal hopes]]></title>
             <link>https://www.fxstreet.com/news/gold-rises-above-4-250-on-us-iran-deal-hopes-202608052332</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 05 Aug 2026 14:57:44 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret describe the Euro (EUR) as steady in the mid-to-lower 1.15 area, trading close to fair value based on 2-year US–Germany spreads. Fundamentals and sentiment are seen as constructive, underpinning EUR recovery since early Q3.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Limited downside on softer payrolls – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-limited-downside-on-softer-payrolls-td-securities-202608051441</link>
-            <guid isPermaLink="false">675b77f5-8d4b-4332-864f-8592ac49a980</guid>
-            <pubDate>Wed, 05 Aug 2026 14:41:33 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists expect only modest US Dollar (USD) weakness if July payrolls or the unemployment rate disappoint.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-workers-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Treasury lifts Iran sanctions as deal hopes gain momentum]]></title>
-            <link>https://www.fxstreet.com/news/us-treasury-lifts-iran-sanctions-as-deal-hopes-gain-momentum-202608051438</link>
-            <guid isPermaLink="false">86f0799e-f299-498f-9b36-b5ac10cbab86</guid>
-            <pubDate>Wed, 05 Aug 2026 14:38:38 GMT</pubDate>
-            <description><![CDATA[On Wednesday, the US removed Iran-related sanctions, according to the US Treasury Department’s website. The US Treasury lifted sanctions imposed on two aircraft linked to the Islamic Revolutionary Guard ‌Corps (IRGC) and three airlines.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazilian Real: Flows support carry resilience – BNY]]></title>
-            <link>https://www.fxstreet.com/news/brazilian-real-flows-support-carry-resilience-bny-202608051420</link>
-            <guid isPermaLink="false">1a417d4a-eb5c-4aa4-9fec-5186ba874dc7</guid>
-            <pubDate>Wed, 05 Aug 2026 14:20:50 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu notes Brazilian portfolio inflows are near post-COVID highs ahead of the Selic decision, with strong demand for equities and government bonds.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
