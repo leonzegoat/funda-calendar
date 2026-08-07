@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 03:39:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 05:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: Consolidates near 158.55/38.2% Fibo. before the next leg up]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-consolidates-near-15855-382-fibo-before-the-next-leg-up-202608070511</link>
+            <guid isPermaLink="false">5d3d916c-9061-4a37-9f90-8cd3f23a0ab4</guid>
+            <pubDate>Fri, 07 Aug 2026 05:11:15 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair extends the range play through the Asian session on Friday, stalling this week's solid recovery from its lowest level since May, touched in the aftermath of a joint US-Japan intervention.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc weakens as increased risk aversion boosts safe-haven US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-weakens-as-increased-risk-aversion-boosts-safe-haven-us-dollar-202608070443</link>
+            <guid isPermaLink="false">d8faad13-f535-457d-9a35-70d1cfdd05f3</guid>
+            <pubDate>Fri, 07 Aug 2026 04:43:55 GMT</pubDate>
+            <description><![CDATA[USD/CHF extends its gains for the second successive day, trading around 0.8130 during the Asian hours on Friday. The currency pair appreciates as the US Dollar (USD) gains strength, driven by renewed safe-haven demand amid escalating Middle East tensions.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CHF-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold rises, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608070436</link>
+            <guid isPermaLink="false">d71be4b2-6cf8-4b49-a31f-f8d79adc5b82</guid>
+            <pubDate>Fri, 07 Aug 2026 04:36:25 GMT</pubDate>
+            <description><![CDATA[Gold prices rose in India on Friday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold trades above $4,250; upside seems capped as Fed hike bets support USD ahead of US NFP]]></title>
+            <link>https://www.fxstreet.com/news/gold-consolidates-below-recent-highs-as-usd-strength-and-fed-hike-bets-cap-ahead-of-us-nfp-202608070135</link>
+            <guid isPermaLink="false">0606adaa-1b67-4a9e-a92a-feb398b24073</guid>
+            <pubDate>Fri, 07 Aug 2026 01:35:01 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) attracts some dip-buyers during the Asian session on Friday, stalling the previous day's retracement slide from levels just above the $4,300 mark, or the highest since June 18. The commodity currently trades just above $4,250 and seems poised to register its best week since January.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia warns to step up attacks on Houthis – The Guardian]]></title>
+            <link>https://www.fxstreet.com/news/saudi-arabia-warns-to-step-up-attacks-on-houthis-the-guardian-202608070415</link>
+            <guid isPermaLink="false">5205c2a4-d086-4d92-9f2a-1f863eb94fba</guid>
+            <pubDate>Fri, 07 Aug 2026 04:15:41 GMT</pubDate>
+            <description><![CDATA[According to a report from The Guardian, Saudi Arabia aims to extend its military operations against Iran-aligned Houthis for attacking the Najran province, which is located in its southern region, and Yemeni government troops.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar holds losses against Japanese Yen following China’s Trade Balance data]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-holds-losses-against-japanese-yen-following-chinas-trade-balance-data-202608070340</link>
+            <guid isPermaLink="false">1e1655a9-73bb-4c5b-abfd-3fa5b9a691ff</guid>
+            <pubDate>Fri, 07 Aug 2026 03:40:40 GMT</pubDate>
+            <description><![CDATA[AUD/JPY halts its three-day winning streak, trading around 111.30 during the Asian hours on Friday. The currency cross depreciates as the Australian Dollar (AUD) loses ground, driven by a surge in global safe-haven demand.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[British Pound remains weaker as UK-US yields narrow, US Dollar strengthens]]></title>
             <link>https://www.fxstreet.com/news/british-pound-remains-weaker-as-uk-us-yields-narrow-us-dollar-strengthens-202608070329</link>
@@ -62,14 +110,6 @@
             <pubDate>Fri, 07 Aug 2026 01:54:37 GMT</pubDate>
             <description><![CDATA[EUR/USD extends its losses for the second consecutive day, trading around 1.1520 during the Asian hours on Friday. The currency pair faces downward pressure as the US Dollar (USD) gains strength, propelled by renewed safe-haven demand among global investors.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold consolidates below recent highs as USD strength and Fed hike bets cap ahead of US NFP]]></title>
-            <link>https://www.fxstreet.com/news/gold-consolidates-below-recent-highs-as-usd-strength-and-fed-hike-bets-cap-ahead-of-us-nfp-202608070135</link>
-            <guid isPermaLink="false">0606adaa-1b67-4a9e-a92a-feb398b24073</guid>
-            <pubDate>Fri, 07 Aug 2026 01:35:01 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) consolidates below $4,250 during the Asian session on Friday and, for now, seems to have stalled the previous day's retracement slide from its highest level since June 18.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Canadian Dollar weakens as safe-haven demand supports US Dollar]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 06 Aug 2026 19:26:55 GMT</pubDate>
             <description><![CDATA[Scotiabank’s team notes the Pound is fractionally weaker versus the Dollar, with fundamentals less supportive as yield spreads soften. However, sentiment is improving as markets fade earlier political concerns following PM Burnham’s arrival and stronger-than-expected construction PMI.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Banxico keeps interest rates unchanged at 6.50% as expected]]></title>
-            <link>https://www.fxstreet.com/news/banxico-keeps-interest-rates-unchanged-at-650-as-expected-202608061902</link>
-            <guid isPermaLink="false">f5105073-84e7-425d-a824-6d8a7285e978</guid>
-            <pubDate>Thu, 06 Aug 2026 19:02:58 GMT</pubDate>
-            <description><![CDATA[The Bank of Mexico (Banxico) held rates unchanged at 6.50% for the third consecutive meeting on Thursday in a unanimous decision, as expected by most analysts, after ending its easing cycle in May.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/JPY Price Forecast: Bulls retake 200-day SMA amid recovery]]></title>
-            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-bulls-retake-200-day-sma-amid-recovery-202608061858</link>
-            <guid isPermaLink="false">0becf911-99c7-478b-8de8-37150201738f</guid>
-            <pubDate>Thu, 06 Aug 2026 18:58:23 GMT</pubDate>
-            <description><![CDATA[The USD/JPY advances by some 0.41%, clearing the 200-day Simple Moving Average (SMA) at 158.06, as the Greenback recovers some ground following two days of intervention in the FX markets by US and Japanese authorities.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Thai Baht: Supply risks and FX sensitivities – UOB]]></title>
-            <link>https://www.fxstreet.com/news/thai-baht-supply-risks-and-fx-sensitivities-uob-202608061845</link>
-            <guid isPermaLink="false">b2984263-c73f-440c-a2f5-bb7a675b9b37</guid>
-            <pubDate>Thu, 06 Aug 2026 18:45:23 GMT</pubDate>
-            <description><![CDATA[UOB’s economists highlight that Thailand’s inflation outlook is shaped by supply-side factors and external variables such as Oil and USD/THB.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI climbs as Iran-Oman agreement details dampen optimism over Oil flows]]></title>
-            <link>https://www.fxstreet.com/news/wti-climbs-as-iran-oman-agreement-details-dampen-optimism-over-oil-flows-202608061815</link>
-            <guid isPermaLink="false">e23dd96d-6b53-42f2-9b1d-b3579317501c</guid>
-            <pubDate>Thu, 06 Aug 2026 18:15:40 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) Oil rebounds on Thursday as traders react to details of the proposed Iran-Oman agreement on the Strait of Hormuz. At the time of writing, WTI trades around $76.50 per barrel, up nearly 2.80% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hormuz ship ban triggers a jump in US yields, fuels Fed hike bets]]></title>
-            <link>https://www.fxstreet.com/news/hormuz-ship-ban-triggers-a-jump-in-us-yields-fuels-fed-hike-bets-202608061815</link>
-            <guid isPermaLink="false">a57c3a63-8da4-41a7-a5e8-8507a60c4f8f</guid>
-            <pubDate>Thu, 06 Aug 2026 18:15:17 GMT</pubDate>
-            <description><![CDATA[US Treasury yields climb along the curve on Thursday as media reports that the Iran-Oman deal would ban US and Israeli ships from entering the Strait of Hormuz drive crude prices higher, while traders await the latest employment report.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Ondo-finance_Bull.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
