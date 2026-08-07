@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 12:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 13:53:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver: Solar demand headwinds emerge – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/silver-solar-demand-headwinds-emerge-commerzbank-202608071348</link>
+            <guid isPermaLink="false">801107ed-1735-4c44-b3bf-a4f8c5a24e41</guid>
+            <pubDate>Fri, 07 Aug 2026 13:48:18 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Carsten Fritsch notes that the Silver price has surged over 10% this week to USD 63.9 per troy ounce, its highest level since late June, pulling the gold/silver ratio back below 70.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen surges as weak US jobs data questions Fed rate hike expectations]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-surges-as-weak-us-jobs-data-questions-fed-rate-hike-expectations-202608071338</link>
+            <guid isPermaLink="false">8bf5378b-41ca-41a9-bb4c-a973cc3bc466</guid>
+            <pubDate>Fri, 07 Aug 2026 13:38:19 GMT</pubDate>
+            <description><![CDATA[USD/JPY falls toward 157.40 on Friday, down 0.65% on the day at the time of writing, as the US Dollar (USD) comes under heavy selling pressure following a much weaker-than-expected US employment report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound climbs above 1.3500 after weak US NFP data]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-climbs-above-13500-after-weak-us-nfp-data-202608071328</link>
+            <guid isPermaLink="false">2f9cf1e9-51eb-4918-bdcc-75b302fb9e20</guid>
+            <pubDate>Fri, 07 Aug 2026 13:28:07 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) strengthens against the US Dollar (USD) on Friday after a disappointing US Nonfarm Payrolls report prompts traders to scale back bets on Federal Reserve (Fed) interest-rate hikes. At the time of writing, GBP/USD trades around 1.3506, hovering near three-week highs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro surges as shocking US NFP reverses Fed September hike expectations]]></title>
+            <link>https://www.fxstreet.com/news/euro-surges-as-shocking-us-nfp-reverses-fed-september-hike-expectations-202608071300</link>
+            <guid isPermaLink="false">bd5ad3d2-af76-426b-b244-31fad1d0b45e</guid>
+            <pubDate>Fri, 07 Aug 2026 13:00:06 GMT</pubDate>
+            <description><![CDATA[EUR/USD jumps 0.43% on the day and trades around 1.1570 at the time of writing, as the US Dollar (USD) comes under heavy selling pressure following a much weaker-than-expected US employment report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Equities: AI profitability doubts grow – Nordea]]></title>
+            <link>https://www.fxstreet.com/news/equities-ai-profitability-doubts-grow-nordea-202608071254</link>
+            <guid isPermaLink="false">a5e0b17c-5468-4032-a6c8-6f0c548ea073</guid>
+            <pubDate>Fri, 07 Aug 2026 12:54:46 GMT</pubDate>
+            <description><![CDATA[Nordea analysts Kirsti Sunde Midttun and Ole Håkon Eek-Nielsen argue that AI profitability faces structural pressure from high inference costs, rapid model depreciation and growing competition from free and open alternatives.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Tech_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold heads for best week since January after disappointing NFP]]></title>
+            <link>https://www.fxstreet.com/news/gold-rises-above-4-300-as-traders-brace-for-us-nonfarm-payrolls-202608071121</link>
+            <guid isPermaLink="false">178b7ca7-126e-4b3a-8869-53d363b40912</guid>
+            <pubDate>Fri, 07 Aug 2026 11:21:15 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) extends its recovery on Friday as weaker-than-expected US payroll growth weighs on the US Dollar (USD) and US Treasury yields. At the time of writing, XAU/USD trades around $4,368, its highest level since June 17.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: US Nonfarm Payrolls fall by 23K in July vs. +80K expected]]></title>
+            <link>https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-80k-in-july-202608070830</link>
+            <guid isPermaLink="false">0486cfb5-90bb-490c-ae10-f2f2ba39c04a</guid>
+            <pubDate>Fri, 07 Aug 2026 08:30:00 GMT</pubDate>
+            <description><![CDATA[Nonfarm Payrolls (NFP) in the United States (US) declined by 23K in July, the US Bureau of Labor Statistics (BLS) reported on Friday. This print followed the 20K increase (revised from 57K) recorded in June and fell short of the market expectation for an increase of 80K by a wide margin.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada's Unemployment Rate drops to 6.4% in July]]></title>
+            <link>https://www.fxstreet.com/news/canadas-unemployment-rate-drops-to-64-in-july-202608071238</link>
+            <guid isPermaLink="false">b6d4f5ac-7ae6-47a3-ba9e-c3fd10298d29</guid>
+            <pubDate>Fri, 07 Aug 2026 12:38:48 GMT</pubDate>
+            <description><![CDATA[Statistics Canada reported on Friday that the Unemployment Rate decreased to 6.4% in July, below what markets were expecting.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-cad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[India: Inflation steady, trade deficit persists – DBS]]></title>
             <link>https://www.fxstreet.com/news/india-inflation-steady-trade-deficit-persists-dbs-202608071226</link>
@@ -86,22 +150,6 @@
             <pubDate>Fri, 07 Aug 2026 11:32:29 GMT</pubDate>
             <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report EUR/USD has retreated to 1.1524 after failing several times near 1.1560. Intraday, they see scope for further pullback but expect strong support at 1.1495 to hold.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US July Nonfarm Payrolls to test expectations for a September Fed rate hike]]></title>
-            <link>https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-80k-in-july-202608070830</link>
-            <guid isPermaLink="false">0486cfb5-90bb-490c-ae10-f2f2ba39c04a</guid>
-            <pubDate>Fri, 07 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[The United States (US) Bureau of Labor Statistics (BLS) is set to release the Nonfarm Payrolls (NFP) data for July on Friday at 12:30 GMT. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold rises above $4,300 as traders brace for US Nonfarm Payrolls]]></title>
-            <link>https://www.fxstreet.com/news/gold-rises-above-4-300-as-traders-brace-for-us-nonfarm-payrolls-202608071121</link>
-            <guid isPermaLink="false">178b7ca7-126e-4b3a-8869-53d363b40912</guid>
-            <pubDate>Fri, 07 Aug 2026 11:21:15 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its recovery on Friday as technical buying accelerates, even as market sentiment remains cautious due to developments in the Middle East and uncertainty over the Federal Reserve’s (Fed) interest-rate outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[US Dollar: Strong payrolls may offer only limited support – BBH]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 09:46:10 GMT</pubDate>
             <description><![CDATA[The US Dollar (USD) pares gains against the Swiss Franc (CHF) on Friday, with the USD/CHF pair drifting towards the 0.8100 level, after rejection at 0.8136 highs on Thursday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/bull-bear-04.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NFP or Iran: Which factor will break the US Dollar Index out of its consolidation?]]></title>
-            <link>https://www.fxstreet.com/news/nfp-or-iran-which-factor-will-break-the-us-dollar-index-out-of-its-consolidation-202608070932</link>
-            <guid isPermaLink="false">b0b37cb3-8efe-4628-adea-af76660f770e</guid>
-            <pubDate>Fri, 07 Aug 2026 09:32:26 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) trades around 99.95 at the time of writing on Friday, virtually unchanged on the day, as investors refrain from placing aggressive bets ahead of the release of the July US employment report.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608070930</link>
-            <guid isPermaLink="false">2b3dfe4c-6ca0-49ec-8ad7-9d1c055e6e3d</guid>
-            <pubDate>Fri, 07 Aug 2026 09:30:16 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $64.34 per troy ounce, up 4.58% from the $61.52 it cost on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Labour market still solid – Danske Bank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-labour-market-still-solid-danske-bank-202608070929</link>
-            <guid isPermaLink="false">a69d0a3b-818b-47fa-8e5c-5b3aa6fb408c</guid>
-            <pubDate>Fri, 07 Aug 2026 09:29:29 GMT</pubDate>
-            <description><![CDATA[Danske Research Team expects United States (US) Nonfarm Payrolls (NFP) to rise by 70k in July, with the unemployment rate steady at 4.2% and average hourly earnings up 0.3% m/m.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-workers-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Funding currency weakness extends – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-funding-currency-weakness-extends-ocbc-202608070921</link>
-            <guid isPermaLink="false">62da1c0a-49aa-48ca-bcc5-46602c35dcca</guid>
-            <pubDate>Fri, 07 Aug 2026 09:21:03 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note the Swiss Franc (CHF) remains under pressure as carry trade funding demand grows and recent Japanese Yen (JPY) intervention reinforces CHF’s role as a preferred funding currency.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-chf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Upside risk tied to 0.7075 break against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-upside-risk-tied-to-07075-break-against-us-dollar-uob-202608070910</link>
-            <guid isPermaLink="false">da1fd9dd-5df7-4e67-a614-f917c72b6bd0</guid>
-            <pubDate>Fri, 07 Aug 2026 09:10:17 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD has pulled back to 0.7032 after failing to clear 0.7075, with intraday price action expected to remain range-bound between 0.7015 and 0.7055.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen holds onto weekly losses amid absence of US-Japan intervention follow-up]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-holds-onto-weekly-losses-amid-absence-of-us-japan-intervention-follow-up-202608070900</link>
-            <guid isPermaLink="false">443a3acb-edf7-4a80-b32c-a710057ebd03</guid>
-            <pubDate>Fri, 07 Aug 2026 09:00:34 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) has underperformed its major currency peers this week due to a lack of follow-up joint intervention by the United States (US) and Japan.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
