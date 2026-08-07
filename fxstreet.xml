@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 05:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 06:49:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Equities: Sector rotation dominates risk-off – Danske Bank]]></title>
+            <link>https://www.fxstreet.com/news/equities-sector-rotation-dominates-risk-off-danske-bank-202608070646</link>
+            <guid isPermaLink="false">40447584-9b3e-4e3a-bd8a-021b483c8e14</guid>
+            <pubDate>Fri, 07 Aug 2026 06:46:13 GMT</pubDate>
+            <description><![CDATA[Danske Research Team reports equities closed lower in a 2026-style risk-off session driven by sentiment rather than macro or earnings. Higher Oil prices weighed, but the key feature was pronounced rotation from cyclicals into defensives such as energy, consumer staples and health care.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brent: US-Iran tensions support prices – ING]]></title>
+            <link>https://www.fxstreet.com/news/brent-us-iran-tensions-support-prices-ing-202608070634</link>
+            <guid isPermaLink="false">78dcb39d-b44f-47c2-a168-1484b36aafe5</guid>
+            <pubDate>Fri, 07 Aug 2026 06:34:30 GMT</pubDate>
+            <description><![CDATA[ING analysts Warren Patterson and Ewa Manthey note renewed strength in Oil, with ICE Brent rallying back above $82/bbl as obstacles to a US-Iran deal persist. They highlight Iranian demands around the Strait of Hormuz and limited signs of compromise.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro flatlines amid mixed German data with all eyes on US Nonfarm Payrolls]]></title>
+            <link>https://www.fxstreet.com/news/euro-flatlines-amid-mixed-german-data-with-all-eyes-on-us-nonfarm-payrolls-data-202608070630</link>
+            <guid isPermaLink="false">0ad0e741-e192-4529-af33-d6bd67f178be</guid>
+            <pubDate>Fri, 07 Aug 2026 06:30:37 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) is trading flat around 1.1520 against the US Dollar (USD) on Friday, following a mild pullback from three-week highs at 1.1560 and on track for a minor weekly decline.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_office.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Growing internal war risks in Middle East support recovery to near $78]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-growing-internal-war-risks-in-middle-east-support-recovery-to-near-78-202608070630</link>
+            <guid isPermaLink="false">07d8d837-d6f5-47b1-aab2-13cb29099a40</guid>
+            <pubDate>Fri, 07 Aug 2026 06:30:07 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, extends Thursday’s recovery move slightly to near $77.80 during the day. The Oil price underperformed in the last two weeks on hopes of the Strait of Hormuz reopening, a critical chokepoint to almost 20% of global energy supply.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold approaches $4,300 as bulls shrug off firm USD and Fed hike bets ahead of US NFP]]></title>
+            <link>https://www.fxstreet.com/news/gold-consolidates-below-recent-highs-as-usd-strength-and-fed-hike-bets-cap-ahead-of-us-nfp-202608070135</link>
+            <guid isPermaLink="false">0606adaa-1b67-4a9e-a92a-feb398b24073</guid>
+            <pubDate>Fri, 07 Aug 2026 01:35:01 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) builds on its steady intraday ascent heading into the European session on Friday and jumps back to the $4,300 neighborhood, close to its highest level since June 18, set the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Rebound against US Dollar faces key cloud barrier – UOB]]></title>
+            <link>https://www.fxstreet.com/news/euro-rebound-against-us-dollar-faces-key-cloud-barrier-uob-202608070619</link>
+            <guid isPermaLink="false">49127c10-a6ba-4231-a20e-ec1c3d14fb3f</guid>
+            <pubDate>Fri, 07 Aug 2026 06:19:57 GMT</pubDate>
+            <description><![CDATA[UOB Group’s Quek Ser Leang highlights that EUR/USD has staged a sharp rebound after drifting sideways, following a decline from January’s high to mid-June’s low.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah strengthens as foreign inflows surge into domestic assets]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-foreign-inflows-surge-into-indonesian-assets-202608070607</link>
+            <guid isPermaLink="false">9873b4e2-0fac-44c6-8d25-655c0469fe4f</guid>
+            <pubDate>Fri, 07 Aug 2026 06:07:23 GMT</pubDate>
+            <description><![CDATA[USD/IDR has pared its recent gains from the previous day, trading around 17,940 during the Asian hours on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/SUI-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[German Industrial Production rises 0.2% MoM in June, beats 0.1% estimates]]></title>
+            <link>https://www.fxstreet.com/news/german-industrial-production-rises-02-mom-in-june-beats-01-estimates-202608070602</link>
+            <guid isPermaLink="false">2ba6580c-5ba3-4677-9181-c3b1ad45bedf</guid>
+            <pubDate>Fri, 07 Aug 2026 06:02:08 GMT</pubDate>
+            <description><![CDATA[Germany’s Industrial Production rises 0.2% Month-on-Month (MoM) in June, the latest data published by Destatis showed on Friday. The growth was faster than the 0.1% estimate, but slower than the previous reading of 0.7%, revised lower from 0.9%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/german-bank-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee trades calm ahead of US NFP data release]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-trades-calm-ahead-of-us-nfp-data-release-202608070546</link>
+            <guid isPermaLink="false">494b4d4a-da44-4c7e-af8f-c381353da092</guid>
+            <pubDate>Fri, 07 Aug 2026 05:46:06 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) opens flat against the US Dollar (USD) on Friday in the countdown to the United States (US) Nonfarm Payrolls (NFP) data for July at 06:00 PM IST or 12:30 GMT.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[USD/JPY Price Forecast: Consolidates near 158.55/38.2% Fibo. before the next leg up]]></title>
             <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-consolidates-near-15855-382-fibo-before-the-next-leg-up-202608070511</link>
@@ -30,14 +102,6 @@
             <pubDate>Fri, 07 Aug 2026 04:36:25 GMT</pubDate>
             <description><![CDATA[Gold prices rose in India on Friday, according to data compiled by FXStreet.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold trades above $4,250; upside seems capped as Fed hike bets support USD ahead of US NFP]]></title>
-            <link>https://www.fxstreet.com/news/gold-consolidates-below-recent-highs-as-usd-strength-and-fed-hike-bets-cap-ahead-of-us-nfp-202608070135</link>
-            <guid isPermaLink="false">0606adaa-1b67-4a9e-a92a-feb398b24073</guid>
-            <pubDate>Fri, 07 Aug 2026 01:35:01 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) attracts some dip-buyers during the Asian session on Friday, stalling the previous day's retracement slide from levels just above the $4,300 mark, or the highest since June 18. The commodity currently trades just above $4,250 and seems poised to register its best week since January.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Saudi Arabia warns to step up attacks on Houthis – The Guardian]]></title>
@@ -182,70 +246,6 @@
             <pubDate>Thu, 06 Aug 2026 21:59:46 GMT</pubDate>
             <description><![CDATA[The St. Louis Fed President, Alberto Musalem, stressed that “inflation is too high” and that it’s “critical” that monetary policy focuses on bringing down inflation.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso strengthens as Banxico hold extends 10-day rally]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-strengthens-as-banxico-hold-extends-10-day-rally-202608062146</link>
-            <guid isPermaLink="false">844dbbbd-9d00-4118-9e17-af379ba2942c</guid>
-            <pubDate>Thu, 06 Aug 2026 21:46:43 GMT</pubDate>
-            <description><![CDATA[The Mexican peso extends its rally to 10 straight days, gaining over 0.12% on Thursday after the Bank of Mexico (Banxico) left interest rates unchanged. At the time of writing, the USD/MXN exotic pair trades at 17.21, after reaching a daily high of 17.26.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia: Headline GDP strength, mixed momentum – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/indonesia-headline-gdp-strength-mixed-momentum-societe-generale-202608062132</link>
-            <guid isPermaLink="false">adec30c5-65e2-4a40-94d3-5f14afb5d30e</guid>
-            <pubDate>Thu, 06 Aug 2026 21:32:00 GMT</pubDate>
-            <description><![CDATA[Societe Generale economist Kunal Kundu notes Indonesia’s 2Q26 Gross Domestic Product (GDP) grew 5.3% year-on-year, beating the bank’s 5.1% forecast, but warns the composition is less reassuring.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-flag-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar drops amid a firmer US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-drops-amid-a-firmer-us-dollar-202608062115</link>
-            <guid isPermaLink="false">fdcef16f-3147-4b7b-9858-f9601f5a3f28</guid>
-            <pubDate>Thu, 06 Aug 2026 21:15:54 GMT</pubDate>
-            <description><![CDATA[NZD/USD trades lower near the 0.5900 level at the time of writing, with no New Zealand catalyst behind the move. The US Dollar Index (DXY) is up 0.26% near the 100.00 level, and the Kiwi is simply on the wrong side of it.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar firms ahead of Nonfarm Payrolls as Hormuz risk returns]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-nonfarm-payrolls-as-hormuz-risk-returns-202608062053</link>
-            <guid isPermaLink="false">397dc183-5226-4d23-9fea-e51ca7b330c1</guid>
-            <pubDate>Thu, 06 Aug 2026 20:53:36 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) posted gains against every major currency on Thursday, with the US Dollar Index (DXY) up 0.26% near the 100.00 level as Oil rallied 3% on the reported Strait of Hormuz vessel ban, while Gold and Silver declined.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thailand: Supply-led pressures and prolonged hold for BoT – UOB]]></title>
-            <link>https://www.fxstreet.com/news/thailand-supply-led-pressures-and-prolonged-hold-for-bot-uob-202608062051</link>
-            <guid isPermaLink="false">2437d5a6-d9ba-415c-b200-2d5b681c45ed</guid>
-            <pubDate>Thu, 06 Aug 2026 20:51:00 GMT</pubDate>
-            <description><![CDATA[UOB Global Economics & Markets Research, led by economists Enrico Tanuwidjaja and Sathit Talaengsatya, analyzes Thailand’s July CPI undershoot driven by lower fuel prices while core inflation edges higher.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah: Policy uncertainty weighs on IDR against US Dollar – ING]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-policy-uncertainty-weighs-on-idr-against-us-dollar-ing-202608062007</link>
-            <guid isPermaLink="false">c9a7f01e-d953-4fd1-9c43-a4eb3158cc21</guid>
-            <pubDate>Thu, 06 Aug 2026 20:07:00 GMT</pubDate>
-            <description><![CDATA[ING economists Deepali Bhargava and Lynn Song flag renewed policy uncertainty for the Indonesian Rupiah (IDR) after the surprise resignation of Bank Indonesia’s (BI) governor, just as sentiment toward Indonesian assets was improving.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-idr-stock-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Won: Flow reversal case builds – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/south-korean-won-flow-reversal-case-builds-societe-generale-202608061935</link>
-            <guid isPermaLink="false">86ae0f4b-aaf3-4cf8-af63-2ceba65aa2fe</guid>
-            <pubDate>Thu, 06 Aug 2026 19:35:00 GMT</pubDate>
-            <description><![CDATA[Societe Generale strategist Kiyong Seong turns tactically constructive on USD/KRW, arguing that recent Won strength has been driven by late-stage flow factors rather than fundamentals.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Sentiment offsets softer spreads – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-sentiment-offsets-softer-spreads-scotiabank-202608061926</link>
-            <guid isPermaLink="false">fa433b0d-ee8b-4b01-96a8-29765422fb8b</guid>
-            <pubDate>Thu, 06 Aug 2026 19:26:55 GMT</pubDate>
-            <description><![CDATA[Scotiabank’s team notes the Pound is fractionally weaker versus the Dollar, with fundamentals less supportive as yield spreads soften. However, sentiment is improving as markets fade earlier political concerns following PM Burnham’s arrival and stronger-than-expected construction PMI.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
