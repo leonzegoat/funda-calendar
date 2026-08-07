@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 19:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 20:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Rebound holds above 200-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebound-holds-above-200-day-sma-202608072003</link>
+            <guid isPermaLink="false">54074c5b-b360-4d2a-a31e-e5d8b2adb849</guid>
+            <pubDate>Fri, 07 Aug 2026 20:03:53 GMT</pubDate>
+            <description><![CDATA[The British Pound retreats against the Japanese Yen, down about 0.24%, as the Yen is poised to end the week on a higher note. However, GBP/JPY is poised to finish the week with minimal gains, trading at 212.64.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Philippines: BSP policy outlook shifts – Standard Chartered]]></title>
+            <link>https://www.fxstreet.com/news/philippines-bsp-policy-outlook-shifts-standard-chartered-202608071942</link>
+            <guid isPermaLink="false">61371eb2-d2d6-4d83-9817-13760cb443cd</guid>
+            <pubDate>Fri, 07 Aug 2026 19:42:00 GMT</pubDate>
+            <description><![CDATA[Standard Chartered’s Jonathan Koh and Edward Lee now expect Bangko Sentral ng Pilipinas (BSP) to keep its policy rate unchanged at the 27 August meeting, abandoning a previously projected hike.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/PHP-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forecasting the upcoming week: US inflation takes center stage next week ]]></title>
+            <link>https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-inflation-takes-center-stage-next-week-202608071933</link>
+            <guid isPermaLink="false">18d7b910-58d3-4b83-adfa-5fcd4ea8c779</guid>
+            <pubDate>Fri, 07 Aug 2026 19:33:02 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) fell below the 100.00 region after sinking through Friday's session. July Nonfarm Payrolls (NFP) showed the US economy shedding 23K jobs against forecasts of an 80K gain, with June revised down to 20K, and Average Hourly Earnings slowing to 3.2% on the year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Treasury yields drop on soft NFP, Hormuz hopes ease Fed risks]]></title>
+            <link>https://www.fxstreet.com/news/us-treasury-yields-drop-on-soft-nfp-hormuz-hopes-ease-fed-risks-202608071924</link>
+            <guid isPermaLink="false">350d9a17-7e63-4ee7-99f7-a061d62fa310</guid>
+            <pubDate>Fri, 07 Aug 2026 19:24:30 GMT</pubDate>
+            <description><![CDATA[US Treasury yields drop across the curve on Friday amid growing speculation that the Iran-Oman deal is about to be sealed, which has so far pushed energy prices lower, while investors also digest a weak Nonfarm Payrolls report in the US.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indonesian Rupiah: Supportive domestic backdrop, capped gains – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/indonesian-rupiah-supportive-domestic-backdrop-capped-gains-commerzbank-202608071907</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 14:39:57 GMT</pubDate>
             <description><![CDATA[ING’s Chief International Economist James Knightley notes that the weak July US jobs report has pushed market pricing away from a September Federal Reserve rate hike, with the Dollar softening and 2-year yields falling.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed's Barkin: Jobs data is more low hire, low fire]]></title>
-            <link>https://www.fxstreet.com/news/feds-barkin-jobs-data-is-more-low-hire-low-fire-202608071431</link>
-            <guid isPermaLink="false">12688783-47c2-4a88-9fef-e1ddebfcffb9</guid>
-            <pubDate>Fri, 07 Aug 2026 14:31:02 GMT</pubDate>
-            <description><![CDATA[Thomas Barkin, President of the Federal Reserve (Fed) Bank of Richmond, participated in an online event hosted by the National Association for Business Economics on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-77.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Tariff-driven tightness faces policy risk – ING]]></title>
-            <link>https://www.fxstreet.com/news/copper-tariff-driven-tightness-faces-policy-risk-ing-202608071429</link>
-            <guid isPermaLink="false">396c05d5-e74b-4ca5-86c5-301d6bf7773f</guid>
-            <pubDate>Fri, 07 Aug 2026 14:29:31 GMT</pubDate>
-            <description><![CDATA[ING Commodities Strategist Ewa Manthey highlights that Copper has surged back near record highs as traders accelerate shipments into the US ahead of potential import tariffs, tightening physical markets and draining LME inventories.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Labour strength and BoC stance – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-labour-strength-and-boc-stance-td-securities-202608071417</link>
-            <guid isPermaLink="false">f841d2b5-28a4-4a21-9329-948d8e92994c</guid>
-            <pubDate>Fri, 07 Aug 2026 14:17:23 GMT</pubDate>
-            <description><![CDATA[TD Securities economists Robert Both and Emma Lawrence highlight a strong Canadian labour market, with July employment up 75k and unemployment at 6.4%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico: Banxico extended hold stance – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/mexico-banxico-extended-hold-stance-societe-generale-202608071408</link>
-            <guid isPermaLink="false">928e062c-c114-43fa-b8f5-df44c1110848</guid>
-            <pubDate>Fri, 07 Aug 2026 14:08:55 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Dev Ashish reports that Banxico left its policy rate at 6.50%, signalling an extended pause as inflation hovers near target and real rates sit close to neutral.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Mexico.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
