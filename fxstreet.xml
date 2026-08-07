@@ -4,9 +4,89 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 13:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 14:58:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold: Discretionary demand keeps bulls in control - TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/gold-discretionary-demand-keeps-bulls-in-control-td-securities-202608071458</link>
+            <guid isPermaLink="false">571aa701-42bc-4022-84ba-ec53f95201f0</guid>
+            <pubDate>Fri, 07 Aug 2026 14:58:39 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists Ryan McKay and Bart Melek highlight that strong discretionary and Asian buying is supporting Gold, even as CTA (Commodity Trading Advisors) positioning has plateaued.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar jumps after North American jobs double surprise]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-jumps-after-north-american-jobs-double-surprise-202608071454</link>
+            <guid isPermaLink="false">9680e58e-51ff-4c0d-aa1b-673a3628d237</guid>
+            <pubDate>Fri, 07 Aug 2026 14:54:45 GMT</pubDate>
+            <description><![CDATA[USD/CAD declines sharply on Friday, trading around 1.3940 at the time of writing, down 0.53% on the day, hitting its lowest level since June.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index tumbles as NFP shock trims Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-tumbles-as-nfp-shock-trims-fed-hike-bets-202608071451</link>
+            <guid isPermaLink="false">e830fc37-4c0c-41c8-9e5a-0f6a3d28dada</guid>
+            <pubDate>Fri, 07 Aug 2026 14:51:00 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), which tracks the buck’s value against a basket of six currencies, is down 0.36%m at 99.58 following a weaker-than-expected US jobs report. The data has eased pressures on the Federal Reserve to hike rates, as inflation remains stubbornly above the Fed’s 2% goal.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brent: Volatile path as Hormuz risk lingers – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/brent-volatile-path-as-hormuz-risk-lingers-commerzbank-202608071450</link>
+            <guid isPermaLink="false">8236e460-f5eb-43d7-9798-ff433151f08d</guid>
+            <pubDate>Fri, 07 Aug 2026 14:50:11 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Carsten Fritsch sees continued volatility in Brent as Strait of Hormuz negotiations remain unresolved and inventories tighten.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Weak payrolls cloud Fed path – ING]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-weak-payrolls-cloud-fed-path-ing-202608071439</link>
+            <guid isPermaLink="false">dc9c00f2-c45a-4dc9-b50e-81b396554046</guid>
+            <pubDate>Fri, 07 Aug 2026 14:39:57 GMT</pubDate>
+            <description><![CDATA[ING’s Chief International Economist James Knightley notes that the weak July US jobs report has pushed market pricing away from a September Federal Reserve rate hike, with the Dollar softening and 2-year yields falling.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed's Barkin: Jobs data is more low hire, low fire]]></title>
+            <link>https://www.fxstreet.com/news/feds-barkin-jobs-data-is-more-low-hire-low-fire-202608071431</link>
+            <guid isPermaLink="false">12688783-47c2-4a88-9fef-e1ddebfcffb9</guid>
+            <pubDate>Fri, 07 Aug 2026 14:31:02 GMT</pubDate>
+            <description><![CDATA[Thomas Barkin, President of the Federal Reserve (Fed) Bank of Richmond, participated in an online event hosted by the National Association for Business Economics on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-77.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Copper: Tariff-driven tightness faces policy risk – ING]]></title>
+            <link>https://www.fxstreet.com/news/copper-tariff-driven-tightness-faces-policy-risk-ing-202608071429</link>
+            <guid isPermaLink="false">396c05d5-e74b-4ca5-86c5-301d6bf7773f</guid>
+            <pubDate>Fri, 07 Aug 2026 14:29:31 GMT</pubDate>
+            <description><![CDATA[ING Commodities Strategist Ewa Manthey highlights that Copper has surged back near record highs as traders accelerate shipments into the US ahead of potential import tariffs, tightening physical markets and draining LME inventories.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Labour strength and BoC stance – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-labour-strength-and-boc-stance-td-securities-202608071417</link>
+            <guid isPermaLink="false">f841d2b5-28a4-4a21-9329-948d8e92994c</guid>
+            <pubDate>Fri, 07 Aug 2026 14:17:23 GMT</pubDate>
+            <description><![CDATA[TD Securities economists Robert Both and Emma Lawrence highlight a strong Canadian labour market, with July employment up 75k and unemployment at 6.4%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico: Banxico extended hold stance – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/mexico-banxico-extended-hold-stance-societe-generale-202608071408</link>
+            <guid isPermaLink="false">928e062c-c114-43fa-b8f5-df44c1110848</guid>
+            <pubDate>Fri, 07 Aug 2026 14:08:55 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Dev Ashish reports that Banxico left its policy rate at 6.50%, signalling an extended pause as inflation hovers near target and real rates sit close to neutral.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Mexico.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: Weak US payrolls fuel breakout above 50-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-weak-us-payrolls-fuel-breakout-above-50-day-sma-202608071404</link>
+            <guid isPermaLink="false">3a35e78b-1d9d-4921-86d4-5aa6f95f8f5d</guid>
+            <pubDate>Fri, 07 Aug 2026 14:04:15 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) jumps nearly 4% on Friday as buying accelerates following a decisive break above the 50-day Simple Moving Average (SMA) near $62. At the time of writing, the grey metal trades around $63.94 after briefly testing the $65 psychological mark.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Silver: Solar demand headwinds emerge – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/silver-solar-demand-headwinds-emerge-commerzbank-202608071348</link>
@@ -166,86 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 11:12:11 GMT</pubDate>
             <description><![CDATA[MUFG’s Michael Wan notes that Oil has spiked on renewed tensions in the Strait of Hormuz, even as Brent remains below US$85/bbl. He highlights Iran’s proposed restrictions on US and Israeli ships and regional conflict risks.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee drops on oil price bounce, US NFP in focus]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-trades-calm-ahead-of-us-nfp-data-release-202608070546</link>
-            <guid isPermaLink="false">494b4d4a-da44-4c7e-af8f-c381353da092</guid>
-            <pubDate>Fri, 07 Aug 2026 05:46:06 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) falls slightly against the US Dollar (USD) on Friday in the countdown to the United States (US) Nonfarm Payrolls (NFP) data for July at 06:00 PM IST or 12:30 GMT.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar lacks direction ahead of twin US, Canadian employment releases]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-lacks-direction-ahead-of-twin-us-canadian-employment-releases-202608071106</link>
-            <guid isPermaLink="false">6e246589-f587-4c22-865a-f7434564ba2f</guid>
-            <pubDate>Fri, 07 Aug 2026 11:06:26 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades around 1.4020 on Friday at the time of writing, up a modest 0.06% on the day with no clear directional bias as investors remain cautious ahead of the release of US and Canadian July employment reports.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar edges up against US Dollar with NFP data in focus]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-edges-up-against-us-dollar-with-nfp-data-in-focus-202608071053</link>
-            <guid isPermaLink="false">e86f24f3-92eb-41c0-80a4-c4d4ac973632</guid>
-            <pubDate>Fri, 07 Aug 2026 10:53:59 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) trades slightly higher to near 0.7040 against the US Dollar (USD) during the European trading session on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro clings to gains near three-week highs ahead of the US Nonfarm Payrolls report]]></title>
-            <link>https://www.fxstreet.com/news/euro-flatlines-amid-mixed-german-data-with-all-eyes-on-us-nonfarm-payrolls-data-202608070630</link>
-            <guid isPermaLink="false">0ad0e741-e192-4529-af33-d6bd67f178be</guid>
-            <pubDate>Fri, 07 Aug 2026 06:30:37 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) is trading flat, a handful of pips below 1.1530 against the US Dollar (USD) on Friday, following a mild pullback from three-week highs at 1.1560 earlier on the week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_newspaper.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1.1560: Why the Euro's recovery is facing its biggest technical hurdle]]></title>
-            <link>https://www.fxstreet.com/news/11560-why-the-euros-recovery-is-facing-its-biggest-technical-hurdle-202608071047</link>
-            <guid isPermaLink="false">7ac547e8-440c-432d-8af2-a2df9eb3bb40</guid>
-            <pubDate>Fri, 07 Aug 2026 10:47:29 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) has staged a notable recovery from its mid-June lows against the US Dollar (USD), driven in part by financial markets dialing back expectations for further Federal Reserve (Fed) interest rate hikes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-160.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD rallies further with bulls eyeing $4,380 area]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-rallies-further-with-bulls-eyeing-4-380-area-202608071023</link>
-            <guid isPermaLink="false">9e4ed04a-d488-4a9f-818c-7e48e6151dda</guid>
-            <pubDate>Fri, 07 Aug 2026 10:23:21 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) resumes its bullish trend on Friday, after a brief consolidation on Thursday, to reach fresh three-week highs above $4,300, with bulls aiming for mid-June highs in the $4,380 area.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US President Trump: Warsh is great and I won’t criticize him]]></title>
-            <link>https://www.fxstreet.com/news/us-president-trump-warsh-is-great-and-i-wont-criticize-him-202608071020</link>
-            <guid isPermaLink="false">eed78e68-47c3-4986-b7ea-b62e58f489a4</guid>
-            <pubDate>Fri, 07 Aug 2026 10:20:33 GMT</pubDate>
-            <description><![CDATA[United States (US) President Donald Trump said in an interview with Punchbowl, released during the European trading session on Friday, that a potential interest rate hike by the Federal Reserve (Fed) is not completely on Chairman Kevin Warsh, but on the entire board.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Labour resilience favours CAD against US Dollar – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-labour-resilience-favours-cad-against-us-dollar-td-securities-202608070959</link>
-            <guid isPermaLink="false">1c267bdc-6d28-4838-b689-a3ae1745073d</guid>
-            <pubDate>Fri, 07 Aug 2026 09:59:24 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists expect Canada’s July Jobs Report to confirm ongoing labour market strength, with employment rising another 20k, matching consensus and extending the recovery of 2026 job losses.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Polish Zloty: Near-term EUR/PLN forecast raised to 4.30 – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/polish-zloty-near-term-eur-pln-forecast-raised-to-430-commerzbank-202608070950</link>
-            <guid isPermaLink="false">6f060707-8c64-425a-bf12-240e5d374fa4</guid>
-            <pubDate>Fri, 07 Aug 2026 09:50:31 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose raises the near-term EUR/PLN forecast from 4.20 to 4.30, citing recent global risk-off moves and uncertainty surrounding the oil price shock.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Dollar eases towards 0.8100 ahead of the NFP release]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-dollar-eases-towards-08100-ahead-of-the-nfp-release-202608070946</link>
-            <guid isPermaLink="false">14ac88cb-f16a-421e-9fa5-eab057d81c7d</guid>
-            <pubDate>Fri, 07 Aug 2026 09:46:10 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) pares gains against the Swiss Franc (CHF) on Friday, with the USD/CHF pair drifting towards the 0.8100 level, after rejection at 0.8136 highs on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/bull-bear-04.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
