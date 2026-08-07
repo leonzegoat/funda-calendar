@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 17:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 18:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South Korean Won: Intervention risks support KRW against US Dollar – DBS]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-intervention-risks-support-krw-against-us-dollar-dbs-202608071758</link>
+            <guid isPermaLink="false">693d86a6-2eff-460a-a8b2-ae7a4bf23f88</guid>
+            <pubDate>Fri, 07 Aug 2026 17:58:00 GMT</pubDate>
+            <description><![CDATA[Chang Wei Liang at DBS Group Research notes that KRW is currently the best performing Asian currency, supported by strong semiconductor demand and reported FX intervention coordination between Korea, the US and Japan.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Buyers eye a break above the 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-buyers-eye-a-break-above-the-100-day-sma-202608071738</link>
+            <guid isPermaLink="false">87af5f4b-6608-4b34-9fd4-baeb40daf7bf</guid>
+            <pubDate>Fri, 07 Aug 2026 17:38:12 GMT</pubDate>
+            <description><![CDATA[EUR/USD edges higher on Friday, supported by a softer US Dollar (USD) as traders scale back Federal Reserve (Fed) rate-hike bets following a disappointing US Nonfarm Payrolls (NFP) report. At the time of writing, the pair trades around 1.1562, hovering near a seven-week high.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rallies as mediocre US NFP crushes Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-rallies-as-mediocre-us-nfp-crushes-fed-rate-hike-bets-202608071737</link>
+            <guid isPermaLink="false">ba0d450e-ae2d-4d41-a3a4-835197d12a18</guid>
+            <pubDate>Fri, 07 Aug 2026 17:37:26 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) skyrockets on Friday, gaining over 2.30% in the day and more than 7% in the week after US jobs data was mixed, with a softer Nonfarm Payrolls print while the Unemployment Rate remained steady.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia: Modest growth outlook – Standard Chartered]]></title>
+            <link>https://www.fxstreet.com/news/indonesia-modest-growth-outlook-standard-chartered-202608071733</link>
+            <guid isPermaLink="false">c26ac41a-319b-4ed1-98e2-24221345d8bc</guid>
+            <pubDate>Fri, 07 Aug 2026 17:33:09 GMT</pubDate>
+            <description><![CDATA[Standard Chartered’s Aldian Taloputra notes Indonesia’s Q2 GDP grew 5.3% year-on-year, slowing from 5.6% but beating consensus. Stronger-than-expected H1 data leads the bank to raise its 2026 GDP forecast to 5.3%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesia.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Dow Jones Industrial Average dodges a hike December still prices]]></title>
             <link>https://www.fxstreet.com/news/dow-jones-industrial-average-dodges-a-hike-december-still-prices-202608071646</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 12:54:46 GMT</pubDate>
             <description><![CDATA[Nordea analysts Kirsti Sunde Midttun and Ole Håkon Eek-Nielsen argue that AI profitability faces structural pressure from high inference costs, rapid model depreciation and growing competition from free and open alternatives.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Tech_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: US Nonfarm Payrolls fall by 23K in July vs. +80K expected]]></title>
-            <link>https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-80k-in-july-202608070830</link>
-            <guid isPermaLink="false">0486cfb5-90bb-490c-ae10-f2f2ba39c04a</guid>
-            <pubDate>Fri, 07 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[Nonfarm Payrolls (NFP) in the United States (US) declined by 23K in July, the US Bureau of Labor Statistics (BLS) reported on Friday. This print followed the 20K increase (revised from 57K) recorded in June and fell short of the market expectation for an increase of 80K by a wide margin.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada's Unemployment Rate drops to 6.4% in July]]></title>
-            <link>https://www.fxstreet.com/news/canadas-unemployment-rate-drops-to-64-in-july-202608071238</link>
-            <guid isPermaLink="false">b6d4f5ac-7ae6-47a3-ba9e-c3fd10298d29</guid>
-            <pubDate>Fri, 07 Aug 2026 12:38:48 GMT</pubDate>
-            <description><![CDATA[Statistics Canada reported on Friday that the Unemployment Rate decreased to 6.4% in July, below what markets were expecting.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-cad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[India: Inflation steady, trade deficit persists – DBS]]></title>
-            <link>https://www.fxstreet.com/news/india-inflation-steady-trade-deficit-persists-dbs-202608071226</link>
-            <guid isPermaLink="false">5579770f-def9-45eb-a891-80eeeb512c8b</guid>
-            <pubDate>Fri, 07 Aug 2026 12:26:24 GMT</pubDate>
-            <description><![CDATA[DBS Group Research’s Econs team expects India’s July inflation to remain steady at 4.4% year-on-year, with core readings staying below 4% thanks to softer precious metals. Food staples show mixed trends, while fuel price adjustments may lift utilities and fuel components.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Intervention skepticism meets BoJ repricing – BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-intervention-skepticism-meets-boj-repricing-bbh-202608071215</link>
-            <guid isPermaLink="false">7897f557-b48b-43fa-b0ca-17742c81f6ed</guid>
-            <pubDate>Fri, 07 Aug 2026 12:15:38 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights growing market skepticism about Japan’s FX interventions, despite sizeable recent operations that triggered sharp but temporary Japanese Yen (JPY) rallies.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
