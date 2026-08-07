@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 10:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 11:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US July Nonfarm Payrolls to test expectations for a September Fed rate hike]]></title>
+            <link>https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-80k-in-july-202608070830</link>
+            <guid isPermaLink="false">0486cfb5-90bb-490c-ae10-f2f2ba39c04a</guid>
+            <pubDate>Fri, 07 Aug 2026 08:30:00 GMT</pubDate>
+            <description><![CDATA[The United States (US) Bureau of Labor Statistics (BLS) is set to release the Nonfarm Payrolls (NFP) data for July on Friday at 12:30 GMT. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rises above $4,300 as traders brace for US Nonfarm Payrolls]]></title>
+            <link>https://www.fxstreet.com/news/gold-rises-above-4-300-as-traders-brace-for-us-nonfarm-payrolls-202608071121</link>
+            <guid isPermaLink="false">178b7ca7-126e-4b3a-8869-53d363b40912</guid>
+            <pubDate>Fri, 07 Aug 2026 11:21:15 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) extends its recovery on Friday as technical buying accelerates, even as market sentiment remains cautious due to developments in the Middle East and uncertainty over the Federal Reserve’s (Fed) interest-rate outlook.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Strong payrolls may offer only limited support – BBH]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-strong-payrolls-may-offer-only-limited-support-bbh-202608071120</link>
+            <guid isPermaLink="false">232e0eaa-d8a0-444c-bc73-ff80990150e1</guid>
+            <pubDate>Fri, 07 Aug 2026 11:20:54 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects the July United States (US) non-farm payrolls to show resilient labor demand, with consensus around 80k jobs and unemployment steady at 4.2%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-workers-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Prices jump on Hormuz tensions – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/oil-prices-jump-on-hormuz-tensions-mufg-202608071112</link>
+            <guid isPermaLink="false">a61879a6-9302-4ece-97a5-352299bce680</guid>
+            <pubDate>Fri, 07 Aug 2026 11:12:11 GMT</pubDate>
+            <description><![CDATA[MUFG’s Michael Wan notes that Oil has spiked on renewed tensions in the Strait of Hormuz, even as Brent remains below US$85/bbl. He highlights Iran’s proposed restrictions on US and Israeli ships and regional conflict risks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee drops on oil price bounce, US NFP in focus]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-trades-calm-ahead-of-us-nfp-data-release-202608070546</link>
+            <guid isPermaLink="false">494b4d4a-da44-4c7e-af8f-c381353da092</guid>
+            <pubDate>Fri, 07 Aug 2026 05:46:06 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) falls slightly against the US Dollar (USD) on Friday in the countdown to the United States (US) Nonfarm Payrolls (NFP) data for July at 06:00 PM IST or 12:30 GMT.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar lacks direction ahead of twin US, Canadian employment releases]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-lacks-direction-ahead-of-twin-us-canadian-employment-releases-202608071106</link>
+            <guid isPermaLink="false">6e246589-f587-4c22-865a-f7434564ba2f</guid>
+            <pubDate>Fri, 07 Aug 2026 11:06:26 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades around 1.4020 on Friday at the time of writing, up a modest 0.06% on the day with no clear directional bias as investors remain cautious ahead of the release of US and Canadian July employment reports.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar edges up against US Dollar with NFP data in focus]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-edges-up-against-us-dollar-with-nfp-data-in-focus-202608071053</link>
+            <guid isPermaLink="false">e86f24f3-92eb-41c0-80a4-c4d4ac973632</guid>
+            <pubDate>Fri, 07 Aug 2026 10:53:59 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) trades slightly higher to near 0.7040 against the US Dollar (USD) during the European trading session on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro clings to gains near three-week highs ahead of the US Nonfarm Payrolls report]]></title>
+            <link>https://www.fxstreet.com/news/euro-flatlines-amid-mixed-german-data-with-all-eyes-on-us-nonfarm-payrolls-data-202608070630</link>
+            <guid isPermaLink="false">0ad0e741-e192-4529-af33-d6bd67f178be</guid>
+            <pubDate>Fri, 07 Aug 2026 06:30:37 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) is trading flat, a handful of pips below 1.1530 against the US Dollar (USD) on Friday, following a mild pullback from three-week highs at 1.1560 earlier on the week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_newspaper.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[1.1560: Why the Euro's recovery is facing its biggest technical hurdle]]></title>
+            <link>https://www.fxstreet.com/news/11560-why-the-euros-recovery-is-facing-its-biggest-technical-hurdle-202608071047</link>
+            <guid isPermaLink="false">7ac547e8-440c-432d-8af2-a2df9eb3bb40</guid>
+            <pubDate>Fri, 07 Aug 2026 10:47:29 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) has staged a notable recovery from its mid-June lows against the US Dollar (USD), driven in part by financial markets dialing back expectations for further Federal Reserve (Fed) interest rate hikes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-160.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold Price Forecast: XAU/USD rallies further with bulls eyeing $4,380 area]]></title>
             <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-rallies-further-with-bulls-eyeing-4-380-area-202608071023</link>
@@ -22,14 +94,6 @@
             <pubDate>Fri, 07 Aug 2026 10:20:33 GMT</pubDate>
             <description><![CDATA[United States (US) President Donald Trump said in an interview with Punchbowl, released during the European trading session on Friday, that a potential interest rate hike by the Federal Reserve (Fed) is not completely on Chairman Kevin Warsh, but on the entire board.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Nonfarm Payrolls set to rebound in July as markets reassess Fed rate path]]></title>
-            <link>https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-80k-in-july-202608070830</link>
-            <guid isPermaLink="false">0486cfb5-90bb-490c-ae10-f2f2ba39c04a</guid>
-            <pubDate>Fri, 07 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[The United States (US) Bureau of Labor Statistics (BLS) is set to release the Nonfarm Payrolls (NFP) data for July on Friday at 12:30 GMT. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-workers.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Canadian Dollar: Labour resilience favours CAD against US Dollar – TD Securities]]></title>
@@ -112,14 +176,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-neutral-object.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Indian Rupee drops as oil price rebounds, US NFP awaited]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-trades-calm-ahead-of-us-nfp-data-release-202608070546</link>
-            <guid isPermaLink="false">494b4d4a-da44-4c7e-af8f-c381353da092</guid>
-            <pubDate>Fri, 07 Aug 2026 05:46:06 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) falls slightly against the US Dollar (USD) on Friday in the countdown to the United States (US) Nonfarm Payrolls (NFP) data for July at 06:00 PM IST or 12:30 GMT.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Oil: Volatile range trading outlook – Rabobank]]></title>
             <link>https://www.fxstreet.com/news/oil-volatile-range-trading-outlook-rabobank-202608070837</link>
             <guid isPermaLink="false">7cfe049a-3d56-4b19-8802-e00ff875aab8</guid>
@@ -190,62 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 07:53:22 GMT</pubDate>
             <description><![CDATA[The GBP/JPY cross struggles to extend its positive move witnessed over the past three days and consolidates around the 213.00 mark, or the top end of its weekly range, through the early European session on Friday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecasts: XAG/USD bulls are eroding resistance at the $63.30 area ]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-bulls-are-eroding-resistance-at-the-6330-area-202608070749</link>
-            <guid isPermaLink="false">0a27461d-f542-4e6f-ab0d-20561007c61b</guid>
-            <pubDate>Fri, 07 Aug 2026 07:49:24 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) resumes its near-term bullish trend on Friday, after a brief hesitation on Thursday, reaching fresh six-week highs at $63.90, although it is still due to confirm the break of the resistance area at $63.30.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Near record highs on tight supply – ING]]></title>
-            <link>https://www.fxstreet.com/news/copper-near-record-highs-on-tight-supply-ing-202608070748</link>
-            <guid isPermaLink="false">60887751-fd15-461f-9684-7573e1544b46</guid>
-            <pubDate>Fri, 07 Aug 2026 07:48:42 GMT</pubDate>
-            <description><![CDATA[ING’s Warren Patterson and Ewa Manthey report Copper trading comfortably above $14,000/t, close to record highs, supported by tariff-related stockpiling into the US and tight physical markets elsewhere. They flag low inventories, constrained mine supply and ongoing disruptions as key supports.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: Markets turn attention from Middle East to Nonfarm Payrolls]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-markets-turn-attention-from-middle-east-to-nonfarm-payrolls-202608070747</link>
-            <guid isPermaLink="false">c3752960-075f-481e-8c8e-bd2d4daf90cd</guid>
-            <pubDate>Fri, 07 Aug 2026 07:47:41 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Friday, August 7:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_newspaper.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures move little ahead of US Nonfarm Payrolls]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-move-little-ahead-of-us-nonfarm-payrolls-202608070736</link>
-            <guid isPermaLink="false">0ed5d9db-c753-47d9-8ca9-1b7b301a8e9f</guid>
-            <pubDate>Fri, 07 Aug 2026 07:36:35 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures inch lower 0.04% to trade around 53,990 during European hours on Friday. Meanwhile, S&P 500 futures gain 0.07% to trade near 7,740 and Nasdaq 100 futures gain 0.29%, trading near 29,570.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Upside fades below 1.3410 against US Dollar - UOB]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-upside-fades-below-13410-against-us-dollar-uob-202608070724</link>
-            <guid isPermaLink="false">513aee13-affb-439a-96df-e747940ccd9e</guid>
-            <pubDate>Fri, 07 Aug 2026 07:24:36 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that GBP/USD has been confined to tight ranges around 1.3455, with a slight increase in near-term downside momentum. They expect any intraday decline to stay within 1.3430–1.3475.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: US payrolls could cap gains against the US Dollar - Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/euro-us-payrolls-could-cap-gains-against-the-us-dollar-commerzbank-202608070718</link>
-            <guid isPermaLink="false">1124c26f-5b71-40cd-bddb-faec99b6ca1d</guid>
-            <pubDate>Fri, 07 Aug 2026 07:18:43 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Michael Pfister notes that reduced expectations for Federal Reserve (Fed) tightening have helped EUR/USD climb, but questions how justified this move is.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CAD Price Forecast: Bullish Flag pattern underway]]></title>
-            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bullish-flag-pattern-underway-202608070716</link>
-            <guid isPermaLink="false">e1c73889-9bab-4f77-9581-fa69e9aed4fa</guid>
-            <pubDate>Fri, 07 Aug 2026 07:16:44 GMT</pubDate>
-            <description><![CDATA[The Canadian Dollar (CAD) trades marginally lower against the US Dollar (USD) on Friday, with the USD/CAD pair edging up to near 1.4023 in the European trading session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-neutral-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
