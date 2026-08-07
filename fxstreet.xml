@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 20:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 20:59:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Singapore: GDP revision and forecast upgrade – DBS]]></title>
+            <link>https://www.fxstreet.com/news/singapore-gdp-revision-and-forecast-upgrade-dbs-202608072027</link>
+            <guid isPermaLink="false">d78352f1-7fea-40be-8aab-f3a5dbd9af0a</guid>
+            <pubDate>Fri, 07 Aug 2026 20:27:00 GMT</pubDate>
+            <description><![CDATA[DBS Group Research expects Singapore’s final 2Q26 GDP to be revised up to 5.9% year-on-year and 1.3% quarter-on-quarter seasonally adjusted, driven by stronger manufacturing and services.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hormuz deal hopes rise as talks progress  – Reuters]]></title>
+            <link>https://www.fxstreet.com/news/hormuz-deal-hopes-rise-as-talks-progress-rtrs-abc-news-202608072019</link>
+            <guid isPermaLink="false">003baad1-02fe-44cd-b7e3-724a0f563b7b</guid>
+            <pubDate>Fri, 07 Aug 2026 20:19:13 GMT</pubDate>
+            <description><![CDATA[A US official said on Friday that there is progress in Oman-Iran talks and that a deal could be signed soon, according to Reuters. Once the deal is announced, this would restore commercial shipping in the Strait of Hormuz, and the US would lift the blockade. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[GBP/JPY Price Forecast: Rebound holds above 200-day SMA]]></title>
             <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebound-holds-above-200-day-sma-202608072003</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 14:51:00 GMT</pubDate>
             <description><![CDATA[The US Dollar Index (DXY), which tracks the buck’s value against a basket of six currencies, is down 0.36% to 99.58 following a weaker-than-expected US jobs report. The DXY hit 99.41 after the jobs report release, its lowest level since June 15.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Volatile path as Hormuz risk lingers – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/brent-volatile-path-as-hormuz-risk-lingers-commerzbank-202608071450</link>
-            <guid isPermaLink="false">8236e460-f5eb-43d7-9798-ff433151f08d</guid>
-            <pubDate>Fri, 07 Aug 2026 14:50:11 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Carsten Fritsch sees continued volatility in Brent as Strait of Hormuz negotiations remain unresolved and inventories tighten.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Weak payrolls cloud Fed path – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-weak-payrolls-cloud-fed-path-ing-202608071439</link>
-            <guid isPermaLink="false">dc9c00f2-c45a-4dc9-b50e-81b396554046</guid>
-            <pubDate>Fri, 07 Aug 2026 14:39:57 GMT</pubDate>
-            <description><![CDATA[ING’s Chief International Economist James Knightley notes that the weak July US jobs report has pushed market pricing away from a September Federal Reserve rate hike, with the Dollar softening and 2-year yields falling.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
