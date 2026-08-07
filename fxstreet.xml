@@ -4,11 +4,19 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 16:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 17:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[New Zealand Dollar advances as US labor market weakness pressures the USD]]></title>
+            <title><![CDATA[Dow Jones Industrial Average dodges a hike December still prices]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-dodges-a-hike-december-still-prices-202608071646</link>
+            <guid isPermaLink="false">f5b6a22e-8994-406c-94b5-f9a5ce700a63</guid>
+            <pubDate>Fri, 07 Aug 2026 16:46:30 GMT</pubDate>
+            <description><![CDATA[The American labour market contracted in July and the Dow Jones Industrial Average answered with a gain of roughly 65 points, a tenth of a percent, trading near 54,000 into the afternoon.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar advances as US labor market weakness pressures USD]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-advances-as-us-labor-market-weakness-pressures-the-usd-202608071603</link>
             <guid isPermaLink="false">aa3307a3-398f-40bf-b751-53f95b54bada</guid>
             <pubDate>Fri, 07 Aug 2026 16:03:50 GMT</pubDate>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 12:15:38 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights growing market skepticism about Japan’s FX interventions, despite sizeable recent operations that triggered sharp but temporary Japanese Yen (JPY) rallies.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP Price Forecast: Mixed momentum signals point to more consolidation]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-price-forecast-mixed-momentum-signals-point-to-more-consolidation-202608071215</link>
-            <guid isPermaLink="false">1869b596-b5a6-40b9-ab9c-216db1ef4663</guid>
-            <pubDate>Fri, 07 Aug 2026 12:15:06 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) edges higher against the British Pound (GBP) on Friday, although price action has been confined to a narrow range over the past ten trading days, suggesting that the mid-July rebound from below 0.8500 is losing steam beneath a dense cluster of moving averages.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
