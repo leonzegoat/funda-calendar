@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 09:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 10:35:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold Price Forecast: XAU/USD rallies further with bulls eyeing $4,380 area]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-rallies-further-with-bulls-eyeing-4-380-area-202608071023</link>
+            <guid isPermaLink="false">9e4ed04a-d488-4a9f-818c-7e48e6151dda</guid>
+            <pubDate>Fri, 07 Aug 2026 10:23:21 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) resumes its bullish trend on Friday, after a brief consolidation on Thursday, to reach fresh three-week highs above $4,300, with bulls aiming for mid-June highs in the $4,380 area.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Trump: Warsh is great and I won’t criticize him]]></title>
+            <link>https://www.fxstreet.com/news/us-president-trump-warsh-is-great-and-i-wont-criticize-him-202608071020</link>
+            <guid isPermaLink="false">eed78e68-47c3-4986-b7ea-b62e58f489a4</guid>
+            <pubDate>Fri, 07 Aug 2026 10:20:33 GMT</pubDate>
+            <description><![CDATA[United States (US) President Donald Trump said in an interview with Punchbowl, released during the European trading session on Friday, that a potential interest rate hike by the Federal Reserve (Fed) is not completely on Chairman Kevin Warsh, but on the entire board.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Nonfarm Payrolls set to rebound in July as markets reassess Fed rate path]]></title>
+            <link>https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-80k-in-july-202608070830</link>
+            <guid isPermaLink="false">0486cfb5-90bb-490c-ae10-f2f2ba39c04a</guid>
+            <pubDate>Fri, 07 Aug 2026 08:30:00 GMT</pubDate>
+            <description><![CDATA[The United States (US) Bureau of Labor Statistics (BLS) is set to release the Nonfarm Payrolls (NFP) data for July on Friday at 12:30 GMT. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-workers.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Labour resilience favours CAD against US Dollar – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-labour-resilience-favours-cad-against-us-dollar-td-securities-202608070959</link>
+            <guid isPermaLink="false">1c267bdc-6d28-4838-b689-a3ae1745073d</guid>
+            <pubDate>Fri, 07 Aug 2026 09:59:24 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists expect Canada’s July Jobs Report to confirm ongoing labour market strength, with employment rising another 20k, matching consensus and extending the recovery of 2026 job losses.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Polish Zloty: Near-term EUR/PLN forecast raised to 4.30 – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/polish-zloty-near-term-eur-pln-forecast-raised-to-430-commerzbank-202608070950</link>
+            <guid isPermaLink="false">6f060707-8c64-425a-bf12-240e5d374fa4</guid>
+            <pubDate>Fri, 07 Aug 2026 09:50:31 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Tatha Ghose raises the near-term EUR/PLN forecast from 4.20 to 4.30, citing recent global risk-off moves and uncertainty surrounding the oil price shock.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Dollar eases towards 0.8100 ahead of the NFP release]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-dollar-eases-towards-08100-ahead-of-the-nfp-release-202608070946</link>
+            <guid isPermaLink="false">14ac88cb-f16a-421e-9fa5-eab057d81c7d</guid>
+            <pubDate>Fri, 07 Aug 2026 09:46:10 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) pares gains against the Swiss Franc (CHF) on Friday, with the USD/CHF pair drifting towards the 0.8100 level, after rejection at 0.8136 highs on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/bull-bear-04.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NFP or Iran: Which factor will break the US Dollar Index out of its consolidation?]]></title>
             <link>https://www.fxstreet.com/news/nfp-or-iran-which-factor-will-break-the-us-dollar-index-out-of-its-consolidation-202608070932</link>
@@ -78,14 +126,6 @@
             <pubDate>Fri, 07 Aug 2026 08:37:01 GMT</pubDate>
             <description><![CDATA[Rabobank’s Joe DeLaura details how renewed United States (US)–Iran tensions and disruptions at the Strait of Hormuz have driven a sharp rally and subsequent correction in Brent and West Texas Intermediate (WTI).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Nonfarm Payrolls expected to rise by 80K in July]]></title>
-            <link>https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-80k-in-july-202608070830</link>
-            <guid isPermaLink="false">0486cfb5-90bb-490c-ae10-f2f2ba39c04a</guid>
-            <pubDate>Fri, 07 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[The United States (US) Bureau of Labor Statistics (BLS) is set to release the Nonfarm Payrolls (NFP) data for July on Friday at 12:30 GMT. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-workers-1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[British Pound eases below 1.3450 as markets brace for the US Nonfarm Payrolls report]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 07:16:44 GMT</pubDate>
             <description><![CDATA[The Canadian Dollar (CAD) trades marginally lower against the US Dollar (USD) on Friday, with the USD/CAD pair edging up to near 1.4023 in the European trading session.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro steadies against the British Pound following another rejection at the 0.8580 area]]></title>
-            <link>https://www.fxstreet.com/news/euro-steadies-against-the-british-pound-following-another-rejection-at-the-08580-area-202608070706</link>
-            <guid isPermaLink="false">14e03548-f054-4040-b85a-18f3f5e3d6a9</guid>
-            <pubDate>Fri, 07 Aug 2026 07:06:34 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) trades practically flat against the British Pound (GBP) on Friday, moving in a tight range above 0.8560 during the early European session, following another rejection at the 0.8680 area.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/USD Price Forecast: Flat lines below mid-0.7000s/100-SMA as bulls await US NFP]]></title>
-            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-flat-lines-below-mid-07000s-100-sma-as-bulls-await-us-nfp-202608070706</link>
-            <guid isPermaLink="false">7b24226c-e68b-4df7-aa55-5063882a5d9b</guid>
-            <pubDate>Fri, 07 Aug 2026 07:06:34 GMT</pubDate>
-            <description><![CDATA[The AUD/USD pair finds some support near the 38.2% Fibonacci retracement level of the May-June corrective slide and, for now, seems to have stalled its pullback from the highest level since June 17, around 0.7065, touched earlier this week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/JPY Price Forecast: Holds losses near 182.50 as bearish bias prevails]]></title>
-            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-holds-losses-near-18250-as-bearish-bias-prevails-202608070705</link>
-            <guid isPermaLink="false">4d226c8b-1287-4b41-87f1-ebe767d4eb9e</guid>
-            <pubDate>Fri, 07 Aug 2026 07:05:25 GMT</pubDate>
-            <description><![CDATA[EUR/JPY halts its three-day winning streak, trading around 182.50 during the early European hours on Friday. The currency cross is retaining a bearish near-term bias as spot holds below both the nine-period and 50-period Exponential Moving Averages (EMAs).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Breakout holds as US payrolls loom – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/gold-breakout-holds-as-us-payrolls-loom-ocbc-202608070655</link>
-            <guid isPermaLink="false">c2bec43f-3200-4911-88f0-43569805d9e0</guid>
-            <pubDate>Fri, 07 Aug 2026 06:55:26 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note Gold has retained most recent gains after breaking key resistance, supported by lower Oil, softer yields, central bank and ETF buying and technical factors.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: Sector rotation dominates risk-off – Danske Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-sector-rotation-dominates-risk-off-danske-bank-202608070646</link>
-            <guid isPermaLink="false">40447584-9b3e-4e3a-bd8a-021b483c8e14</guid>
-            <pubDate>Fri, 07 Aug 2026 06:46:13 GMT</pubDate>
-            <description><![CDATA[Danske Research Team reports equities closed lower in a 2026-style risk-off session driven by sentiment rather than macro or earnings. Higher Oil prices weighed, but the key feature was pronounced rotation from cyclicals into defensives such as energy, consumer staples and health care.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
