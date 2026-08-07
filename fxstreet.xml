@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 18:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 19:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: Supportive domestic backdrop, capped gains – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-supportive-domestic-backdrop-capped-gains-commerzbank-202608071907</link>
+            <guid isPermaLink="false">458ac976-b99d-4b0e-a3af-123c52854f27</guid>
+            <pubDate>Fri, 07 Aug 2026 19:07:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s FX analysts, including Charlie Lay and Moses Lim, note that USD/IDR slipped slightly but stayed below the key 18,000 level as softer global Oil prices and stronger Indonesia Q2 GDP supported the Rupiah.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-idr-stock-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-clears-50-day-sma-eyes-65-202608071904</link>
+            <guid isPermaLink="false">ca382e7a-c658-473e-8b96-18c5f2c11850</guid>
+            <pubDate>Fri, 07 Aug 2026 19:04:38 GMT</pubDate>
+            <description><![CDATA[Silver price surges nearly 3% as it clears the 50-day Simple Moving Average (SMA) at $62.13, and reclaims the $63.00 figure as it struggles to surpass key resistance seen at $63.28, the July 6 high.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY recovers from session low but remains down on Friday]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-recovers-from-session-low-but-remains-down-on-friday-202608071848</link>
+            <guid isPermaLink="false">8d4c31c6-e50f-45f9-b0ea-f0f0f6a3e970</guid>
+            <pubDate>Fri, 07 Aug 2026 18:48:36 GMT</pubDate>
+            <description><![CDATA[EUR/JPY trades on the back foot on Friday, easing away even as the Euro (EUR) posts solid gains against the US Dollar (USD). The Japanese currency surged suddenly near the start of the American session after a surprisingly weak United States (US) employment report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600]]></title>
+            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-need-13560-to-unlock-13600-202608071833</link>
+            <guid isPermaLink="false">bffef01c-abbc-452b-b5dc-0efdd93f7f6f</guid>
+            <pubDate>Fri, 07 Aug 2026 18:33:19 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) edges higher by some 0.29% against the US Dollar (USD) on Friday, yet it remains trading sideways, unable to decisively crack 1.3500 after reaching a three-week peak of 1.3509, and has retreated to the 1.3490 area.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Upside risk capped by 1.2790 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-upside-risk-capped-by-12790-against-us-dollar-uob-202608071832</link>
+            <guid isPermaLink="false">bdf380bd-13f8-473d-93b1-75e595181e85</guid>
+            <pubDate>Fri, 07 Aug 2026 18:32:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD has firmed modestly, with the pair closing at 1.2835 after testing both 1.2800 and 1.2840. Short-term momentum now favors a mild upside, though strong resistance at 1.2850 is expected to cap gains.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso hits five-month high on weak US jobs data]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-hits-five-month-high-on-weak-us-jobs-data-202608071807</link>
+            <guid isPermaLink="false">99f388ec-fe7f-4463-940c-0ef15f5dc39c</guid>
+            <pubDate>Fri, 07 Aug 2026 18:07:54 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso (MXN) capitalizes on a weaker US jobs report and soars versus the US Dollar (USD) on Friday as risk appetite improves and the Greenback gets battered on speculation that the Federal Reserve (Fed) might not raise rates in 2026.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[South Korean Won: Intervention risks support KRW against US Dollar – DBS]]></title>
             <link>https://www.fxstreet.com/news/south-korean-won-intervention-risks-support-krw-against-us-dollar-dbs-202608071758</link>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 14:08:55 GMT</pubDate>
             <description><![CDATA[Societe Generale’s Dev Ashish reports that Banxico left its policy rate at 6.50%, signalling an extended pause as inflation hovers near target and real rates sit close to neutral.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Mexico.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: Weak US payrolls fuel breakout above 50-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-weak-us-payrolls-fuel-breakout-above-50-day-sma-202608071404</link>
-            <guid isPermaLink="false">3a35e78b-1d9d-4921-86d4-5aa6f95f8f5d</guid>
-            <pubDate>Fri, 07 Aug 2026 14:04:15 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) jumps nearly 4% on Friday as buying accelerates following a decisive break above the 50-day Simple Moving Average (SMA) near $62. At the time of writing, the grey metal trades around $63.94 after briefly testing the $65 psychological mark.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver: Solar demand headwinds emerge – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/silver-solar-demand-headwinds-emerge-commerzbank-202608071348</link>
-            <guid isPermaLink="false">801107ed-1735-4c44-b3bf-a4f8c5a24e41</guid>
-            <pubDate>Fri, 07 Aug 2026 13:48:18 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Carsten Fritsch notes that the Silver price has surged over 10% this week to USD 63.9 per troy ounce, its highest level since late June, pulling the gold/silver ratio back below 70.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen surges as weak US jobs data questions Fed rate hike expectations]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-surges-as-weak-us-jobs-data-questions-fed-rate-hike-expectations-202608071338</link>
-            <guid isPermaLink="false">8bf5378b-41ca-41a9-bb4c-a973cc3bc466</guid>
-            <pubDate>Fri, 07 Aug 2026 13:38:19 GMT</pubDate>
-            <description><![CDATA[USD/JPY falls toward 157.40 on Friday, down 0.65% on the day at the time of writing, as the US Dollar (USD) comes under heavy selling pressure following a much weaker-than-expected US employment report.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound climbs above 1.3500 after weak US NFP data]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-climbs-above-13500-after-weak-us-nfp-data-202608071328</link>
-            <guid isPermaLink="false">2f9cf1e9-51eb-4918-bdcc-75b302fb9e20</guid>
-            <pubDate>Fri, 07 Aug 2026 13:28:07 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) strengthens against the US Dollar (USD) on Friday after a disappointing US Nonfarm Payrolls report prompts traders to scale back bets on Federal Reserve (Fed) interest-rate hikes. At the time of writing, GBP/USD trades around 1.3506, hovering near three-week highs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro surges as shocking US NFP reverses Fed September hike expectations]]></title>
-            <link>https://www.fxstreet.com/news/euro-surges-as-shocking-us-nfp-reverses-fed-september-hike-expectations-202608071300</link>
-            <guid isPermaLink="false">bd5ad3d2-af76-426b-b244-31fad1d0b45e</guid>
-            <pubDate>Fri, 07 Aug 2026 13:00:06 GMT</pubDate>
-            <description><![CDATA[EUR/USD jumps 0.43% on the day and trades around 1.1570 at the time of writing, as the US Dollar (USD) comes under heavy selling pressure following a much weaker-than-expected US employment report.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: AI profitability doubts grow – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/equities-ai-profitability-doubts-grow-nordea-202608071254</link>
-            <guid isPermaLink="false">a5e0b17c-5468-4032-a6c8-6f0c548ea073</guid>
-            <pubDate>Fri, 07 Aug 2026 12:54:46 GMT</pubDate>
-            <description><![CDATA[Nordea analysts Kirsti Sunde Midttun and Ole Håkon Eek-Nielsen argue that AI profitability faces structural pressure from high inference costs, rapid model depreciation and growing competition from free and open alternatives.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Tech_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
