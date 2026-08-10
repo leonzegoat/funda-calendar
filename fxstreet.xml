@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 18:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 19:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average begins pricing a 2029 war premium]]></title>
+            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-kept-what-payrolls-lost-202608101625</link>
+            <guid isPermaLink="false">6c50c267-2190-43c0-adf2-96084848632e</guid>
+            <pubDate>Mon, 10 Aug 2026 16:25:51 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average trades near 53,900 on Monday, lower by three tenths of a percent and pinned to the bottom of a session that has covered barely 200 points, the narrowest daily bar in weeks. Every price of the day sits inside Friday's range, and Friday's sat inside Thursday's.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/stock-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China: Cost-driven reflation and narrow profit gains – Standard Chartered]]></title>
+            <link>https://www.fxstreet.com/news/china-cost-driven-reflation-and-narrow-profit-gains-standard-chartered-202608101924</link>
+            <guid isPermaLink="false">ed703b04-4bca-4e97-bd18-6d617c071b7d</guid>
+            <pubDate>Mon, 10 Aug 2026 19:24:46 GMT</pubDate>
+            <description><![CDATA[Standard Chartered analysts Carol Liao and Moriarty Lam argue that China’s reflation remains largely cost-driven, with industrial profit recovery concentrated in AI- and oil-related sectors. They highlight that domestic demand continues to lag supply, creating a persistent imbalance.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: Weak payrolls and softer retail sales – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/united-states-weak-payrolls-and-softer-retail-sales-td-securities-202608101847</link>
+            <guid isPermaLink="false">9075f45a-fafb-49f8-a0f0-2ec1d0786fde</guid>
+            <pubDate>Mon, 10 Aug 2026 18:47:57 GMT</pubDate>
+            <description><![CDATA[TD Securities notes July payrolls surprised sharply to the downside, with headline jobs dragged by government hiring, while private employment stayed near breakeven.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso rally pauses ahead of US inflation report]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-rally-pauses-ahead-of-us-inflation-report-202608101836</link>
+            <guid isPermaLink="false">8c43676a-cb35-4252-89fa-5d97d55c371d</guid>
+            <pubDate>Mon, 10 Aug 2026 18:36:23 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso (MXN) loses some ground against the US Dollar (USD) on Monday as traders book profits after a worse-than-expected US jobs report last week and as eyes turn to the release of US inflation figures on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bullandbear-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WTI jumps over 6% as Strait of Hormuz reopening remains uncertain]]></title>
             <link>https://www.fxstreet.com/news/wti-jumps-over-6-as-strait-of-hormuz-reopening-remains-uncertain-202608101822</link>
@@ -62,14 +94,6 @@
             <pubDate>Mon, 10 Aug 2026 16:44:45 GMT</pubDate>
             <description><![CDATA[The Canadian Dollar trades at its strongest against the US Dollar since the second week of June, with the rate holding just above 1.3900 into the afternoon.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dow Jones Industrial Average kept what payrolls lost]]></title>
-            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-kept-what-payrolls-lost-202608101625</link>
-            <guid isPermaLink="false">6c50c267-2190-43c0-adf2-96084848632e</guid>
-            <pubDate>Mon, 10 Aug 2026 16:25:51 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average trades near 54,000 on Monday, lower by a tenth of a percent inside a range of barely 200 points, the narrowest daily bar in weeks. Every price of the session sits inside Friday's range, and Friday's sat inside Thursday's.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[British Pound climbs as Hormuz talks stall, US CPI in focus]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 13:19:46 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that JPY is underperforming as firmer Oil prices support USD/JPY, while the Bank of Japan's (BoJ) latest meeting minutes did little to shift rate expectations.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Weak China imports contrast with bullish positioning - ING]]></title>
-            <link>https://www.fxstreet.com/news/copper-weak-china-imports-contrast-with-bullish-positioning-ing-202608101308</link>
-            <guid isPermaLink="false">ea19233e-0116-48e6-a2e1-2e2ad2ed00bd</guid>
-            <pubDate>Mon, 10 Aug 2026 13:08:11 GMT</pubDate>
-            <description><![CDATA[ING strategists Ewa Manthey and Warren Patterson highlight that China’s latest trade data show continued weakness in copper imports, with unwrought volumes down 11.5% year-on-year and concentrate flows also softer.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Higher hurdle for sustained gains – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-higher-hurdle-for-sustained-gains-mufg-202608101258</link>
-            <guid isPermaLink="false">32ef4342-d703-4a78-bd1c-4979e35c6fe9</guid>
-            <pubDate>Mon, 10 Aug 2026 12:58:00 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny notes that weaker US jobs data have not triggered a strong reaction in Dollar or rates, as markets await key Consumer Price Index (CPI) releases and another Nonfarm Payrolls (NFP) before the September Federal Open Market Committee (FOMC).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Modest upside bias against US Dollar as Fed repricing – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/euro-modest-upside-bias-against-us-dollar-as-fed-repricing-rabobank-202608101249</link>
-            <guid isPermaLink="false">d36df7d2-369c-4941-93dc-481bd0dd6e1d</guid>
-            <pubDate>Mon, 10 Aug 2026 12:49:43 GMT</pubDate>
-            <description><![CDATA[Rabıobank's Senior FX Strategist Jane Foley discusses recent EUR/USD strength, noting it was mainly driven by a softer Dollar after weak United States (US) labour data reduced Federal Reserve (Fed) rate hike expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
