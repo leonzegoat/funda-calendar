@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 22:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 22:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: 100-day SMA caps Euro recovery]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-100-day-sma-caps-euro-recovery-202608102238</link>
+            <guid isPermaLink="false">1b9c64e9-e69b-4e55-81a8-d43d41d5c825</guid>
+            <pubDate>Mon, 10 Aug 2026 22:38:05 GMT</pubDate>
+            <description><![CDATA[The Euro is poised to end Monday’s session with losses of about 0.13% against the Greenback, as recent news points to a delay in talks between the US and Iran, while, from a technical perspective, EUR/USD stalled at the 100-day Simple Moving Average (SMA) near 1.1568.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed's Hammack calls for rate hikes, says policy not restrictive enough]]></title>
+            <link>https://www.fxstreet.com/news/fed-hammack-calls-for-rate-hikes-says-policy-not-restrictive-enough-202608102225</link>
+            <guid isPermaLink="false">573ba770-e6b9-4c86-8838-6f312c512546</guid>
+            <pubDate>Mon, 10 Aug 2026 22:25:14 GMT</pubDate>
+            <description><![CDATA[Cleveland Fed President Beth Hammack crossed the wires on Monday and was hawkish, noting that the current rate is not “meaningfully restricting the economy” and that there is a need for some number of rate hikes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Treasury yields climb as Oil spike revives CPI jitters]]></title>
+            <link>https://www.fxstreet.com/news/us-treasury-yields-climb-as-oil-spike-revives-cpi-jitters-202608102215</link>
+            <guid isPermaLink="false">fe0a97c7-77cb-4e20-85e3-4b830eb20e8f</guid>
+            <pubDate>Mon, 10 Aug 2026 22:15:54 GMT</pubDate>
+            <description><![CDATA[US Treasury yields rose on Monday as traders braced for the release of US inflation figures this week, following a worse-than-expected Nonfarm Payrolls report last Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Citi Mexico Survey expects Banxico hold, USD/MXN ending 2026 at 17.90]]></title>
             <link>https://www.fxstreet.com/news/citi-mexico-survey-sees-banxico-hold-usd-mxn-ending-2026-at-1790-202608102126</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 14:09:33 GMT</pubDate>
             <description><![CDATA[BNY’s Wee Khoon Chong notes that the US Dollar (USD) has been the weakest G10 currency on iFlow metrics as markets scale back expectations for a September Fed hike.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Softer CPI may unlock 1.1600 against US Dollar – ING]]></title>
-            <link>https://www.fxstreet.com/news/euro-softer-cpi-may-unlock-11600-against-us-dollar-ing-202608101358</link>
-            <guid isPermaLink="false">eb3472a5-8ee4-40fa-b10d-5a9a5e4991fb</guid>
-            <pubDate>Mon, 10 Aug 2026 13:58:37 GMT</pubDate>
-            <description><![CDATA[ING’s Francesco Pesole notes that with key Eurozone data behind and European Central Bank (ECB) communication subdued, EUR/USD is now driven mainly by the United States (US) side.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound rises against Japanese Yen as intervention impact fades]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-rises-against-japanese-yen-as-intervention-impact-fades-202608101349</link>
-            <guid isPermaLink="false">06d4fff7-cd61-43ef-83ea-b676d1cfcce4</guid>
-            <pubDate>Mon, 10 Aug 2026 13:49:54 GMT</pubDate>
-            <description><![CDATA[GBP/JPY edges higher on Monday as the Japanese Yen (JPY) underperforms across the G10 currency space, with structural headwinds limiting the impact of recent intervention. At the time of writing, the cross trades around 214.70, up 0.85% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungarian Forint: Recovery against Euro may resume – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/hungarian-forint-recovery-against-euro-may-resume-commerzbank-202608101347</link>
-            <guid isPermaLink="false">73048aa5-f032-4c0c-a010-8c4b6415b1e8</guid>
-            <pubDate>Mon, 10 Aug 2026 13:47:34 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose notes that the Hungarian Forint (HUF) has only partially retraced its post-election gains and is expected to recover if global risk conditions stabilise, with EUR/HUF seen returning towards 350–355 in coming months.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
