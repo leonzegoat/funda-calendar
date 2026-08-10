@@ -4,9 +4,113 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 11:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 13:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen: Rate spread outlook favors JPY against US Dollar – BBH]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-rate-spread-outlook-favors-jpy-against-us-dollar-bbh-202608101319</link>
+            <guid isPermaLink="false">228ea1a5-275d-478c-8164-6116dcfaa691</guid>
+            <pubDate>Mon, 10 Aug 2026 13:19:46 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that JPY is underperforming as firmer Oil prices support USD/JPY, while the Bank of Japan's (BoJ) latest meeting minutes did little to shift rate expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold holds firm as Fed rate outlook, Middle East developments remain in focus]]></title>
+            <link>https://www.fxstreet.com/news/gold-holds-firm-as-fed-rate-outlook-middle-east-developments-remain-in-focus-202608101127</link>
+            <guid isPermaLink="false">947b441c-09d4-420e-9315-b977fc5d039a</guid>
+            <pubDate>Mon, 10 Aug 2026 11:27:31 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) struggles to extend gains on Monday as buyers take a breather following last week’s sharp rally, with the broader market theme still centred on the Federal Reserve’s (Fed) interest-rate outlook and developments in the Middle East.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Copper: Weak China imports contrast with bullish positioning - ING]]></title>
+            <link>https://www.fxstreet.com/news/copper-weak-china-imports-contrast-with-bullish-positioning-ing-202608101308</link>
+            <guid isPermaLink="false">ea19233e-0116-48e6-a2e1-2e2ad2ed00bd</guid>
+            <pubDate>Mon, 10 Aug 2026 13:08:11 GMT</pubDate>
+            <description><![CDATA[ING strategists Ewa Manthey and Warren Patterson highlight that China’s latest trade data show continued weakness in copper imports, with unwrought volumes down 11.5% year-on-year and concentrate flows also softer.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Higher hurdle for sustained gains – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-higher-hurdle-for-sustained-gains-mufg-202608101258</link>
+            <guid isPermaLink="false">32ef4342-d703-4a78-bd1c-4979e35c6fe9</guid>
+            <pubDate>Mon, 10 Aug 2026 12:58:00 GMT</pubDate>
+            <description><![CDATA[MUFG’s Derek Halpenny notes that weaker US jobs data have not triggered a strong reaction in Dollar or rates, as markets await key Consumer Price Index (CPI) releases and another Nonfarm Payrolls (NFP) before the September Federal Open Market Committee (FOMC).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Modest upside bias against US Dollar as Fed repricing – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/euro-modest-upside-bias-against-us-dollar-as-fed-repricing-rabobank-202608101249</link>
+            <guid isPermaLink="false">d36df7d2-369c-4941-93dc-481bd0dd6e1d</guid>
+            <pubDate>Mon, 10 Aug 2026 12:49:43 GMT</pubDate>
+            <description><![CDATA[Rabıobank's Senior FX Strategist Jane Foley discusses recent EUR/USD strength, noting it was mainly driven by a softer Dollar after weak United States (US) labour data reduced Federal Reserve (Fed) rate hike expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: RBA policy pause maintained – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rba-policy-pause-maintained-td-securities-202608101238</link>
+            <guid isPermaLink="false">4d7a3933-1edd-4ef1-a2bc-de2bddedcadb</guid>
+            <pubDate>Mon, 10 Aug 2026 12:38:54 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists expect the Reserve Bank of Australia (RBA) to leave the cash rate unchanged at 4.35%, noting that policy is already restrictive and that Australian activity, particularly housing, is slowing in response to earlier hikes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: BoJ tightening risks support JPY – BNY]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-boj-tightening-risks-support-jpy-bny-202608101230</link>
+            <guid isPermaLink="false">d9fe6423-8618-49be-b43f-c3db5e1461f9</guid>
+            <pubDate>Mon, 10 Aug 2026 12:30:34 GMT</pubDate>
+            <description><![CDATA[BNY’s Wee Khoon Chong highlights that long-end JGB yields are rising on inflation and fiscal concerns, with markets pricing a roughly 50% chance of a 25bp BoJ hike in September and a full hike by year-end.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Strait risk and cautious positioning – ING]]></title>
+            <link>https://www.fxstreet.com/news/oil-strait-risk-and-cautious-positioning-ing-202608101220</link>
+            <guid isPermaLink="false">45d91e52-ac07-4e2a-8b99-cc5e1bb04f62</guid>
+            <pubDate>Mon, 10 Aug 2026 12:20:19 GMT</pubDate>
+            <description><![CDATA[ING analysts Ewa Manthey and Warren Patterson note that Oil prices remain supported by uncertainty around the Strait of Hormuz as US-Iran negotiations continue.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver tests $65: Why are buyers struggling to extend the rally?]]></title>
+            <link>https://www.fxstreet.com/news/silver-tests-65-why-are-buyers-struggling-to-extend-the-rally-202608101217</link>
+            <guid isPermaLink="false">fe45eda2-501c-469b-b448-e32fc9a4124c</guid>
+            <pubDate>Mon, 10 Aug 2026 12:17:09 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) struggles to extend its gains on Monday following last week’s strong breakout as traders assess the Federal Reserve’s (Fed) interest rate outlook amid risks on both sides of its dual mandate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norwegian Krone: Rate hike odds slashed after soft inflation – BBH]]></title>
+            <link>https://www.fxstreet.com/news/norwegian-krone-rate-hike-odds-slashed-after-soft-inflation-bbh-202608101208</link>
+            <guid isPermaLink="false">bfe3b9fd-baea-4a71-8ea1-165f2f0f3cf6</guid>
+            <pubDate>Mon, 10 Aug 2026 12:08:01 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that Norwegian Krone (NOK) is trading mixed as firmer Oil offsets the drag from reduced Norges Bank tightening expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar steadies, caught between risk aversion, rebounding Oil prices]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-steadies-caught-between-risk-aversion-rebounding-oil-prices-202608101203</link>
+            <guid isPermaLink="false">4127d0e8-d369-4171-98ad-ed5a18512023</guid>
+            <pubDate>Mon, 10 Aug 2026 12:03:23 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades around 1.3940 on Monday at the time of writing, virtually unchanged on the day after falling sharply on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Fed pricing shifts with softer data – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-fed-pricing-shifts-with-softer-data-deutsche-bank-202608101158</link>
+            <guid isPermaLink="false">d323a7f6-5eed-4241-92da-8f77efa5e759</guid>
+            <pubDate>Mon, 10 Aug 2026 11:58:26 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank strategists note that Friday’s mixed United States (US) Nonfarm Payrolls (NFP) report led to a notable repricing of September Federal Open Market Committee (FOMC) odds, with futures-implied probability of a hike falling to 44%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar approaches two-month highs at 0.7088 with RBA decision on tap]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-approaches-two-month-highs-at-07088-with-rba-decision-on-tap-202608101155</link>
+            <guid isPermaLink="false">bb428f14-4a2d-4c44-bbe4-002c166ccfb6</guid>
+            <pubDate>Mon, 10 Aug 2026 11:55:00 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) holds gains, in the mid-range of the 0.7000s against the US Dollar (USD) on Monday, with two-month highs of 0.7088 at hand. The Aussie is capitalising on the US Dollar’s weakness, as hopes of Federal Reserve (Fed) rate hikes wane.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EUR/USD Price Forecast: On verge of downward-trendline breakout]]></title>
             <link>https://www.fxstreet.com/news/eur-usd-price-forecast-on-verge-of-downward-trendline-breakout-202608101146</link>
@@ -30,14 +134,6 @@
             <pubDate>Mon, 10 Aug 2026 11:37:23 GMT</pubDate>
             <description><![CDATA[Societe Generale analysts Michael Haigh and Jeremy Sellem argue that Copper has shifted into a policy-driven trade as Section 232 tariffs reshape the COMEX-LME arbitrage.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold holds firm as Fed rate outlook, Middle East developments remain in focus]]></title>
-            <link>https://www.fxstreet.com/news/gold-holds-firm-as-fed-rate-outlook-middle-east-developments-remain-in-focus-202608101127</link>
-            <guid isPermaLink="false">947b441c-09d4-420e-9315-b977fc5d039a</guid>
-            <pubDate>Mon, 10 Aug 2026 11:27:31 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) holds firm on Monday as buyers take a breather following last week’s sharp rally, with the broader market theme still centred on the Federal Reserve’s (Fed) interest-rate outlook and developments in the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Japanese Yen underperforms on surprising current account deficit]]></title>
@@ -150,102 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 09:13:36 GMT</pubDate>
             <description><![CDATA[Deutsche Bank strategists highlight that negotiations between Iran and Oman over a new shipping framework through the Strait of Hormuz remain finely balanced, with Tehran linking any lasting arrangement to broader demands on the US.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar stalls below 0.5900 as US Dollar regains safe-haven appeal]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-stalls-below-05900-as-us-dollar-regains-safe-haven-appeal-202608100906</link>
-            <guid isPermaLink="false">a26a7eab-4b86-4e42-b7ea-f8b1406cfbc7</guid>
-            <pubDate>Mon, 10 Aug 2026 09:06:39 GMT</pubDate>
-            <description><![CDATA[NZD/USD trades around 0.5895 on Monday at the time of writing, virtually unchanged on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Romanian Leu: Rating relief but NBR stays cautious – ING]]></title>
-            <link>https://www.fxstreet.com/news/romanian-leu-rating-relief-but-nbr-stays-cautious-ing-202608100904</link>
-            <guid isPermaLink="false">c6c86b80-941d-4169-8a92-0d0c7209cb59</guid>
-            <pubDate>Mon, 10 Aug 2026 09:04:42 GMT</pubDate>
-            <description><![CDATA[ING’s Frantisek Taborsky says Romania’s unchanged Baa3 rating at Moody’s and prior Fitch decision should ease pressure after recent ROMGBs underperformance.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Romania.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro advances against Canadian Dollar as Eurozone Investor Confidence rises in August]]></title>
-            <link>https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-as-eurozone-investor-confidence-rises-in-august-202608100901</link>
-            <guid isPermaLink="false">994c8d85-418c-4db5-be17-d362a56c3234</guid>
-            <pubDate>Mon, 10 Aug 2026 09:01:20 GMT</pubDate>
-            <description><![CDATA[EUR/CAD inches higher after three days of losses, trading around 1.6120 during the European hours on Monday. The currency cross is holding its ground, driven primarily by a resilient Euro (EUR) following positive Eurozone economic sentiment.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds gains near seven-week highs as economic sentiment improves]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-gains-near-seven-week-highs-as-economic-sentiment-improves-202608100901</link>
-            <guid isPermaLink="false">f6d3f047-5451-420d-bb63-3decda256797</guid>
-            <pubDate>Mon, 10 Aug 2026 09:01:05 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) ticks higher against a softer US Dollar (USD) on Monday, with the EUR/USD pair trading at the 1.1560 area at the time of writing, consolidating gains a few pips below seven-week highs at 1.1773.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Struggles below 0.8100 as bears eye 50-SMA pivotal support]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-struggles-below-08100-as-bears-eye-50-sma-pivotal-support-202608100859</link>
-            <guid isPermaLink="false">f90e0747-7994-4a50-88df-024e0cc44da0</guid>
-            <pubDate>Mon, 10 Aug 2026 08:59:04 GMT</pubDate>
-            <description><![CDATA[The USD/CHF pair struggles to attract any meaningful buyers and remains on the back foot below the 0.8100 mark through the first half of the European session on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Intervention faces persistent rate gap – HSBC]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-intervention-faces-persistent-rate-gap-hsbc-202608100849</link>
-            <guid isPermaLink="false">868d548c-13b7-4d5e-8b3d-73d353faaa8f</guid>
-            <pubDate>Mon, 10 Aug 2026 08:49:33 GMT</pubDate>
-            <description><![CDATA[HSBC Asset Management reviews recent coordinated intervention by Japanese and US authorities to support the Japanese Yen, recalling the sharp carry-trade unwind during the previous episode two years ago.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI comes off from day’s high as investors seeks clarity on Hormuz reopening]]></title>
-            <link>https://www.fxstreet.com/news/wti-comes-off-from-days-high-as-investors-seeks-clarity-on-hormuz-reopening-202608100849</link>
-            <guid isPermaLink="false">d88df6b7-f4a4-43aa-8727-2a1f362e86d1</guid>
-            <pubDate>Mon, 10 Aug 2026 08:49:22 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, gives back some of its early gains, but it still 1.6% higher at around $77.55 during the European trading session on Monday. The oil price retreats from its day’s high as fears of a prolonged global energy supply disruption have escalated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Softer labour data shifts Fed outlook – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-softer-labour-data-shifts-fed-outlook-societe-generale-202608100837</link>
-            <guid isPermaLink="false">596c0e5a-1bd4-48c1-8838-343e3f7c7fa2</guid>
-            <pubDate>Mon, 10 Aug 2026 08:37:32 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Kenneth Broux reports that weaker US employment data and downward revisions have sharply reduced expectations for a September Fed hike, though one move remains priced for December.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eurozone Sentix Investor Confidence turns positive to 0.9 in August]]></title>
-            <link>https://www.fxstreet.com/news/eurozone-sentix-investor-confidence-turns-positive-to-09-in-august-202608100831</link>
-            <guid isPermaLink="false">336a6048-f235-4da1-90f8-d93fb00cc42d</guid>
-            <pubDate>Mon, 10 Aug 2026 08:31:26 GMT</pubDate>
-            <description><![CDATA[Eurozone’s Sentix Investor Confidence data, a key indicator of Investor morale, turns positive to 0.9 in August, the first time in five months. The sentiment data turned negative in March when the Middle East war started. The data also improved to -3.1 in July.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow futures remain steady amid rising oil, diminishing Fed cut odds]]></title>
-            <link>https://www.fxstreet.com/news/dow-futures-remain-steady-amid-rising-oil-diminishing-fed-cut-odds-202608100830</link>
-            <guid isPermaLink="false">7e49f13e-d366-4790-935d-6c941519e034</guid>
-            <pubDate>Mon, 10 Aug 2026 08:30:49 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures are steady around 54,150 during European hours on Monday. Meanwhile, S&P 500 futures gain 0.16% to trade near 7,790 and Nasdaq 100 futures gain 0.39%, trading near 29,950.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_DJI-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold bulls seem hesitant near $4,350 as Iran risks and Fed hike bets support USD]]></title>
-            <link>https://www.fxstreet.com/news/gold-retreats-from-june-17-highest-amid-usd-uptick-holds-above-4-300-pivotal-support-202608100229</link>
-            <guid isPermaLink="false">6a7de4e6-5565-41b6-b34c-072f0379d492</guid>
-            <pubDate>Mon, 10 Aug 2026 02:29:47 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) climbs above $4,350, hitting a fresh high during the first half of the European session on Monday, though it remains below the highest level since June 17, set on Friday in reaction to the US Nonfarm Payrolls (NFP) report.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA set to hold amid inflation risks - BNY]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-set-to-hold-amid-inflation-risks-bny-202608100817</link>
-            <guid isPermaLink="false">567cabca-06ec-438f-b5a0-cd2a1b3fde02</guid>
-            <pubDate>Mon, 10 Aug 2026 08:17:14 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu and David Tam expect the Reserve Bank of Australia (RBA) to keep rates unchanged at 4.35%, noting that markets doubt its willingness to hike despite persistent inflation and robust labor and spending data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-aud.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
