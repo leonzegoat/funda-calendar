@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 09:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 10:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[British Pound tests 1.3500 as US Dollar struggles to shake off NFP shock]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-tests-13500-as-us-dollar-struggles-to-shake-off-nfp-shock-202608101027</link>
+            <guid isPermaLink="false">93b019da-7ae7-451e-b4ad-78e7cae95fa7</guid>
+            <pubDate>Mon, 10 Aug 2026 10:27:18 GMT</pubDate>
+            <description><![CDATA[GBP/USD trades around 1.3495 on Monday at the time of writing, up a modest 0.04% on the day. However, the pair struggles to hold firmly above the psychological 1.3500 level after benefiting on Friday from a decline in the US Dollar (USD) triggered by disappointing United States (US) employment data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norwegian Krone: Policy hold guidance in focus – Nomura]]></title>
+            <link>https://www.fxstreet.com/news/norwegian-krone-policy-hold-guidance-in-focus-nomura-202608101006</link>
+            <guid isPermaLink="false">6f905c95-e52d-417e-8971-d4b0c6493e20</guid>
+            <pubDate>Mon, 10 Aug 2026 10:06:57 GMT</pubDate>
+            <description><![CDATA[Nomura’s Josie Anderson, George Buckley and Andrzej Szczepaniak expect Norges Bank to keep its policy rate at 4.25% at the August meeting, citing softer underlying inflation and benign domestic data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[CEE FX: Data-heavy week under global pressure – ING]]></title>
+            <link>https://www.fxstreet.com/news/cee-fx-data-heavy-week-under-global-pressure-ing-202608100954</link>
+            <guid isPermaLink="false">47f66e13-d7b7-4423-bb39-22f910765d8d</guid>
+            <pubDate>Mon, 10 Aug 2026 09:54:06 GMT</pubDate>
+            <description><![CDATA[ING’s Frantisek Taborsky highlights a busy Central and Eastern Europe calendar with Czech inflation, Turkey’s inflation report and key Polish data, including GDP and core inflation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CEE3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Fed repricing supports gains against US Dollar – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/euro-fed-repricing-supports-gains-against-us-dollar-societe-generale-202608100944</link>
+            <guid isPermaLink="false">29a3b965-2699-4e4c-b40f-d3b909837a87</guid>
+            <pubDate>Mon, 10 Aug 2026 09:44:23 GMT</pubDate>
+            <description><![CDATA[Societe Generale strategists highlight that EUR/USD has squeezed above key resistance as Dollar weakness follows softer United States (US) employment data and reduced odds of a September Fed hike. The pair is seen slightly expensive versus nat gas but near fair value on 2-year spreads.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar: Hawkish RBA hold supports carry – BBH]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-hawkish-rba-hold-supports-carry-bbh-202608100935</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 07:14:33 GMT</pubDate>
             <description><![CDATA[Deutsche Bank strategists report that falling energy prices and softer Federal Reserve (Fed) expectations helped push the S&P 500 and other major equity indices to new record highs last week.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro dips further against the British Pound, weighed by higher Oil prices]]></title>
-            <link>https://www.fxstreet.com/news/euro-dips-further-against-the-british-pound-hit-by-higher-oil-prices-202608100712</link>
-            <guid isPermaLink="false">7e8d7128-4a04-4418-a97a-edd43f585877</guid>
-            <pubDate>Mon, 10 Aug 2026 07:12:11 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) posts mild losses against the British Pound (GBP) on Monday, with the EUR/GBP pair testing Friday’s lows at 0.8560, as the situation in the Middle East muddles and Crude prices tick up, adding pressure on the Eurozone’s Oil-importing economies.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar weakens as US Dollar strengthens on rising risk aversion]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-weakens-as-us-dollar-strengthens-on-rising-risk-aversion-202608100709</link>
-            <guid isPermaLink="false">53577c33-c1ea-4853-abc1-2f06bddab298</guid>
-            <pubDate>Mon, 10 Aug 2026 07:09:26 GMT</pubDate>
-            <description><![CDATA[USD/CAD gains ground after registering over 0.5% losses in the previous day, trading around 1.3950 during the early European hours on Monday. The pair gains ground as the US Dollar (USD) strengthens on rising safe-haven demand, driven by heightened geopolitical caution.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Intervention credibility questioned – BNY]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-intervention-credibility-questioned-bny-202608100703</link>
-            <guid isPermaLink="false">4009fadf-b2ce-4f61-a51f-fe5ff4e18cc3</guid>
-            <pubDate>Mon, 10 Aug 2026 07:03:00 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu and David Tam highlight that USD/JPY is grinding higher again after Japan’s recent intervention, with the Japanese Yen (JPY) having already surrendered much of its gains.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: Post-NFP US Dollar selloff pauses]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-post-nfp-us-dollar-selloff-pauses-202608100651</link>
-            <guid isPermaLink="false">974bab62-e962-4646-bc0c-ab01a5ab7763</guid>
-            <pubDate>Mon, 10 Aug 2026 06:51:15 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Monday, August 10:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
