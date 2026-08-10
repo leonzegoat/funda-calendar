@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 09 Aug 2026 23:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 02:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen comes under pressure as BoJ division, narrowing surplus]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-comes-under-pressure-as-boj-division-narrowing-surplus-202608100202</link>
+            <guid isPermaLink="false">8c1a2305-bdaa-4ea2-83a0-4eae5ab72896</guid>
+            <pubDate>Mon, 10 Aug 2026 02:02:06 GMT</pubDate>
+            <description><![CDATA[USD/JPY gains ground after registering modest losses in the previous day, trading around 158.20 during the Asian hours on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound moves away from multi-week top as Hormuz risks support USD]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-moves-away-from-multi-week-top-as-hormuz-risks-support-usd-202608100159</link>
+            <guid isPermaLink="false">0c1d3c31-3b5f-417c-9886-dd57f6529502</guid>
+            <pubDate>Mon, 10 Aug 2026 01:59:27 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair edges lower at the start of a new week and moves further away from an over three-week high, or levels just above the 1.3500 psychological mark touched on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro consolidates below its highest level since June 17 as Mideast tensions support USD]]></title>
+            <link>https://www.fxstreet.com/news/euro-consolidates-below-its-highest-level-since-june-17-as-mideast-tensions-support-usd-202608100135</link>
+            <guid isPermaLink="false">8b2c75cd-a30e-4e19-b0e7-5b40641afe44</guid>
+            <pubDate>Mon, 10 Aug 2026 01:35:29 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair kicks off the new week on a subdued note and trades just above 1.1550 during the Asian session, well within striking distance of a fresh high since June 17, touched in reaction to the disappointing US jobs data on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hormuz tensions escalate as unconfirmed missile attack amid fragile US-Iran talks]]></title>
+            <link>https://www.fxstreet.com/news/hormuz-tensions-escalate-as-unconfirmed-missile-attack-amid-fragile-us-iran-talks-202608100117</link>
+            <guid isPermaLink="false">f80c2cae-c4eb-4e00-820e-ee5166513aa6</guid>
+            <pubDate>Mon, 10 Aug 2026 01:17:03 GMT</pubDate>
+            <description><![CDATA[The ongoing US-Iran conflict has entered a crucial diplomatic phase, with intense fighting and strategic pressure around the vital Strait of Hormuz continuing to drive the dynamic of the war.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/israel-iran-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7884 vs. 6.7904 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67884-vs-67904-previous-202608100115</link>
+            <guid isPermaLink="false">6409a423-e2e4-4e04-a85f-c507d6d2bb50</guid>
+            <pubDate>Mon, 10 Aug 2026 01:15:37 GMT</pubDate>
+            <description><![CDATA[On Monday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7884 compared to Friday's fix of 6.7904 and 6.7379 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BoJ Summary of Opinions: Board split on pace of rate hikes amid inflation risk]]></title>
+            <link>https://www.fxstreet.com/news/boj-summary-of-opinions-board-split-on-pace-of-rate-hikes-amid-inflation-risk-202608100055</link>
+            <guid isPermaLink="false">c28e9342-da3d-4634-8e0c-cdbf060792d9</guid>
+            <pubDate>Mon, 10 Aug 2026 00:55:12 GMT</pubDate>
+            <description><![CDATA[The Bank of Japan (BoJ) published the Summary of Opinions from the July 30-31 monetary policy meeting, which showed a split between members wanting to hold rates to assess the impact of the last rate hike and others pushing to continue or accelerate tightening. Key findings noted below.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI rises to near $79.50 amid uncertainty over reopening Strait of Hormuz]]></title>
+            <link>https://www.fxstreet.com/news/wti-slips-below-7650-despite-uncertainty-over-reopening-strait-of-hormuz-202608100048</link>
+            <guid isPermaLink="false">29ea617a-fb66-40bd-850a-7a8bbd0d99f6</guid>
+            <pubDate>Mon, 10 Aug 2026 00:48:20 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price gains ground after registering nearly 1.5% losses in the previous trading day, hovering around $79.40 per barrel during the Asian hours on Monday. Crude oil prices advance as persistent uncertainty surrounds efforts to reopen the critical Strait of Hormuz.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[China: Credit demand and liquidity trends – DBS]]></title>
             <link>https://www.fxstreet.com/news/china-credit-demand-and-liquidity-trends-dbs-202608072151</link>
@@ -190,62 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 15:34:16 GMT</pubDate>
             <description><![CDATA[The New York Fed Survey of Consumer Expectations shows that households’ inflation expectations decreased slightly over the short-term horizon and remained unchanged at the medium and longer-term horizons. One-year inflation expectations eased from 3.7% in June to 3.6% in July ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Natural Gas: Higher price forecasts on LNG squeeze – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/natural-gas-higher-price-forecasts-on-lng-squeeze-commerzbank-202608071534</link>
-            <guid isPermaLink="false">77824ecc-ed1c-49cc-8768-cc8a3cbe233f</guid>
-            <pubDate>Fri, 07 Aug 2026 15:34:14 GMT</pubDate>
-            <description><![CDATA[Norman Liebke at Commerzbank has revised Gas and German power price forecasts higher, citing tighter European storage, increased reliance on LNG and structural constraints on Qatari exports. The phase-out of Russian Gas from 2027 adds upside risk.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Payrolls-driven consolidation as CPI looms – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-payrolls-driven-consolidation-as-cpi-looms-td-securities-202608071525</link>
-            <guid isPermaLink="false">cc57c848-1550-4eea-b638-0faff56f5235</guid>
-            <pubDate>Fri, 07 Aug 2026 15:25:33 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists note that the US Dollar (USD) weakened after the disappointing July Payrolls report, but see limited downside against G10 currencies unless softer US inflation further reduces Fed hike expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold heads for best week since January after disappointing NFP]]></title>
-            <link>https://www.fxstreet.com/news/gold-rises-above-4-300-as-traders-brace-for-us-nonfarm-payrolls-202608071121</link>
-            <guid isPermaLink="false">178b7ca7-126e-4b3a-8869-53d363b40912</guid>
-            <pubDate>Fri, 07 Aug 2026 11:21:15 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its recovery on Friday as weaker-than-expected US payroll growth weighs on the US Dollar (USD) and US Treasury yields. At the time of writing, XAU/USD trades around $4,356 after hitting $4,371, its highest level since June 17.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Fed focus shifts to jobs – ABN AMRO]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-fed-focus-shifts-to-jobs-abn-amro-202608071515</link>
-            <guid isPermaLink="false">5e8bf166-af0b-4fc7-840b-7aee6c913b7e</guid>
-            <pubDate>Fri, 07 Aug 2026 15:15:41 GMT</pubDate>
-            <description><![CDATA[ABN AMRO’s Chief Economist Nick Kounis highlights renewed US labour market weakness, with Nonfarm Payrolls falling and household employment data softening. He notes the unemployment rate declined as labour force participation dropped to multi-decade lows, signalling cyclical weakness.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc gains against US Dollar after surprise decline in US payrolls]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-gains-against-us-dollar-after-surprise-decline-in-us-payrolls-202608071513</link>
-            <guid isPermaLink="false">0d449da4-8bb2-4c54-8c3c-54292871418a</guid>
-            <pubDate>Fri, 07 Aug 2026 15:13:16 GMT</pubDate>
-            <description><![CDATA[USD/CHF edges lower on Friday, erasing most of the previous day’s gains as the US Dollar (USD) weakens following a downside surprise in the US Nonfarm Payrolls (NFP) report. At the time of writing, the pair trades around 0.8080, down 0.53% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: Labour market resilience supports cautious Bank of Canada – NBC]]></title>
-            <link>https://www.fxstreet.com/news/canada-labour-market-resilience-supports-cautious-bank-of-canada-nbc-202608071507</link>
-            <guid isPermaLink="false">2f21ba20-1ef9-426a-a2b1-667748c2569a</guid>
-            <pubDate>Fri, 07 Aug 2026 15:07:07 GMT</pubDate>
-            <description><![CDATA[National Bank of Canada (NBC) economists Matthieu Arseneau and Alexandra Ducharme highlight robust Canadian labour data for July, with 75.1K jobs added, a lower unemployment rate and stronger private-sector hiring.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Discretionary demand keeps bulls in control - TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-discretionary-demand-keeps-bulls-in-control-td-securities-202608071458</link>
-            <guid isPermaLink="false">571aa701-42bc-4022-84ba-ec53f95201f0</guid>
-            <pubDate>Fri, 07 Aug 2026 14:58:39 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists Ryan McKay and Bart Melek highlight that strong discretionary and Asian buying is supporting Gold, even as CTA (Commodity Trading Advisors) positioning has plateaued.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
