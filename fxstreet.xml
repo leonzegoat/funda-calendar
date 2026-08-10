@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 14:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 15:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eurozone: Resilient data but growth risks weigh on Euro – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/eurozone-resilient-data-but-growth-risks-weigh-on-euro-rabobank-202608101457</link>
+            <guid isPermaLink="false">2e52d8fb-f8cc-4ef1-a80f-77c743e40568</guid>
+            <pubDate>Mon, 10 Aug 2026 14:57:52 GMT</pubDate>
+            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley notes Eurozone Q2 Gross Domestic Product (GDP) and Purchasing Managers' Index (PMI) data surprised to the upside, suggesting resilience despite higher energy prices and supply disruptions.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar stays flat ahead of RBA rate decision]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-stays-flat-ahead-of-rba-rate-decision-202608101457</link>
+            <guid isPermaLink="false">fa3fb277-06b3-487a-925d-5991b495b3d8</guid>
+            <pubDate>Mon, 10 Aug 2026 14:57:27 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) trades near the 0.7060 level against the US Dollar (USD) on Monday, giving back a little ground after six straight weeks of gains. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold holds firm as Fed rate outlook, Middle East developments remain in focus]]></title>
+            <link>https://www.fxstreet.com/news/gold-holds-firm-as-fed-rate-outlook-middle-east-developments-remain-in-focus-202608101127</link>
+            <guid isPermaLink="false">947b441c-09d4-420e-9315-b977fc5d039a</guid>
+            <pubDate>Mon, 10 Aug 2026 11:27:31 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) struggles to extend gains on Monday as buyers take a breather following last week’s sharp rally, with the broader market theme still centred on the Federal Reserve’s (Fed) interest-rate outlook and developments in the Middle East.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro holds ground against US Dollar amid Fed uncertainty ahead of US CPI]]></title>
+            <link>https://www.fxstreet.com/news/euro-holds-ground-against-us-dollar-amid-fed-uncertainty-ahead-of-us-cpi-202608101451</link>
+            <guid isPermaLink="false">e524b092-6d7a-4c94-a843-9404ba834cdb</guid>
+            <pubDate>Mon, 10 Aug 2026 14:51:20 GMT</pubDate>
+            <description><![CDATA[EUR/USD treads water on Monday as the US Dollar (USD) steadies following its post-NFP weakness, while Oil prices rise amid uncertainty over the reopening of the Strait of Hormuz. At the time of writing, the pair trades around 1.1553, virtually unchanged on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar jumps as Yen struggles with Japan’s fiscal woes]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-jumps-as-yen-struggles-with-japans-fiscal-woes-202608101443</link>
+            <guid isPermaLink="false">2ea27642-cf63-45f9-8dd4-fec554226d5a</guid>
+            <pubDate>Mon, 10 Aug 2026 14:43:43 GMT</pubDate>
+            <description><![CDATA[AUD/JPY rises 0.70% on Monday and trades around 112.25 at the time of writing. The pair benefits from broad weakness in the Japanese Yen (JPY), while the Australian Dollar (AUD) holds firm ahead of the Reserve Bank of Australia (RBA) monetary policy decision on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal Reserve: Sideways growth and sticky inflation – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-sideways-growth-and-sticky-inflation-td-securities-202608101438</link>
+            <guid isPermaLink="false">044c243d-fdfe-4ee3-8150-e79bce4874f0</guid>
+            <pubDate>Mon, 10 Aug 2026 14:38:26 GMT</pubDate>
+            <description><![CDATA[TD Securities’ US economists Oscar Munoz and Eli Nir expect US output growth to move sideways in 2026 as the lingering Oil shock and Iran-related risks keep the Federal Reserve on hold through year-end.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen: Faces risk of return to 160 against US Dollar – ING]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-faces-risk-of-return-to-160-against-us-dollar-ing-202608101421</link>
@@ -78,14 +126,6 @@
             <pubDate>Mon, 10 Aug 2026 13:19:46 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that JPY is underperforming as firmer Oil prices support USD/JPY, while the Bank of Japan's (BoJ) latest meeting minutes did little to shift rate expectations.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold holds firm as Fed rate outlook, Middle East developments remain in focus]]></title>
-            <link>https://www.fxstreet.com/news/gold-holds-firm-as-fed-rate-outlook-middle-east-developments-remain-in-focus-202608101127</link>
-            <guid isPermaLink="false">947b441c-09d4-420e-9315-b977fc5d039a</guid>
-            <pubDate>Mon, 10 Aug 2026 11:27:31 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) struggles to extend gains on Monday as buyers take a breather following last week’s sharp rally, with the broader market theme still centred on the Federal Reserve’s (Fed) interest-rate outlook and developments in the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Copper: Weak China imports contrast with bullish positioning - ING]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 11:25:55 GMT</pubDate>
             <description><![CDATA[The Japanese Yen (JPY) is down against its major currency peers on Monday, trading 0.6% lower at around 158.80 against the US Dollar (USD) at the time of writing during the European trading session.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Central bank demand underpins rally – ING]]></title>
-            <link>https://www.fxstreet.com/news/gold-central-bank-demand-underpins-rally-ing-202608101123</link>
-            <guid isPermaLink="false">a164bcf6-cf84-476f-929e-6359aa81359e</guid>
-            <pubDate>Mon, 10 Aug 2026 11:23:15 GMT</pubDate>
-            <description><![CDATA[ING’s Ewa Manthey and Warren Patterson report that Gold extended its rally as the People’s Bank of China (PBoC) added 640koz to reserves, marking 21 consecutive months of accumulation. Spot Gold moved above $4,320/oz, supported by ongoing central bank buying and stronger Chinese ETF demand.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD remains bullish, pushing against $4,380 resistance]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-remains-bullish-pushing-against-4-380-resistance-202608101112</link>
-            <guid isPermaLink="false">deca200b-3a55-4980-bd7a-ca408b5c47cf</guid>
-            <pubDate>Mon, 10 Aug 2026 11:12:20 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) holds moderate gains at the mid-range of the $4,300s on Monday, consolidating gains after a nearly 7.5% rally last week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Softer labor data supports downside – BNY]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-softer-labor-data-supports-downside-bny-202608101107</link>
-            <guid isPermaLink="false">105b6d52-9ddf-4c97-b822-7bf8c58302a9</guid>
-            <pubDate>Mon, 10 Aug 2026 11:07:40 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu and David Tam note that weaker United States (US) labor data have lowered real-rate expectations and extended the Dollar decline, creating a more supportive environment for risk assets and duration.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee falls as Iran tightens Hormuz reopening conditions]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-drops-as-oil-prices-extend-recovery-downside-seems-limited-202608100524</link>
-            <guid isPermaLink="false">3cc06372-acc7-4dbd-a086-a76e994efb05</guid>
-            <pubDate>Mon, 10 Aug 2026 05:24:33 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) is down against the US Dollar (USD) at the start of the week. The USD/INR pair rebounds to near 95.30 as oil prices extend their recovery move and the US Dollar regains ground after a weak Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Experts agree: The US Dollar rally migh have come to an end]]></title>
-            <link>https://www.fxstreet.com/news/experts-agree-the-us-dollar-rally-migh-have-come-to-an-end-202608101102</link>
-            <guid isPermaLink="false">45b5a409-fccb-42f8-a941-c7a326bb8308</guid>
-            <pubDate>Mon, 10 Aug 2026 11:02:43 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) consolidates losses, trading below 100.00 at the time of writing on Monday, holding near its lowest levels since mid-June.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpWarsh3-65268326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
