@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 17:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 18:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI jumps over 6% as Strait of Hormuz reopening remains uncertain]]></title>
+            <link>https://www.fxstreet.com/news/wti-jumps-over-6-as-strait-of-hormuz-reopening-remains-uncertain-202608101822</link>
+            <guid isPermaLink="false">9dce7a80-bdc9-4594-bc11-89121aec0392</guid>
+            <pubDate>Mon, 10 Aug 2026 18:22:17 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) jumps more than 6% on Monday, erasing last week’s losses as uncertainty over when the Strait of Hormuz will reopen keeps supply concerns and the geopolitical risk premium firmly in place. At the time of writing, WTI trades around $81.15 per barrel, near a one-week high.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: Iran won't negotiate with the US until Trump's term is done]]></title>
+            <link>https://www.fxstreet.com/news/breaking-iran-wont-negotiate-with-the-us-until-trumps-term-is-done-202608101811</link>
+            <guid isPermaLink="false">c5d83c41-1148-4477-96d0-9917c8c16198</guid>
+            <pubDate>Mon, 10 Aug 2026 18:11:59 GMT</pubDate>
+            <description><![CDATA[In a major setback to efforts to reopen the Strait of Hormuz and cool Middle East tensions, Iran ruled out any future negotiations with United States (US) President Donald Trump, according to Iranian outlets and a X post by an adviser to Parliament Speaker Mohammad Bagher Ghalibaf.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LatAm FX: Carry window opens with caveats – BNY]]></title>
+            <link>https://www.fxstreet.com/news/latam-fx-carry-window-opens-with-caveats-bny-202608101809</link>
+            <guid isPermaLink="false">539a39d8-2ceb-458d-8c76-7da194955c96</guid>
+            <pubDate>Mon, 10 Aug 2026 18:09:37 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu and David Tam argue that a more dovish Federal Reserve (Fed) and weaker United States (US) labor data have improved conditions for Latin American (LatAm) carry trades, but broken correlations with commodities and lingering inflation risks limit momentum.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/south-american-continent-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Trump says Iran should pay for regional damage]]></title>
+            <link>https://www.fxstreet.com/news/us-president-trump-says-iran-should-pay-for-regional-damage-202608101806</link>
+            <guid isPermaLink="false">c515dfc8-7a39-4e68-aeb6-35ebf8256d53</guid>
+            <pubDate>Mon, 10 Aug 2026 18:06:24 GMT</pubDate>
+            <description><![CDATA[United States (US) President Donald Trump used a post on his Truth Social platform to push back on Iran's demands for war reparations, arguing that Tehran, not Washington, should carry the bill for the damage and lives lost across the region.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold edges higher as Hormuz delays, US CPI keep traders cautious]]></title>
+            <link>https://www.fxstreet.com/news/gold-edges-higher-as-hormuz-delays-us-cpi-keep-traders-cautious-202608101758</link>
+            <guid isPermaLink="false">8286ba8c-3631-4b12-8e10-a0fa9b3a9aa6</guid>
+            <pubDate>Mon, 10 Aug 2026 17:58:24 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) price edges up at the beginning of the week as the reopening of the Strait of Hormuz faces delays due to demands from Iran to the US, and is capped by the modest strength of the Greenback, with traders eyeing the release of crucial US inflation data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen weakens as surprise current account deficit weighs]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-weakens-as-surprise-current-account-deficit-weighs-202608101647</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 12:49:43 GMT</pubDate>
             <description><![CDATA[Rabıobank's Senior FX Strategist Jane Foley discusses recent EUR/USD strength, noting it was mainly driven by a softer Dollar after weak United States (US) labour data reduced Federal Reserve (Fed) rate hike expectations.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA policy pause maintained – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-policy-pause-maintained-td-securities-202608101238</link>
-            <guid isPermaLink="false">4d7a3933-1edd-4ef1-a2bc-de2bddedcadb</guid>
-            <pubDate>Mon, 10 Aug 2026 12:38:54 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists expect the Reserve Bank of Australia (RBA) to leave the cash rate unchanged at 4.35%, noting that policy is already restrictive and that Australian activity, particularly housing, is slowing in response to earlier hikes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ tightening risks support JPY – BNY]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-tightening-risks-support-jpy-bny-202608101230</link>
-            <guid isPermaLink="false">d9fe6423-8618-49be-b43f-c3db5e1461f9</guid>
-            <pubDate>Mon, 10 Aug 2026 12:30:34 GMT</pubDate>
-            <description><![CDATA[BNY’s Wee Khoon Chong highlights that long-end JGB yields are rising on inflation and fiscal concerns, with markets pricing a roughly 50% chance of a 25bp BoJ hike in September and a full hike by year-end.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Strait risk and cautious positioning – ING]]></title>
-            <link>https://www.fxstreet.com/news/oil-strait-risk-and-cautious-positioning-ing-202608101220</link>
-            <guid isPermaLink="false">45d91e52-ac07-4e2a-8b99-cc5e1bb04f62</guid>
-            <pubDate>Mon, 10 Aug 2026 12:20:19 GMT</pubDate>
-            <description><![CDATA[ING analysts Ewa Manthey and Warren Patterson note that Oil prices remain supported by uncertainty around the Strait of Hormuz as US-Iran negotiations continue.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver tests $65: Why are buyers struggling to extend the rally?]]></title>
-            <link>https://www.fxstreet.com/news/silver-tests-65-why-are-buyers-struggling-to-extend-the-rally-202608101217</link>
-            <guid isPermaLink="false">fe45eda2-501c-469b-b448-e32fc9a4124c</guid>
-            <pubDate>Mon, 10 Aug 2026 12:17:09 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) struggles to extend its gains on Monday following last week’s strong breakout as traders assess the Federal Reserve’s (Fed) interest rate outlook amid risks on both sides of its dual mandate.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Rate hike odds slashed after soft inflation – BBH]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-rate-hike-odds-slashed-after-soft-inflation-bbh-202608101208</link>
-            <guid isPermaLink="false">bfe3b9fd-baea-4a71-8ea1-165f2f0f3cf6</guid>
-            <pubDate>Mon, 10 Aug 2026 12:08:01 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that Norwegian Krone (NOK) is trading mixed as firmer Oil offsets the drag from reduced Norges Bank tightening expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
