@@ -4,11 +4,59 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 02:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 04:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Japanese Yen comes under pressure as BoJ division, narrowing surplus]]></title>
+            <title><![CDATA[New Zealand Dollar drifts lower as USD recovers from post-NFP lows amid Mideast jitters]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-drifts-lower-as-usd-recovers-from-post-nfp-lows-amid-mideast-jitters-202608100348</link>
+            <guid isPermaLink="false">ae6f4323-4791-43d3-a989-80e240c1d8c5</guid>
+            <pubDate>Mon, 10 Aug 2026 03:48:17 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair is seen extending Friday's late pullback from the vicinity of the monthly peak – levels just above the 0.5900 mark – and drifting lower at the start of a new week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index advances above 99.50 due to Middle East risks]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-advances-above-9950-due-to-middle-east-risks-202608100347</link>
+            <guid isPermaLink="false">a08a5082-bdbf-4466-bacd-b01190fa1f35</guid>
+            <pubDate>Mon, 10 Aug 2026 03:47:38 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is gaining ground after registering modest losses in the previous day and trading around 99.70 during the Asian hours on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD starts US CPI week on flat note around $63.50]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-starts-us-cpi-week-on-flat-note-around-6350-202608100316</link>
+            <guid isPermaLink="false">0586d0f1-6b42-4ccb-8c41-e5488b3fcd77</guid>
+            <pubDate>Mon, 10 Aug 2026 03:16:08 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) trades in a tight range at around $63.50 during the Asian trading session at the start of the week. The white metal struggles for direction but is close to an almost seven-week high of $65.16 posted on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar weakens as safe-haven demand lifts US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-weakens-as-safe-haven-demand-lifts-us-dollar-202608100315</link>
+            <guid isPermaLink="false">2494632a-61e1-45ff-a05f-4aed340f726b</guid>
+            <pubDate>Mon, 10 Aug 2026 03:15:00 GMT</pubDate>
+            <description><![CDATA[AUD/USD inches lower after registering modest gains in the previous day, trading around 0.7060 during the Asian hours on Monday. The pair holds losses as the US Dollar (USD) receives support from broad risk aversion.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar pulls back from two-month top as rebounding USD counters higher oil prices]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-pulls-back-from-two-month-top-as-rebounding-usd-counters-higher-oil-prices-202608100314</link>
+            <guid isPermaLink="false">4fc211ed-f0c7-46db-a99f-ec187d43b80f</guid>
+            <pubDate>Mon, 10 Aug 2026 03:14:31 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair attracts some dip-buyers at the start of a new week and recovers a part of Friday's heavy losses to the 1.3925 area, or a nearly two-month low.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold retreats from June 17 highest amid USD uptick; holds above $4,300 pivotal support]]></title>
+            <link>https://www.fxstreet.com/news/gold-retreats-from-june-17-highest-amid-usd-uptick-holds-above-4-300-pivotal-support-202608100229</link>
+            <guid isPermaLink="false">6a7de4e6-5565-41b6-b34c-072f0379d492</guid>
+            <pubDate>Mon, 10 Aug 2026 02:29:47 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) drifts lower at the start of a new week and moves away from its highest level since June 17, touched on Friday following the disappointing release of the US Nonfarm Payrolls (NFP) report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen comes under pressure as BoJ division, unexpected current account deficit]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-comes-under-pressure-as-boj-division-narrowing-surplus-202608100202</link>
             <guid isPermaLink="false">8c1a2305-bdaa-4ea2-83a0-4eae5ab72896</guid>
             <pubDate>Mon, 10 Aug 2026 02:02:06 GMT</pubDate>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 07 Aug 2026 17:37:26 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) skyrockets on Friday, gaining over 2.30% in the day and more than 7% in the week after US jobs data was mixed, with a softer Nonfarm Payrolls print while the Unemployment Rate remained steady.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia: Modest growth outlook – Standard Chartered]]></title>
-            <link>https://www.fxstreet.com/news/indonesia-modest-growth-outlook-standard-chartered-202608071733</link>
-            <guid isPermaLink="false">c26ac41a-319b-4ed1-98e2-24221345d8bc</guid>
-            <pubDate>Fri, 07 Aug 2026 17:33:09 GMT</pubDate>
-            <description><![CDATA[Standard Chartered’s Aldian Taloputra notes Indonesia’s Q2 GDP grew 5.3% year-on-year, slowing from 5.6% but beating consensus. Stronger-than-expected H1 data leads the bank to raise its 2026 GDP forecast to 5.3%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesia.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones Industrial Average dodges a hike December still prices]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-dodges-a-hike-december-still-prices-202608071646</link>
-            <guid isPermaLink="false">f5b6a22e-8994-406c-94b5-f9a5ce700a63</guid>
-            <pubDate>Fri, 07 Aug 2026 16:46:30 GMT</pubDate>
-            <description><![CDATA[The American labour market contracted in July and the Dow Jones Industrial Average answered with a gain of roughly 65 points, a tenth of a percent, trading near 54,000 into the afternoon.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar advances as US labor market weakness pressures USD]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-advances-as-us-labor-market-weakness-pressures-the-usd-202608071603</link>
-            <guid isPermaLink="false">aa3307a3-398f-40bf-b751-53f95b54bada</guid>
-            <pubDate>Fri, 07 Aug 2026 16:03:50 GMT</pubDate>
-            <description><![CDATA[NZD/USD trades around 0.5890 on Friday at the time of writing, up 0.36% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: Gradual improvement with tariff risks – RBC]]></title>
-            <link>https://www.fxstreet.com/news/canada-gradual-improvement-with-tariff-risks-rbc-202608071554</link>
-            <guid isPermaLink="false">e84d8ce9-c330-4e95-bebe-4585bf085c9e</guid>
-            <pubDate>Fri, 07 Aug 2026 15:54:00 GMT</pubDate>
-            <description><![CDATA[Royal Bank of Canada’s (RBC) Nathan Janzen reports that Canada’s labour market strengthened in July, with a 75k employment gain following robust increases in May and June and a decline in the unemployment rate to 6.4%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_office.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar climbs near two-month highs as NFP turns negative]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-climbs-near-two-month-highs-as-nfp-turns-negative-202608071538</link>
-            <guid isPermaLink="false">13ca2d19-6bd6-4236-86d3-466a96044802</guid>
-            <pubDate>Fri, 07 Aug 2026 15:38:31 GMT</pubDate>
-            <description><![CDATA[The AUD/USD pair surged to its highest in nearly two months past 0.7070 earlier on Friday, following the release of the United States (US) Nonfarm Payrolls (NFP) report. The move owes nothing to Australia.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-chart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NY Fed inflation expectations ease modestly in the short term]]></title>
-            <link>https://www.fxstreet.com/news/ny-fed-inflation-expectations-ease-modestly-in-the-short-term-202608071534</link>
-            <guid isPermaLink="false">ed0e45ac-cd66-4483-9998-8976e981b50b</guid>
-            <pubDate>Fri, 07 Aug 2026 15:34:16 GMT</pubDate>
-            <description><![CDATA[The New York Fed Survey of Consumer Expectations shows that households’ inflation expectations decreased slightly over the short-term horizon and remained unchanged at the medium and longer-term horizons. One-year inflation expectations eased from 3.7% in June to 3.6% in July ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
