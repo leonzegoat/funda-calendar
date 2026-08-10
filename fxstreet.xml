@@ -4,15 +4,23 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 20:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 21:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD eyes $69 as rally extends]]></title>
+            <title><![CDATA[New Zealand Dollar slips as firm US Dollar and Oil keep the Kiwi pinned ]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-slips-as-firm-us-dollar-and-oil-keep-the-kiwi-pinned-202608102113</link>
+            <guid isPermaLink="false">99cd4706-3882-410f-b0f4-400c2abe9726</guid>
+            <pubDate>Mon, 10 Aug 2026 21:13:50 GMT</pubDate>
+            <description><![CDATA[The New Zealand Dollar (NZD) trades near 0.5900 against the US Dollar (USD) on Monday, giving back a little ground after a run toward multi-day highs last week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD extends rally and eyes $69]]></title>
             <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-eyes-69-as-rally-extends-202608102023</link>
             <guid isPermaLink="false">d2e7f22a-4f81-4154-8860-df5a34b87f8d</guid>
             <pubDate>Mon, 10 Aug 2026 20:23:38 GMT</pubDate>
-            <description><![CDATA[Silver price (XAG/USD) climbs over 3% on Monday even though US Treasury yields had climbed, with the white metal refreshing one-month highs at $66.07. At the time of writing, the XAG/USD Trades at $65.76 with buyers eyeing key resistance levels.]]></description>
+            <description><![CDATA[Silver (XAG/USD) price climbs over 3% on Monday even though US Treasury yields rose, with the white metal refreshing seven-week highs at $66.07. At the time of writing, XAG/USD trades at $65.76 with buyers eyeing key resistance levels.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 13:38:06 GMT</pubDate>
             <description><![CDATA[TD Securities’ commodity strategists report that Gold is holding gains after weaker US jobs data reduced perceived Fed hike risks, but CTAs (Commodity Trading Advisors) are unwinding length.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil jumps over 3% as Iran sets conditions for Strait of Hormuz reopening]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-jumps-over-3-as-iran-sets-conditions-for-strait-of-hormuz-reopening-202608101331</link>
-            <guid isPermaLink="false">da13b1b5-300c-4b67-860e-e654799ebea3</guid>
-            <pubDate>Mon, 10 Aug 2026 13:31:48 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil rises 3.20% on Monday and trades around $78.80 at the time of writing. Oil prices retain strong daily gains, supported by uncertainty surrounding the reopening of the Strait of Hormuz and persistent tensions in the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
