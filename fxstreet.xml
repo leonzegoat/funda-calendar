@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 13:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 14:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen: Faces risk of return to 160 against US Dollar – ING]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-faces-risk-of-return-to-160-against-us-dollar-ing-202608101421</link>
+            <guid isPermaLink="false">1f75af17-8523-426b-b95a-cd2e23a3d1a0</guid>
+            <pubDate>Mon, 10 Aug 2026 14:21:46 GMT</pubDate>
+            <description><![CDATA[ING’s Francesco Pesole highlights that softer United States (US) data and a more dovish Fed outlook should, in theory, benefit the Japanese Yen (JPY) given its high rate sensitivity.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Positioning-driven softness ahead of CPI – BNY]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-positioning-driven-softness-ahead-of-cpi-bny-202608101409</link>
+            <guid isPermaLink="false">16dfc4b5-f564-4875-9966-c839317a92d8</guid>
+            <pubDate>Mon, 10 Aug 2026 14:09:33 GMT</pubDate>
+            <description><![CDATA[BNY’s Wee Khoon Chong notes that the US Dollar (USD) has been the weakest G10 currency on iFlow metrics as markets scale back expectations for a September Fed hike.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Softer CPI may unlock 1.1600 against US Dollar – ING]]></title>
+            <link>https://www.fxstreet.com/news/euro-softer-cpi-may-unlock-11600-against-us-dollar-ing-202608101358</link>
+            <guid isPermaLink="false">eb3472a5-8ee4-40fa-b10d-5a9a5e4991fb</guid>
+            <pubDate>Mon, 10 Aug 2026 13:58:37 GMT</pubDate>
+            <description><![CDATA[ING’s Francesco Pesole notes that with key Eurozone data behind and European Central Bank (ECB) communication subdued, EUR/USD is now driven mainly by the United States (US) side.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound rises against Japanese Yen as intervention impact fades]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-rises-against-japanese-yen-as-intervention-impact-fades-202608101349</link>
+            <guid isPermaLink="false">06d4fff7-cd61-43ef-83ea-b676d1cfcce4</guid>
+            <pubDate>Mon, 10 Aug 2026 13:49:54 GMT</pubDate>
+            <description><![CDATA[GBP/JPY edges higher on Monday as the Japanese Yen (JPY) underperforms across the G10 currency space, with structural headwinds limiting the impact of recent intervention. At the time of writing, the cross trades around 214.70, up 0.85% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hungarian Forint: Recovery against Euro may resume – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/hungarian-forint-recovery-against-euro-may-resume-commerzbank-202608101347</link>
+            <guid isPermaLink="false">73048aa5-f032-4c0c-a010-8c4b6415b1e8</guid>
+            <pubDate>Mon, 10 Aug 2026 13:47:34 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Tatha Ghose notes that the Hungarian Forint (HUF) has only partially retraced its post-election gains and is expected to recover if global risk conditions stabilise, with EUR/HUF seen returning towards 350–355 in coming months.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold: CTA selling limits upside below $4,400 - TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/gold-cta-selling-limits-upside-below-4-400-td-securities-202608101338</link>
+            <guid isPermaLink="false">c072733e-4fc1-4638-9f3d-0cc5c2829bcc</guid>
+            <pubDate>Mon, 10 Aug 2026 13:38:06 GMT</pubDate>
+            <description><![CDATA[TD Securities’ commodity strategists report that Gold is holding gains after weaker US jobs data reduced perceived Fed hike risks, but CTAs (Commodity Trading Advisors) are unwinding length.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Oil jumps over 3% as Iran sets conditions for Strait of Hormuz reopening]]></title>
+            <link>https://www.fxstreet.com/news/wti-oil-jumps-over-3-as-iran-sets-conditions-for-strait-of-hormuz-reopening-202608101331</link>
+            <guid isPermaLink="false">da13b1b5-300c-4b67-860e-e654799ebea3</guid>
+            <pubDate>Mon, 10 Aug 2026 13:31:48 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) US Oil rises 3.20% on Monday and trades around $78.80 at the time of writing. Oil prices retain strong daily gains, supported by uncertainty surrounding the reopening of the Strait of Hormuz and persistent tensions in the Middle East.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: Uptrend targets 0.7120 against US Dollar – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-uptrend-targets-07120-against-us-dollar-societe-generale-202608101328</link>
+            <guid isPermaLink="false">805f9e29-7725-4b4a-9131-c974309bff9a</guid>
+            <pubDate>Mon, 10 Aug 2026 13:28:09 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Kenneth Broux notes AUD/USD has defended its 200-DMA and established a pattern of higher highs and higher lows, signalling a short-term uptrend.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen: Rate spread outlook favors JPY against US Dollar – BBH]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-rate-spread-outlook-favors-jpy-against-us-dollar-bbh-202608101319</link>
@@ -182,70 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 11:02:43 GMT</pubDate>
             <description><![CDATA[The US Dollar Index (DXY) consolidates losses, trading below 100.00 at the time of writing on Monday, holding near its lowest levels since mid-June.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpWarsh3-65268326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound tests 1.3500 as US Dollar struggles to shake off NFP shock]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-tests-13500-as-us-dollar-struggles-to-shake-off-nfp-shock-202608101027</link>
-            <guid isPermaLink="false">93b019da-7ae7-451e-b4ad-78e7cae95fa7</guid>
-            <pubDate>Mon, 10 Aug 2026 10:27:18 GMT</pubDate>
-            <description><![CDATA[GBP/USD trades around 1.3495 on Monday at the time of writing, up a modest 0.04% on the day. However, the pair struggles to hold firmly above the psychological 1.3500 level after benefiting on Friday from a decline in the US Dollar (USD) triggered by disappointing United States (US) employment data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Policy hold guidance in focus – Nomura]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-policy-hold-guidance-in-focus-nomura-202608101006</link>
-            <guid isPermaLink="false">6f905c95-e52d-417e-8971-d4b0c6493e20</guid>
-            <pubDate>Mon, 10 Aug 2026 10:06:57 GMT</pubDate>
-            <description><![CDATA[Nomura’s Josie Anderson, George Buckley and Andrzej Szczepaniak expect Norges Bank to keep its policy rate at 4.25% at the August meeting, citing softer underlying inflation and benign domestic data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CEE FX: Data-heavy week under global pressure – ING]]></title>
-            <link>https://www.fxstreet.com/news/cee-fx-data-heavy-week-under-global-pressure-ing-202608100954</link>
-            <guid isPermaLink="false">47f66e13-d7b7-4423-bb39-22f910765d8d</guid>
-            <pubDate>Mon, 10 Aug 2026 09:54:06 GMT</pubDate>
-            <description><![CDATA[ING’s Frantisek Taborsky highlights a busy Central and Eastern Europe calendar with Czech inflation, Turkey’s inflation report and key Polish data, including GDP and core inflation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CEE3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Fed repricing supports gains against US Dollar – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/euro-fed-repricing-supports-gains-against-us-dollar-societe-generale-202608100944</link>
-            <guid isPermaLink="false">29a3b965-2699-4e4c-b40f-d3b909837a87</guid>
-            <pubDate>Mon, 10 Aug 2026 09:44:23 GMT</pubDate>
-            <description><![CDATA[Societe Generale strategists highlight that EUR/USD has squeezed above key resistance as Dollar weakness follows softer United States (US) employment data and reduced odds of a September Fed hike. The pair is seen slightly expensive versus nat gas but near fair value on 2-year spreads.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Hawkish RBA hold supports carry – BBH]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-hawkish-rba-hold-supports-carry-bbh-202608100935</link>
-            <guid isPermaLink="false">4c67bbd3-c9f7-48f0-917e-ed6736e985ac</guid>
-            <pubDate>Mon, 10 Aug 2026 09:35:51 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s Elias Haddad notes that the Australian Dollar (AUD) remains one of the most attractive G10 currencies thanks to favorable carry and a hawkish Reserve Bank of Australia (RBA).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608100931</link>
-            <guid isPermaLink="false">03f23dac-64b2-4f16-9f84-58a743e6ee3c</guid>
-            <pubDate>Mon, 10 Aug 2026 09:31:24 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) rose on Monday, according to FXStreet data. Silver trades at $64.24 per troy ounce, up 1.08% from the $63.55 it cost on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Recovery against US Dollar faces tariff risks – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-recovery-against-us-dollar-faces-tariff-risks-commerzbank-202608100922</link>
-            <guid isPermaLink="false">6eebe368-8340-4fe7-9f78-0bfca183473f</guid>
-            <pubDate>Mon, 10 Aug 2026 09:22:37 GMT</pubDate>
-            <description><![CDATA[Michael Pfister at Commerzbank highlights a strong Canadian labour market and improving Gross Domestic Product (GDP), Purchasing Managers' Index (PMI) and exports as signs of real-economy recovery, but warns this is fragile due to threatened US tariffs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Iran talks keep risk premium in focus – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/brent-iran-talks-keep-risk-premium-in-focus-deutsche-bank-202608100913</link>
-            <guid isPermaLink="false">a301f57e-d3f3-4f1c-b9c5-9dd22db87796</guid>
-            <pubDate>Mon, 10 Aug 2026 09:13:36 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists highlight that negotiations between Iran and Oman over a new shipping framework through the Strait of Hormuz remain finely balanced, with Tehran linking any lasting arrangement to broader demands on the US.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
