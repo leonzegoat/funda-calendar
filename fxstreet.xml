@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 15:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 16:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Dow Jones Industrial Average kept what payrolls lost]]></title>
+            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-kept-what-payrolls-lost-202608101625</link>
+            <guid isPermaLink="false">6c50c267-2190-43c0-adf2-96084848632e</guid>
+            <pubDate>Mon, 10 Aug 2026 16:25:51 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average trades near 54,000 on Monday, lower by a tenth of a percent inside a range of barely 200 points, the narrowest daily bar in weeks. Every price of the session sits inside Friday's range, and Friday's sat inside Thursday's.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound climbs as Hormuz talks stall, US CPI up next]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-climbs-as-hormuz-talks-stall-us-cpi-up-next-202608101616</link>
+            <guid isPermaLink="false">bbb71c2a-2f83-4b62-9cb4-62b0c8f53f6e</guid>
+            <pubDate>Mon, 10 Aug 2026 16:16:33 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling advances during the North American session, up 0.20% as markets digest developments in the Middle East and await crucial inflation data in the United States (US). The GBP/USD trades at 1.3520 after bouncing off daily lows of 1.3483.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Emerging Markets: Selectivity key as Fed path clouds – HSBC]]></title>
+            <link>https://www.fxstreet.com/news/emerging-markets-selectivity-key-as-fed-path-clouds-hsbc-202608101613</link>
+            <guid isPermaLink="false">b04b6e16-1cf8-4bca-96a1-d6bf7ea2717d</guid>
+            <pubDate>Mon, 10 Aug 2026 16:13:33 GMT</pubDate>
+            <description><![CDATA[HSBC Asset Management notes that Emerging Market local-currency bonds have delivered strong returns over the past four years, supported by credible policies and attractive real yields, but year-to-date performance has softened as US Treasury yields rose and EM-US real rate differentials narrowed.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Denmark: Tax cuts keep inflation below the euro area – Nordea]]></title>
+            <link>https://www.fxstreet.com/news/denmark-tax-cuts-keep-inflation-below-the-euro-area-nordea-202608101554</link>
+            <guid isPermaLink="false">8bd3efc5-472c-4f92-98cc-c10a19bd7a92</guid>
+            <pubDate>Mon, 10 Aug 2026 15:54:00 GMT</pubDate>
+            <description><![CDATA[Nordea economist Jan Størup Nielsen notes that Danish inflation eased slightly in July, with headline consumer prices up 1.7% year-over-year and core inflation steady at 2.3%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Denmark.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CAD Price Forecast: Bearish pressure builds below 1.4000]]></title>
+            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-pressure-builds-below-14000-202608101550</link>
+            <guid isPermaLink="false">5ff554f1-7ece-474e-ba3c-ad3fc7d2f346</guid>
+            <pubDate>Mon, 10 Aug 2026 15:50:43 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades on the back foot on Monday even as the US Dollar (USD) regains some ground after weakening last week following softer-than-expected US Nonfarm Payrolls (NFP) data. Attention now turns to Wednesday’s US Consumer Price Index (CPI) report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Eurozone: Resilient data but growth risks weigh on Euro – Rabobank]]></title>
             <link>https://www.fxstreet.com/news/eurozone-resilient-data-but-growth-risks-weigh-on-euro-rabobank-202608101457</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 11:58:26 GMT</pubDate>
             <description><![CDATA[Deutsche Bank strategists note that Friday’s mixed United States (US) Nonfarm Payrolls (NFP) report led to a notable repricing of September Federal Open Market Committee (FOMC) odds, with futures-implied probability of a hike falling to 44%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar approaches two-month highs at 0.7088 with RBA decision on tap]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-approaches-two-month-highs-at-07088-with-rba-decision-on-tap-202608101155</link>
-            <guid isPermaLink="false">bb428f14-4a2d-4c44-bbe4-002c166ccfb6</guid>
-            <pubDate>Mon, 10 Aug 2026 11:55:00 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) holds gains, in the mid-range of the 0.7000s against the US Dollar (USD) on Monday, with two-month highs of 0.7088 at hand. The Aussie is capitalising on the US Dollar’s weakness, as hopes of Federal Reserve (Fed) rate hikes wane.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: On verge of downward-trendline breakout]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-on-verge-of-downward-trendline-breakout-202608101146</link>
-            <guid isPermaLink="false">b2eb34c6-1965-4c95-9982-d4fa6f6ef495</guid>
-            <pubDate>Mon, 10 Aug 2026 11:46:33 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) trades slightly lower at around 1.1550 against the US Dollar (USD) during the European trading session on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: September hike odds reassessed – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-september-hike-odds-reassessed-rabobank-202608101145</link>
-            <guid isPermaLink="false">3d2e49cc-0e23-4556-950e-b3c95344ef34</guid>
-            <pubDate>Mon, 10 Aug 2026 11:45:51 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Bas van Geffen comments that weaker United States (US) Nonfarm Payrolls (NFP) and a drop in labour supply have reduced urgency for another Federal Reserve (Fed) rate hike, though policy remains data‑dependent.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Tariff-driven arbitrage reshapes COMEX-LME spread – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/copper-tariff-driven-arbitrage-reshapes-comex-lme-spread-societe-generale-202608101137</link>
-            <guid isPermaLink="false">cf1ec2cf-67a8-4e90-aef2-48d7e24853aa</guid>
-            <pubDate>Mon, 10 Aug 2026 11:37:23 GMT</pubDate>
-            <description><![CDATA[Societe Generale analysts Michael Haigh and Jeremy Sellem argue that Copper has shifted into a policy-driven trade as Section 232 tariffs reshape the COMEX-LME arbitrage.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen underperforms on surprising current account deficit]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-underperforms-on-surprising-current-account-deficit-202608101125</link>
-            <guid isPermaLink="false">75264781-efa4-48d4-87d0-4549263b5c9f</guid>
-            <pubDate>Mon, 10 Aug 2026 11:25:55 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) is down against its major currency peers on Monday, trading 0.6% lower at around 158.80 against the US Dollar (USD) at the time of writing during the European trading session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-58.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
