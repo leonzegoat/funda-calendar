@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 16:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 17:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen weakens as surprise current account deficit weighs]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-weakens-as-surprise-current-account-deficit-weighs-202608101647</link>
+            <guid isPermaLink="false">5f95dec3-cc2f-42eb-ba4c-6d631910e9dc</guid>
+            <pubDate>Mon, 10 Aug 2026 16:47:33 GMT</pubDate>
+            <description><![CDATA[USD/JPY advances 0.73% on Monday and trades around 158.95 at the time of writing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Canadian Dollar takes back two months in ten sessions]]></title>
+            <link>https://www.fxstreet.com/news/the-canadian-dollar-takes-back-two-months-in-ten-sessions-202608101644</link>
+            <guid isPermaLink="false">1bdf3286-5fb0-4322-b806-fd8cea5c6855</guid>
+            <pubDate>Mon, 10 Aug 2026 16:44:45 GMT</pubDate>
+            <description><![CDATA[The Canadian Dollar trades at its strongest against the US Dollar since the second week of June, with the rate holding just above 1.3900 into the afternoon.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The Dow Jones Industrial Average kept what payrolls lost]]></title>
             <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-kept-what-payrolls-lost-202608101625</link>
@@ -16,11 +32,11 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[British Pound climbs as Hormuz talks stall, US CPI up next]]></title>
+            <title><![CDATA[British Pound climbs as Hormuz talks stall, US CPI in focus]]></title>
             <link>https://www.fxstreet.com/news/british-pound-climbs-as-hormuz-talks-stall-us-cpi-up-next-202608101616</link>
             <guid isPermaLink="false">bbb71c2a-2f83-4b62-9cb4-62b0c8f53f6e</guid>
             <pubDate>Mon, 10 Aug 2026 16:16:33 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling advances during the North American session, up 0.20% as markets digest developments in the Middle East and await crucial inflation data in the United States (US). The GBP/USD trades at 1.3520 after bouncing off daily lows of 1.3483.]]></description>
+            <description><![CDATA[The Pound Sterling (GBP) advances during the North American session on Monday, up 0.2% as markets digest developments in the Middle East and await crucial inflation data in the United States (US). The GBP/USD pair trades at 1.3520 after bouncing off daily lows of 1.3483.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 12:08:01 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that Norwegian Krone (NOK) is trading mixed as firmer Oil offsets the drag from reduced Norges Bank tightening expectations.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar steadies, caught between risk aversion, rebounding Oil prices]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-steadies-caught-between-risk-aversion-rebounding-oil-prices-202608101203</link>
-            <guid isPermaLink="false">4127d0e8-d369-4171-98ad-ed5a18512023</guid>
-            <pubDate>Mon, 10 Aug 2026 12:03:23 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades around 1.3940 on Monday at the time of writing, virtually unchanged on the day after falling sharply on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed pricing shifts with softer data – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-pricing-shifts-with-softer-data-deutsche-bank-202608101158</link>
-            <guid isPermaLink="false">d323a7f6-5eed-4241-92da-8f77efa5e759</guid>
-            <pubDate>Mon, 10 Aug 2026 11:58:26 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists note that Friday’s mixed United States (US) Nonfarm Payrolls (NFP) report led to a notable repricing of September Federal Open Market Committee (FOMC) odds, with futures-implied probability of a hike falling to 44%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
