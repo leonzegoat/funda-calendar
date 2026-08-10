@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 22:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 23:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intervention bought the Japanese Yen a price, not a buyer]]></title>
+            <link>https://www.fxstreet.com/news/intervention-bought-the-japanese-yen-a-price-not-a-buyer-202608102332</link>
+            <guid isPermaLink="false">c9152b54-9d79-452c-845b-826bbb5cf081</guid>
+            <pubDate>Mon, 10 Aug 2026 23:32:14 GMT</pubDate>
+            <description><![CDATA[The Yen has surrendered close to a full percent through the session, with the pair up 0.93% and changing hands just above 159.00 after a 120-pip range running from the 158.00 handle to short of 159.50.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Australian Dollar rallies without an Australian reason]]></title>
+            <link>https://www.fxstreet.com/news/the-australian-dollar-rallies-without-an-australian-reason-202608102331</link>
+            <guid isPermaLink="false">d3e622d7-2fa0-489f-9cbe-9520a57e635d</guid>
+            <pubDate>Mon, 10 Aug 2026 23:31:37 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar has traded a band of barely 20 pips through the session, holding above 0.7050 and easing 0.15% inside it. That is the tightest daily range the pair has produced in weeks, and it arrives at the end of a run of close to 200 pips from the late-June trough just above 0.6850.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound Sterling borrows its rally from American payrolls]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sterling-borrows-its-rally-from-american-payrolls-202608102330</link>
+            <guid isPermaLink="false">efcbe26e-5dff-4def-badc-fab6c2f4ab9e</guid>
+            <pubDate>Mon, 10 Aug 2026 23:30:33 GMT</pubDate>
+            <description><![CDATA[Cable has spent the session inside a band of barely 45 pips straddling 1.3500, up 0.13% and holding its best ground since mid-July.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EUR/USD Price Forecast: 100-day SMA caps Euro recovery]]></title>
             <link>https://www.fxstreet.com/news/eur-usd-price-forecast-100-day-sma-caps-euro-recovery-202608102238</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 14:43:43 GMT</pubDate>
             <description><![CDATA[AUD/JPY rises 0.70% on Monday and trades around 112.25 at the time of writing. The pair benefits from broad weakness in the Japanese Yen (JPY), while the Australian Dollar (AUD) holds firm ahead of the Reserve Bank of Australia (RBA) monetary policy decision on Tuesday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-chart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Sideways growth and sticky inflation – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-sideways-growth-and-sticky-inflation-td-securities-202608101438</link>
-            <guid isPermaLink="false">044c243d-fdfe-4ee3-8150-e79bce4874f0</guid>
-            <pubDate>Mon, 10 Aug 2026 14:38:26 GMT</pubDate>
-            <description><![CDATA[TD Securities’ US economists Oscar Munoz and Eli Nir expect US output growth to move sideways in 2026 as the lingering Oil shock and Iran-related risks keep the Federal Reserve on hold through year-end.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Faces risk of return to 160 against US Dollar – ING]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-faces-risk-of-return-to-160-against-us-dollar-ing-202608101421</link>
-            <guid isPermaLink="false">1f75af17-8523-426b-b95a-cd2e23a3d1a0</guid>
-            <pubDate>Mon, 10 Aug 2026 14:21:46 GMT</pubDate>
-            <description><![CDATA[ING’s Francesco Pesole highlights that softer United States (US) data and a more dovish Fed outlook should, in theory, benefit the Japanese Yen (JPY) given its high rate sensitivity.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Positioning-driven softness ahead of CPI – BNY]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-positioning-driven-softness-ahead-of-cpi-bny-202608101409</link>
-            <guid isPermaLink="false">16dfc4b5-f564-4875-9966-c839317a92d8</guid>
-            <pubDate>Mon, 10 Aug 2026 14:09:33 GMT</pubDate>
-            <description><![CDATA[BNY’s Wee Khoon Chong notes that the US Dollar (USD) has been the weakest G10 currency on iFlow metrics as markets scale back expectations for a September Fed hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
