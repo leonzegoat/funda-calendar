@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 21:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 22:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Citi Mexico Survey expects Banxico hold, USD/MXN ending 2026 at 17.90]]></title>
+            <link>https://www.fxstreet.com/news/citi-mexico-survey-sees-banxico-hold-usd-mxn-ending-2026-at-1790-202608102126</link>
+            <guid isPermaLink="false">15cb2402-171a-473e-a61c-31f24f85fff5</guid>
+            <pubDate>Mon, 10 Aug 2026 21:26:21 GMT</pubDate>
+            <description><![CDATA[Citi Mexico released the Expectations Survey on Monday, in which the central bank polled 35 economists to gather their forecasts for monetary policy, the USD/MXN exchange Rate, inflation expectations, and economic growth.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/MXN2-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar slips as firm US Dollar and Oil keep the Kiwi pinned ]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-slips-as-firm-us-dollar-and-oil-keep-the-kiwi-pinned-202608102113</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 13:47:34 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Tatha Ghose notes that the Hungarian Forint (HUF) has only partially retraced its post-election gains and is expected to recover if global risk conditions stabilise, with EUR/HUF seen returning towards 350–355 in coming months.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: CTA selling limits upside below $4,400 - TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-cta-selling-limits-upside-below-4-400-td-securities-202608101338</link>
-            <guid isPermaLink="false">c072733e-4fc1-4638-9f3d-0cc5c2829bcc</guid>
-            <pubDate>Mon, 10 Aug 2026 13:38:06 GMT</pubDate>
-            <description><![CDATA[TD Securities’ commodity strategists report that Gold is holding gains after weaker US jobs data reduced perceived Fed hike risks, but CTAs (Commodity Trading Advisors) are unwinding length.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
