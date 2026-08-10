@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 19:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 20:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD eyes $69 as rally extends]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-eyes-69-as-rally-extends-202608102023</link>
+            <guid isPermaLink="false">d2e7f22a-4f81-4154-8860-df5a34b87f8d</guid>
+            <pubDate>Mon, 10 Aug 2026 20:23:38 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) climbs over 3% on Monday even though US Treasury yields had climbed, with the white metal refreshing one-month highs at $66.07. At the time of writing, the XAG/USD Trades at $65.76 with buyers eyeing key resistance levels.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar firms as Oil surges on Hormuz]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-as-oil-surges-on-hormuz-202608101955</link>
+            <guid isPermaLink="false">e842fc57-d006-466e-97c0-913dfe1e3394</guid>
+            <pubDate>Mon, 10 Aug 2026 19:55:33 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) traded broadly firmer on Monday, with the US Dollar Index (DXY) up around 0.2% and holding just above 99.80 as Oil surged more than 6% on the ongoing Strait of Hormuz standoff.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Dow Jones Industrial Average begins pricing a 2029 war premium]]></title>
             <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-kept-what-payrolls-lost-202608101625</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 13:31:48 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI) US Oil rises 3.20% on Monday and trades around $78.80 at the time of writing. Oil prices retain strong daily gains, supported by uncertainty surrounding the reopening of the Strait of Hormuz and persistent tensions in the Middle East.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Uptrend targets 0.7120 against US Dollar – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-uptrend-targets-07120-against-us-dollar-societe-generale-202608101328</link>
-            <guid isPermaLink="false">805f9e29-7725-4b4a-9131-c974309bff9a</guid>
-            <pubDate>Mon, 10 Aug 2026 13:28:09 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Kenneth Broux notes AUD/USD has defended its 200-DMA and established a pattern of higher highs and higher lows, signalling a short-term uptrend.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Rate spread outlook favors JPY against US Dollar – BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-rate-spread-outlook-favors-jpy-against-us-dollar-bbh-202608101319</link>
-            <guid isPermaLink="false">228ea1a5-275d-478c-8164-6116dcfaa691</guid>
-            <pubDate>Mon, 10 Aug 2026 13:19:46 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that JPY is underperforming as firmer Oil prices support USD/JPY, while the Bank of Japan's (BoJ) latest meeting minutes did little to shift rate expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
