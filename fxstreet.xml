@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 09:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 10:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar: RBA keeps door open – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rba-keeps-door-open-rabobank-202608110957</link>
+            <guid isPermaLink="false">41cfe0e0-480f-4688-8e3b-0cdd738b305d</guid>
+            <pubDate>Tue, 11 Aug 2026 09:57:39 GMT</pubDate>
+            <description><![CDATA[Rabobank's Senior Macro Strategist Bas van Geffen reports that the Australian Dollar (AUD) slipped briefly after the RBA left its policy rate unchanged, as markets interpreted the statement and downgraded growth and inflation forecasts as dovish.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar edges up, RBA hawkish hold does little to revive rate hike expectations]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-edges-up-rba-hawkish-hold-does-little-to-revive-rate-hike-expectations-202608110951</link>
+            <guid isPermaLink="false">7087e7eb-7c27-408b-a171-9c3f84f8bc99</guid>
+            <pubDate>Tue, 11 Aug 2026 09:51:13 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) attracts bids against its major currency peers after the Reserve Bank of Australia’s (RBA) monetary policy decision, but is still trading marginally lower at around 0.7050 against the US Dollar (USD) during the European trading session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar remains near two-month highs against US Dollar as Oil prices rise]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-remains-near-two-month-highs-against-us-dollar-as-oil-prices-rise-202608110947</link>
+            <guid isPermaLink="false">d241765a-623d-4558-a2c8-90f160df341e</guid>
+            <pubDate>Tue, 11 Aug 2026 09:47:21 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades around 1.3935 on Tuesday at the time of writing, virtually unchanged on the day with a modest 0.03% decline.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Oil hits fresh highs at $83.50 as Hormuz reopening hopes vanish]]></title>
+            <link>https://www.fxstreet.com/news/wti-oil-hits-fresh-highs-at-8350-as-hormuz-reopening-hopes-vanish-202608110944</link>
+            <guid isPermaLink="false">432ad22a-6ce2-4e26-a618-09a4745497cd</guid>
+            <pubDate>Tue, 11 Aug 2026 09:44:55 GMT</pubDate>
+            <description><![CDATA[Oil prices rally for the second consecutive day on Tuesday, with the barrel of the US benchmark West Texas Intermediate (WTI) trading at $83.50 during the European trading session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal Reserve: Dovish repricing on data and inflation focus – BNY]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-dovish-repricing-on-data-and-inflation-focus-bny-202608110936</link>
+            <guid isPermaLink="false">961d75ac-5385-4a37-8aa1-241602719f89</guid>
+            <pubDate>Tue, 11 Aug 2026 09:36:54 GMT</pubDate>
+            <description><![CDATA[John Velis at BNY Markets reiterates that he expects no Federal Reserve rate hikes this year, even as risks remain skewed to the upside.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608110931</link>
+            <guid isPermaLink="false">a396f6b3-60c1-40af-b03d-ebdf27089b32</guid>
+            <pubDate>Tue, 11 Aug 2026 09:31:05 GMT</pubDate>
+            <description><![CDATA[Silver prices (XAG/USD) fell on Tuesday, according to FXStreet data. Silver trades at $64.78 per troy ounce, down 2.72% from the $66.59 it cost on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brent: Inflation risks rise with Hormuz standoff – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/brent-inflation-risks-rise-with-hormuz-standoff-deutsche-bank-202608110923</link>
+            <guid isPermaLink="false">7c2f7c11-5029-4294-ba1d-230856b2e9f2</guid>
+            <pubDate>Tue, 11 Aug 2026 09:23:21 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank strategists highlight that Brent Oil has broken above $85, closing near $88 as the Strait of Hormuz remains shut and rhetoric between the US and Iran escalates.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Indian Rupee falls as oil prices extend rally, India-US CPI data awaited]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-opens-lower-as-trump-demands-war-compensation-202608110452</link>
@@ -190,62 +246,6 @@
             <pubDate>Tue, 11 Aug 2026 06:56:30 GMT</pubDate>
             <description><![CDATA[Here is what you need to know on Tuesday, August 11:]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/oil-war-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA holds rates but downside bias persists – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-holds-rates-but-downside-bias-persists-commerzbank-202608110656</link>
-            <guid isPermaLink="false">dca4c6a3-354e-4e90-a59c-cf28e7af4999</guid>
-            <pubDate>Tue, 11 Aug 2026 06:56:18 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Volkmar Baur reports that the Reserve Bank of Australia (RBA) left interest rates unchanged in a unanimous decision, with forecasts showing higher unemployment and lower short-term inflation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-70.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Gains capped below key resistance against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/euro-gains-capped-below-key-resistance-against-us-dollar-uob-202608110638</link>
-            <guid isPermaLink="false">6c84875a-1597-404f-9073-eb0f9928b330</guid>
-            <pubDate>Tue, 11 Aug 2026 06:38:10 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note EUR/USD has stalled after last week’s surge, with flat momentum pointing to a 1.1530–1.1560 intraday range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RBA Governor discusses policy path after keeping interest rates steady]]></title>
-            <link>https://www.fxstreet.com/news/rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-202608110030</link>
-            <guid isPermaLink="false">40e1604a-6ee2-4e73-95ec-c5a9ec96cade</guid>
-            <pubDate>Tue, 11 Aug 2026 00:30:00 GMT</pubDate>
-            <description><![CDATA[Reserve Bank of Australia (RBA) Governor Michele Bullock is speaking at the press conference, explaining the reasons behind leaving the benchmark interest rate unchanged at 4.35% after the August monetary policy meeting.Bullock is taking questions from the press as part of a new reporting format int]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Michele-Bullock_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/USD Price Forecast: Aussie spikes down below 0.7050 as RBA’s Bullock speaks]]></title>
-            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-aussie-spikes-down-sub-07050-as-rbas-bullock-speaks-202608110606</link>
-            <guid isPermaLink="false">1f88b42f-09ff-4a4b-a105-38fad7858619</guid>
-            <pubDate>Tue, 11 Aug 2026 06:06:17 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) has reacted with moderate declines against the US Dollar (USD) following Reserve Bank of Australia Governor Michelle Bullock's speech on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Michele-Bullock_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar declines against New Zealand Dollar following RBA decision]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-declines-against-new-zealand-dollar-following-rba-decision-202608110517</link>
-            <guid isPermaLink="false">20a77a34-8ba4-4ae8-a5cc-4b9e636ad5af</guid>
-            <pubDate>Tue, 11 Aug 2026 05:17:23 GMT</pubDate>
-            <description><![CDATA[AUD/NZD pares its daily gains, trading around 1.1960 during the Asian hours on Tuesday. The Australian Dollar (AUD) has drifted lower following the Reserve Bank of Australia’s (RBA) latest monetary policy decision, keeping the currency cross on a weaker footing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/SUI-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah stays under pressure as Retail Sales YoY decline in June]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-stays-under-pressure-as-retail-sales-yoy-decline-in-june-202608110450</link>
-            <guid isPermaLink="false">340ac39b-ae48-4187-8d9c-bf6c8b827f2e</guid>
-            <pubDate>Tue, 11 Aug 2026 04:50:16 GMT</pubDate>
-            <description><![CDATA[USD/IDR gains ground after two days of losses, trading around 17,850 during the Asian hours on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar dips after RBA's on-hold decision as traders eye post-meeting presser]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-dips-after-rbas-on-hold-decision-as-traders-eye-post-meeting-presser-202608110448</link>
-            <guid isPermaLink="false">41246967-522a-4aa6-a1a4-7c34af53eedf</guid>
-            <pubDate>Tue, 11 Aug 2026 04:48:51 GMT</pubDate>
-            <description><![CDATA[The AUD/USD pair slides below mid-0.7000s after the Reserve Bank of Australia (RBA) announced its policy decision, though it lacks follow-through.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-70.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
