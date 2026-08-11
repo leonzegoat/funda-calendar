@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 19:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 20:52:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thai Baht: Benign inflation keeps BoT on hold – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/thai-baht-benign-inflation-keeps-bot-on-hold-commerzbank-202608112028</link>
+            <guid isPermaLink="false">f11b3f26-bf3a-48f2-b240-3b6045dec0f8</guid>
+            <pubDate>Tue, 11 Aug 2026 20:28:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank strategists note July Consumer Price Index (CPI) eased to 2.0% year-on-year, below consensus, mainly due to softer retail fuel prices. While core CPI has been gradually rising, overall price pressures are described as manageable and below government forecasts.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro stalls below 100-day SMA as investors brace for US CPI]]></title>
+            <link>https://www.fxstreet.com/news/euro-stalls-below-100-day-sma-as-investors-brace-for-us-cpi-202608111950</link>
+            <guid isPermaLink="false">10fe5b26-997f-4374-b52d-8322a6ffe2ab</guid>
+            <pubDate>Tue, 11 Aug 2026 19:50:25 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) registers minimal losses against the US Dollar (USD) on Tuesday as traders and market participants prepare for the release of the US Consumer Price Index (CPI) on Wednesday, which could set the path for the future of US monetary policy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Measured appreciation with strong RMB – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-measured-appreciation-with-strong-rmb-ocbc-202608111948</link>
+            <guid isPermaLink="false">fb8dbf47-9e93-4e4b-aa05-1da679b3d426</guid>
+            <pubDate>Tue, 11 Aug 2026 19:48:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note USD/CNH slipped after weak US payrolls, with the Renminbi (RMB) near its strongest levels in over three years.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: Range bias with upside risk against US Dollar – UOB]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-range-bias-with-upside-risk-against-us-dollar-uob-202608111913</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 11 Aug 2026 14:00:11 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI) US Oil retreats on Tuesday, trading around $80.40 at the time of writing, down 1.28% on the day. The US benchmark gives back its previous gains after Qatar reported progress in negotiations between Iran and Oman regarding the Strait of Hormuz.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA holds hawkish bias with steady rates – ING]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-holds-hawkish-bias-with-steady-rates-ing-202608111354</link>
-            <guid isPermaLink="false">115dc4ab-46e6-4b9d-bca8-c5a3010d35a4</guid>
-            <pubDate>Tue, 11 Aug 2026 13:54:40 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner reports that the Reserve Bank of Australia kept rates at 4.35%, while Governor Michele Bullock delivered a hawkish message, stressing upside inflation risks and revealing that a hike was discussed. Short-dated Australian yields reversed higher.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-67.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: Range-bound trade persists below 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-range-bound-trade-persists-below-100-day-sma-202608111353</link>
-            <guid isPermaLink="false">8916bf8d-e483-4156-a57d-97ba152929d6</guid>
-            <pubDate>Tue, 11 Aug 2026 13:53:34 GMT</pubDate>
-            <description><![CDATA[EUR/USD fluctuates on Tuesday, holding within the range seen over the past week. At the time of writing, the pair trades around 1.1546, virtually unchanged on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: ETF inflows and sceptical outlook – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/gold-etf-inflows-and-sceptical-outlook-commerzbank-202608111340</link>
-            <guid isPermaLink="false">3368d46a-483c-43aa-824c-827d6865061c</guid>
-            <pubDate>Tue, 11 Aug 2026 13:40:48 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Carsten Fritsch notes Gold breaking above USD 4,400 per ounce despite a sharp Oil rally, with Fed rate expectations only modestly higher after weak US labour data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
