@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 20:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 21:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: BI succession supports IDR against US Dollar – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-succession-supports-idr-against-us-dollar-ocbc-202608112141</link>
+            <guid isPermaLink="false">31fe50e8-4004-40a8-b40c-a4df73890731</guid>
+            <pubDate>Tue, 11 Aug 2026 21:41:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) strengthened to near a two‑month high on a softer US Dollar (USD) after weak United States (US) payrolls and clarity over Bank Indonesia (BI) leadership, with Destry Damayanti nominated as sole governor candidate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesia.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso hits 25-month high as US CPI lurks]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-hits-25-month-high-as-peso-eyes-1700-as-us-cpi-lurks-202608112119</link>
+            <guid isPermaLink="false">7f325a0e-cc0c-44fa-a106-b0cf1fc793bf</guid>
+            <pubDate>Tue, 11 Aug 2026 21:19:46 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso (MXN) is poised to end Tuesday’s session with solid gains of 0.32% against the US Dollar (USD) as money markets await the release of the US July inflation figures, while USD/MXN trades at 17.08, a level last seen in June 2024.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore: AI-driven growth supports MAS outlook – Standard Chartered]]></title>
+            <link>https://www.fxstreet.com/news/singapore-ai-driven-growth-supports-mas-outlook-standard-chartered-202608112112</link>
+            <guid isPermaLink="false">1ffc3223-01ae-4b77-87ef-10527fe80a17</guid>
+            <pubDate>Tue, 11 Aug 2026 21:12:00 GMT</pubDate>
+            <description><![CDATA[Standard Chartered Bank economists Edward Lee and Jonathan Koh highlight that Singapore’s H1 GDP expanded 6.1% year-on-year, with strong AI-related demand offsetting energy sector drag.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound Sterling needs a fourth dissenter]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sterling-needs-a-fourth-dissenter-202608112106</link>
+            <guid isPermaLink="false">35277ff4-05e6-4cb7-85bf-35acc6683709</guid>
+            <pubDate>Tue, 11 Aug 2026 21:06:31 GMT</pubDate>
+            <description><![CDATA[GBP/USD trades near 1.3500 on Tuesday August 11, a shade lower on the session and inside a range of barely 25 pips, with nothing British on the calendar to account for either the level or the calm.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thai Baht: Benign inflation keeps BoT on hold – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/thai-baht-benign-inflation-keeps-bot-on-hold-commerzbank-202608112028</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 11 Aug 2026 14:27:37 GMT</pubDate>
             <description><![CDATA[Commerzbank's Chief Economist Dr. Jörg Krämer expects EUR/USD to recover once the Iran conflict eases and to grind higher over the coming quarters.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold pauses near two-month high as Oil swings shape Fed outlook]]></title>
-            <link>https://www.fxstreet.com/news/gold-pauses-near-two-month-highs-as-us-iran-standoff-drives-oil-prices-higher-202608111125</link>
-            <guid isPermaLink="false">d2f4f77c-1492-4925-a55a-f6a1b739aae8</guid>
-            <pubDate>Tue, 11 Aug 2026 11:25:42 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) pauses its rally on Tuesday after hitting a two-month high of $4,435 earlier in Asian trading hours. Price action remains driven by movements in Oil prices and their impact on the Federal Reserve’s (Fed) interest-rate outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Oil prices keep USD/JPY near 160 resistance - BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-oil-prices-keep-usd-jpy-near-160-resistance-bbh-202608111415</link>
-            <guid isPermaLink="false">ecd18e65-4e9d-41b7-945a-3235e560b705</guid>
-            <pubDate>Tue, 11 Aug 2026 14:15:14 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad explains USD/JPY has retraced half of its post-intervention drop, with US–Japan rate spreads already narrowing in favor of the Japanese Yen (JPY).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar trades near weekly high after RBA decision]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-trades-near-weekly-high-after-rba-decision-202608111404</link>
-            <guid isPermaLink="false">a47312f3-b0fd-4f2b-b6ac-62c372b6e40e</guid>
-            <pubDate>Tue, 11 Aug 2026 14:04:48 GMT</pubDate>
-            <description><![CDATA[AUD/USD trades moderately higher above the 0.7060 price region after the Reserve Bank of Australia (RBA) left interest rates unchanged at 4.35% in a unanimous decision at the August monetary policy decision.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil reverses course as Iran, Oman move closer on Hormuz talks]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-reverses-course-as-iran-oman-move-closer-on-hormuz-talks-202608111400</link>
-            <guid isPermaLink="false">a2db809b-fdc2-4836-9163-ef2ff8974479</guid>
-            <pubDate>Tue, 11 Aug 2026 14:00:11 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil retreats on Tuesday, trading around $80.40 at the time of writing, down 1.28% on the day. The US benchmark gives back its previous gains after Qatar reported progress in negotiations between Iran and Oman regarding the Strait of Hormuz.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
