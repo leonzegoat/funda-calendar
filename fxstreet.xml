@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 23:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 00:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RBA set to hold interest rate at 4.35% as softer inflation cools hike bets]]></title>
+            <link>https://www.fxstreet.com/news/rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-202608110030</link>
+            <guid isPermaLink="false">40e1604a-6ee2-4e73-95ec-c5a9ec96cade</guid>
+            <pubDate>Tue, 11 Aug 2026 00:30:00 GMT</pubDate>
+            <description><![CDATA[The Reserve Bank of Australia (RBA) is on track to keep the Official Cash Rate (OCR) steady at 4.35% for the second consecutive meeting on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-67.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Intervention bought the Japanese Yen a price, not a buyer]]></title>
             <link>https://www.fxstreet.com/news/intervention-bought-the-japanese-yen-a-price-not-a-buyer-202608102332</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 14:51:20 GMT</pubDate>
             <description><![CDATA[EUR/USD treads water on Monday as the US Dollar (USD) steadies following its post-NFP weakness, while Oil prices rise amid uncertainty over the reopening of the Strait of Hormuz. At the time of writing, the pair trades around 1.1553, virtually unchanged on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar jumps as Yen struggles with Japan’s fiscal woes]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-jumps-as-yen-struggles-with-japans-fiscal-woes-202608101443</link>
-            <guid isPermaLink="false">2ea27642-cf63-45f9-8dd4-fec554226d5a</guid>
-            <pubDate>Mon, 10 Aug 2026 14:43:43 GMT</pubDate>
-            <description><![CDATA[AUD/JPY rises 0.70% on Monday and trades around 112.25 at the time of writing. The pair benefits from broad weakness in the Japanese Yen (JPY), while the Australian Dollar (AUD) holds firm ahead of the Reserve Bank of Australia (RBA) monetary policy decision on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-chart.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
