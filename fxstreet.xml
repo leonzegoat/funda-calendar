@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 14:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 15:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar remains under pressure as Middle East tensions support US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-remains-under-pressure-as-middle-east-tensions-support-us-dollar-202608111541</link>
+            <guid isPermaLink="false">0378ab64-8999-4cea-a248-0bee3a5517a3</guid>
+            <pubDate>Tue, 11 Aug 2026 15:41:51 GMT</pubDate>
+            <description><![CDATA[NZD/USD trades around 0.5880 on Tuesday at the time of writing, virtually unchanged on the day with a 0.03% decline.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound holds near 1.3500 as US CPI, UK GDP loom]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-holds-near-13500-as-us-cpi-uk-gdp-loom-202608111525</link>
+            <guid isPermaLink="false">e34b2667-bd6d-447e-9ed1-0b8c4ce30512</guid>
+            <pubDate>Tue, 11 Aug 2026 15:25:08 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) holds firm against the US Dollar (USD) on Tuesday following the release of softer-than-expected US jobs data, while investors await US inflation data on Wednesday and UK GDP releases on Thursday. At the time of writing, the GBP/USD pair trades at 1.3508, nearly unchanged.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Intervention risks and Fed path – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-intervention-risks-and-fed-path-rabobank-202608111511</link>
+            <guid isPermaLink="false">d9706a4a-403b-4d48-a7df-409792c166dd</guid>
+            <pubDate>Tue, 11 Aug 2026 15:11:10 GMT</pubDate>
+            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses USD/JPY ahead of the United States (US) July Consumer Price Index (CPI) release, highlighting how softer US inflation could weaken the Dollar and lower the odds of another break above USD/JPY160.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar holds firm against US Dollar ahead of US CPI]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-holds-firm-against-us-dollar-ahead-of-us-cpi-202608111510</link>
+            <guid isPermaLink="false">d4348019-307c-4973-aa7b-565b7fa037e4</guid>
+            <pubDate>Tue, 11 Aug 2026 15:10:44 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades under pressure on Tuesday, staying on the back foot for a third straight day. However, the pair lacks follow-through selling as the US Dollar (USD) holds firm ahead of Wednesday’s US Consumer Price Index (CPI) data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: RBA policy path caps upside against US Dollar – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rba-policy-path-caps-upside-against-us-dollar-societe-generale-202608111505</link>
+            <guid isPermaLink="false">4db84640-9cb3-4bb5-bc52-24c6eaebb2ad</guid>
+            <pubDate>Tue, 11 Aug 2026 15:05:25 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Kenneth Broux highlights ongoing pressure on the Australian Dollar after the RBA removed one projected rate hike, keeping the cash rate at 4.35% and projecting the policy rate around 4.40% through 2028.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/GBP slips as bearish pressure mounts ]]></title>
+            <link>https://www.fxstreet.com/news/eur-gbp-slips-as-bearish-pressure-mounts-202608111505</link>
+            <guid isPermaLink="false">207e9b7c-e8f5-4ea7-918d-f344e48b1ad6</guid>
+            <pubDate>Tue, 11 Aug 2026 15:05:04 GMT</pubDate>
+            <description><![CDATA[EUR/GBP is trading on the lower end of its weekly range near the 0.8540 price zone on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Bullish momentum builds against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-builds-against-us-dollar-scotiabank-202608111448</link>
+            <guid isPermaLink="false">3b8b8763-48f8-4a36-b53b-1865cd3a4493</guid>
+            <pubDate>Tue, 11 Aug 2026 14:48:57 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is supported by higher Oil prices and Friday’s strong Canadian jobs data versus weaker US labour figures.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Euro: Gradual appreciation path against US Dollar – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/euro-gradual-appreciation-path-against-us-dollar-commerzbank-202608111427</link>
@@ -190,62 +246,6 @@
             <pubDate>Tue, 11 Aug 2026 11:06:48 GMT</pubDate>
             <description><![CDATA[The US Dollar Index (DXY) appreciates for the second consecutive day on Tuesday, favoured by a mix of concerns about the stalled US-Iran negotiations and hawkish Fed speak, which keeps hopes of a September rate hike alive.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bullish-Tendency-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro treads water against US Dollar as traders await US CPI]]></title>
-            <link>https://www.fxstreet.com/news/euro-treads-water-against-us-dollar-as-traders-await-us-cpi-202608111053</link>
-            <guid isPermaLink="false">00b6b213-848e-4aba-9752-7f5fffc42883</guid>
-            <pubDate>Tue, 11 Aug 2026 10:53:57 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades around 1.1535 on Tuesday at the time of writing, posting a modest 0.06% decline on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: Rally hits pause near $4,440 with US CPI in focus]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-rally-hits-pause-near-4-440-with-us-cpi-in-focus-202608111049</link>
-            <guid isPermaLink="false">b5e32a3d-9592-488f-9856-3732d01be500</guid>
-            <pubDate>Tue, 11 Aug 2026 10:49:52 GMT</pubDate>
-            <description><![CDATA[Gold price (XAU/USD) trades 0.26% lower at around $4,380 during the European trading session on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NZD/USD Price Forecast: Focus shifts to 0.5850 support area as risk appetite fades]]></title>
-            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-focus-shifts-to-05850-support-area-as-risk-appetite-fades-202608111022</link>
-            <guid isPermaLink="false">ef1a374e-1a24-4ddc-b7ca-aff4ba7dc25c</guid>
-            <pubDate>Tue, 11 Aug 2026 10:22:54 GMT</pubDate>
-            <description><![CDATA[The New Zealand Dollar (NZD) nudges lower against a firmer US Dollar (USD) for the second consecutive day on Tuesday, as doubts about the fate of the US-Iran peace negotiations hurt market confidence and boost Oil prices higher.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/bull-bear-04.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA keeps door open – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-keeps-door-open-rabobank-202608110957</link>
-            <guid isPermaLink="false">41cfe0e0-480f-4688-8e3b-0cdd738b305d</guid>
-            <pubDate>Tue, 11 Aug 2026 09:57:39 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior Macro Strategist Bas van Geffen reports that the Australian Dollar (AUD) slipped briefly after the RBA left its policy rate unchanged, as markets interpreted the statement and downgraded growth and inflation forecasts as dovish.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar edges up, RBA hawkish hold does little to revive rate hike expectations]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-edges-up-rba-hawkish-hold-does-little-to-revive-rate-hike-expectations-202608110951</link>
-            <guid isPermaLink="false">7087e7eb-7c27-408b-a171-9c3f84f8bc99</guid>
-            <pubDate>Tue, 11 Aug 2026 09:51:13 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) attracts bids against its major currency peers after the Reserve Bank of Australia’s (RBA) monetary policy decision, but is still trading marginally lower at around 0.7050 against the US Dollar (USD) during the European trading session on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar remains near two-month highs against US Dollar as Oil prices rise]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-remains-near-two-month-highs-against-us-dollar-as-oil-prices-rise-202608110947</link>
-            <guid isPermaLink="false">d241765a-623d-4558-a2c8-90f160df341e</guid>
-            <pubDate>Tue, 11 Aug 2026 09:47:21 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades around 1.3935 on Tuesday at the time of writing, virtually unchanged on the day with a modest 0.03% decline.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil hits fresh highs at $83.50 as Hormuz reopening hopes vanish]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-hits-fresh-highs-at-8350-as-hormuz-reopening-hopes-vanish-202608110944</link>
-            <guid isPermaLink="false">432ad22a-6ce2-4e26-a618-09a4745497cd</guid>
-            <pubDate>Tue, 11 Aug 2026 09:44:55 GMT</pubDate>
-            <description><![CDATA[Oil prices rally for the second consecutive day on Tuesday, with the barrel of the US benchmark West Texas Intermediate (WTI) trading at $83.50 during the European trading session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
