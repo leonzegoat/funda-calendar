@@ -4,16 +4,40 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 05:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 06:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[RBA Governor discusses policy path after keeping interest rates on hold]]></title>
+            <title><![CDATA[Indian Rupee falls Trump's war compensation demand lifts oil prices]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-opens-lower-as-trump-demands-war-compensation-202608110452</link>
+            <guid isPermaLink="false">1823ea3b-e09e-44fe-b0a4-080690fd51fb</guid>
+            <pubDate>Tue, 11 Aug 2026 04:52:16 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) opens on a cautious note against the US Dollar (USD) on Tuesday. The USD/INR pair rises further to near 95.40 as surging oil prices due to escalating fears of a prolonged global supply disruption have weakened the Indian currency.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold pulls back from June 5 high, slides below $4,400 amid inflation-driven Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/breaking-gold-rallies-further-beyond-4-400-highest-since-early-june-202608110140</link>
+            <guid isPermaLink="false">54d206c4-d77f-4501-80fc-715a6c127b3e</guid>
+            <pubDate>Tue, 11 Aug 2026 01:40:14 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) retreats from its highest level since June 5, touched earlier this Tuesday, and slides back below the $4,400 mark heading into the European session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RBA Governor discusses policy path after keeping interest rates steady]]></title>
             <link>https://www.fxstreet.com/news/rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-202608110030</link>
             <guid isPermaLink="false">40e1604a-6ee2-4e73-95ec-c5a9ec96cade</guid>
             <pubDate>Tue, 11 Aug 2026 00:30:00 GMT</pubDate>
             <description><![CDATA[Reserve Bank of Australia (RBA) Governor Michele Bullock is speaking at the press conference, explaining the reasons behind leaving the benchmark interest rate unchanged at 4.35% after the August monetary policy meeting.Bullock is taking questions from the press as part of a new reporting format int]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Michele-Bullock_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Aussie spikes down below 0.7050 as RBA’s Bullock speaks]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-aussie-spikes-down-sub-07050-as-rbas-bullock-speaks-202608110606</link>
+            <guid isPermaLink="false">1f88b42f-09ff-4a4b-a105-38fad7858619</guid>
+            <pubDate>Tue, 11 Aug 2026 06:06:17 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) has reacted with moderate declines against the US Dollar (USD) following Reserve Bank of Australia Governor Michelle Bullock's speech on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Michele-Bullock_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Australian Dollar declines against New Zealand Dollar following RBA decision]]></title>
@@ -24,28 +48,12 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/SUI-bearish-object.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Indian Rupee opens lower as Trump demands war compensation]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-opens-lower-as-trump-demands-war-compensation-202608110452</link>
-            <guid isPermaLink="false">1823ea3b-e09e-44fe-b0a4-080690fd51fb</guid>
-            <pubDate>Tue, 11 Aug 2026 04:52:16 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) opens on a cautious note against the US Dollar (USD) on Tuesday. The USD/INR pair rises further to near 95.40 as surging oil prices due to escalating fears of a prolonged global supply disruption have weakened the Indian currency.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Indonesian Rupiah stays under pressure as Retail Sales YoY decline in June]]></title>
             <link>https://www.fxstreet.com/news/indonesian-rupiah-stays-under-pressure-as-retail-sales-yoy-decline-in-june-202608110450</link>
             <guid isPermaLink="false">340ac39b-ae48-4187-8d9c-bf6c8b827f2e</guid>
             <pubDate>Tue, 11 Aug 2026 04:50:16 GMT</pubDate>
             <description><![CDATA[USD/IDR gains ground after two days of losses, trading around 17,850 during the Asian hours on Tuesday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold stands firm above $4,400; inflation-driven Fed hike bets support USD and cap gains]]></title>
-            <link>https://www.fxstreet.com/news/breaking-gold-rallies-further-beyond-4-400-highest-since-early-june-202608110140</link>
-            <guid isPermaLink="false">54d206c4-d77f-4501-80fc-715a6c127b3e</guid>
-            <pubDate>Tue, 11 Aug 2026 01:40:14 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) scales higher for the third consecutive day – also marking the fifth day of a positive move in the previous six – and climbs to its highest level since June 5, around the $4,435 area during the Asian session on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Australian Dollar dips after RBA's on-hold decision as traders eye post-meeting presser]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 20:23:38 GMT</pubDate>
             <description><![CDATA[Silver (XAG/USD) price climbs over 3% on Monday even though US Treasury yields rose, with the white metal refreshing seven-week highs at $66.07. At the time of writing, XAG/USD trades at $65.76 with buyers eyeing key resistance levels.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar firms as Oil surges on Hormuz]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-as-oil-surges-on-hormuz-202608101955</link>
-            <guid isPermaLink="false">e842fc57-d006-466e-97c0-913dfe1e3394</guid>
-            <pubDate>Mon, 10 Aug 2026 19:55:33 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) traded broadly firmer on Monday, with the US Dollar Index (DXY) up around 0.2% and holding just above 99.80 as Oil surged more than 6% on the ongoing Strait of Hormuz standoff.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
