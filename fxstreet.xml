@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 10:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 11:07:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US Dollar Index Price Forecast: A break above 100.00 would confirm a double bottom]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-index-price-forecast-a-break-above-10000-would-confirm-a-double-bottom-202608111106</link>
+            <guid isPermaLink="false">6f8c0619-cd9a-4d31-a77d-7dc3732a5eeb</guid>
+            <pubDate>Tue, 11 Aug 2026 11:06:48 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) appreciates for the second consecutive day on Tuesday, favoured by a mix of concerns about the stalled US-Iran negotiations and hawkish Fed speak, which keeps hopes of a September rate hike alive.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bullish-Tendency-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro treads water against US Dollar as traders await US CPI]]></title>
+            <link>https://www.fxstreet.com/news/euro-treads-water-against-us-dollar-as-traders-await-us-cpi-202608111053</link>
+            <guid isPermaLink="false">00b6b213-848e-4aba-9752-7f5fffc42883</guid>
+            <pubDate>Tue, 11 Aug 2026 10:53:57 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades around 1.1535 on Tuesday at the time of writing, posting a modest 0.06% decline on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold Price Forecast: Rally hits pause near $4,440 with US CPI in focus]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-forecast-rally-hits-pause-near-4-440-with-us-cpi-in-focus-202608111049</link>
+            <guid isPermaLink="false">b5e32a3d-9592-488f-9856-3732d01be500</guid>
+            <pubDate>Tue, 11 Aug 2026 10:49:52 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) trades 0.26% lower at around $4,380 during the European trading session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NZD/USD Price Forecast: Focus shifts to 0.5850 support area as risk appetite fades]]></title>
+            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-focus-shifts-to-05850-support-area-as-risk-appetite-fades-202608111022</link>
+            <guid isPermaLink="false">ef1a374e-1a24-4ddc-b7ca-aff4ba7dc25c</guid>
+            <pubDate>Tue, 11 Aug 2026 10:22:54 GMT</pubDate>
+            <description><![CDATA[The New Zealand Dollar (NZD) nudges lower against a firmer US Dollar (USD) for the second consecutive day on Tuesday, as doubts about the fate of the US-Iran peace negotiations hurt market confidence and boost Oil prices higher.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/bull-bear-04.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar: RBA keeps door open – Rabobank]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-rba-keeps-door-open-rabobank-202608110957</link>
@@ -93,7 +125,7 @@
             <guid isPermaLink="false">2f43e281-cecc-4dbb-b977-af0c388c09dc</guid>
             <pubDate>Tue, 11 Aug 2026 08:54:18 GMT</pubDate>
             <description><![CDATA[EUR/CAD continues its losing streak for the fifth consecutive day, trading around 1.6080 during the European hours on Tuesday. The Euro (EUR) is under pressure as rising risk aversion, driven by escalating US-Iran tensions, weighs on the cross.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
+            <enclosure url="https://editorial.fxstreet.com/images/i/BearishFalling.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Japanese Yen: Yield outlook fails to lift Yen – Societe Generale]]></title>
@@ -176,7 +208,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_2.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Silver Price Forecasts: XAG/USD corrects lower from $67.00 resistance area]]></title>
+            <title><![CDATA[Silver Price Forecast: XAG/USD corrects lower from $67.00 resistance area]]></title>
             <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-corrects-lower-from-6700-resistance-area-202608110745</link>
             <guid isPermaLink="false">cb79e50b-f39c-4833-bcf6-86667ffdc5ce</guid>
             <pubDate>Tue, 11 Aug 2026 07:45:40 GMT</pubDate>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 11 Aug 2026 07:17:34 GMT</pubDate>
             <description><![CDATA[ING analysts Warren Patterson and Ewa Manthey note that Oil prices are firmer as optimism over a potential US–Iran deal fades, keeping supply risks elevated.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Price Forecast: Refreshes weekly high at $82.70 as oil supply uncertainty deepens]]></title>
-            <link>https://www.fxstreet.com/news/wti-price-forecast-refreshes-weekly-high-at-8270-as-oil-supply-uncertainty-deepens-202608110709</link>
-            <guid isPermaLink="false">0b0b5f6f-f206-4190-9b3a-2427bdb0fa77</guid>
-            <pubDate>Tue, 11 Aug 2026 07:09:33 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trade 1.55% higher at around $82.70 during the European trading session on Tuesday, the highest level seen in over a week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound consolidates around 1.3500 vs USD; looks to US CPI, UK GDP for fresh impetus]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-consolidates-around-13500-vs-usd-looks-to-us-cpi-uk-gdp-for-fresh-impetus-202608110703</link>
-            <guid isPermaLink="false">5e5614ef-33de-47ae-88cb-8a44bcac1b0f</guid>
-            <pubDate>Tue, 11 Aug 2026 07:03:00 GMT</pubDate>
-            <description><![CDATA[The GBP/USD pair seesaws between tepid gains and minor losses through the early European session on Tuesday, though it remains close to the highest level since July 16 set the previous day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro drifts below 1.1550 as hopes of a swift US-Iran peace deal wane]]></title>
-            <link>https://www.fxstreet.com/news/euro-drifts-below-11550-as-hopes-of-a-swift-us-iran-peace-deal-wane-202608110658</link>
-            <guid isPermaLink="false">73643700-960e-4f2c-bda1-440735446a77</guid>
-            <pubDate>Tue, 11 Aug 2026 06:58:58 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) nudges lower against the US Dollar (USD) on Tuesday, weighed by the stalemate in the US-Iran negotiations and higher oil prices, which put additional pressure on the crude-importing eurozone economies.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: Fading hopes of a US-Iran deal weighs on market mood ]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-fading-hopes-of-a-us-iran-deal-weighs-on-market-mood-202608110656</link>
-            <guid isPermaLink="false">74d793ed-854e-4def-91fd-31ce218aece8</guid>
-            <pubDate>Tue, 11 Aug 2026 06:56:30 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Tuesday, August 11:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/oil-war-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
