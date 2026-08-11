@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 11:07:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 11:58:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US Dollar: CPI keeps USD in tight ranges – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-cpi-keeps-usd-in-tight-ranges-ocbc-202608111153</link>
+            <guid isPermaLink="false">1bf25fbf-480c-43a4-8416-3f6236f817a4</guid>
+            <pubDate>Tue, 11 Aug 2026 11:53:08 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note the US Dollar (USD) softened as Fed hike expectations moderated and the US yield curve steepened.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc holds below 0.8100 US Dollar with US-Iran negotiations deadlocked]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-holds-below-08100-us-dollar-with-us-iran-negotiations-deadlocked-202608111152</link>
+            <guid isPermaLink="false">8d3a692e-da62-4ecb-82cf-cdefaa0e4c70</guid>
+            <pubDate>Tue, 11 Aug 2026 11:52:35 GMT</pubDate>
+            <description><![CDATA[The Swiss Franc trades practically flat against the US Dollar (USD) on Tuesday, consolidating halfway through last week’s trading range.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/USD Price Forecast: Holds Descending Triangle breakout]]></title>
+            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-holds-descending-triangle-breakout-202608111146</link>
+            <guid isPermaLink="false">61effbee-74e7-4e7b-8cd6-eb3d99a716a8</guid>
+            <pubDate>Tue, 11 Aug 2026 11:46:57 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair trades marginally lower at around 1.3500 during the European trading session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Qatar says Oman-Iran talks reach advanced stage]]></title>
+            <link>https://www.fxstreet.com/news/qatar-says-oman-iran-talks-reach-advanced-stage-202608111140</link>
+            <guid isPermaLink="false">7827917b-b40c-4b13-8d51-3ce9b52fb1a3</guid>
+            <pubDate>Tue, 11 Aug 2026 11:40:13 GMT</pubDate>
+            <description><![CDATA[Talks between Oman and Iran have reached an advanced stage, Qatar’s Foreign Ministry spokesperson said on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Natural gas: European prices surge as LNG flows stall – ING]]></title>
+            <link>https://www.fxstreet.com/news/natural-gas-european-prices-surge-as-lng-flows-stall-ing-202608111133</link>
+            <guid isPermaLink="false">eadabeb3-35d7-441b-8722-a7cc46214e1f</guid>
+            <pubDate>Tue, 11 Aug 2026 11:33:46 GMT</pubDate>
+            <description><![CDATA[ING strategists Warren Patterson and Ewa Manthey report that European Natural gas benchmark TTF jumped over 9%, moving back above EUR60/MWh as hopes for a US–Iran deal fade.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold pauses near two-month highs as US-Iran standoff drives Oil prices higher]]></title>
+            <link>https://www.fxstreet.com/news/gold-pauses-near-two-month-highs-as-us-iran-standoff-drives-oil-prices-higher-202608111125</link>
+            <guid isPermaLink="false">d2f4f77c-1492-4925-a55a-f6a1b739aae8</guid>
+            <pubDate>Tue, 11 Aug 2026 11:25:42 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) pauses its rally on Tuesday after hitting a two-month high of $4,435 earlier in Asian trading hours. The modest pullback comes as uncertainty over when the Strait of Hormuz will reopen keeps Oil prices elevated.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Wider range with intervention support against US Dollar – HSBC]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-wider-range-with-intervention-support-against-us-dollar-hsbc-202608111118</link>
+            <guid isPermaLink="false">d4775a0d-0f89-4d45-98a6-2a810ea98b63</guid>
+            <pubDate>Tue, 11 Aug 2026 11:18:42 GMT</pubDate>
+            <description><![CDATA[HSBC strategists discuss the sharp post-intervention drop following coordinated action by Japan’s Ministry of Finance and the US Treasury. They argue that joint intervention is more effective than unilateral moves but unlikely to change the broader trend without improved Japanese fundamentals.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[US Dollar Index Price Forecast: A break above 100.00 would confirm a double bottom]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-index-price-forecast-a-break-above-10000-would-confirm-a-double-bottom-202608111106</link>
@@ -190,62 +246,6 @@
             <pubDate>Tue, 11 Aug 2026 08:02:13 GMT</pubDate>
             <description><![CDATA[NZD/USD extends its losses for the second successive day, trading around 0.5880 during the European hours on Tuesday. The pair depreciates as the US Dollar (USD) gains on increased safe-haven demand amid heightened geopolitical tensions.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen struggles below 159.00 vs USD amid fiscal woes, US-Japan rate gap]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-struggles-below-15900-vs-usd-amid-fiscal-woes-us-japan-rate-gap-202608110754</link>
-            <guid isPermaLink="false">368b7b0c-d215-429f-b09d-264e6c9d2b08</guid>
-            <pubDate>Tue, 11 Aug 2026 07:54:32 GMT</pubDate>
-            <description><![CDATA[The USD/JPY pair reverses an intraday dip to sub-159.00 levels and climbs to the top end of its daily range during the early part of the European session on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bearish-computer.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: Risk sentiment holds despite oil and rates – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-risk-sentiment-holds-despite-oil-and-rates-deutsche-bank-202608110752</link>
-            <guid isPermaLink="false">4082567b-7ad6-4073-8231-91a18fd39f89</guid>
-            <pubDate>Tue, 11 Aug 2026 07:52:37 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists report that US equities saw modest losses as Oil extended gains, with the S&P 500 easing slightly from record highs and chipmakers leading declines. Energy and health care outperformed.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD corrects lower from $67.00 resistance area]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-corrects-lower-from-6700-resistance-area-202608110745</link>
-            <guid isPermaLink="false">cb79e50b-f39c-4833-bcf6-86667ffdc5ce</guid>
-            <pubDate>Tue, 11 Aug 2026 07:45:40 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) trades lower on Tuesday, retreating to levels below $64.50, after rejection at seven-week highs around $66.60 on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Upside tests but capped near 1.3555 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-upside-tests-but-capped-near-13555-against-us-dollar-uob-202608110738</link>
-            <guid isPermaLink="false">7c51223e-d408-452f-bc81-777ff2d74231</guid>
-            <pubDate>Tue, 11 Aug 2026 07:38:18 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that GBP/USD extended last week’s rally, but overbought conditions should confine intraday moves to a 1.3490–1.3535 band.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc weakens as market caution lifts US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-weakens-as-market-caution-lifts-us-dollar-202608110729</link>
-            <guid isPermaLink="false">fade7e6f-3ae2-4710-a6fc-1ca8cffcdce7</guid>
-            <pubDate>Tue, 11 Aug 2026 07:29:43 GMT</pubDate>
-            <description><![CDATA[USD/CHF extends its gains for the second successive day, trading around 0.8110 during the early European hours on Tuesday. The currency pair has pushed higher as the US Dollar (USD) erased its intraday losses, fueled by a sharp rally in crude oil driven by heightened geopolitical tensions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ tightening key to recovery against US Dollar - OCBC]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-tightening-key-to-recovery-against-us-dollar-ocbc-202608110725</link>
-            <guid isPermaLink="false">75d262b7-173e-4e73-94f4-c5f4a09d0607</guid>
-            <pubDate>Tue, 11 Aug 2026 07:25:57 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that Japan’s recent FX intervention, backed by United States (US) involvement, has not fully reversed Japanese Yen (JPY) weakness, with USD/JPY near 159 after retracing much of its post-intervention drop.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Upside risks persist as deal optimism fades – ING]]></title>
-            <link>https://www.fxstreet.com/news/oil-upside-risks-persist-as-deal-optimism-fades-ing-202608110717</link>
-            <guid isPermaLink="false">41389618-95f5-45d2-b7bf-94885857c022</guid>
-            <pubDate>Tue, 11 Aug 2026 07:17:34 GMT</pubDate>
-            <description><![CDATA[ING analysts Warren Patterson and Ewa Manthey note that Oil prices are firmer as optimism over a potential US–Iran deal fades, keeping supply risks elevated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
