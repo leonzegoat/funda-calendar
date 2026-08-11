@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 21:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 22:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Australian Dollar goes seven weeks without a central bank]]></title>
+            <link>https://www.fxstreet.com/news/the-australian-dollar-goes-seven-weeks-without-a-central-bank-202608112244</link>
+            <guid isPermaLink="false">aa0cb3c8-1e83-4bd2-819b-73020d8dc3a9</guid>
+            <pubDate>Tue, 11 Aug 2026 22:44:18 GMT</pubDate>
+            <description><![CDATA[AUD/USD trades just above 0.7050 on Tuesday August 11, a tenth of a percent firmer inside a 29-pip range, having taken the Reserve Bank of Australia (RBA) decision entirely in its stride.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US yields ease as CPI caution offsets Oil rally]]></title>
+            <link>https://www.fxstreet.com/news/us-yields-ease-as-cpi-caution-offsets-oil-rally-202608112239</link>
+            <guid isPermaLink="false">3a5aa03f-b065-4308-ad99-760bb225b661</guid>
+            <pubDate>Tue, 11 Aug 2026 22:39:56 GMT</pubDate>
+            <description><![CDATA[US Treasury yields eased on Tuesday as most investors remain cautious, awaiting the release of US inflation figures and the resolution of the US-Iran conflict, which has encountered hurdles.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Range trade persists, upside risk against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-upside-risk-against-us-dollar-uob-202608112226</link>
+            <guid isPermaLink="false">9747ee9b-05c5-4078-8f43-0203b7e9629e</guid>
+            <pubDate>Tue, 11 Aug 2026 22:26:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann expect USD/CNH to remain confined in a narrow intraday range, reflecting flat momentum indicators. Over the next 1–3 weeks, they still see scope for the Dollar to edge lower toward 6.7300 while resistance has shifted higher.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Japanese Yen gives back half of a record intervention]]></title>
+            <link>https://www.fxstreet.com/news/the-japanese-yen-gives-back-half-of-a-record-intervention-202608112205</link>
+            <guid isPermaLink="false">bfd6cda8-373d-4b5f-a830-03dfbe6d69f7</guid>
+            <pubDate>Tue, 11 Aug 2026 22:05:53 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades just beneath 159.50 on Tuesday August 11, effectively unchanged inside a 47-pip range, wedged between a reclaimed 200-day moving average near 158.00 and a declining 50-day near 160.50.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indonesian Rupiah: BI succession supports IDR against US Dollar – OCBC]]></title>
             <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-succession-supports-idr-against-us-dollar-ocbc-202608112141</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 11 Aug 2026 15:10:44 GMT</pubDate>
             <description><![CDATA[USD/CAD trades under pressure on Tuesday, staying on the back foot for a third straight day. However, the pair lacks follow-through selling as the US Dollar (USD) holds firm ahead of Wednesday’s US Consumer Price Index (CPI) data.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA policy path caps upside against US Dollar – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-policy-path-caps-upside-against-us-dollar-societe-generale-202608111505</link>
-            <guid isPermaLink="false">4db84640-9cb3-4bb5-bc52-24c6eaebb2ad</guid>
-            <pubDate>Tue, 11 Aug 2026 15:05:25 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Kenneth Broux highlights ongoing pressure on the Australian Dollar after the RBA removed one projected rate hike, keeping the cash rate at 4.35% and projecting the policy rate around 4.40% through 2028.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP slips as bearish pressure mounts ]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-slips-as-bearish-pressure-mounts-202608111505</link>
-            <guid isPermaLink="false">207e9b7c-e8f5-4ea7-918d-f344e48b1ad6</guid>
-            <pubDate>Tue, 11 Aug 2026 15:05:04 GMT</pubDate>
-            <description><![CDATA[EUR/GBP is trading on the lower end of its weekly range near the 0.8540 price zone on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Bullish momentum builds against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-builds-against-us-dollar-scotiabank-202608111448</link>
-            <guid isPermaLink="false">3b8b8763-48f8-4a36-b53b-1865cd3a4493</guid>
-            <pubDate>Tue, 11 Aug 2026 14:48:57 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is supported by higher Oil prices and Friday’s strong Canadian jobs data versus weaker US labour figures.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Gradual appreciation path against US Dollar – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/euro-gradual-appreciation-path-against-us-dollar-commerzbank-202608111427</link>
-            <guid isPermaLink="false">3bf288b9-ebee-4760-be7e-b26f58172f55</guid>
-            <pubDate>Tue, 11 Aug 2026 14:27:37 GMT</pubDate>
-            <description><![CDATA[Commerzbank's Chief Economist Dr. Jörg Krämer expects EUR/USD to recover once the Iran conflict eases and to grind higher over the coming quarters.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
