@@ -4,16 +4,72 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 00:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 02:54:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[RBA set to hold interest rate at 4.35% as softer inflation cools hike bets]]></title>
+            <title><![CDATA[Euro flat lines near mid-1.1500s vs USD as traders await US CPI amid Iran uncertainty]]></title>
+            <link>https://www.fxstreet.com/news/euro-flat-lines-near-mid-11500s-vs-usd-as-traders-await-us-cpi-amid-iran-uncertainty-202608110218</link>
+            <guid isPermaLink="false">a20d8f99-a5b8-4bdf-a463-c790f70d238f</guid>
+            <pubDate>Tue, 11 Aug 2026 02:18:42 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair struggles to gain any meaningful traction and holds steady around the 1.1545-1.1550 area during the Asian session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar holds ground ahead of RBA policy decision]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-holds-ground-ahead-of-rba-policy-decision-202608110216</link>
+            <guid isPermaLink="false">679d0362-87ab-4f69-bb54-8489adffb45b</guid>
+            <pubDate>Tue, 11 Aug 2026 02:16:19 GMT</pubDate>
+            <description><![CDATA[AUD/USD regains ground after registering modest losses the previous day, trading around 0.7060 during Asian hours on Tuesday. The pair gains as the Australian Dollar (AUD) remains stronger ahead of the Reserve Bank of Australia's (RBA) interest rate decision later in the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RBA set to hold interest rate as softer inflation shifts outlook]]></title>
             <link>https://www.fxstreet.com/news/rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-202608110030</link>
             <guid isPermaLink="false">40e1604a-6ee2-4e73-95ec-c5a9ec96cade</guid>
             <pubDate>Tue, 11 Aug 2026 00:30:00 GMT</pubDate>
             <description><![CDATA[The Reserve Bank of Australia (RBA) is on track to keep the Official Cash Rate (OCR) steady at 4.35% for the second consecutive meeting on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-67.png" length="0" type="image/png"/>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: Gold rallies further beyond $4,400; highest since early June]]></title>
+            <link>https://www.fxstreet.com/news/breaking-gold-rallies-further-beyond-4-400-highest-since-early-june-202608110140</link>
+            <guid isPermaLink="false">54d206c4-d77f-4501-80fc-715a6c127b3e</guid>
+            <pubDate>Tue, 11 Aug 2026 01:40:14 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) scales higher for the third consecutive day – also marking the fifth day of a positive move in the previous six – and climbs to its highest level since June 5, further beyond the $4,400 mark during the Asian session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD holds losses near $66.00 on Fed hike fears, oil surge]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-to-near-6600-on-fed-hike-fears-oil-surge-202608110137</link>
+            <guid isPermaLink="false">e05aa186-b5fd-4613-b384-2e561563c492</guid>
+            <pubDate>Tue, 11 Aug 2026 01:37:48 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) depreciates after two days of gains, trading around $66.00 per troy ounce during the Asian hours on Tuesday. The price of non-yielding Silver has taken a hit recently as rising oil prices spark renewed inflation fears and heighten expectations for interest rate hikes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index consolidates below 100.00 as bulls await US CPI amid Iran risks]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-consolidates-below-10000-as-bulls-await-us-cpi-amid-iran-risks-202608110118</link>
+            <guid isPermaLink="false">7b4cd5a2-4968-4975-a6ae-aa895df77fd1</guid>
+            <pubDate>Tue, 11 Aug 2026 01:18:11 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, struggles to capitalize on the previous day's positive move and oscillates in a range during the Asian session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7900 vs. 6.7884 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67900-vs-67884-previous-202608110115</link>
+            <guid isPermaLink="false">e209ccbf-c883-4848-92d2-c9b54adf45fe</guid>
+            <pubDate>Tue, 11 Aug 2026 01:15:31 GMT</pubDate>
+            <description><![CDATA[The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7900 compared to the previous day's fix of 6.7884 and 6.7497 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI hovers around $81.50 as US-Iran peace talks stall]]></title>
+            <link>https://www.fxstreet.com/news/wti-hovers-around-8150-as-us-iran-peace-talks-stall-202608110102</link>
+            <guid isPermaLink="false">457a436d-28e6-40cb-a9ab-d31a3b04ea9f</guid>
+            <pubDate>Tue, 11 Aug 2026 01:02:27 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price moves little after registering gains over 6.5% in the previous day, trading around $81.40 during the Asian hours on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Intervention bought the Japanese Yen a price, not a buyer]]></title>
@@ -190,62 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 16:16:33 GMT</pubDate>
             <description><![CDATA[The Pound Sterling (GBP) advances during the North American session on Monday, up 0.2% as markets digest developments in the Middle East and await crucial inflation data in the United States (US). The GBP/USD pair trades at 1.3520 after bouncing off daily lows of 1.3483.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Emerging Markets: Selectivity key as Fed path clouds – HSBC]]></title>
-            <link>https://www.fxstreet.com/news/emerging-markets-selectivity-key-as-fed-path-clouds-hsbc-202608101613</link>
-            <guid isPermaLink="false">b04b6e16-1cf8-4bca-96a1-d6bf7ea2717d</guid>
-            <pubDate>Mon, 10 Aug 2026 16:13:33 GMT</pubDate>
-            <description><![CDATA[HSBC Asset Management notes that Emerging Market local-currency bonds have delivered strong returns over the past four years, supported by credible policies and attractive real yields, but year-to-date performance has softened as US Treasury yields rose and EM-US real rate differentials narrowed.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Denmark: Tax cuts keep inflation below the euro area – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/denmark-tax-cuts-keep-inflation-below-the-euro-area-nordea-202608101554</link>
-            <guid isPermaLink="false">8bd3efc5-472c-4f92-98cc-c10a19bd7a92</guid>
-            <pubDate>Mon, 10 Aug 2026 15:54:00 GMT</pubDate>
-            <description><![CDATA[Nordea economist Jan Størup Nielsen notes that Danish inflation eased slightly in July, with headline consumer prices up 1.7% year-over-year and core inflation steady at 2.3%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Denmark.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CAD Price Forecast: Bearish pressure builds below 1.4000]]></title>
-            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-pressure-builds-below-14000-202608101550</link>
-            <guid isPermaLink="false">5ff554f1-7ece-474e-ba3c-ad3fc7d2f346</guid>
-            <pubDate>Mon, 10 Aug 2026 15:50:43 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades on the back foot on Monday even as the US Dollar (USD) regains some ground after weakening last week following softer-than-expected US Nonfarm Payrolls (NFP) data. Attention now turns to Wednesday’s US Consumer Price Index (CPI) report.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Eurozone: Resilient data but growth risks weigh on Euro – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/eurozone-resilient-data-but-growth-risks-weigh-on-euro-rabobank-202608101457</link>
-            <guid isPermaLink="false">2e52d8fb-f8cc-4ef1-a80f-77c743e40568</guid>
-            <pubDate>Mon, 10 Aug 2026 14:57:52 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley notes Eurozone Q2 Gross Domestic Product (GDP) and Purchasing Managers' Index (PMI) data surprised to the upside, suggesting resilience despite higher energy prices and supply disruptions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar stays flat ahead of RBA rate decision]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-stays-flat-ahead-of-rba-rate-decision-202608101457</link>
-            <guid isPermaLink="false">fa3fb277-06b3-487a-925d-5991b495b3d8</guid>
-            <pubDate>Mon, 10 Aug 2026 14:57:27 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) trades near the 0.7060 level against the US Dollar (USD) on Monday, giving back a little ground after six straight weeks of gains. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold holds firm as Fed rate outlook, Middle East developments remain in focus]]></title>
-            <link>https://www.fxstreet.com/news/gold-holds-firm-as-fed-rate-outlook-middle-east-developments-remain-in-focus-202608101127</link>
-            <guid isPermaLink="false">947b441c-09d4-420e-9315-b977fc5d039a</guid>
-            <pubDate>Mon, 10 Aug 2026 11:27:31 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) struggles to extend gains on Monday as buyers take a breather following last week’s sharp rally, with the broader market theme still centred on the Federal Reserve’s (Fed) interest-rate outlook and developments in the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds ground against US Dollar amid Fed uncertainty ahead of US CPI]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-ground-against-us-dollar-amid-fed-uncertainty-ahead-of-us-cpi-202608101451</link>
-            <guid isPermaLink="false">e524b092-6d7a-4c94-a843-9404ba834cdb</guid>
-            <pubDate>Mon, 10 Aug 2026 14:51:20 GMT</pubDate>
-            <description><![CDATA[EUR/USD treads water on Monday as the US Dollar (USD) steadies following its post-NFP weakness, while Oil prices rise amid uncertainty over the reopening of the Strait of Hormuz. At the time of writing, the pair trades around 1.1553, virtually unchanged on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
