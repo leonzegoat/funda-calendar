@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 02:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 04:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Remains below 183.00 as bearish bias prevails]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-remains-below-18300-as-bearish-bias-prevails-202608110352</link>
+            <guid isPermaLink="false">763d278f-5910-4049-8380-5a67e0e7d522</guid>
+            <pubDate>Tue, 11 Aug 2026 03:52:42 GMT</pubDate>
+            <description><![CDATA[EUR/JPY depreciates after registering modest gains in the previous day, trading around 183.80 during the Asian hours on Tuesday. The Relative Strength Index (14) at 47.63 sits just below the neutral 50 line, hinting at ongoing bearish momentum without yet reaching oversold conditions.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound clings to gains against US Dollar, US CPI in focus]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-clings-to-gains-against-us-dollar-us-cpi-in-focus-202608110336</link>
+            <guid isPermaLink="false">f41a24d7-0dbd-4c4c-b5c2-866166c9ac34</guid>
+            <pubDate>Tue, 11 Aug 2026 03:36:00 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) holds onto two-day gains marginally at around 1.3500 against the US Dollar (USD) during the Asian trading session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar sits near two-month top vs USD amid bullish oil prices]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-sits-near-two-month-top-vs-usd-amid-bullish-oil-prices-202608110335</link>
+            <guid isPermaLink="false">1c1f06bc-828d-46ac-ae26-a63cabee5eb3</guid>
+            <pubDate>Tue, 11 Aug 2026 03:35:10 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair is seen consolidating its recent losses to a two-month low, touched last week, and trading below mid-1.3900s during the Asian session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RBA set to hold interest rate unchanged as markets await Bullock’s policy signals]]></title>
+            <link>https://www.fxstreet.com/news/rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-202608110030</link>
+            <guid isPermaLink="false">40e1604a-6ee2-4e73-95ec-c5a9ec96cade</guid>
+            <pubDate>Tue, 11 Aug 2026 00:30:00 GMT</pubDate>
+            <description><![CDATA[The Reserve Bank of Australia (RBA) is on track to keep the Official Cash Rate (OCR) steady at 4.35% for the second consecutive meeting on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen holds range in thin holiday trading amid intervention speculations]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-holds-range-in-thin-holiday-trading-amid-intervention-speculations-202608110314</link>
+            <guid isPermaLink="false">f796848d-2870-4ed7-91de-74370dd28f75</guid>
+            <pubDate>Tue, 11 Aug 2026 03:14:51 GMT</pubDate>
+            <description><![CDATA[USD/JPY moves little after posting nearly 1% gains in the previous day, trading around 159.30 during the Asian hours on Tuesday. The pair moved little today, trading in tight ranges as market volumes remained thin with Japanese markets closed for the Mountain Day holiday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BoJ to consider raising interest rates in September – Jiji Press]]></title>
+            <link>https://www.fxstreet.com/news/boj-to-consider-raising-interest-rates-in-september-jiji-press-202608110303</link>
+            <guid isPermaLink="false">d7938f7e-28bb-460d-a380-35728f84c609</guid>
+            <pubDate>Tue, 11 Aug 2026 03:03:29 GMT</pubDate>
+            <description><![CDATA[According to the Jiji Press, the Bank of Japan (BoJ) may consider an additional interest rate increase at its next policy meeting on September 17-18, after leaving them unchanged in July, to counter upside inflation risks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar remains confined in a range vs USD amid Iran risks, ahead of US CPI]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-remains-confined-in-a-range-vs-usd-amid-iran-risks-ahead-of-us-cpi-202608110302</link>
+            <guid isPermaLink="false">372a29e2-ce9f-40e7-9872-d280893db018</guid>
+            <pubDate>Tue, 11 Aug 2026 03:02:43 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair seesaws between tepid gains/minor losses during the Asian session on Tuesday and currently trades just below the 0.5900 mark.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Euro flat lines near mid-1.1500s vs USD as traders await US CPI amid Iran uncertainty]]></title>
             <link>https://www.fxstreet.com/news/euro-flat-lines-near-mid-11500s-vs-usd-as-traders-await-us-cpi-amid-iran-uncertainty-202608110218</link>
@@ -22,14 +78,6 @@
             <pubDate>Tue, 11 Aug 2026 02:16:19 GMT</pubDate>
             <description><![CDATA[AUD/USD regains ground after registering modest losses the previous day, trading around 0.7060 during Asian hours on Tuesday. The pair gains as the Australian Dollar (AUD) remains stronger ahead of the Reserve Bank of Australia's (RBA) interest rate decision later in the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[RBA set to hold interest rate as softer inflation shifts outlook]]></title>
-            <link>https://www.fxstreet.com/news/rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-202608110030</link>
-            <guid isPermaLink="false">40e1604a-6ee2-4e73-95ec-c5a9ec96cade</guid>
-            <pubDate>Tue, 11 Aug 2026 00:30:00 GMT</pubDate>
-            <description><![CDATA[The Reserve Bank of Australia (RBA) is on track to keep the Official Cash Rate (OCR) steady at 4.35% for the second consecutive meeting on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Breaking: Gold rallies further beyond $4,400; highest since early June]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Mon, 10 Aug 2026 18:11:59 GMT</pubDate>
             <description><![CDATA[In a major setback to efforts to reopen the Strait of Hormuz and cool Middle East tensions, Iran ruled out any future negotiations with United States (US) President Donald Trump, according to Iranian outlets and a X post by an adviser to Parliament Speaker Mohammad Bagher Ghalibaf.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LatAm FX: Carry window opens with caveats – BNY]]></title>
-            <link>https://www.fxstreet.com/news/latam-fx-carry-window-opens-with-caveats-bny-202608101809</link>
-            <guid isPermaLink="false">539a39d8-2ceb-458d-8c76-7da194955c96</guid>
-            <pubDate>Mon, 10 Aug 2026 18:09:37 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu and David Tam argue that a more dovish Federal Reserve (Fed) and weaker United States (US) labor data have improved conditions for Latin American (LatAm) carry trades, but broken correlations with commodities and lingering inflation risks limit momentum.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/south-american-continent-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US President Trump says Iran should pay for regional damage]]></title>
-            <link>https://www.fxstreet.com/news/us-president-trump-says-iran-should-pay-for-regional-damage-202608101806</link>
-            <guid isPermaLink="false">c515dfc8-7a39-4e68-aeb6-35ebf8256d53</guid>
-            <pubDate>Mon, 10 Aug 2026 18:06:24 GMT</pubDate>
-            <description><![CDATA[United States (US) President Donald Trump used a post on his Truth Social platform to push back on Iran's demands for war reparations, arguing that Tehran, not Washington, should carry the bill for the damage and lives lost across the region.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold edges higher as Hormuz delays, US CPI keep traders cautious]]></title>
-            <link>https://www.fxstreet.com/news/gold-edges-higher-as-hormuz-delays-us-cpi-keep-traders-cautious-202608101758</link>
-            <guid isPermaLink="false">8286ba8c-3631-4b12-8e10-a0fa9b3a9aa6</guid>
-            <pubDate>Mon, 10 Aug 2026 17:58:24 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) price edges up at the beginning of the week as the reopening of the Strait of Hormuz faces delays due to demands from Iran to the US, and is capped by the modest strength of the Greenback, with traders eyeing the release of crucial US inflation data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen weakens as surprise current account deficit weighs]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-weakens-as-surprise-current-account-deficit-weighs-202608101647</link>
-            <guid isPermaLink="false">5f95dec3-cc2f-42eb-ba4c-6d631910e9dc</guid>
-            <pubDate>Mon, 10 Aug 2026 16:47:33 GMT</pubDate>
-            <description><![CDATA[USD/JPY advances 0.73% on Monday and trades around 158.95 at the time of writing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Canadian Dollar takes back two months in ten sessions]]></title>
-            <link>https://www.fxstreet.com/news/the-canadian-dollar-takes-back-two-months-in-ten-sessions-202608101644</link>
-            <guid isPermaLink="false">1bdf3286-5fb0-4322-b806-fd8cea5c6855</guid>
-            <pubDate>Mon, 10 Aug 2026 16:44:45 GMT</pubDate>
-            <description><![CDATA[The Canadian Dollar trades at its strongest against the US Dollar since the second week of June, with the rate holding just above 1.3900 into the afternoon.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound climbs as Hormuz talks stall, US CPI in focus]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-climbs-as-hormuz-talks-stall-us-cpi-up-next-202608101616</link>
-            <guid isPermaLink="false">bbb71c2a-2f83-4b62-9cb4-62b0c8f53f6e</guid>
-            <pubDate>Mon, 10 Aug 2026 16:16:33 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling (GBP) advances during the North American session on Monday, up 0.2% as markets digest developments in the Middle East and await crucial inflation data in the United States (US). The GBP/USD pair trades at 1.3520 after bouncing off daily lows of 1.3483.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
