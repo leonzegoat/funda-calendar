@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 02:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 04:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[United States Dollar Index rises to near 100.00 ahead of US inflation data]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-10000-ahead-of-us-inflation-data-202608120403</link>
+            <guid isPermaLink="false">089ccdbf-a231-4c1d-915d-e916be3a3b8c</guid>
+            <pubDate>Wed, 12 Aug 2026 04:03:32 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is extending gains for the third successive day and trading around 99.90 during the Asian hours on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DollarIndex.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD rises to near $65.40 with US inflation in focus]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6540-with-us-inflation-in-focus-202608120322</link>
+            <guid isPermaLink="false">a89d6eed-bbf4-4ba8-852c-5dd93249730a</guid>
+            <pubDate>Wed, 12 Aug 2026 03:22:54 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) trades 1.1% higher at around $65.40 during the Asian trading session on Wednesday. The white metal reflects strength ahead of the United States (US) Consumer Price Index (CPI) data for July, which will be published at 12:30 GMT.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar eases from two-month high as USD preserves weekly gains ahead of US CPI]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-eases-from-two-month-high-as-usd-preserves-weekly-gains-ahead-of-us-cpi-202608120317</link>
+            <guid isPermaLink="false">df521f01-35fc-4794-a99e-b4611d6b7470</guid>
+            <pubDate>Wed, 12 Aug 2026 03:17:52 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair ticks higher during the Asian session on Wednesday, snapping a three-day losing streak to the 1.3915 area or its lowest level since June 10. Spot prices, however, lack bullish conviction and trade around 1.3930, awaiting the release of the latest US inflation figures.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar struggles as US Dollar gains on Middle East uncertainty]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-us-dollar-gains-on-middle-east-uncertainty-202608120308</link>
+            <guid isPermaLink="false">5dbd3442-ac1f-4b3f-b78c-79e185d4ebc0</guid>
+            <pubDate>Wed, 12 Aug 2026 03:08:17 GMT</pubDate>
+            <description><![CDATA[NZD/USD continues its losing streak for the third consecutive day, trading around 0.5870 during the Asian hours on Wednesday. The pair depreciates as the US Dollar (USD) gains ground on increased safe-haven demand amid rising uncertainty surrounding Middle East peace talks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar slips as US Dollar strengthens amid uncertainty over Fed outlook]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-slips-as-us-dollar-strengthens-amid-uncertainty-over-fed-outlook-202608120233</link>
+            <guid isPermaLink="false">a8b201c1-24e3-44fc-a7f9-17028c5d997d</guid>
+            <pubDate>Wed, 12 Aug 2026 02:33:07 GMT</pubDate>
+            <description><![CDATA[AUD/USD depreciates after registering modest gains in the previous day, trading around 0.7060 during the Asian hours on Wednesday. The currency pair loses ground as the US Dollar (USD) rises ahead of a crucial inflation report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen slides to two-week low, seems vulnerable as USD stands firm ahead of US CPI]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-slides-to-two-week-low-seems-vulnerable-as-usd-stands-firm-ahead-of-us-cpi-202608120228</link>
+            <guid isPermaLink="false">83892b93-c8f9-413e-8450-66c2fde06131</guid>
+            <pubDate>Wed, 12 Aug 2026 02:28:10 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair touches a one-and-a-half-week high during the Asian session on Wednesday, with bulls now looking to build on the momentum further beyond mid-159.00s amid a supportive fundamental backdrop.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-58.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[British Pound loses as rising US Dollar, geopolitical tensions weigh on sentiment]]></title>
             <link>https://www.fxstreet.com/news/british-pound-loses-as-rising-us-dollar-geopolitical-tensions-weigh-on-sentiment-202608120155</link>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 11 Aug 2026 18:15:21 GMT</pubDate>
             <description><![CDATA[Commerzbank’s energy team notes fading hopes for a US–Iran agreement to reopen the Strait of Hormuz, driving Brent toward USD 90 and gas oil to nearly USD 1,350 per ton. Drone attacks on refineries in Saudi Arabia, Russia, Libya and tight diesel supply add to the risk premium.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Price Forecast: Buyers defend 21-day SMA as bullish bias holds]]></title>
-            <link>https://www.fxstreet.com/news/wti-price-forecast-buyers-defend-21-day-sma-as-bullish-bias-holds-202608111812</link>
-            <guid isPermaLink="false">71d29a27-819d-440b-94db-e69eb875d8e2</guid>
-            <pubDate>Tue, 11 Aug 2026 18:12:38 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) Oil trades modestly higher on Tuesday after two-way price swings, as headlines from the Middle East keep energy markets volatile. At the time of writing, WTI trades around $82.13, up more than 7% so far this week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The US Dollar Index has no dovish tail to price]]></title>
-            <link>https://www.fxstreet.com/news/the-us-dollar-index-has-no-dovish-tail-to-price-202608111806</link>
-            <guid isPermaLink="false">a1c72515-e871-458a-b9d1-a8fcd06f16b7</guid>
-            <pubDate>Tue, 11 Aug 2026 18:06:33 GMT</pubDate>
-            <description><![CDATA[Tuesday gives the Dollar Index a session with almost nothing in it.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore: Growth set to run above potential – UOB]]></title>
-            <link>https://www.fxstreet.com/news/singapore-growth-set-to-run-above-potential-uob-202608111801</link>
-            <guid isPermaLink="false">12ba52a6-9afc-4be9-be36-972eb08b5b3f</guid>
-            <pubDate>Tue, 11 Aug 2026 18:01:46 GMT</pubDate>
-            <description><![CDATA[UOB economist Jester Koh highlights that Singapore’s 2Q26 Gross Domestic Product (GDP) was revised up to 5.9% year-on-year and 1.4% quarter-on-quarter, driven by AI-related strength in manufacturing and modern services.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG pullback puts $63.50 in focus]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-pullback-puts-6350-in-focus-202608111755</link>
-            <guid isPermaLink="false">bb96326a-30ed-48b6-b61a-ff5b11d2fe4a</guid>
-            <pubDate>Tue, 11 Aug 2026 17:55:08 GMT</pubDate>
-            <description><![CDATA[Silver price reverses its course, drops some 2.70% on Tuesday, even though US Treasury yields and the Greenback remained steady, amid news that if the US does not comply with Iran’s demands, the Strait of Hormuz would remain closed. The XAG/USD trades at $64.77, after hitting a daily high of $66.49.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen pares losses ahead of US inflation report]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-pares-losses-ahead-of-us-inflation-report-202608111749</link>
-            <guid isPermaLink="false">11374299-3a5d-4985-bc50-06b7791dc454</guid>
-            <pubDate>Tue, 11 Aug 2026 17:49:50 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) trades flat above 159.00 on Tuesday after several days of US Dollar (USD) strength following the intervention that briefly boosted the Yen. The pair has retraced most of its sharp intervention-driven decline, facing pressure from elevated Oil prices and a firm US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold eases amid firm US Dollar as CPI and Hormuz risks loom]]></title>
-            <link>https://www.fxstreet.com/news/gold-eases-amid-firm-us-dollar-as-cpi-and-hormuz-risks-loom-202608111728</link>
-            <guid isPermaLink="false">a0e34175-9d40-42da-a934-3876b2c5815c</guid>
-            <pubDate>Tue, 11 Aug 2026 17:28:34 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) price registers modest losses on Tuesday, driven by a firm US Dollar as traders await the release of crucial US inflation data and the potential reopening of the Strait of Hormuz. The rise in energy prices is also capping the yellow metal´s advance.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
