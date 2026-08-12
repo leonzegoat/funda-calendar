@@ -4,9 +4,89 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 09:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 10:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar outperforms despite RBA’s hawkish tone fails to sway markets]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-outperforms-despite-rbas-hawkish-tone-fails-to-sway-markets-202608121035</link>
+            <guid isPermaLink="false">f7adb23b-a8a7-4424-bb77-7368c0345729</guid>
+            <pubDate>Wed, 12 Aug 2026 10:35:21 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) is up against its major currency peers, trading marginally higher at around 0.7068 against the US Dollar (USD) during the European trading session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Soft US CPI could support gains against US Dollar – ING]]></title>
+            <link>https://www.fxstreet.com/news/euro-soft-us-cpi-could-support-gains-against-us-dollar-ing-202608121002</link>
+            <guid isPermaLink="false">dc15f2d0-dc47-4f06-8847-06c4185ef96a</guid>
+            <pubDate>Wed, 12 Aug 2026 10:02:46 GMT</pubDate>
+            <description><![CDATA[Chris Turner at ING notes EUR/USD remains lacklustre despite better Eurozone data and upside surprises, as high European natural gas prices and Gulf tensions weigh on the Euro.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI reverses lower as huge US inventory build clashes with Hormuz supply fears]]></title>
+            <link>https://www.fxstreet.com/news/wti-reverses-lower-as-huge-us-inventory-build-clashes-with-hormuz-supply-fears-202608121000</link>
+            <guid isPermaLink="false">bd95839e-3746-4396-98bf-19834da6dce8</guid>
+            <pubDate>Wed, 12 Aug 2026 10:00:23 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) US Oil reverses lower on Wednesday and trades around $81.60 at the time of writing, down 0.77% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US CPI data expected to cool in July as markets weigh Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830</link>
+            <guid isPermaLink="false">6773732c-369a-4834-9651-49952be1b67c</guid>
+            <pubDate>Wed, 12 Aug 2026 08:30:00 GMT</pubDate>
+            <description><![CDATA[The US Bureau of Labor Statistics (BLS) will publish the July Consumer Price Index (CPI) data on Wednesday. The report is expected to show a small decline in consumer inflation and core inflation. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-shopping-bags.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Fed pricing and CPI risks – BBH]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-fed-pricing-and-cpi-risks-bbh-202608120954</link>
+            <guid isPermaLink="false">fa451ff2-d135-4a35-9bf7-49e6d9f248ce</guid>
+            <pubDate>Wed, 12 Aug 2026 09:54:31 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes markets are steady ahead of the United States (US) July Consumer Price Index (CPI) release, which is seen as pivotal for Fed funds expectations and the Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro drifts away from 184.00 Yen despite hot German inflation figures ]]></title>
+            <link>https://www.fxstreet.com/news/euro-drifts-away-from-18400-yen-despite-hot-german-inflation-figures-202608120952</link>
+            <guid isPermaLink="false">67758cc9-0520-4274-aa5d-84f5eea9381a</guid>
+            <pubDate>Wed, 12 Aug 2026 09:52:52 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) is paring previous gains against the Japanese Yen (JPY) on Wednesday, weighed by a mild risk-off market mood as tensions in the Middle East grow.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: Upside risk intact above support against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-upside-risk-intact-above-support-against-us-dollar-uob-202608120943</link>
+            <guid isPermaLink="false">8514c42e-f6af-4472-885d-11a16310d52c</guid>
+            <pubDate>Wed, 12 Aug 2026 09:43:31 GMT</pubDate>
+            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann note AUD/USD rebounded to close around 0.7062 after the RBA left its cash rate at 4.35%. Intraday, they see scope for the Australian Dollar to edge higher, though a sustained break above 0.7075 is unlikely.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Looks to extend recovery against US Dollar – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-looks-to-extend-recovery-against-us-dollar-societe-generale-202608120935</link>
+            <guid isPermaLink="false">d208e168-2c5d-424f-b38d-67fb978eee85</guid>
+            <pubDate>Wed, 12 Aug 2026 09:35:28 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Kenneth Broux highlights that the Canadian Dollar has recovered to its strongest level in two months, with USD/CAD mean‑reverting to 1.3933 from 1.4248.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608120930</link>
+            <guid isPermaLink="false">b211c0d8-4df2-4921-aa23-1b905d6daf69</guid>
+            <pubDate>Wed, 12 Aug 2026 09:30:06 GMT</pubDate>
+            <description><![CDATA[Silver prices (XAG/USD) rose on Wednesday, according to FXStreet data. Silver trades at $66.56 per troy ounce, up 3.06% from the $64.58 it cost on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: CPI-driven range signals carry focus – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-cpi-driven-range-signals-carry-focus-ocbc-202608120922</link>
+            <guid isPermaLink="false">5da34638-9641-4538-a53a-3b24d583104c</guid>
+            <pubDate>Wed, 12 Aug 2026 09:22:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that the US Dollar (USD) stayed mixed as markets waited for the key United States (US) Consumer Price Index (CPI) release, with Middle East tensions and hawkish Federal Reserve (Fed) rhetoric offsetting each other.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Oil: Hormuz risk supports prices – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/oil-hormuz-risk-supports-prices-commerzbank-202608120913</link>
@@ -96,14 +176,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_DJI-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[US CPI data set to show softer inflation in July as markets reassess Fed rate hike bets]]></title>
-            <link>https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830</link>
-            <guid isPermaLink="false">6773732c-369a-4834-9651-49952be1b67c</guid>
-            <pubDate>Wed, 12 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[The US Bureau of Labor Statistics (BLS) will publish the July Consumer Price Index (CPI) data on Wednesday. The report is expected to show a small decline in consumer inflation and core inflation. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/inflation-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Brazilian Real: Politics weighs but carry supports – ING]]></title>
             <link>https://www.fxstreet.com/news/brazilian-real-politics-weighs-but-carry-supports-ing-202608120827</link>
             <guid isPermaLink="false">686fe1bc-e55d-4021-9000-cd65c35cc456</guid>
@@ -174,78 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 01:38:52 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) maintains its bid tone above the $4,400 mark through the first half of the European session and remains close to the highest level since June 5, touched on Tuesday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Antam3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CEE FX: Geopolitics drives rates and currencies – ING]]></title>
-            <link>https://www.fxstreet.com/news/cee-fx-geopolitics-drives-rates-and-currencies-ing-202608120739</link>
-            <guid isPermaLink="false">9da09150-6ec4-4dcc-b1b3-87eede43a351</guid>
-            <pubDate>Wed, 12 Aug 2026 07:39:36 GMT</pubDate>
-            <description><![CDATA[ING strategist Frantisek Taborsky highlights easing Romanian inflation driven mainly by base effects, with the National Bank of Romania unlikely to cut rates before early 2027.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CEE3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro remains subdued following German inflation data]]></title>
-            <link>https://www.fxstreet.com/news/euro-remains-subdued-following-german-inflation-data-202608120737</link>
-            <guid isPermaLink="false">6dc37c2e-02cd-4bdf-bbc3-e8b341079e3e</guid>
-            <pubDate>Wed, 12 Aug 2026 07:37:22 GMT</pubDate>
-            <description><![CDATA[EUR/USD extends its losses for the third successive day, trading around 1.1540 during the European hours on Wednesday. The pair holds losses as the Euro (EUR) remains weaker following the release of Germany’s Harmonized Index of Consumer Prices (HICP) data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound advances to two-week high as rate gap and fiscal woes undermine Yen]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-advances-to-two-week-high-as-rate-gap-and-fiscal-woes-undermine-yen-202608120734</link>
-            <guid isPermaLink="false">a91589b9-3cf2-46b4-a4f0-1ddf90925151</guid>
-            <pubDate>Wed, 12 Aug 2026 07:34:21 GMT</pubDate>
-            <description><![CDATA[The GBP/JPY cross climbs to a nearly two-week high, around the 215.35-215.40 area, during the first half of the European session on Wednesday and looks to prolong its recent solid recovery from the lowest level since early March, touched last week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Limited upside within defined band against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-limited-upside-within-defined-band-against-us-dollar-uob-202608120731</link>
-            <guid isPermaLink="false">7d38c76e-889a-4e2d-9889-d48bece5a9e6</guid>
-            <pubDate>Wed, 12 Aug 2026 07:31:17 GMT</pubDate>
-            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann highlight that GBP/USD closed marginally higher near 1.3510, with price action confined to a narrow 1.3493–1.3515 range. Intraday, they see scope for the Pound to edge higher but still capped within 1.3490–1.3535.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: AI earnings revive risk appetite after tech weakness - Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-ai-earnings-revive-risk-appetite-after-tech-weakness-deutsche-bank-202608120719</link>
-            <guid isPermaLink="false">db872f1c-0153-4fae-add5-4efdce78c7f1</guid>
-            <pubDate>Wed, 12 Aug 2026 07:19:39 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists note that United States (US) equities had a mixed session as Magnificent 7 weakness weighed on the S&P 500, even as the equal-weighted index reached a fresh record.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NZD/USD Price Forecast: Nearing 0.5860 support area amid by risk-off markets, domestic politics]]></title>
-            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-nearing-05860-support-area-amid-by-risk-off-markets-domestic-politics-202608120716</link>
-            <guid isPermaLink="false">07b584d7-dd33-4872-b142-47a2b0706678</guid>
-            <pubDate>Wed, 12 Aug 2026 07:16:06 GMT</pubDate>
-            <description><![CDATA[The New Zealand Dollar (NZD) accelerates its reversal against the US Dollar (USD) on Wednesday, weighed by cautious markets amid growing tensions in the Middle East and political uncertainty at home.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Constructive carry outlook with RBA on hold – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-constructive-carry-outlook-with-rba-on-hold-ocbc-202608120707</link>
-            <guid isPermaLink="false">f3138ab5-c62a-4d26-9988-3543c5a53c74</guid>
-            <pubDate>Wed, 12 Aug 2026 07:07:16 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note the Reserve Bank of Australia (RBA) kept rates unchanged at 4.35% but retained a modest tightening bias, with the Board having actively considered a hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/USD Price Forecast: Extends the range play near 0.7050; bulls await 50% Fibo. breakout]]></title>
-            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-extends-the-range-play-near-07050-bulls-await-50-fibo-breakout-202608120650</link>
-            <guid isPermaLink="false">11299255-dbbb-4255-96dd-9fd6afb4de58</guid>
-            <pubDate>Wed, 12 Aug 2026 06:50:57 GMT</pubDate>
-            <description><![CDATA[The AUD/USD pair prolongs its consolidative price move for the third straight day and trades around mid-0.7000s through the early European session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Policy focus after intervention - MUFG]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-policy-focus-after-intervention-mufg-202608120649</link>
-            <guid isPermaLink="false">1f7cb354-694e-430d-8b15-47652066b70a</guid>
-            <pubDate>Wed, 12 Aug 2026 06:49:19 GMT</pubDate>
-            <description><![CDATA[MUFG’s Teppei Ino reviews recent USD/JPY price action following coordinated Japan-US intervention. The pair opened near 157.58, dropped toward 155.20 on official confirmation of joint action, then recovered and traded above 158 by 7 August.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
