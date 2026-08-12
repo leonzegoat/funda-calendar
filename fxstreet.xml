@@ -4,15 +4,23 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 19:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 20:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Commodity FX: Growth constraints cap carry – BNY]]></title>
+            <link>https://www.fxstreet.com/news/commodity-fx-growth-constraints-cap-carry-bny-202608122006</link>
+            <guid isPermaLink="false">fc5333b1-91d1-4a78-b667-3edc7002463c</guid>
+            <pubDate>Wed, 12 Aug 2026 20:06:11 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu notes that a less hawkish Fed has weakened the Dollar but failed to spark a sustained bid in commodity FX such as Norwegian Krone (NOK), Australian Dollar (AUD) and Emerging Markets (EM) currencies Chilean Peso (CLP), South African Rand (ZAR) and Brazilian Real (BRL).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[USD/CHF Price Forecast: Bearish flag forms as bulls eye 0.8200]]></title>
             <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-forms-as-bulls-eye-08200-202608121941</link>
             <guid isPermaLink="false">6986dc51-fc16-4176-9b6c-399a42150fd5</guid>
             <pubDate>Wed, 12 Aug 2026 19:41:40 GMT</pubDate>
-            <description><![CDATA[The USD/CHF edges higher by some 0.30% on Wednesday, refreshing ten-day highs of 0.8138, as the uptrend is poised to extend if it clears key resistance levels.]]></description>
+            <description><![CDATA[The USD/CHF pair edges higher by some 0.30% on Wednesday, refreshing ten-day highs of 0.8138, as the uptrend is poised to extend if it clears key resistance levels.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object-1.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 08:30:00 GMT</pubDate>
             <description><![CDATA[Annual inflation in the United States (US), as measured by the change in the Consumer Price Index (CPI), declined to 3.4% in July from 3.5% in June, the US Bureau of Labor Statistics (BLS) reported on Wednesday. This print came in line with the market expectation.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IEA forecasts 4.3 million bpd drop in global Oil supply]]></title>
-            <link>https://www.fxstreet.com/news/iea-forecasts-43-million-bpd-drop-in-global-oil-supply-202608121228</link>
-            <guid isPermaLink="false">e370ba1c-4465-458e-9e30-3e72fde26d0f</guid>
-            <pubDate>Wed, 12 Aug 2026 12:28:08 GMT</pubDate>
-            <description><![CDATA[The International Energy Agency (IEA) cut its global Oil supply and demand forecasts for 2026 amid shipping disruptions in the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
