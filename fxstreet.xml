@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 10:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 11:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US Dollar: Inflation data and Middle East risks – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-inflation-data-and-middle-east-risks-commerzbank-202608121120</link>
+            <guid isPermaLink="false">b4836f38-1d65-4b3c-8f84-0cbc8ba1eb73</guid>
+            <pubDate>Wed, 12 Aug 2026 11:20:02 GMT</pubDate>
+            <description><![CDATA[Commerzbank FX analyst Antje Praefcke notes that July US inflation is expected to rise only 0.1% month-on-month, with headline and core rates slipping to 3.4% and 2.5% year-on-year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran confirms no discussions over US-Iran ceasefire extension for now - Reuters]]></title>
+            <link>https://www.fxstreet.com/news/iran-confirms-no-discussions-over-us-iran-ceasefire-extension-for-now-reuters-202608121102</link>
+            <guid isPermaLink="false">8cd4cdaf-4d38-4ce6-a51c-2da5ffa191a9</guid>
+            <pubDate>Wed, 12 Aug 2026 11:02:08 GMT</pubDate>
+            <description><![CDATA[According to a senior Iranian source, there are no discussions about extending the ceasefire between Iran and the US, Reuters reported.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/israel-iran-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee rebounds on likely RBI's intervention, India's retail CPI rises in July]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-extend-surge-india-us-cpi-awaited-202608120529</link>
+            <guid isPermaLink="false">9bcb8f1a-7b03-4f14-9715-98140c7f5c86</guid>
+            <pubDate>Wed, 12 Aug 2026 05:29:36 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) recovers early losses against the US Dollar (USD) on Wednesday due to likely Reserve Bank of India's (RBI) intervention in the market. At press time, USD/INR trades slightly lower to near 95.33.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US July CPI data set to show easing inflation as markets gauge Fed rate hike expectations]]></title>
+            <link>https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830</link>
+            <guid isPermaLink="false">6773732c-369a-4834-9651-49952be1b67c</guid>
+            <pubDate>Wed, 12 Aug 2026 08:30:00 GMT</pubDate>
+            <description><![CDATA[The US Bureau of Labor Statistics (BLS) will publish the July Consumer Price Index (CPI) data on Wednesday. The report is expected to show a small decline in consumer inflation and core inflation. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-shopping-cart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rises above $4,400 as US inflation data takes centre stage]]></title>
+            <link>https://www.fxstreet.com/news/gold-rises-above-4-400-as-us-inflation-data-takes-centre-stage-202608121051</link>
+            <guid isPermaLink="false">5331d765-970d-4d31-a032-ac938cc439e5</guid>
+            <pubDate>Wed, 12 Aug 2026 10:51:12 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) rebounds on Wednesday after closing in negative territory on Tuesday for only the second time in six trading days. Traders now await the US Consumer Price Index (CPI) data, due at 12:30 GMT, to see whether the bullish momentum will continue or a reversal will take shape.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yen attempts to bounce up from 159.45 lows ahead of the US inflation release]]></title>
+            <link>https://www.fxstreet.com/news/yen-attempts-to-bounce-up-from-15945-lows-ahead-of-the-us-inflation-release-202608121047</link>
+            <guid isPermaLink="false">de50ca03-7a84-48d2-af8f-eab386a13873</guid>
+            <pubDate>Wed, 12 Aug 2026 10:47:43 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) is one of the best performers in an unusually low-volatility market on Wednesday, picking up to levels near 159.00 against the US Dollar, after hitting support in the 159.45 area.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-basic-products.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian inflation accelerates to 4.45% in July, slightly below expectations]]></title>
+            <link>https://www.fxstreet.com/news/indian-inflation-accelerates-to-445-in-july-slightly-below-expectations-202608121041</link>
+            <guid isPermaLink="false">17b790b1-3312-4595-9140-ae0db8f46d26</guid>
+            <pubDate>Wed, 12 Aug 2026 10:41:34 GMT</pubDate>
+            <description><![CDATA[Inflation in India accelerates slightly in July, while remaining close to market expectations. The Consumer Price Index (CPI), released on Wednesday by the Ministry of Statistics and Programme Implementation (MoSPI), rises 4.45% YoY in July, compared with 4.38% in June.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar outperforms despite RBA’s hawkish tone fails to sway markets]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-outperforms-despite-rbas-hawkish-tone-fails-to-sway-markets-202608121035</link>
@@ -30,14 +86,6 @@
             <pubDate>Wed, 12 Aug 2026 10:00:23 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI) US Oil reverses lower on Wednesday and trades around $81.60 at the time of writing, down 0.77% on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US CPI data expected to cool in July as markets weigh Fed rate hike bets]]></title>
-            <link>https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830</link>
-            <guid isPermaLink="false">6773732c-369a-4834-9651-49952be1b67c</guid>
-            <pubDate>Wed, 12 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[The US Bureau of Labor Statistics (BLS) will publish the July Consumer Price Index (CPI) data on Wednesday. The report is expected to show a small decline in consumer inflation and core inflation. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-shopping-bags.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[US Dollar: Fed pricing and CPI risks – BBH]]></title>
@@ -120,14 +168,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Indian Rupee drops with India-US CPI data in focus]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-extend-surge-india-us-cpi-awaited-202608120529</link>
-            <guid isPermaLink="false">9bcb8f1a-7b03-4f14-9715-98140c7f5c86</guid>
-            <pubDate>Wed, 12 Aug 2026 05:29:36 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) extends its decline against the US Dollar (USD) on Wednesday as the former continues to face pressure due to surging oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Japanese Yen: Remains vulnerable against US Dollar - UOB]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-remains-vulnerable-against-us-dollar-uob-202608120848</link>
             <guid isPermaLink="false">836aee4f-6a0b-4e7f-a12b-dd655947490c</guid>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 08:13:07 GMT</pubDate>
             <description><![CDATA[DBS Group Research Strategist Chang Wei Liang highlights that the Japanese Yen (JPY) remains undervalued but that this undervaluation has narrowed after Japan’s second FX intervention of 2026, conducted jointly with the United States (US).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asia FX: Oil rebound keeps importers vulnerable – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/asia-fx-oil-rebound-keeps-importers-vulnerable-ocbc-202608120804</link>
-            <guid isPermaLink="false">63b1702e-3eac-4fbf-b3c2-2ea203e53e9b</guid>
-            <pubDate>Wed, 12 Aug 2026 08:04:52 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong report that Philippine Peso (PHP), Indian Rupee (INR), Indonesian Rupiah (IDR) and Thai Baht (THB) weakened as Oil’s rebound renewed pressure on net importers.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar trims gains, US Dollar firms up ahead of US CPI numbers]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-trims-gains-us-dollar-firms-up-ahead-of-us-cpi-numbers-202608120757</link>
-            <guid isPermaLink="false">bf88c84b-4777-4b9d-80ae-a53b124799a7</guid>
-            <pubDate>Wed, 12 Aug 2026 07:57:25 GMT</pubDate>
-            <description><![CDATA[Canadian Dollar (CAD) ticks down from two-month highs as the US Dollar (USD) firms up across the board, with investors bracing for the US Consumer Price Index (CPI) report due later in the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen remains under pressure against US Dollar, US CPI data eyed]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-remains-under-pressure-against-us-dollar-us-cpi-data-eyed-202608120756</link>
-            <guid isPermaLink="false">738e7786-23b1-4555-a47c-4c1638fc20eb</guid>
-            <pubDate>Wed, 12 Aug 2026 07:56:32 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) trades cautiously against the US Dollar (USD) during the European trading session on Wednesday, with the USD/JPY edging up to near 159.36.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Norges Bank cautious on hikes – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-norges-bank-cautious-on-hikes-commerzbank-202608120753</link>
-            <guid isPermaLink="false">fb275c35-b82e-45f7-a338-694177ee2cc4</guid>
-            <pubDate>Wed, 12 Aug 2026 07:53:39 GMT</pubDate>
-            <description><![CDATA[Antje Praefcke at Commerzbank highlights that Norges Bank kept its policy rate at 4.25% in June but signaled a higher chance of another hike, with the year-end rate forecast just over 4.5%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold sits near two-month top, above $4,400 as traders eye US CPI for Fed cues]]></title>
-            <link>https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138</link>
-            <guid isPermaLink="false">daeaccbe-fb94-46b6-91d6-f122793f3c3b</guid>
-            <pubDate>Wed, 12 Aug 2026 01:38:52 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) maintains its bid tone above the $4,400 mark through the first half of the European session and remains close to the highest level since June 5, touched on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Antam3-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
