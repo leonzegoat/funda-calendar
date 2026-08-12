@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 20:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 21:52:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mexican Peso rallies to two-year high as soft CPI hits Fed bets]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-as-soft-cpi-hits-fed-bets-202608122134</link>
+            <guid isPermaLink="false">efbdffb3-6819-4562-aa52-e77aa48ea5a8</guid>
+            <pubDate>Wed, 12 Aug 2026 21:34:32 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso (MXN) appreciates on Wednesday against the US Dollar (USD) to levels last seen in May 2024 following a decline in US inflation, as markets expected, softer-than-expected, which trims bets of a rate hike by the Federal Reserve (Fed) in its next meeting.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar slips as Middle East uncertainty weighs on Kiwi]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-slips-as-middle-east-uncertainty-weighs-on-kiwi-202608122123</link>
+            <guid isPermaLink="false">e5d4ac3f-dc08-4628-9a1f-1d2ff6c659d0</guid>
+            <pubDate>Wed, 12 Aug 2026 21:23:13 GMT</pubDate>
+            <description><![CDATA[NZD/USD is trading near 0.5860, down over 0.30% on Wednesday and falling for the third consecutive day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Upside risk builds against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-upside-risk-builds-against-us-dollar-uob-202608122112</link>
+            <guid isPermaLink="false">5ef62a65-5356-401f-a41e-013fb2149fab</guid>
+            <pubDate>Wed, 12 Aug 2026 21:12:00 GMT</pubDate>
+            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann note that USD/SGD closed little changed around 1.2800, with the S$NEER trading 1.7% above its mid-point and implying a 1.2760–1.2822 range.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Commodity FX: Growth constraints cap carry – BNY]]></title>
             <link>https://www.fxstreet.com/news/commodity-fx-growth-constraints-cap-carry-bny-202608122006</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 13:12:40 GMT</pubDate>
             <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley reviews recent United Kingdom (UK) data against Eurozone performance. Foley notes Eurozone Q2 Gross Domestic Product (GDP) at 0.4% q/q and a 0.7% UK upturn in the three months to May.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Chinese demand recovery could lift prices – NBC]]></title>
-            <link>https://www.fxstreet.com/news/oil-chinese-demand-recovery-could-lift-prices-nbc-202608121250</link>
-            <guid isPermaLink="false">b866f06e-2789-4f62-ac51-55c85dd33c54</guid>
-            <pubDate>Wed, 12 Aug 2026 12:50:41 GMT</pubDate>
-            <description><![CDATA[National Bank of Canada's (NBC) Jocelyn Paquet analyzes how China’s sharp reduction in petroleum imports helped offset the Middle East supply shock and limit Oil price gains. The July rebound in Chinese imports is highlighted as historically large in percentage terms.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro remains little changed as US CPI fails to surprise the markets]]></title>
-            <link>https://www.fxstreet.com/news/euro-remains-little-changed-as-us-cpi-fails-to-surprise-the-markets-202608121246</link>
-            <guid isPermaLink="false">86edc095-ee39-4286-9b90-efb0f79ccf97</guid>
-            <pubDate>Wed, 12 Aug 2026 12:46:02 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades around 1.1550 on Wednesday at the time of writing, up a modest 0.08% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: US CPI inflation softens to 3.4% in July as expected]]></title>
-            <link>https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830</link>
-            <guid isPermaLink="false">6773732c-369a-4834-9651-49952be1b67c</guid>
-            <pubDate>Wed, 12 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[Annual inflation in the United States (US), as measured by the change in the Consumer Price Index (CPI), declined to 3.4% in July from 3.5% in June, the US Bureau of Labor Statistics (BLS) reported on Wednesday. This print came in line with the market expectation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
