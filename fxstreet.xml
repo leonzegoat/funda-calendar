@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 18:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 19:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Bearish flag forms as bulls eye 0.8200]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-forms-as-bulls-eye-08200-202608121941</link>
+            <guid isPermaLink="false">6986dc51-fc16-4176-9b6c-399a42150fd5</guid>
+            <pubDate>Wed, 12 Aug 2026 19:41:40 GMT</pubDate>
+            <description><![CDATA[The USD/CHF edges higher by some 0.30% on Wednesday, refreshing ten-day highs of 0.8138, as the uptrend is poised to extend if it clears key resistance levels.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Range trade and upside risk against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-range-trade-and-upside-risk-against-us-dollar-uob-202608121937</link>
+            <guid isPermaLink="false">c721e2ea-de90-4178-a062-72aa69e066db</guid>
+            <pubDate>Wed, 12 Aug 2026 19:37:08 GMT</pubDate>
+            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann note that USD/CNH has been confined to a tight range and expect the Dollar to trade between 6.7430 and 6.7530 in the near term.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar firms ahead of a packed session]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-a-packed-session-202608121928</link>
+            <guid isPermaLink="false">3f4370fd-3074-4570-b1c8-ac1879a55cb4</guid>
+            <pubDate>Wed, 12 Aug 2026 19:28:39 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) has extended its recovery on Wednesday following a Consumer Price Index (CPI) report that printed in line with forecasts. The US Dollar Index (DXY) has pushed back above the 100.00 mark, and the bid has broadened out against most majors heading into a data-heavy Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG turns bullish, eyes 200-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-bullish-with-eyes-on-200-day-sma-202608121915</link>
+            <guid isPermaLink="false">de54672c-a31c-4532-8d10-f5d7a21b63c4</guid>
+            <pubDate>Wed, 12 Aug 2026 19:15:27 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) price surges over 1.40% on Wednesday as the latest inflation report in the United States (US) showed that prices are cooling, on its way towards the Federal Reserve’s (Fed) goal of 2%. At the time of writing, the XAG/USD pair trades at $65.53 after reaching a daily high of $66.80.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold price shines above $4,400 as inflation dip fuels Fed relief]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-shines-above-4-400-as-inflation-dip-fuels-fed-relief-202608121905</link>
+            <guid isPermaLink="false">5fbf9029-9a1f-4adb-931b-49d82145d490</guid>
+            <pubDate>Wed, 12 Aug 2026 19:05:32 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) registers gains of over 1% on Wednesday as US inflation data aligns with estimates, easing the Federal Reserve’s (Fed) task of further tightening monetary policy. The Consumer Price Index (CPI) continues its downward trajectory.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen stumbles as US Dollar strengthens]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-stumbles-as-us-dollar-strengthens-202608121858</link>
+            <guid isPermaLink="false">9755767e-5faa-4dab-91fa-42048ff45d4d</guid>
+            <pubDate>Wed, 12 Aug 2026 18:58:32 GMT</pubDate>
+            <description><![CDATA[USD/JPY is back around the mid-159.00s area, testing the day's highs after rebounding sharply from a low around the 158.60 level.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EUR/USD Price Forecast: Fading bullish momentum puts focus on 1.1500 support]]></title>
             <link>https://www.fxstreet.com/news/eur-usd-price-forecast-fading-bullish-momentum-puts-focus-on-11500-support-202608121811</link>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 12:28:08 GMT</pubDate>
             <description><![CDATA[The International Energy Agency (IEA) cut its global Oil supply and demand forecasts for 2026 amid shipping disruptions in the Middle East.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Gradual gains against US Dollar remain likely – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-gradual-gains-against-us-dollar-remain-likely-mufg-202608121226</link>
-            <guid isPermaLink="false">9d90c11a-dafe-4c21-9871-f39d2abaa700</guid>
-            <pubDate>Wed, 12 Aug 2026 12:26:17 GMT</pubDate>
-            <description><![CDATA[MUFG’s Michael Wan reports the Reserve Bank of Australia kept its policy rate at 4.35% in a unanimous decision. AUD/USD initially dipped on the statement but later rebounded as Governor Bullock reiterated hawkish inflation concerns.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Soft CPI risks weigh on outlook – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-soft-cpi-risks-weigh-on-outlook-ing-202608121214</link>
-            <guid isPermaLink="false">7499ded6-2e69-45a5-97ff-e8ed323068e5</guid>
-            <pubDate>Wed, 12 Aug 2026 12:14:24 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner expects US July CPI to be the key driver for the Federal Reserve’s next move, with consensus looking for subdued headline and core readings that edge closer to the 2% target.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Intervention doubts as flows favor US Dollar – BNY]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-intervention-doubts-as-flows-favor-us-dollar-bny-202608121204</link>
-            <guid isPermaLink="false">e5243dca-43f8-4cc1-951f-a8e1e3a1b03f</guid>
-            <pubDate>Wed, 12 Aug 2026 12:04:53 GMT</pubDate>
-            <description><![CDATA[BNY’s Wee Khoon Chong highlights that institutional investors bought Dollar and sold Japanese Yen after the June BoJ hike, and again following late-July joint intervention to weaken USD/JPY. Despite official action, real money treated the move as a USD/JPY buying opportunity.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar slides as Middle East tensions give US Dollar the upper hand]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-slides-as-middle-east-tensions-give-us-dollar-the-upper-hand-202608121156</link>
-            <guid isPermaLink="false">918dd818-c527-4586-93d8-0e7dcc33f175</guid>
-            <pubDate>Wed, 12 Aug 2026 11:56:44 GMT</pubDate>
-            <description><![CDATA[NZD/USD extends its decline for a third consecutive day on Wednesday and trades around 0.5860 at the time of writing, down 0.28% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index trades calmly ahead of US Inflation data]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-trades-calmly-ahead-of-us-inflation-data-202608121149</link>
-            <guid isPermaLink="false">31ee31f8-bec5-4e4d-81d1-840e424ab81d</guid>
-            <pubDate>Wed, 12 Aug 2026 11:49:38 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) reflects a sideways performance against its peers ahead of the United States (US) Consumer Price Index (CPI) data is scheduled to be published at 12:30 GMT.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Why is the Japanese Yen stuck near 159.25 after the first joint US-Japan intervention since 2011?]]></title>
-            <link>https://www.fxstreet.com/news/why-is-the-japanese-yen-stuck-near-15925-after-the-first-joint-us-japan-intervention-since-2011-202608121148</link>
-            <guid isPermaLink="false">21c71a9f-7c2d-444d-8303-a6fa0c696b60</guid>
-            <pubDate>Wed, 12 Aug 2026 11:48:57 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) continues to navigate complex market dynamics, consolidating near the 159.25 level against the US Dollar (USD) following a sharp upward push.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-163.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
