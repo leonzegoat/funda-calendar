@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 04:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 05:57:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro trades with caution against US Dollar in countdown to US CPI data]]></title>
+            <link>https://www.fxstreet.com/news/euro-trades-with-caution-against-us-dollar-in-countdown-to-us-cpi-data-202608120551</link>
+            <guid isPermaLink="false">5a46aa61-49cf-4ec6-be7e-320aa261cb06</guid>
+            <pubDate>Wed, 12 Aug 2026 05:51:44 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) trades marginally lower at around 1.1534 against the US Dollar (USD) at the start of the European trading session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee falls further as oil prices extend surge, India-US CPI awaited]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-extend-surge-india-us-cpi-awaited-202608120529</link>
+            <guid isPermaLink="false">9bcb8f1a-7b03-4f14-9715-98140c7f5c86</guid>
+            <pubDate>Wed, 12 Aug 2026 05:29:36 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) extends its decline against the US Dollar (USD) on Wednesday as the former continues to face pressure due to surging oil prices.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Steadies near 184.00 amid neutral bias]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-steadies-near-18400-amid-neutral-bias-202608120515</link>
+            <guid isPermaLink="false">77df91e5-fc2c-4b19-81e6-1fd865775c42</guid>
+            <pubDate>Wed, 12 Aug 2026 05:15:10 GMT</pubDate>
+            <description><![CDATA[EUR/JPY moves little for the second successive day, trading around 183.90 during the Asian hours on Wednesday. The currency cross is maintaining a mildly bearish near-term tone as it slips beneath the 50-day Exponential Moving Average (EMA) while holding above the shorter nine-day EMA.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Bulls retain control near 38.2% Fibo.; move beyond $83.00 awaited]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-bulls-retain-control-near-382-fibo-move-beyond-8300-awaited-202608120456</link>
+            <guid isPermaLink="false">5083fb9f-3487-4376-bf6d-4cb861dd3f7c</guid>
+            <pubDate>Wed, 12 Aug 2026 04:56:54 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – attracts buyers for the third straight day and trades just below the $83.00 mark during the Asian session on Wednesday, close to a nearly two-week high set the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold rises, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608120435</link>
+            <guid isPermaLink="false">2c95c588-aa91-4f4b-9693-384a4ed51c6b</guid>
+            <pubDate>Wed, 12 Aug 2026 04:35:12 GMT</pubDate>
+            <description><![CDATA[Gold prices rose in India on Wednesday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold retakes $4,400, eyes two-month high as traders look to US CPI for Fed hike cues]]></title>
+            <link>https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138</link>
+            <guid isPermaLink="false">daeaccbe-fb94-46b6-91d6-f122793f3c3b</guid>
+            <pubDate>Wed, 12 Aug 2026 01:38:52 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) attracts fresh buyers during the Asian session on Wednesday and climbs back above the $4,400 mark, closer to its highest level since June 5, which was touched the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[United States Dollar Index rises to near 100.00 ahead of US inflation data]]></title>
             <link>https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-10000-ahead-of-us-inflation-data-202608120403</link>
@@ -62,14 +110,6 @@
             <pubDate>Wed, 12 Aug 2026 01:55:40 GMT</pubDate>
             <description><![CDATA[GBP/USD inches lower after remaining flat in the previous day, trading around 1.3500 during the Asian hours on Wednesday. The currency pair continues to hold its losses as the US Dollar (USD) gains strength ahead of a crucial inflation report.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold trades with positive bias below $4,400; Fed hike bets cap gains ahead of US CPI]]></title>
-            <link>https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138</link>
-            <guid isPermaLink="false">daeaccbe-fb94-46b6-91d6-f122793f3c3b</guid>
-            <pubDate>Wed, 12 Aug 2026 01:38:52 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) attracts some dip-buyers during the Asian session on Wednesday, stalling the previous day's retracement slide from the $4,435 region, or the highest level since June 5.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Experts split on whether next RBA move is a hike or cut amid energy risks]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 11 Aug 2026 19:48:00 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note USD/CNH slipped after weak US payrolls, with the Renminbi (RMB) near its strongest levels in over three years.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Range bias with upside risk against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-range-bias-with-upside-risk-against-us-dollar-uob-202608111913</link>
-            <guid isPermaLink="false">0c4be3cd-3148-4033-a69d-634c41a57e23</guid>
-            <pubDate>Tue, 11 Aug 2026 19:13:10 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann expect USD/SGD to remain in a tight intraday band after Monday’s modest rebound, with the pair seen between 1.2785 and 1.2815.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/SGD2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Policy risks balanced as inflation lingers – Standard Chartered]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-policy-risks-balanced-as-inflation-lingers-standard-chartered-202608111846</link>
-            <guid isPermaLink="false">f47948a8-ae44-4f7d-bb98-757927166921</guid>
-            <pubDate>Tue, 11 Aug 2026 18:46:19 GMT</pubDate>
-            <description><![CDATA[Standard Chartered’s Nicholas Chia reports that the Reserve Bank of Australia (RBA) kept the cash rate at 4.35% in a unanimous decision, as widely expected. Chia notes the RBA sees inflation returning to the midpoint of its 2–3% target only by late 2027.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Sterling recovery eyes 1.36 caps against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-sterling-recovery-eyes-136-caps-against-us-dollar-scotiabank-202608111828</link>
-            <guid isPermaLink="false">61e1bd65-5e68-4240-8934-596856b46f4b</guid>
-            <pubDate>Tue, 11 Aug 2026 18:28:35 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret observe that the British Pound (GBP) is consolidating gains near the top of its one-month and multi-month ranges, with price action closely tied to fading downside risk reversals.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar on pause ahead of US CPI]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-on-pause-ahead-of-us-cpi-202608111818</link>
-            <guid isPermaLink="false">15f8f2cb-e7d7-4a3e-89ee-9271a8b4b34d</guid>
-            <pubDate>Tue, 11 Aug 2026 18:18:18 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) is trading little changed in the vicinity below the 100.00 price zone ahead of the United States (US) July Consumer Price Index (CPI), which is expected on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canadian%20CPI.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Strait of Hormuz risk premium – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/oil-strait-of-hormuz-risk-premium-commerzbank-202608111815</link>
-            <guid isPermaLink="false">5f3f05b4-feda-4b08-b14c-f7dfe19e9cda</guid>
-            <pubDate>Tue, 11 Aug 2026 18:15:21 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s energy team notes fading hopes for a US–Iran agreement to reopen the Strait of Hormuz, driving Brent toward USD 90 and gas oil to nearly USD 1,350 per ton. Drone attacks on refineries in Saudi Arabia, Russia, Libya and tight diesel supply add to the risk premium.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
