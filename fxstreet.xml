@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 22:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 23:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iran says no progress on interim peace deal with US — Reuters]]></title>
+            <link>https://www.fxstreet.com/news/iran-says-no-progress-on-interim-peace-deal-with-us-reuters-202608122346</link>
+            <guid isPermaLink="false">81377d50-7b3f-4890-b7ac-4228ddef6b67</guid>
+            <pubDate>Wed, 12 Aug 2026 23:46:34 GMT</pubDate>
+            <description><![CDATA[The United States (US) and Iran remain at ​loggerheads over efforts to agree a permanent end to the war in the Middle East, Reuters reported on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Iran.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold edges lower to near $4,400 as Iran-US tensions counter support from tame US inflation]]></title>
+            <link>https://www.fxstreet.com/news/gold-edges-lower-to-near-4-400-as-iran-us-tensions-counter-support-from-tame-us-inflation-202608122329</link>
+            <guid isPermaLink="false">837ee38e-12d6-4b66-9846-c6af51ec1326</guid>
+            <pubDate>Wed, 12 Aug 2026 23:29:12 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) declines to around $4,400 during the early Asian session on Thursday, pressured by escalating geopolitical tensions between the United States (US) and Iran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Commodities: Weaker Dollar lacks growth catalyst – BNY]]></title>
+            <link>https://www.fxstreet.com/news/commodities-weaker-dollar-lacks-growth-catalyst-bny-202608122318</link>
+            <guid isPermaLink="false">b4bde5a5-1135-4777-81ac-81bbbaebf9f0</guid>
+            <pubDate>Wed, 12 Aug 2026 23:18:00 GMT</pubDate>
+            <description><![CDATA[Geoff Yu at BNY says a less hawkish Fed has weakened the Dollar, but this has not translated into a broad commodity rally. Institutional investors remain sellers of metals and miners, while EM commodity sovereign debt continues to struggle and commodity FX buying has faded.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/market-charts-003.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Japanese Yen gives back half of what Tokyo bought]]></title>
+            <link>https://www.fxstreet.com/news/the-japanese-yen-gives-back-half-of-what-tokyo-bought-202608122300</link>
+            <guid isPermaLink="false">29787af4-1ef4-4178-90c1-4271cbd001ea</guid>
+            <pubDate>Wed, 12 Aug 2026 23:00:51 GMT</pubDate>
+            <description><![CDATA[The Dollar has spent Wednesday grinding higher against the Yen with no headline to carry it, trading near 159.50 after a low just beneath 158.60 and a gain of under a tenth of a percent.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pound Sterling runs out of room at the July high]]></title>
+            <link>https://www.fxstreet.com/news/pound-sterling-runs-out-of-room-at-the-july-high-202608122300</link>
+            <guid isPermaLink="false">84d6ee0b-1d94-4878-901e-3c4cb9a1d6aa</guid>
+            <pubDate>Wed, 12 Aug 2026 23:00:28 GMT</pubDate>
+            <description><![CDATA[Sterling spent the London morning building a case for a break and the rest of the session dismantling it, trading near 1.3495 after a high just short of 1.3550 and a loss of not quite a tenth of a percent.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[GBP/JPY Price Forecast: 50-day SMA caps sideways trading]]></title>
             <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-50-day-sma-caps-sideways-trading-202608122239</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 15:05:25 GMT</pubDate>
             <description><![CDATA[Silver (XAG/USD) accelerates its advance on Wednesday and trades around $66.00 at the time of writing, up 2.18% on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Bearish momentum extends after CPI – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-bearish-momentum-extends-after-cpi-td-securities-202608121504</link>
-            <guid isPermaLink="false">951f502c-b9e7-408b-a42a-8555aefab736</guid>
-            <pubDate>Wed, 12 Aug 2026 15:04:27 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists note that July US inflation came in broadly in line with expectations, with headline CPI rising 0.1% m/m and core CPI increasing 0.2% m/m.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[President Trump says US has "total control" of Hormuz]]></title>
-            <link>https://www.fxstreet.com/news/president-trump-says-us-has-total-control-of-hormuz-202608121455</link>
-            <guid isPermaLink="false">ba488c4e-1867-4853-81f2-c71ad2fd7973</guid>
-            <pubDate>Wed, 12 Aug 2026 14:55:15 GMT</pubDate>
-            <description><![CDATA[United States (US) President Donald Trump used a post on Truth Social to declare that the US has "total control" over the Strait of Hormuz on Wednesday., Trump boasted about the American naval presence near the Persian Gulf, which he described as "a wall of steel".]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro steadies against Pound Sterling as traders await UK GDP verdict]]></title>
-            <link>https://www.fxstreet.com/news/euro-steadies-against-pound-sterling-as-traders-await-uk-gdp-verdict-202608121440</link>
-            <guid isPermaLink="false">8bb21b36-4114-4019-a6ff-5f0ee70ae807</guid>
-            <pubDate>Wed, 12 Aug 2026 14:40:54 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) steadies against the Pound Sterling (GBP) on Wednesday, with EUR/GBP trading flat near the 0.8540 zone after two consecutive declines.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Emerging Markets: Steepening Treasuries curb appeal – BNY]]></title>
-            <link>https://www.fxstreet.com/news/emerging-markets-steepening-treasuries-curb-appeal-bny-202608121436</link>
-            <guid isPermaLink="false">b79b28a2-68e1-4a57-8e12-03a37800ff3b</guid>
-            <pubDate>Wed, 12 Aug 2026 14:36:36 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu reports that sovereign bonds from commodity-based EM economies have seen accelerated selling after the Fed decision, despite a weaker Dollar and lower U.S. real yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold holds gains above $4,400 after US CPI meets expectations]]></title>
-            <link>https://www.fxstreet.com/news/gold-rises-above-4-400-as-us-inflation-data-takes-centre-stage-202608121051</link>
-            <guid isPermaLink="false">5331d765-970d-4d31-a032-ac938cc439e5</guid>
-            <pubDate>Wed, 12 Aug 2026 10:51:12 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends gains above $4,400 on Wednesday as traders digest US inflation data, which came broadly in line with expectations. At the time of writing, XAU/USD trades around $4,429, up 1.38% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
