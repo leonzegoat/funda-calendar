@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 21:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 22:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: 50-day SMA caps sideways trading]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-50-day-sma-caps-sideways-trading-202608122239</link>
+            <guid isPermaLink="false">87a2a22f-5963-45a2-84b1-85fc96c7f08c</guid>
+            <pubDate>Wed, 12 Aug 2026 22:39:06 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY holds firm on Wednesday at around 215.00, as neither buyers nor sellers are reluctant to open fresh directional bets amid fears of renewed intervention in the FX markets by US and Japanese authorities to propel the Yen.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia: BI succession supports Rupiah stability – DBS]]></title>
+            <link>https://www.fxstreet.com/news/indonesia-bi-succession-supports-rupiah-stability-dbs-202608122237</link>
+            <guid isPermaLink="false">74125f1b-f90d-4ba4-b9ff-1cfae6b70934</guid>
+            <pubDate>Wed, 12 Aug 2026 22:37:00 GMT</pubDate>
+            <description><![CDATA[DBS Group Research’s Radhika Rao reports that Indonesia’s onshore markets welcomed President Prabowo’s nomination of Deputy Governor Destry Damayanti as the next Bank Indonesia Governor.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesiamap3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar pulls back as inflation expectations loom]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-pulls-back-as-inflation-expectations-loom-202608122231</link>
+            <guid isPermaLink="false">a8d6ccf4-247f-4580-ac59-dc58257b1c2a</guid>
+            <pubDate>Wed, 12 Aug 2026 22:31:02 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar ended Wednesday’s session with losses against the Greenback as US inflation data matched estimates, in both headline and core. Consequently, traders pushed back against rate hikes, though the AUD/USD faded the initial move and traded at 0.7061, down 0.07%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro reverses from two-day high, fade US soft CPI move]]></title>
+            <link>https://www.fxstreet.com/news/euro-reverses-from-two-day-high-fade-us-soft-cpi-move-202608122158</link>
+            <guid isPermaLink="false">a9218629-3eca-48b8-b05c-6c0b8c8feae8</guid>
+            <pubDate>Wed, 12 Aug 2026 21:58:54 GMT</pubDate>
+            <description><![CDATA[The Euro reversed course after reaching a two-day high of 1.1563, following the release of a benign US inflation report for July, which triggered a repricing for a less “hawkish” Federal Reserve, throughout 2026.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Credit softness may spur PBoC easing – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-credit-softness-may-spur-pboc-easing-commerzbank-202608122154</link>
+            <guid isPermaLink="false">98ba3a2a-05eb-4e73-997d-a24b5ec8a94e</guid>
+            <pubDate>Wed, 12 Aug 2026 21:54:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Charlie Lay and Dr. Henry Hao point out USD/CNY is stable around 6.75, with their model implying a slightly stronger PBoC fix.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mexican Peso rallies to two-year high as soft CPI hits Fed bets]]></title>
             <link>https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-as-soft-cpi-hits-fed-bets-202608122134</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 10:51:12 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) extends gains above $4,400 on Wednesday as traders digest US inflation data, which came broadly in line with expectations. At the time of writing, XAU/USD trades around $4,429, up 1.38% on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Improving sentiment supports gains against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-improving-sentiment-supports-gains-against-us-dollar-scotiabank-202608121407</link>
-            <guid isPermaLink="false">dc47d4b4-15fe-4ac0-b2e8-1ef0e61c8eb0</guid>
-            <pubDate>Wed, 12 Aug 2026 14:07:22 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report the British Pound (GBP) is posting fractional gains versus the US Dollar (USD) and outperforming G10 peers as improving sentiment supports price action.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar steadies as US inflation meets expectations, Oil limits downside]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-steadies-as-us-inflation-meets-expectations-oil-limits-downside-202608121400</link>
-            <guid isPermaLink="false">0c74f255-8f09-41b4-ba7e-ad7fc4a62ab8</guid>
-            <pubDate>Wed, 12 Aug 2026 14:00:07 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades around 1.3915 on Wednesday at the time of writing, virtually unchanged on the day with a modest decline of 0.06%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pound Sterling retains gains as US CPI trims September Fed hike odds]]></title>
-            <link>https://www.fxstreet.com/news/pound-sterling-retains-gains-as-us-cpi-trims-september-fed-hike-odds-202608121341</link>
-            <guid isPermaLink="false">7e2b98c5-39d4-459e-ac50-f90c58332b3e</guid>
-            <pubDate>Wed, 12 Aug 2026 13:41:04 GMT</pubDate>
-            <description><![CDATA[GBP/USD trades modestly higher on Wednesday as the US Dollar (USD) comes under mild pressure following the release of the latest US inflation figures. However, the market reaction remains limited as the data broadly matched expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazil: Lula victory could deepen fiscal risks - Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/brazil-lula-victory-could-deepen-fiscal-risks-societe-generale-202608121335</link>
-            <guid isPermaLink="false">50b2c1fe-0ab6-42e4-ba54-05ff71f53e7a</guid>
-            <pubDate>Wed, 12 Aug 2026 13:35:58 GMT</pubDate>
-            <description><![CDATA[Societe Generale analysts Brendan McKenna and Dev Ashish outline scenarios for Brazil’s 2026 election, assigning a 65% probability to President Lula winning a fourth term and 30% to Flavio.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Brazil.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Resilience tested as data mixed – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-resilience-tested-as-data-mixed-rabobank-202608121312</link>
-            <guid isPermaLink="false">15026e52-6ef6-40ea-91b3-76a9bf56e037</guid>
-            <pubDate>Wed, 12 Aug 2026 13:12:40 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley reviews recent United Kingdom (UK) data against Eurozone performance. Foley notes Eurozone Q2 Gross Domestic Product (GDP) at 0.4% q/q and a 0.7% UK upturn in the three months to May.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
