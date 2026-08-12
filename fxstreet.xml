@@ -4,9 +4,97 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 11:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 12:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Breaking: US CPI inflation edges lower to 3.4% in July as expected]]></title>
+            <link>https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830</link>
+            <guid isPermaLink="false">6773732c-369a-4834-9651-49952be1b67c</guid>
+            <pubDate>Wed, 12 Aug 2026 08:30:00 GMT</pubDate>
+            <description><![CDATA[Annual inflation in the United States (US), as measured by the change in the Consumer Price Index (CPI), declined to 3.4% in July from 3.5% in June, the US Bureau of Labor Statistics (BLS) reported on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[IEA forecasts 4.3 million bpd drop in global Oil supply]]></title>
+            <link>https://www.fxstreet.com/news/iea-forecasts-43-million-bpd-drop-in-global-oil-supply-202608121228</link>
+            <guid isPermaLink="false">e370ba1c-4465-458e-9e30-3e72fde26d0f</guid>
+            <pubDate>Wed, 12 Aug 2026 12:28:08 GMT</pubDate>
+            <description><![CDATA[The International Energy Agency (IEA) cut its global Oil supply and demand forecasts for 2026 amid shipping disruptions in the Middle East.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: Gradual gains against US Dollar remain likely – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-gradual-gains-against-us-dollar-remain-likely-mufg-202608121226</link>
+            <guid isPermaLink="false">9d90c11a-dafe-4c21-9871-f39d2abaa700</guid>
+            <pubDate>Wed, 12 Aug 2026 12:26:17 GMT</pubDate>
+            <description><![CDATA[MUFG’s Michael Wan reports the Reserve Bank of Australia kept its policy rate at 4.35% in a unanimous decision. AUD/USD initially dipped on the statement but later rebounded as Governor Bullock reiterated hawkish inflation concerns.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Soft CPI risks weigh on outlook – ING]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-soft-cpi-risks-weigh-on-outlook-ing-202608121214</link>
+            <guid isPermaLink="false">7499ded6-2e69-45a5-97ff-e8ed323068e5</guid>
+            <pubDate>Wed, 12 Aug 2026 12:14:24 GMT</pubDate>
+            <description><![CDATA[ING’s Chris Turner expects US July CPI to be the key driver for the Federal Reserve’s next move, with consensus looking for subdued headline and core readings that edge closer to the 2% target.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Intervention doubts as flows favor US Dollar – BNY]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-intervention-doubts-as-flows-favor-us-dollar-bny-202608121204</link>
+            <guid isPermaLink="false">e5243dca-43f8-4cc1-951f-a8e1e3a1b03f</guid>
+            <pubDate>Wed, 12 Aug 2026 12:04:53 GMT</pubDate>
+            <description><![CDATA[BNY’s Wee Khoon Chong highlights that institutional investors bought Dollar and sold Japanese Yen after the June BoJ hike, and again following late-July joint intervention to weaken USD/JPY. Despite official action, real money treated the move as a USD/JPY buying opportunity.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar slides as Middle East tensions give US Dollar the upper hand]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-slides-as-middle-east-tensions-give-us-dollar-the-upper-hand-202608121156</link>
+            <guid isPermaLink="false">918dd818-c527-4586-93d8-0e7dcc33f175</guid>
+            <pubDate>Wed, 12 Aug 2026 11:56:44 GMT</pubDate>
+            <description><![CDATA[NZD/USD extends its decline for a third consecutive day on Wednesday and trades around 0.5860 at the time of writing, down 0.28% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index trades calmly ahead of US Inflation data]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-trades-calmly-ahead-of-us-inflation-data-202608121149</link>
+            <guid isPermaLink="false">31ee31f8-bec5-4e4d-81d1-840e424ab81d</guid>
+            <pubDate>Wed, 12 Aug 2026 11:49:38 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) reflects a sideways performance against its peers ahead of the United States (US) Consumer Price Index (CPI) data is scheduled to be published at 12:30 GMT.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is the Japanese Yen stuck near 159.25 after the first joint US-Japan intervention since 2011?]]></title>
+            <link>https://www.fxstreet.com/news/why-is-the-japanese-yen-stuck-near-15925-after-the-first-joint-us-japan-intervention-since-2011-202608121148</link>
+            <guid isPermaLink="false">21c71a9f-7c2d-444d-8303-a6fa0c696b60</guid>
+            <pubDate>Wed, 12 Aug 2026 11:48:57 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) continues to navigate complex market dynamics, consolidating near the 159.25 level against the US Dollar (USD) following a sharp upward push.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-163.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Biding its time near 1.1550, awaiting US CPI numbers]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-biding-its-time-near-11550-awaiting-us-cpi-numbers-202608121147</link>
+            <guid isPermaLink="false">dffbad8a-898e-4838-8ae4-e5cce7df03c6</guid>
+            <pubDate>Wed, 12 Aug 2026 11:47:57 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) nurses marginal gains against the US Dollar (USD) on Wednesday, with the EUR/USD pair flattening just below the 1.1550 level during the European trading session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Recovery stalls below the 50-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-recovery-stalls-below-the-50-day-sma-202608121146</link>
+            <guid isPermaLink="false">357ad2cc-a25e-4007-af32-f99dc1a72cb9</guid>
+            <pubDate>Wed, 12 Aug 2026 11:46:08 GMT</pubDate>
+            <description><![CDATA[GBP/JPY holds firm on Wednesday, trading within Monday’s range as the Japanese Yen (JPY) stays on the back foot, having given up nearly half of the gains triggered by the joint US-Japan intervention. At the time of writing, the cross trades around 215.12, virtually unchanged on the day. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Strong Q2 may give way to flat growth - TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-strong-q2-may-give-way-to-flat-growth-td-securities-202608121137</link>
+            <guid isPermaLink="false">867d70a2-a91f-471c-ae29-04951d03d5ee</guid>
+            <pubDate>Wed, 12 Aug 2026 11:37:20 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists expect United Kingdom (UK) June Gross Domestic Product (GDP) data to show a reversal of May’s strength in professional services, offsetting solid retail sales and leaving the Index of Services flat, with modest industrial weakness keeping monthly GDP at 0.0% m/m.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[US Dollar: Inflation data and Middle East risks – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-inflation-data-and-middle-east-risks-commerzbank-202608121120</link>
@@ -30,14 +118,6 @@
             <pubDate>Wed, 12 Aug 2026 05:29:36 GMT</pubDate>
             <description><![CDATA[The Indian Rupee (INR) recovers early losses against the US Dollar (USD) on Wednesday due to likely Reserve Bank of India's (RBI) intervention in the market. At press time, USD/INR trades slightly lower to near 95.33.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US July CPI data set to show easing inflation as markets gauge Fed rate hike expectations]]></title>
-            <link>https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830</link>
-            <guid isPermaLink="false">6773732c-369a-4834-9651-49952be1b67c</guid>
-            <pubDate>Wed, 12 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[The US Bureau of Labor Statistics (BLS) will publish the July Consumer Price Index (CPI) data on Wednesday. The report is expected to show a small decline in consumer inflation and core inflation. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-shopping-cart.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Gold rises above $4,400 as US inflation data takes centre stage]]></title>
@@ -166,86 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 08:56:57 GMT</pubDate>
             <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley outlines a cautious stance on UK fiscal prospects and their impact on EUR/GBP. The Burnham government’s planned flexibility in fiscal rules and higher infrastructure spending could mean more gilt supply and tax speculation.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Remains vulnerable against US Dollar - UOB]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-remains-vulnerable-against-us-dollar-uob-202608120848</link>
-            <guid isPermaLink="false">836aee4f-6a0b-4e7f-a12b-dd655947490c</guid>
-            <pubDate>Wed, 12 Aug 2026 08:48:24 GMT</pubDate>
-            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann observe USD/JPY consolidating near 159.25 after Monday’s sharp rise, with intraday trade expected between 158.95 and 159.60. While momentum is strong, deeply overbought conditions limit upside beyond 159.60.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc weakens against US Dollar with US Inflation in focus]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-weakens-against-us-dollar-with-us-inflation-in-focus-202608120845</link>
-            <guid isPermaLink="false">e98f7f3f-eccb-4baa-be67-123ca3536c22</guid>
-            <pubDate>Wed, 12 Aug 2026 08:45:34 GMT</pubDate>
-            <description><![CDATA[The Swiss Franc (CHF) is down against its major currency peers during the European trading session on Wednesday. As of writing, USD/CHF trades 0.17% higher at around 0.8125.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecasts: XAG/USD resumes its uptrend, with bulls aiming for $67.17]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-resumes-its-uptrend-with-bulls-aiming-for-6717-202608120839</link>
-            <guid isPermaLink="false">229a52e2-2bf0-41cd-a9ed-0a8cc79a15da</guid>
-            <pubDate>Wed, 12 Aug 2026 08:39:46 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) has returned to levels a few cents above $66.00 on Wednesday’s European session after finding support at the $64.20 area on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso: Bullish trend resumes against US Dollar - Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-bullish-trend-resumes-against-us-dollar-societe-generale-202608120839</link>
-            <guid isPermaLink="false">cab7896c-8405-4998-8284-56fa5e480e5a</guid>
-            <pubDate>Wed, 12 Aug 2026 08:39:04 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Kenneth Broux highlights that USD/MXN failed to clear its 200‑day moving average, keeping downside momentum intact. The pair is attempting to break the lower end of a multi‑month range, with resistance at 17.17 and projected downside objectives at 16.65 and 16.50/16.25.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/MXN3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index Price Forecast: Bulls await US CPI and breakout above 100.00]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-price-forecast-bulls-await-us-cpi-and-breakout-above-10000-202608120835</link>
-            <guid isPermaLink="false">e8aae224-f724-40e6-9f83-6e0383ac6e33</guid>
-            <pubDate>Wed, 12 Aug 2026 08:35:17 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, retains a positive bias for the third straight day on Wednesday, though it lacks bullish conviction.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bullish-realistic.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures remain steady as traders await US CPI data]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-remain-steady-as-traders-await-us-cpi-data-202608120833</link>
-            <guid isPermaLink="false">26b2e06b-d5ed-4d9e-a1ee-fbe81c86815a</guid>
-            <pubDate>Wed, 12 Aug 2026 08:33:50 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures are steady around 53,890 during European hours on Wednesday. Meanwhile, S&P 500 futures gain by 0.18% to trade around 7,760 and Nasdaq 100 futures rise 0.48%, trading near 29,770.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_DJI-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazilian Real: Politics weighs but carry supports – ING]]></title>
-            <link>https://www.fxstreet.com/news/brazilian-real-politics-weighs-but-carry-supports-ing-202608120827</link>
-            <guid isPermaLink="false">686fe1bc-e55d-4021-9000-cd65c35cc456</guid>
-            <pubDate>Wed, 12 Aug 2026 08:27:30 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner reports the Brazilian Real (BRL) underperformed in an otherwise supportive carry environment after a bank downgraded Brazilian equities and a new poll showed President Lula widening his lead ahead of October elections.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-rio.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: CPI and RBI repo rate risk skew higher – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-cpi-and-rbi-repo-rate-risk-skew-higher-mufg-202608120818</link>
-            <guid isPermaLink="false">c9716f8f-8fd0-450c-95af-9be78296088a</guid>
-            <pubDate>Wed, 12 Aug 2026 08:18:24 GMT</pubDate>
-            <description><![CDATA[MUFG’s Michael Wan notes India’s Consumer Price Index (CPI) is expected to edge up to 4.4% year-on-year from 4.3%. Reserve Bank of India (RBI) Governor Sanjay Malhotra said inflation is largely under control, supporting expectations for rates to stay on hold near term.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah struggles due to weak fundamentals, increased risk aversion]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-struggles-due-to-weak-fundamentals-increased-risk-aversion-202608120815</link>
-            <guid isPermaLink="false">79141387-3f88-4fd5-8ee4-3265a2577842</guid>
-            <pubDate>Wed, 12 Aug 2026 08:15:17 GMT</pubDate>
-            <description><![CDATA[USD/IDR extends its gains for the second successive day, trading around 17,920 during the European hours on Wednesday. The pair is advancing as the Indonesian Rupiah (IDR) faces pressure from weak domestic economic fundamentals and subdued market sentiment.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BNB-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Interventions signal valuation shift – DBS]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-interventions-signal-valuation-shift-dbs-202608120813</link>
-            <guid isPermaLink="false">1acb1557-ebd2-4160-8f8a-6b70b7008e97</guid>
-            <pubDate>Wed, 12 Aug 2026 08:13:07 GMT</pubDate>
-            <description><![CDATA[DBS Group Research Strategist Chang Wei Liang highlights that the Japanese Yen (JPY) remains undervalued but that this undervaluation has narrowed after Japan’s second FX intervention of 2026, conducted jointly with the United States (US).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
