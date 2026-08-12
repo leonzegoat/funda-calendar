@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 16:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 17:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI holds firm as Strait of Hormuz concerns outweigh sharp US inventory build]]></title>
+            <link>https://www.fxstreet.com/news/wti-holds-firm-as-strait-of-hormuz-concerns-outweigh-sharp-us-inventory-build-202608121719</link>
+            <guid isPermaLink="false">5a43abfb-6d08-4a9a-80cc-ae24f56ea961</guid>
+            <pubDate>Wed, 12 Aug 2026 17:19:34 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) Oil trades in a narrow range on Wednesday as traders weigh a sharp rise in US crude inventories against persistent supply risks in the Middle East. At the time of writing, WTI trades around $82.20 per barrel, hovering near a one-and-a-half-week high.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound holds near 1.3500 as CPI relief meets Hormuz risk]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-holds-near-13500-as-cpi-relief-meets-hormuz-risk-202608121657</link>
+            <guid isPermaLink="false">a3465f31-e5b6-4f80-ab9d-3c1557d9ea0a</guid>
+            <pubDate>Wed, 12 Aug 2026 16:57:31 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) holds firm within familiar levels on Wednesday after the US inflation report was in line with estimates, a relief for the Federal Reserve (Fed), which is laser-focused on tackling higher prices. The GBP/USD pair trades at around 1.3500 after reaching a high of 1.3546.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar slips as US Dollar steadies post CPI]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-slips-as-us-dollar-steadies-post-cpi-202608121641</link>
+            <guid isPermaLink="false">70643437-24da-4a56-a8e3-2ec3fe768e04</guid>
+            <pubDate>Wed, 12 Aug 2026 16:41:21 GMT</pubDate>
+            <description><![CDATA[AUD/USD is trading near the 0.7070 zone, holding onto a minority of Wednesday's gains after the pair touched a session high near 0.7090. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: Strong Singapore growth supports SGD against US Dollar – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-strong-singapore-growth-supports-sgd-against-us-dollar-commerzbank-202608121617</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 11:47:57 GMT</pubDate>
             <description><![CDATA[The Euro (EUR) nurses marginal gains against the US Dollar (USD) on Wednesday, with the EUR/USD pair flattening just below the 1.1550 level during the European trading session.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/JPY Price Forecast: Recovery stalls below the 50-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-recovery-stalls-below-the-50-day-sma-202608121146</link>
-            <guid isPermaLink="false">357ad2cc-a25e-4007-af32-f99dc1a72cb9</guid>
-            <pubDate>Wed, 12 Aug 2026 11:46:08 GMT</pubDate>
-            <description><![CDATA[GBP/JPY holds firm on Wednesday, trading within Monday’s range as the Japanese Yen (JPY) stays on the back foot, having given up nearly half of the gains triggered by the joint US-Japan intervention. At the time of writing, the cross trades around 215.12, virtually unchanged on the day. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Strong Q2 may give way to flat growth - TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-strong-q2-may-give-way-to-flat-growth-td-securities-202608121137</link>
-            <guid isPermaLink="false">867d70a2-a91f-471c-ae29-04951d03d5ee</guid>
-            <pubDate>Wed, 12 Aug 2026 11:37:20 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists expect United Kingdom (UK) June Gross Domestic Product (GDP) data to show a reversal of May’s strength in professional services, offsetting solid retail sales and leaving the Index of Services flat, with modest industrial weakness keeping monthly GDP at 0.0% m/m.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Inflation data and Middle East risks – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-inflation-data-and-middle-east-risks-commerzbank-202608121120</link>
-            <guid isPermaLink="false">b4836f38-1d65-4b3c-8f84-0cbc8ba1eb73</guid>
-            <pubDate>Wed, 12 Aug 2026 11:20:02 GMT</pubDate>
-            <description><![CDATA[Commerzbank FX analyst Antje Praefcke notes that July US inflation is expected to rise only 0.1% month-on-month, with headline and core rates slipping to 3.4% and 2.5% year-on-year.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
