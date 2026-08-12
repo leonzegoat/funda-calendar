@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 17:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 18:38:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Fading bullish momentum puts focus on 1.1500 support]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-fading-bullish-momentum-puts-focus-on-11500-support-202608121811</link>
+            <guid isPermaLink="false">4e254b02-051f-40eb-996f-ebf9bf97f074</guid>
+            <pubDate>Wed, 12 Aug 2026 18:11:23 GMT</pubDate>
+            <description><![CDATA[EUR/USD edges lower on Wednesday, reversing earlier gains as the US Dollar (USD) shrugs off in-line US Consumer Price Index (CPI) data. At the time of writing, the pair trades around 1.1521 after touching an intraday high of 1.1563.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[WTI holds firm as Strait of Hormuz concerns outweigh sharp US inventory build]]></title>
             <link>https://www.fxstreet.com/news/wti-holds-firm-as-strait-of-hormuz-concerns-outweigh-sharp-us-inventory-build-202608121719</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 11:48:57 GMT</pubDate>
             <description><![CDATA[The Japanese Yen (JPY) continues to navigate complex market dynamics, consolidating near the 159.25 level against the US Dollar (USD) following a sharp upward push.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-163.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: Biding its time near 1.1550, awaiting US CPI numbers]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-biding-its-time-near-11550-awaiting-us-cpi-numbers-202608121147</link>
-            <guid isPermaLink="false">dffbad8a-898e-4838-8ae4-e5cce7df03c6</guid>
-            <pubDate>Wed, 12 Aug 2026 11:47:57 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) nurses marginal gains against the US Dollar (USD) on Wednesday, with the EUR/USD pair flattening just below the 1.1550 level during the European trading session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
