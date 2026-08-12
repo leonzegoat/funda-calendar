@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 23:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 02:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[British Pound loses as rising US Dollar, geopolitical tensions weigh on sentiment]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-loses-as-rising-us-dollar-geopolitical-tensions-weigh-on-sentiment-202608120155</link>
+            <guid isPermaLink="false">7530fcbe-c72d-4248-95d3-0df8df35a9a0</guid>
+            <pubDate>Wed, 12 Aug 2026 01:55:40 GMT</pubDate>
+            <description><![CDATA[GBP/USD inches lower after remaining flat in the previous day, trading around 1.3500 during the Asian hours on Wednesday. The currency pair continues to hold its losses as the US Dollar (USD) gains strength ahead of a crucial inflation report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold trades with positive bias below $4,400; Fed hike bets cap gains ahead of US CPI]]></title>
+            <link>https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138</link>
+            <guid isPermaLink="false">daeaccbe-fb94-46b6-91d6-f122793f3c3b</guid>
+            <pubDate>Wed, 12 Aug 2026 01:38:52 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) attracts some dip-buyers during the Asian session on Wednesday, stalling the previous day's retracement slide from the $4,435 region, or the highest level since June 5.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Experts split on whether next RBA move is a hike or cut amid energy risks]]></title>
+            <link>https://www.fxstreet.com/news/banks-split-on-whether-next-rba-move-is-a-hike-or-cut-amid-energy-risks-202608120115</link>
+            <guid isPermaLink="false">71baa67c-80b8-4ec8-9de0-a6e5ac81f1af</guid>
+            <pubDate>Wed, 12 Aug 2026 01:15:32 GMT</pubDate>
+            <description><![CDATA[The Reserve Bank of Australia (RBA) unanimously held rates at 4.35% in August, but major economic forecasters offer varying takes on what comes next:]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7882 vs. 6.7900 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67882-vs-67900-previous-202608120115</link>
+            <guid isPermaLink="false">03968bc2-bed2-4c88-b7e3-9cc96652906a</guid>
+            <pubDate>Wed, 12 Aug 2026 01:15:30 GMT</pubDate>
+            <description><![CDATA[On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7882 compared to the previous day's fix of 6.7900 and 6.7430 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro consolidates below mid-1.1500s vs USD ahead of German HICP, US CPI]]></title>
+            <link>https://www.fxstreet.com/news/euro-consolidates-below-mid-11500s-vs-usd-ahead-of-german-hicp-us-cpi-202608120108</link>
+            <guid isPermaLink="false">038d0175-6e8e-44ca-b0cd-a819ca863d0e</guid>
+            <pubDate>Wed, 12 Aug 2026 01:08:56 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair struggles to gain any meaningful traction and holds steady around mid-1.1500s during the Asian session on Wednesday, within a familiar range held over the past week or so.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI advances above $82.50 due to mixed signals regarding potential US-Iran deal]]></title>
+            <link>https://www.fxstreet.com/news/wti-advances-above-8250-due-to-mixed-signals-regarding-potential-us-iran-deal-202608120053</link>
+            <guid isPermaLink="false">16f66719-1014-4fe1-b984-421f86449b49</guid>
+            <pubDate>Wed, 12 Aug 2026 00:53:20 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price extends its gains for the third successive day, trading around $82.70 per barrel during the Asian hours on Wednesday. Crude oil prices advance as investors weigh mixed signals regarding a potential deal between the United States (US) and Iran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GBP/JPY Price Forecast: Struggles at 50-day SMA with bulls near 215.50]]></title>
             <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-struggles-at-50-day-sma-with-bulls-near-21550-202608112317</link>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 11 Aug 2026 17:28:34 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) price registers modest losses on Tuesday, driven by a firm US Dollar as traders await the release of crucial US inflation data and the potential reopening of the Strait of Hormuz. The rise in energy prices is also capping the yellow metal´s advance.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed’s Goolsbee: Inflation is the “biggest problem” of the economy]]></title>
-            <link>https://www.fxstreet.com/news/feds-goolsbee-inflation-is-the-biggest-problem-of-the-economy-202608111723</link>
-            <guid isPermaLink="false">d1ce52c4-40c3-4633-9878-cef748ca65bb</guid>
-            <pubDate>Tue, 11 Aug 2026 17:23:35 GMT</pubDate>
-            <description><![CDATA[The Chicago Fed President Austan Goolsbee revealed in a video posted by Wired, that “The biggest problem facing our economy right now is not the collapse of industry and the collapse of jobs; it's that the prices have been rising too fast, we got an inflation problem and people hate inflation.”]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran took back the Dow Jones Industrial Average breakout]]></title>
-            <link>https://www.fxstreet.com/news/iran-took-back-the-dow-jones-industrial-average-breakout-202608111621</link>
-            <guid isPermaLink="false">e34a6716-75db-4296-af50-56a505d10b81</guid>
-            <pubDate>Tue, 11 Aug 2026 16:21:26 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average broke the three-session coil that had pinned it beneath its record, traded up through 54,200, and has since surrendered the entire move.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Buyers struggle to clear the 21-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-buyers-struggle-to-clear-the-21-day-sma-202608111554</link>
-            <guid isPermaLink="false">69a11bc8-8960-407f-b827-df408e3154fe</guid>
-            <pubDate>Tue, 11 Aug 2026 15:54:17 GMT</pubDate>
-            <description><![CDATA[USD/CHF trades with a positive bias on Tuesday as the US Dollar (USD) consolidates its recent gains ahead of Wednesday’s US Consumer Price Index (CPI) data. Price action has stabilized above the 50-day Simple Moving Average (SMA) following a sharp pullback from above 0.8200 in late July.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Consolidation holds in mid 1.15s against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/euro-consolidation-holds-in-mid-115s-against-us-dollar-scotiabank-202608111544</link>
-            <guid isPermaLink="false">343253f2-4e82-4fa8-b426-1a3bbf2dde0c</guid>
-            <pubDate>Tue, 11 Aug 2026 15:44:43 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Euro (EUR) is steady, extending a tight consolidation around the mid-1.15s after the Dollar’s late-July Fed-driven decline.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar remains under pressure as Middle East tensions support US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-remains-under-pressure-as-middle-east-tensions-support-us-dollar-202608111541</link>
-            <guid isPermaLink="false">0378ab64-8999-4cea-a248-0bee3a5517a3</guid>
-            <pubDate>Tue, 11 Aug 2026 15:41:51 GMT</pubDate>
-            <description><![CDATA[NZD/USD trades around 0.5880 on Tuesday at the time of writing, virtually unchanged on the day with a 0.03% decline.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound holds near 1.3500 as US CPI, UK GDP loom]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-holds-near-13500-as-us-cpi-uk-gdp-loom-202608111525</link>
-            <guid isPermaLink="false">e34b2667-bd6d-447e-9ed1-0b8c4ce30512</guid>
-            <pubDate>Tue, 11 Aug 2026 15:25:08 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling (GBP) holds firm against the US Dollar (USD) on Tuesday following the release of softer-than-expected US jobs data, while investors await US inflation data on Wednesday and UK GDP releases on Thursday. At the time of writing, the GBP/USD pair trades at 1.3508, nearly unchanged.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
