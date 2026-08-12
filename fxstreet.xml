@@ -4,15 +4,71 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 12:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 14:07:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Breaking: US CPI inflation edges lower to 3.4% in July as expected]]></title>
+            <title><![CDATA[Canadian Dollar steadies as US inflation meets expectations, Oil limits downside]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-steadies-as-us-inflation-meets-expectations-oil-limits-downside-202608121400</link>
+            <guid isPermaLink="false">0c74f255-8f09-41b4-ba7e-ad7fc4a62ab8</guid>
+            <pubDate>Wed, 12 Aug 2026 14:00:07 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades around 1.3915 on Wednesday at the time of writing, virtually unchanged on the day with a modest decline of 0.06%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pound Sterling retains gains as US CPI trims September Fed hike odds]]></title>
+            <link>https://www.fxstreet.com/news/pound-sterling-retains-gains-as-us-cpi-trims-september-fed-hike-odds-202608121341</link>
+            <guid isPermaLink="false">7e2b98c5-39d4-459e-ac50-f90c58332b3e</guid>
+            <pubDate>Wed, 12 Aug 2026 13:41:04 GMT</pubDate>
+            <description><![CDATA[GBP/USD trades modestly higher on Wednesday as the US Dollar (USD) comes under mild pressure following the release of the latest US inflation figures. However, the market reaction remains limited as the data broadly matched expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil: Lula victory could deepen fiscal risks - Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/brazil-lula-victory-could-deepen-fiscal-risks-societe-generale-202608121335</link>
+            <guid isPermaLink="false">50b2c1fe-0ab6-42e4-ba54-05ff71f53e7a</guid>
+            <pubDate>Wed, 12 Aug 2026 13:35:58 GMT</pubDate>
+            <description><![CDATA[Societe Generale analysts Brendan McKenna and Dev Ashish outline scenarios for Brazil’s 2026 election, assigning a 65% probability to President Lula winning a fourth term and 30% to Flavio.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Brazil.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold holds gains above $4,400 after US CPI meets expectations]]></title>
+            <link>https://www.fxstreet.com/news/gold-rises-above-4-400-as-us-inflation-data-takes-centre-stage-202608121051</link>
+            <guid isPermaLink="false">5331d765-970d-4d31-a032-ac938cc439e5</guid>
+            <pubDate>Wed, 12 Aug 2026 10:51:12 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) extends gains above $4,400 on Wednesday as traders digest US inflation data, which came broadly in line with expectations. At the time of writing, XAU/USD trades around $4,429, up 1.38% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Resilience tested as data mixed – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-resilience-tested-as-data-mixed-rabobank-202608121312</link>
+            <guid isPermaLink="false">15026e52-6ef6-40ea-91b3-76a9bf56e037</guid>
+            <pubDate>Wed, 12 Aug 2026 13:12:40 GMT</pubDate>
+            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley reviews recent United Kingdom (UK) data against Eurozone performance. Foley notes Eurozone Q2 Gross Domestic Product (GDP) at 0.4% q/q and a 0.7% UK upturn in the three months to May.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Chinese demand recovery could lift prices – NBC]]></title>
+            <link>https://www.fxstreet.com/news/oil-chinese-demand-recovery-could-lift-prices-nbc-202608121250</link>
+            <guid isPermaLink="false">b866f06e-2789-4f62-ac51-55c85dd33c54</guid>
+            <pubDate>Wed, 12 Aug 2026 12:50:41 GMT</pubDate>
+            <description><![CDATA[National Bank of Canada's (NBC) Jocelyn Paquet analyzes how China’s sharp reduction in petroleum imports helped offset the Middle East supply shock and limit Oil price gains. The July rebound in Chinese imports is highlighted as historically large in percentage terms.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro remains little changed as US CPI fails to surprise the markets]]></title>
+            <link>https://www.fxstreet.com/news/euro-remains-little-changed-as-us-cpi-fails-to-surprise-the-markets-202608121246</link>
+            <guid isPermaLink="false">86edc095-ee39-4286-9b90-efb0f79ccf97</guid>
+            <pubDate>Wed, 12 Aug 2026 12:46:02 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades around 1.1550 on Wednesday at the time of writing, up a modest 0.08% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: US CPI inflation softens to 3.4% in July as expected]]></title>
             <link>https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830</link>
             <guid isPermaLink="false">6773732c-369a-4834-9651-49952be1b67c</guid>
             <pubDate>Wed, 12 Aug 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[Annual inflation in the United States (US), as measured by the change in the Consumer Price Index (CPI), declined to 3.4% in July from 3.5% in June, the US Bureau of Labor Statistics (BLS) reported on Wednesday.]]></description>
+            <description><![CDATA[Annual inflation in the United States (US), as measured by the change in the Consumer Price Index (CPI), declined to 3.4% in July from 3.5% in June, the US Bureau of Labor Statistics (BLS) reported on Wednesday. This print came in line with the market expectation.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -120,14 +176,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Gold rises above $4,400 as US inflation data takes centre stage]]></title>
-            <link>https://www.fxstreet.com/news/gold-rises-above-4-400-as-us-inflation-data-takes-centre-stage-202608121051</link>
-            <guid isPermaLink="false">5331d765-970d-4d31-a032-ac938cc439e5</guid>
-            <pubDate>Wed, 12 Aug 2026 10:51:12 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) rebounds on Wednesday after closing in negative territory on Tuesday for only the second time in six trading days. Traders now await the US Consumer Price Index (CPI) data, due at 12:30 GMT, to see whether the bullish momentum will continue or a reversal will take shape.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Yen attempts to bounce up from 159.45 lows ahead of the US inflation release]]></title>
             <link>https://www.fxstreet.com/news/yen-attempts-to-bounce-up-from-15945-lows-ahead-of-the-us-inflation-release-202608121047</link>
             <guid isPermaLink="false">de50ca03-7a84-48d2-af8f-eab386a13873</guid>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 09:35:28 GMT</pubDate>
             <description><![CDATA[Societe Generale’s Kenneth Broux highlights that the Canadian Dollar has recovered to its strongest level in two months, with USD/CAD mean‑reverting to 1.3933 from 1.4248.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608120930</link>
-            <guid isPermaLink="false">b211c0d8-4df2-4921-aa23-1b905d6daf69</guid>
-            <pubDate>Wed, 12 Aug 2026 09:30:06 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) rose on Wednesday, according to FXStreet data. Silver trades at $66.56 per troy ounce, up 3.06% from the $64.58 it cost on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: CPI-driven range signals carry focus – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-cpi-driven-range-signals-carry-focus-ocbc-202608120922</link>
-            <guid isPermaLink="false">5da34638-9641-4538-a53a-3b24d583104c</guid>
-            <pubDate>Wed, 12 Aug 2026 09:22:00 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that the US Dollar (USD) stayed mixed as markets waited for the key United States (US) Consumer Price Index (CPI) release, with Middle East tensions and hawkish Federal Reserve (Fed) rhetoric offsetting each other.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Hormuz risk supports prices – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/oil-hormuz-risk-supports-prices-commerzbank-202608120913</link>
-            <guid isPermaLink="false">ef2ddf9d-76e8-4d38-ad32-a4162b51238a</guid>
-            <pubDate>Wed, 12 Aug 2026 09:13:32 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Charlie Lay and Dr. Henry Hao note that Brent and WTI firmed as markets reassessed prospects for a Hormuz deal, with the previous close at USD88.91 for Brent and USD83.20 for WTI.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro moves little against Canadian Dollar following German HICP data]]></title>
-            <link>https://www.fxstreet.com/news/euro-moves-little-against-canadian-dollar-following-german-hicp-data-202608120905</link>
-            <guid isPermaLink="false">e8432364-2598-4f8e-86d0-f45bdaca45f7</guid>
-            <pubDate>Wed, 12 Aug 2026 09:05:42 GMT</pubDate>
-            <description><![CDATA[EUR/CAD remains steady after five days of losses, trading around 1.6070 during the European hours on Wednesday. The currency cross moves little as the Euro (EUR) holds ground following the release of Germany’s Harmonized Index of Consumer Prices (HICP) data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound holds steady above 1.3500 vs USD as traders eye US CPI ahead of UK GDP]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-holds-steady-above-13500-vs-usd-as-traders-eye-us-cpi-ahead-of-uk-gdp-202608120903</link>
-            <guid isPermaLink="false">9facc72b-dad8-461c-bb54-f9fb22e1d91c</guid>
-            <pubDate>Wed, 12 Aug 2026 09:03:24 GMT</pubDate>
-            <description><![CDATA[The GBP/USD pair extends its sideways consolidation around the 1.3500 psychological mark through the first half of the European session on Wednesday. Traders opt to wait on the sidelines ahead of important macro data from the US and the UK.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Budget uncertainty leaves Sterling vulnerable against Euro - Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-budget-uncertainty-leaves-sterling-vulnerable-against-euro-rabobank-202608120856</link>
-            <guid isPermaLink="false">e4cccb16-6f72-4b99-8c70-deb27cbc0d62</guid>
-            <pubDate>Wed, 12 Aug 2026 08:56:57 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley outlines a cautious stance on UK fiscal prospects and their impact on EUR/GBP. The Burnham government’s planned flexibility in fiscal rules and higher infrastructure spending could mean more gilt supply and tax speculation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
