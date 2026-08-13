@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 10:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Economists agree: ECB to hike interest rates by 25 bps to 2.5% in September - Reuters]]></title>
+            <link>https://www.fxstreet.com/news/economists-agree-ecb-to-hike-interest-rates-by-25-bps-to-25-in-september-202608131024</link>
+            <guid isPermaLink="false">ba3ba271-23a0-4bf4-9570-52ffb39926eb</guid>
+            <pubDate>Thu, 13 Aug 2026 10:24:36 GMT</pubDate>
+            <description><![CDATA[According to a Reuters poll, the European Central Bank (ECB) will hike its deposit rates by 25 basis points (bps) to 2.50% in September, said 57 of 69 economists.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar caught between hawkish RBA, Iran-related inflation risks]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-caught-between-hawkish-rba-iran-related-inflation-risks-202608131023</link>
+            <guid isPermaLink="false">7384f245-b6b3-4d66-8fe7-de7bd2a61f8f</guid>
+            <pubDate>Thu, 13 Aug 2026 10:23:22 GMT</pubDate>
+            <description><![CDATA[AUD/USD trades around 0.7055 on Thursday at the time of writing, little changed on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Bearish bias against US Dollar within higher range – UOB]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-bearish-bias-against-us-dollar-within-higher-range-uob-202608131002</link>
+            <guid isPermaLink="false">b86770c3-3e1d-4a96-89cf-88fd993759ab</guid>
+            <pubDate>Thu, 13 Aug 2026 10:02:13 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/JPY closed little changed at 159.41 after briefly dipping to 158.58 and rebounding to 159.54. Intraday, the pair is expected to trade between 158.70 and 159.70.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: CPI-driven moves point to near-term stability – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-cpi-driven-moves-point-to-near-term-stability-mufg-202608130952</link>
+            <guid isPermaLink="false">59bb64aa-0e2f-443a-b1f4-1446df5a5871</guid>
+            <pubDate>Thu, 13 Aug 2026 09:52:12 GMT</pubDate>
+            <description><![CDATA[Lee Hardman at MUFG reports that the US Dollar’s initial post-CPI weakness quickly reversed, with the dollar index returning to around 100.00 as markets trimmed but did not abandon expectations for a September Fed hike.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazilian Real: Election risks threaten carry story – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/brazilian-real-election-risks-threaten-carry-story-societe-generale-202608130943</link>
+            <guid isPermaLink="false">3db40c30-503f-460e-ac39-6766b568bf67</guid>
+            <pubDate>Thu, 13 Aug 2026 09:43:06 GMT</pubDate>
+            <description><![CDATA[Societe Generale strategists note USD/BRL has formed a higher low and is testing its 200-day moving average near 5.22, with upside projections toward 5.34–5.38.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-rio.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608130932</link>
+            <guid isPermaLink="false">c6ed70b9-0469-48c6-9aa8-4794e13b800f</guid>
+            <pubDate>Thu, 13 Aug 2026 09:32:36 GMT</pubDate>
+            <description><![CDATA[Silver prices (XAG/USD) fell on Thursday, according to FXStreet data. Silver trades at $64.48 per troy ounce, down 1.30% from the $65.32 it cost on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Range tests with upside bias against US Dollar – ING]]></title>
+            <link>https://www.fxstreet.com/news/euro-range-tests-with-upside-bias-against-us-dollar-ing-202608130929</link>
+            <guid isPermaLink="false">d9485758-f1d7-4ea4-a3b5-f7a87bcc0a05</guid>
+            <pubDate>Thu, 13 Aug 2026 09:29:35 GMT</pubDate>
+            <description><![CDATA[ING’s Francesco Pesole keeps a constructive stance on EUR/USD after recent US data, based on a view that the Federal Reserve is unlikely to deliver further tightening.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Inflation outlook and Fed path – UOB]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-inflation-outlook-and-fed-path-uob-202608130919</link>
+            <guid isPermaLink="false">534a8679-3c13-4a4f-b32b-9a55233d60fe</guid>
+            <pubDate>Thu, 13 Aug 2026 09:19:40 GMT</pubDate>
+            <description><![CDATA[UOB’s Alvin Liew assesses United States (US) inflation and Federal Reserve (Fed) policy after the July Consumer Price Index (CPI) report. Liew notes headline and core CPI remain above the Fed’s 2% target but sees inflation gradually easing, with headline CPI averaging 3.5% and core 2.8% in 2026.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Swiss Franc holds ground following domestic Producer and Import Prices data]]></title>
             <link>https://www.fxstreet.com/news/swiss-franc-holds-ground-following-domestic-producer-and-import-prices-data-202608130911</link>
@@ -182,70 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 07:24:29 GMT</pubDate>
             <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note GBP/USD briefly traded above 1.3535 to 1.3540 before slipping back to close at 1.3496. Intraday, the pair is seen range-trading between 1.3475 and 1.3525.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah remains subdued as safe-haven demand lifts US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-remains-subdued-as-safe-haven-demand-lifts-us-dollar-202608130720</link>
-            <guid isPermaLink="false">50b50903-aa2d-4d8e-9032-93f6cf398abd</guid>
-            <pubDate>Thu, 13 Aug 2026 07:20:40 GMT</pubDate>
-            <description><![CDATA[USD/IDR gains ground for the third consecutive day, trading around 17,920 during the early European hours on Thursday. The pair appreciates as the US Dollar (USD) recovers its daily losses amid escalating geopolitical tensions between the US and Iran.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BNB-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Upside capped by Fed hike risks – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-upside-capped-by-fed-hike-risks-td-securities-202608130710</link>
-            <guid isPermaLink="false">a014bc7c-7c34-4aa0-829f-cdf1b13a06c9</guid>
-            <pubDate>Thu, 13 Aug 2026 07:10:37 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Bart Melek notes Gold extended gains after the July Consumer Price Index (CPI) matched expectations, reinforcing a dovish narrative around Fed Chair Warsh.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar extends pullback from two-month high as oil-driven Fed hike bets lift USD]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-extends-pullback-from-two-month-high-as-oil-driven-fed-hike-bets-lift-usd-202608130701</link>
-            <guid isPermaLink="false">c5bcd91f-bbcb-483e-8316-d2c292f2920f</guid>
-            <pubDate>Thu, 13 Aug 2026 07:01:26 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair builds on the previous day's bounce from the 1.3900 neighborhood, or a two-month low, and gains follow-through positive traction for the second straight day on Thursday.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: AI rally and CPI relief lift US stocks – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-ai-rally-and-cpi-relief-lift-us-stocks-deutsche-bank-202608130657</link>
-            <guid isPermaLink="false">bf048825-49f8-4193-a1fc-e43864ce2873</guid>
-            <pubDate>Thu, 13 Aug 2026 06:57:58 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists highlight that the S&P 500 closed just below its record high as US CPI data reduced urgency for further Federal Reserve hikes. Front-end Treasuries rallied and semiconductor strength supported equities, while volatility fell to its lowest level since January.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds gains against British Pound as UK GDP slows in Q2]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-gains-against-british-pound-as-uk-gdp-slows-in-q2-202608130657</link>
-            <guid isPermaLink="false">d90cb37f-3997-45cd-93f1-bc989cc53249</guid>
-            <pubDate>Thu, 13 Aug 2026 06:57:17 GMT</pubDate>
-            <description><![CDATA[The EUR/GBP cross holds positive ground near 0.8540 during the early European trading hours on Thursday. The British Pound (GBP) remains weak against the Euro (EUR) following the UK economic data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-chart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: Contained inflation supports RBI pause – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-contained-inflation-supports-rbi-pause-commerzbank-202608130644</link>
-            <guid isPermaLink="false">af60186b-b3d9-411e-941d-05e4d90ba7af</guid>
-            <pubDate>Thu, 13 Aug 2026 06:44:01 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s FX team notes India’s July CPI rose slightly to 4.5% year-on-year but stayed within the Reserve Bank of India’s target band, with core inflation steady at 3.9%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound drifts away from 1.3500 as UK GDP slows down and Industrial Production falls]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-drifts-away-from-13500-as-weak-uk-industrial-production-offsets-bright-gdp-data-202608130635</link>
-            <guid isPermaLink="false">0773cf3f-d666-436b-994e-420310cebf8c</guid>
-            <pubDate>Thu, 13 Aug 2026 06:35:59 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) treads water against the US Dollar (USD), trading practically flat, a few pips below the 1.3500 level on Thursday's early London session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Industrial-Production-4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Supply disruptions raise deficit risks – ING]]></title>
-            <link>https://www.fxstreet.com/news/oil-supply-disruptions-raise-deficit-risks-ing-202608130633</link>
-            <guid isPermaLink="false">a2c653e8-5c81-4697-ae2d-66b010e0234c</guid>
-            <pubDate>Thu, 13 Aug 2026 06:33:01 GMT</pubDate>
-            <description><![CDATA[ING analysts Warren Patterson and Ewa Manthey note Oil prices have eased, with Brent crude ending largely flat as US-Iran talks remain in deadlock and Russian port infrastructure escapes major damage.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
