@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 04:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 06:00:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Struggles to extend rally above 0.7100]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-struggles-to-extend-rally-above-07100-202608130542</link>
+            <guid isPermaLink="false">d0ffb393-5921-40d2-a2f6-74a0ed38847a</guid>
+            <pubDate>Thu, 13 Aug 2026 05:42:47 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) trades 0.17% lower at around 0.7050 against the US Dollar (USD) during the early European trading session on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Flatlines below 1.1550, while staying bearish under 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-flatlines-below-11550-while-staying-bearish-under-100-day-sma-202608130522</link>
+            <guid isPermaLink="false">008b19c1-36b9-4575-8be7-1bcec3e666b1</guid>
+            <pubDate>Thu, 13 Aug 2026 05:22:50 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair holds steady near 1.1520 during the early European trading hours on Thursday. US inflation cooled on a ‌year-over-year basis for a second straight month, easing pressure on the US Federal Reserve (Fed) to raise interest rates as soon as next month.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee opens marginally lower as US Dollar trades firmly]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-opens-marginally-lower-as-us-dollar-trades-firmly-202608130521</link>
+            <guid isPermaLink="false">5db9dd55-2012-4232-8fa7-9051a6badee5</guid>
+            <pubDate>Thu, 13 Aug 2026 05:21:00 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) opens on a cautious note against the US Dollar (USD) on Thursday due to overnight gains in the latter. The USD/INR pair edges up to near 95.35 after a corrective move the previous day, as fears of a prolonged global energy supply disruption have strengthened the US Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Falls to near 183.50 near nine-day EMA]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-falls-to-near-18350-near-nine-day-ema-202608130513</link>
+            <guid isPermaLink="false">8c6f55fc-0750-45a8-ac19-6bab5eed8389</guid>
+            <pubDate>Thu, 13 Aug 2026 05:13:54 GMT</pubDate>
+            <description><![CDATA[EUR/JPY extends its losses for the third successive day, trading around 183.60 during the Asian hours on Thursday. The 14-day Relative Strength Index (RSI) at 47.11 reinforces a neutral-to-soft momentum backdrop rather than a decisive directional push.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold moves away from June 5 high, slides below $4,400 amid Fed hike bets, firm USD]]></title>
+            <link>https://www.fxstreet.com/news/gold-retreats-from-june-5-high-as-oil-driven-fed-rate-hike-bets-underpin-usd-202608130344</link>
+            <guid isPermaLink="false">e0f0b0a2-bca8-4bcb-a42a-155208d077f8</guid>
+            <pubDate>Thu, 13 Aug 2026 03:44:08 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) extends its intraday retracement slide from the highest level since June 5, around the $4,450 area set during the Asian session on Thursday, and slides back below the $4,400 mark in the last hour.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK GDP expected to post subdued growth in Q2 ]]></title>
+            <link>https://www.fxstreet.com/news/uk-gdp-expected-to-show-moderate-q2-growth-202608130200</link>
+            <guid isPermaLink="false">64910958-df9f-4f1a-b9f6-9c52b4e841eb</guid>
+            <pubDate>Thu, 13 Aug 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[The United Kingdom’s (UK) Office for National Statistics will release the preliminary estimate of the second-quarter Gross Domestic Product (GDP) on Thursday. Market analysts anticipate a 0.4% growth in the three months to June, after a modest 0.6% advance in the first quarter of 2026.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_GDP-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc slides to two-week low as oil-driven Fed hike bets boost USD]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-slides-to-two-week-low-as-oil-driven-fed-hike-bets-boost-usd-202608130447</link>
+            <guid isPermaLink="false">1990a7d4-a2ee-427d-98e4-4caeca671322</guid>
+            <pubDate>Thu, 13 Aug 2026 04:47:47 GMT</pubDate>
+            <description><![CDATA[The USD/CHF pair prolongs the weekly uptrend for the fourth consecutive day and climbs to a two-week high, around 0.8045, during the Asian session on Thursday amid a firmer US Dollar (USD). Moreover, the fundamental backdrop favors bulls and backs the case for further appreciation for spot prices.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608130435</link>
+            <guid isPermaLink="false">ddba67d7-1b8c-46e1-878f-55dbbd4e1026</guid>
+            <pubDate>Thu, 13 Aug 2026 04:35:08 GMT</pubDate>
+            <description><![CDATA[Gold prices fell in India on Thursday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/JPY Price Forecast: Softens below 112.50 as near-term bearish bias persists below 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-softens-below-11250-as-near-term-bearish-bias-persists-below-100-day-sma-202608130427</link>
+            <guid isPermaLink="false">4c2e81c8-88e2-4126-a8a8-a7d46fa121b7</guid>
+            <pubDate>Thu, 13 Aug 2026 04:27:59 GMT</pubDate>
+            <description><![CDATA[The AUD/JPY cross trades in negative territory near 112.35 during the early European session on Thursday. The Japanese Yen (JPY) edges higher against the Australian Dollar (AUD) as traders are on high alert for further intervention from authorities.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[GBP/USD Price Forecast: Trades below 1.3500 on firmer USD, ahead of UK GDP]]></title>
             <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-trades-below-13500-on-firmer-usd-ahead-of-uk-gdp-202608130402</link>
@@ -22,14 +94,6 @@
             <pubDate>Thu, 13 Aug 2026 03:51:47 GMT</pubDate>
             <description><![CDATA[Asian stocks mostly remain stronger, bolstered by softer US inflation data that reinforced expectations for a more accommodative Federal Reserve (Fed) policy. US headline CPI rose 3.4% year-over-year in July, down slightly from 3.5% in the previous month.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Tech_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold retreats from June 5 high as oil-driven Fed rate-hike bets underpin USD]]></title>
-            <link>https://www.fxstreet.com/news/gold-retreats-from-june-5-high-as-oil-driven-fed-rate-hike-bets-underpin-usd-202608130344</link>
-            <guid isPermaLink="false">e0f0b0a2-bca8-4bcb-a42a-155208d077f8</guid>
-            <pubDate>Thu, 13 Aug 2026 03:44:08 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) retreats after touching a fresh high since June 5, around the $4,450 area, during the Asian session on Thursday and is currently placed near the lower end of its daily range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Silver Price Forecast: XAG/USD wobbles around $65.40, easing hawkish Fed bets strengthen outlook]]></title>
@@ -70,14 +134,6 @@
             <pubDate>Thu, 13 Aug 2026 02:14:40 GMT</pubDate>
             <description><![CDATA[The AUD/USD pair holds steady during the Asian session on Thursday and, for now, seems to have stalled the previous day's retracement slide from its highest level since June 5.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[UK GDP expected to show moderate Q2 growth]]></title>
-            <link>https://www.fxstreet.com/news/uk-gdp-expected-to-show-moderate-q2-growth-202608130200</link>
-            <guid isPermaLink="false">64910958-df9f-4f1a-b9f6-9c52b4e841eb</guid>
-            <pubDate>Thu, 13 Aug 2026 02:00:00 GMT</pubDate>
-            <description><![CDATA[The United Kingdom’s (UK) Office for National Statistics will release the preliminary estimate of the second-quarter Gross Domestic Product (GDP) on Thursday. Market analysts anticipate a 0.4% growth in the three months to June, after a modest 0.6% advance in the first quarter of 2026.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_GDP-5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Canadian Dollar steadies as weak US Dollar offsets lower oil prices]]></title>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 22:37:00 GMT</pubDate>
             <description><![CDATA[DBS Group Research’s Radhika Rao reports that Indonesia’s onshore markets welcomed President Prabowo’s nomination of Deputy Governor Destry Damayanti as the next Bank Indonesia Governor.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesiamap3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar pulls back as inflation expectations loom]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-pulls-back-as-inflation-expectations-loom-202608122231</link>
-            <guid isPermaLink="false">a8d6ccf4-247f-4580-ac59-dc58257b1c2a</guid>
-            <pubDate>Wed, 12 Aug 2026 22:31:02 GMT</pubDate>
-            <description><![CDATA[The Aussie Dollar ended Wednesday’s session with losses against the Greenback as US inflation data matched estimates, in both headline and core. Consequently, traders pushed back against rate hikes, though the AUD/USD faded the initial move and traded at 0.7061, down 0.07%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro reverses from two-day high, fade US soft CPI move]]></title>
-            <link>https://www.fxstreet.com/news/euro-reverses-from-two-day-high-fade-us-soft-cpi-move-202608122158</link>
-            <guid isPermaLink="false">a9218629-3eca-48b8-b05c-6c0b8c8feae8</guid>
-            <pubDate>Wed, 12 Aug 2026 21:58:54 GMT</pubDate>
-            <description><![CDATA[The Euro reversed course after reaching a two-day high of 1.1563, following the release of a benign US inflation report for July, which triggered a repricing for a less “hawkish” Federal Reserve, throughout 2026.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Credit softness may spur PBoC easing – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-credit-softness-may-spur-pboc-easing-commerzbank-202608122154</link>
-            <guid isPermaLink="false">98ba3a2a-05eb-4e73-997d-a24b5ec8a94e</guid>
-            <pubDate>Wed, 12 Aug 2026 21:54:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Charlie Lay and Dr. Henry Hao point out USD/CNY is stable around 6.75, with their model implying a slightly stronger PBoC fix.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso rallies to two-year high as soft CPI hits Fed bets]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-as-soft-cpi-hits-fed-bets-202608122134</link>
-            <guid isPermaLink="false">efbdffb3-6819-4562-aa52-e77aa48ea5a8</guid>
-            <pubDate>Wed, 12 Aug 2026 21:34:32 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso (MXN) appreciates on Wednesday against the US Dollar (USD) to levels last seen in May 2024 following a decline in US inflation, as markets expected, softer-than-expected, which trims bets of a rate hike by the Federal Reserve (Fed) in its next meeting.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar slips as Middle East uncertainty weighs on Kiwi]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-slips-as-middle-east-uncertainty-weighs-on-kiwi-202608122123</link>
-            <guid isPermaLink="false">e5d4ac3f-dc08-4628-9a1f-1d2ff6c659d0</guid>
-            <pubDate>Wed, 12 Aug 2026 21:23:13 GMT</pubDate>
-            <description><![CDATA[NZD/USD is trading near 0.5860, down over 0.30% on Wednesday and falling for the third consecutive day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Upside risk builds against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-upside-risk-builds-against-us-dollar-uob-202608122112</link>
-            <guid isPermaLink="false">5ef62a65-5356-401f-a41e-013fb2149fab</guid>
-            <pubDate>Wed, 12 Aug 2026 21:12:00 GMT</pubDate>
-            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann note that USD/SGD closed little changed around 1.2800, with the S$NEER trading 1.7% above its mid-point and implying a 1.2760–1.2822 range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Commodity FX: Growth constraints cap carry – BNY]]></title>
-            <link>https://www.fxstreet.com/news/commodity-fx-growth-constraints-cap-carry-bny-202608122006</link>
-            <guid isPermaLink="false">fc5333b1-91d1-4a78-b667-3edc7002463c</guid>
-            <pubDate>Wed, 12 Aug 2026 20:06:11 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu notes that a less hawkish Fed has weakened the Dollar but failed to spark a sustained bid in commodity FX such as Norwegian Krone (NOK), Australian Dollar (AUD) and Emerging Markets (EM) currencies Chilean Peso (CLP), South African Rand (ZAR) and Brazilian Real (BRL).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
