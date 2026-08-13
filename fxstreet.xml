@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 18:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 19:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Bearish flag keeps 0.8145 in focus]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-keeps-08145-in-focus-202608131836</link>
+            <guid isPermaLink="false">ec282ccc-7fa1-453b-b504-b6cac47bc57c</guid>
+            <pubDate>Thu, 13 Aug 2026 18:36:51 GMT</pubDate>
+            <description><![CDATA[The USD/CHF pair trades near the top trendline of a bearish flag pattern on Thursday, holding steady at around 0.8134 after the release of softer inflation data on the producer side.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/MXN Price Forecast: Bears eye 17.00 as downtrend stretches]]></title>
+            <link>https://www.fxstreet.com/news/usd-mxn-price-forecast-bears-eye-1700-as-downtrend-stretches-202608131940</link>
+            <guid isPermaLink="false">cbb2a093-635a-4b5a-bbd9-f1f2cb430dcc</guid>
+            <pubDate>Thu, 13 Aug 2026 19:40:22 GMT</pubDate>
+            <description><![CDATA[The USD/MXN extends its downtrend for the 14th straight day, down a minimal 0.08% as the Mexican Peso hovers near a 24-month low of 17.01 on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: Two-way trade with key levels watched against US Dollar – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-two-way-trade-with-key-levels-watched-against-us-dollar-ocbc-202608131921</link>
+            <guid isPermaLink="false">3867a2b0-ce04-4ffd-959f-c610b105f075</guid>
+            <pubDate>Thu, 13 Aug 2026 19:21:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that USD/IDR has rebounded after a near 2% month-to-date pullback, with external factors such as elevated Oil prices and US rates remaining key drivers.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-idr-stock-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crude Oil sells a glut that never left the dock]]></title>
+            <link>https://www.fxstreet.com/news/crude-oil-sells-a-glut-that-never-left-the-dock-202608131915</link>
+            <guid isPermaLink="false">11c81014-444b-43cf-ab21-43333bb85534</guid>
+            <pubDate>Thu, 13 Aug 2026 19:15:33 GMT</pubDate>
+            <description><![CDATA[The largest weekly build in American Crude Oil inventories in three and a half years landed on Wednesday into a market that two forecasting agencies spent the same morning describing as physically short, and the barrel has been selling since.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: Range holds as upside risk watched against US Dollar – UOB]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-range-holds-as-upside-risk-watched-against-us-dollar-uob-202608131838</link>
@@ -14,14 +46,6 @@
             <pubDate>Thu, 13 Aug 2026 18:38:00 GMT</pubDate>
             <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD stayed largely unchanged around 1.2805 on Tuesday, with momentum still flat.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Bearish flag keeps 0.8145 in focus]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-keeps-08145-in-focus-202608131836</link>
-            <guid isPermaLink="false">ec282ccc-7fa1-453b-b504-b6cac47bc57c</guid>
-            <pubDate>Thu, 13 Aug 2026 18:36:51 GMT</pubDate>
-            <description><![CDATA[The USD/CHF trades near the top trendline of a ‘bearish-flag,’ holds steady at around 0.8034, following the release of good inflation data on the producer side.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Japanese Yen little changed amid cooling US inflation]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 13:55:29 GMT</pubDate>
             <description><![CDATA[India’s Consumer Price Index (CPI) inflation accelerated slightly to 4.45% year-on-year in July from 4.38% in June, primarily propelled by rising food costs.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-166.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Growth risks tilt higher – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-growth-risks-tilt-higher-deutsche-bank-202608131351</link>
-            <guid isPermaLink="false">150a8f76-e706-45f4-9a52-396442445813</guid>
-            <pubDate>Thu, 13 Aug 2026 13:51:26 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank’s Sanjay Raja notes that the UK economy remained strong over spring, with UK GDP rising 0.4% q/q and annualised growth in the first half reaching 2%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Norges Bank: Disinflation slows rate path – Nomura]]></title>
-            <link>https://www.fxstreet.com/news/norges-bank-disinflation-slows-rate-path-nomura-202608131343</link>
-            <guid isPermaLink="false">5cb6be49-b0d8-4715-80a1-4baebd129c96</guid>
-            <pubDate>Thu, 13 Aug 2026 13:43:09 GMT</pubDate>
-            <description><![CDATA[Nomura economists note Norges Bank kept its policy rate at 4.25% in August despite softer CPI-ATE inflation. The bank still flags a possible further hike, but they now expect a November move, with risks tilted to no additional increase and no rate cuts projected until September 2027.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Trump pressure and rate risks – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-trump-pressure-and-rate-risks-commerzbank-202608131333</link>
-            <guid isPermaLink="false">b120faff-17bd-4cd2-8a75-e6a544de738a</guid>
-            <pubDate>Thu, 13 Aug 2026 13:33:44 GMT</pubDate>
-            <description><![CDATA[Commerzbank's Dr. Marco Wagner analyzes how Donald Trump’s past and potential future attacks on the Federal Reserve (Fed) affect its independence.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpWarsh3-65268326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
