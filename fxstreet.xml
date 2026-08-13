@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 10:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 11:31:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indian Rupee drops despite lower US Dollar, oil prices]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-opens-marginally-lower-as-us-dollar-trades-firmly-202608130521</link>
+            <guid isPermaLink="false">5db9dd55-2012-4232-8fa7-9051a6badee5</guid>
+            <pubDate>Thu, 13 Aug 2026 05:21:00 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) is under pressure against the US Dollar (USD) on Thursday. The USD/INR pair rises to near 95.44 after a corrective move the previous day, even as the US Dollar and oil prices trade lower.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Solid UK data, limited BoE impact – BBH]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-solid-uk-data-limited-boe-impact-bbh-202608131122</link>
+            <guid isPermaLink="false">ab2ddea1-c9d2-44f9-9c63-7c4d2aa73d44</guid>
+            <pubDate>Thu, 13 Aug 2026 11:22:17 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes GBP/USD trading directionless near 1.3500 as United Kingdom (UK) Q2 and June Gross Domestic Product (GDP) data show encouraging activity. Growth was driven by investment and consumption, with government spending a drag.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound recovers early losses against US Dollar, US PPI data eyed]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-recovers-early-losses-against-us-dollar-us-ppi-data-eyed-202608131111</link>
+            <guid isPermaLink="false">40a45e45-4004-4d38-943b-db71c71f9481</guid>
+            <pubDate>Thu, 13 Aug 2026 11:11:15 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) claws back its early losses against the US Dollar (USD) and flattens at around 1.3495 during the European trading session on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Norwegian Krone: Norges Bank softens hawkish stance – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/norwegian-krone-norges-bank-softens-hawkish-stance-td-securities-202608131109</link>
+            <guid isPermaLink="false">0d8b194a-f680-4de4-89ba-ad714198eb84</guid>
+            <pubDate>Thu, 13 Aug 2026 11:09:10 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Norges Bank analysis notes the policy rate was left unchanged at 4.25% in August, with a less hawkish tone than in June.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: Capped below the 50% retracement of July’s plunge, at 159.50 ]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-capped-below-the-50-retracement-of-julys-plunge-at-15950-202608131057</link>
+            <guid isPermaLink="false">61232644-c477-44aa-8db1-444a30b132b8</guid>
+            <pubDate>Thu, 13 Aug 2026 10:57:30 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) remains practically flat against the Japanese Yen (JPY) on Thursday, as fading hopes of a Federal Reserve (Fed) interest rate hike in September have undermined speculative demand for the Greenback.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/market-bear-bull-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold retreats from two-month high as traders await US PPI]]></title>
+            <link>https://www.fxstreet.com/news/gold-retreats-from-two-month-high-as-traders-await-us-ppi-202608131057</link>
+            <guid isPermaLink="false">67116276-ecac-4539-b5f6-1d6f6f603f29</guid>
+            <pubDate>Thu, 13 Aug 2026 10:57:10 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) comes under selling pressure on Thursday, erasing all the gains recorded in the previous day after hitting a fresh two-month high of $4,449 during Asian trading hours. At the time of writing, the precious metal trades around $4,386, down 0.52% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Economists agree: ECB to hike interest rates by 25 bps to 2.5% in September - Reuters]]></title>
             <link>https://www.fxstreet.com/news/economists-agree-ecb-to-hike-interest-rates-by-25-bps-to-25-in-september-202608131024</link>
@@ -104,14 +152,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Indian Rupee falls as US Dollar holds gains]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-opens-marginally-lower-as-us-dollar-trades-firmly-202608130521</link>
-            <guid isPermaLink="false">5db9dd55-2012-4232-8fa7-9051a6badee5</guid>
-            <pubDate>Thu, 13 Aug 2026 05:21:00 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) opens on a cautious note against the US Dollar (USD) on Thursday due to overnight gains in the latter. The USD/INR pair edges up to near 95.42 after a corrective move the previous day, as fears of a prolonged global energy supply disruption have strengthened the US Dollar.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Canadian Dollar: Recovery not just about Oil – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/canadian-dollar-recovery-not-just-about-oil-commerzbank-202608130848</link>
             <guid isPermaLink="false">7dd20a0f-35b7-443c-9601-a29e2441c307</guid>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 07:46:17 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Tatha Ghose reports Russia’s June merchandise trade surplus rose to USD 12.5bn, up over 50% year-on-year, as higher Oil prices and improved Urals pricing supported exports.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/flag-rusia-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index Price Forecast: DXY bulls await trading range breakout above 100.00]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-bulls-await-trading-range-breakout-above-10000-202608130745</link>
-            <guid isPermaLink="false">934fcb49-704e-4952-8a89-19c5c6bf9080</guid>
-            <pubDate>Thu, 13 Aug 2026 07:45:51 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, is seen building on the previous day's sold bounce from the post-CPI swing low and prolonging its weekly uptrend for the fourth straight day.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bullish-realistic.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Price Forecast: Prolonged energy supply concerns remain key tailwind ]]></title>
-            <link>https://www.fxstreet.com/news/wti-price-forecast-prolonged-energy-supply-concerns-remain-key-tailwind-202608130736</link>
-            <guid isPermaLink="false">5729683a-a478-4205-b7b2-ebb694631dde</guid>
-            <pubDate>Thu, 13 Aug 2026 07:36:47 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trades 0.5% higher at around $82.10 during the European trading session on Thursday. The oil price reflects strength as fears of a prolonged energy supply disruption continue to act as a key tailwind for oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed-driven hedge rebuilding revives selling pressure – BNY]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-driven-hedge-rebuilding-revives-selling-pressure-bny-202608130734</link>
-            <guid isPermaLink="false">8450e708-9678-4dfe-8441-f069ba36812b</guid>
-            <pubDate>Thu, 13 Aug 2026 07:34:13 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu argues that the July Fed meeting marked a peak in Dollar dehedging rather than an end to U.S. exceptionalism. Cross-border investors are rebuilding USD hedges, reducing effective unhedged U.S. exposure while maintaining broadly solid underlying demand for U.S. assets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar stabilizes ahead of next batch of US data]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-stabilizes-ahead-of-next-batch-of-us-data-202608130732</link>
-            <guid isPermaLink="false">417a62c4-53b9-4dc1-bda2-2a7ff885755a</guid>
-            <pubDate>Thu, 13 Aug 2026 07:32:49 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Thursday, August 13:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Neutral-Tendency-3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Upside capped near 1.3555 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-upside-capped-near-13555-against-us-dollar-uob-202608130724</link>
-            <guid isPermaLink="false">9382bf67-3ebc-498f-a491-e5bceb433741</guid>
-            <pubDate>Thu, 13 Aug 2026 07:24:29 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note GBP/USD briefly traded above 1.3535 to 1.3540 before slipping back to close at 1.3496. Intraday, the pair is seen range-trading between 1.3475 and 1.3525.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
