@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 22:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 23:49:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold drifts higher above $4,350 as softer US PPI data reduces September Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-drifts-higher-above-4-350-as-softer-us-ppi-data-reduces-september-fed-hike-bets-202608132327</link>
+            <guid isPermaLink="false">2b522dde-e3d8-4244-b35a-89bcbd3cfad2</guid>
+            <pubDate>Thu, 13 Aug 2026 23:27:46 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) holds positive ground near $4,360 during the early Asian session on Friday. The precious metal gains momentum following US inflation data. Traders will take more cues from the US July Retail Sales report, which is due later on Friday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Steadies above 215.00 capped by 50-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-steadies-above-21500-capped-by-50-day-sma-202608132322</link>
+            <guid isPermaLink="false">616538ef-fe4b-4578-84fc-d2d3b0c2cefd</guid>
+            <pubDate>Thu, 13 Aug 2026 23:22:40 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY remains directionless on Thursday as traders turn cautious about opening fresh directional bets amid intervention fears in the FX markets, which could strengthen the Yen, and after solid UK data. The cross-pair sits at around 215.00, down 0.02%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar holds near 0.7060 as eyes shift to RBA’s Bullock]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-holds-near-07060-as-eyes-shift-to-rbas-bullock-202608132258</link>
+            <guid isPermaLink="false">d6ba77f6-8532-478c-8871-9b493b58090f</guid>
+            <pubDate>Thu, 13 Aug 2026 22:58:04 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar holds steady at around 0.7061 after US inflation data weighed on the Greenback, which recovered some ground to finish Thursday’s session almost flat. The AUD/USD registers modest losses of 0.01%]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Half of the record Japanese Yen intervention is already gone]]></title>
             <link>https://www.fxstreet.com/news/half-of-the-record-japanese-yen-intervention-is-already-gone-202608132234</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 14:49:49 GMT</pubDate>
             <description><![CDATA[Geoff Yu at BNY argues that the loss of some U.S. exceptionalism has not translated into a broad exodus from U.S. assets. Cross-border investors maintain high U.S. equity allocations, supported by technology and AI themes, while trimming Treasury holdings as curve steepening raises duration risk.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar steadies as falling Oil offsets US Dollar weakness]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-steadies-as-falling-oil-offsets-us-dollar-weakness-202608131447</link>
-            <guid isPermaLink="false">f1338559-4e55-4ec5-9c28-e420b7963559</guid>
-            <pubDate>Thu, 13 Aug 2026 14:47:33 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades around 1.3940 on Thursday at the time of writing, virtually unchanged on the day. The pair remains caught between two opposing forces: the US Dollar (USD) weakens following softer-than-expected US data, while the Canadian Dollar (CAD) struggles amid falling Oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Softer second-half growth expected – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-softer-second-half-growth-expected-societe-generale-202608131443</link>
-            <guid isPermaLink="false">e0126c87-8ed5-4d38-9a74-87ca106bbf25</guid>
-            <pubDate>Thu, 13 Aug 2026 14:43:28 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Sam Cartwright notes United Kingdom (UK) Gross Domestic Product (GDP) rose 0.4% qoq in 2Q26, driven mainly by business investment and resilient consumer spending.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds steady against Pound Sterling despite steady UK growth]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-steady-against-pound-sterling-despite-steady-uk-growth-202608131442</link>
-            <guid isPermaLink="false">9f6ab3ea-1f13-4aa5-811d-a1d6e13c415b</guid>
-            <pubDate>Thu, 13 Aug 2026 14:42:51 GMT</pubDate>
-            <description><![CDATA[EUR/GBP is trading sideways on Thursday near the 0.8540 level, with the Euro (EUR) steadying after three consecutive days of losses despite the Pound Sterling (GBP) gaining support from UK economic growth data that was broadly in line with expectations. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
