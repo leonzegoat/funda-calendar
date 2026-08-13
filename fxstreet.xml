@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 11:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 12:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro steadies against Japanese Yen as ECB rate hike expectations strengthen]]></title>
+            <link>https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-ecb-rate-hike-expectations-strengthen-202608131229</link>
+            <guid isPermaLink="false">71eb1a22-d803-4749-8029-471089aece5a</guid>
+            <pubDate>Thu, 13 Aug 2026 12:29:29 GMT</pubDate>
+            <description><![CDATA[EUR/JPY trades around 183.80 on Thursday at the time of writing, little changed on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee: Benign inflation reinforces RBI pause – DBS]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-benign-inflation-reinforces-rbi-pause-dbs-202608131229</link>
+            <guid isPermaLink="false">9de0a27d-cf3b-4932-9414-7e6237ab1107</guid>
+            <pubDate>Thu, 13 Aug 2026 12:29:14 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economist Radhika Rao analyzes India’s July inflation data and its implications for the Reserve Bank of India. She notes that benign core inflation and limited spillovers from external shocks support a continued RBI policy pause.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar: Anchored expectations back RBNZ hikes – BBH]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-anchored-expectations-back-rbnz-hikes-bbh-202608131200</link>
+            <guid isPermaLink="false">67f36234-1fa4-4cb9-b741-ca912518212f</guid>
+            <pubDate>Thu, 13 Aug 2026 12:00:19 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes NZD/USD briefly dipped below its 200-day moving average as the Reserve Bank of New Zealand (RBNZ) Q3 inflation expectations survey showed mixed but well-anchored readings near the 2% midpoint.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro gains against British Pound despite stronger UK growth data]]></title>
+            <link>https://www.fxstreet.com/news/euro-gains-against-british-pound-despite-stronger-uk-growth-data-202608131159</link>
+            <guid isPermaLink="false">87dda4c8-ea69-423e-96ce-04b1aad3bf8f</guid>
+            <pubDate>Thu, 13 Aug 2026 11:59:27 GMT</pubDate>
+            <description><![CDATA[EUR/GBP edges higher on Thursday as the Euro (EUR) draws support from hawkish European Central Bank (ECB) expectations, overshadowing stronger-than-expected UK Gross Domestic Product (GDP) data that would otherwise have supported the British Pound (GBP).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold Price Forecast: XAU/USD stands tall at two-month highs above $4,380]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-stands-tall-at-two-month-highs-above-4-380-202608131152</link>
+            <guid isPermaLink="false">042b8d0e-1baf-4f76-bf52-dd05a88dabba</guid>
+            <pubDate>Thu, 13 Aug 2026 11:52:20 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) posts marginal losses on Thursday, after meeting resistance at the  $4,450 area, yet with price action holding just above previous highs around $ 4,380 at the time of writing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal Reserve: Gradual easing path – UOB]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-gradual-easing-path-uob-202608131152</link>
+            <guid isPermaLink="false">04ba5cd2-f5bb-47bd-b9ac-6a0a9a734826</guid>
+            <pubDate>Thu, 13 Aug 2026 11:52:02 GMT</pubDate>
+            <description><![CDATA[Alvin Liew of UOB outlines expectations for the Federal Funds Rate following the July US CPI release. Market pricing for a September hike has fallen, and UOB’s base case is an extended pause through 2026.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[European Central Bank: Independence risks rise with debt – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/european-central-bank-independence-risks-rise-with-debt-commerzbank-202608131142</link>
+            <guid isPermaLink="false">31f0f7ab-e092-4a68-9ced-21a2347bfd53</guid>
+            <pubDate>Thu, 13 Aug 2026 11:42:28 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Dr. Marco Wagner assesses how political pressure threatens the European Central Bank’s (ECB) independence using a Central Bank Pressure Index based on AI analysis of politicians’ statements.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_9.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver slips below $65, but cooling US inflation keeps downside in check]]></title>
+            <link>https://www.fxstreet.com/news/silver-slips-below-65-but-cooling-us-inflation-keeps-downside-in-check-202608131141</link>
+            <guid isPermaLink="false">4b16ac1e-78d5-4026-9851-44afc4b5bbe1</guid>
+            <pubDate>Thu, 13 Aug 2026 11:41:20 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) trades lower around $64.90 on Thursday at the time of writing, down 0.64% on the day. The white metal consolidates after its recent advance as investors refrain from taking large positions ahead of the release of US producer inflation data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Riksbank: Rate hike risks rise – Nomura]]></title>
+            <link>https://www.fxstreet.com/news/riksbank-rate-hike-risks-rise-nomura-202608131132</link>
+            <guid isPermaLink="false">bcfd9f33-37f4-4e68-8af2-2fc70702939e</guid>
+            <pubDate>Thu, 13 Aug 2026 11:32:50 GMT</pubDate>
+            <description><![CDATA[Nomura strategists expects the Riksbank to keep its policy rate at 1.75% in August, with no change through 2026.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indian Rupee drops despite lower US Dollar, oil prices]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-opens-marginally-lower-as-us-dollar-trades-firmly-202608130521</link>
@@ -174,78 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 08:41:03 GMT</pubDate>
             <description><![CDATA[The New Zealand Dollar (NZD) underperforms its major currency peers, trading 0.45% down at around 0.5830 against the US Dollar (USD) during the European trading session on Thursday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Markets remain hawkish after CPI – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-markets-remain-hawkish-after-cpi-ing-202608130837</link>
-            <guid isPermaLink="false">99ee911b-9e23-4181-87c9-6449f91e7a89</guid>
-            <pubDate>Thu, 13 Aug 2026 08:37:05 GMT</pubDate>
-            <description><![CDATA[ING strategists Francesco Pesole, Frantisek Taborsky and Chris Turner note that the Dollar strengthened after an in-line US CPI, as markets had positioned for a hotter print.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: RBI seen delaying rate hikes – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rbi-seen-delaying-rate-hikes-mufg-202608130828</link>
-            <guid isPermaLink="false">1910cfc0-226c-4d52-85cb-6de697ec3167</guid>
-            <pubDate>Thu, 13 Aug 2026 08:28:36 GMT</pubDate>
-            <description><![CDATA[Michael Wan at MUFG reports that India’s July Consumer Price Index (CPI) rose to 4.45% year-on-year, slightly below consensus but above June’s 4.38%, driven mainly by higher food prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Upside risk intact above 0.7025 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-upside-risk-intact-above-07025-against-us-dollar-uob-202608130811</link>
-            <guid isPermaLink="false">716d18e7-4d85-4c6c-a0c6-d4f116054230</guid>
-            <pubDate>Thu, 13 Aug 2026 08:11:50 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report AUD/USD briefly broke above 0.7075 to 0.7091 before retreating to close almost unchanged at 0.7063.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures rise as cooling inflation reduces Fed rate hike bets]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-rise-as-cooling-inflation-reduces-fed-rate-hike-bets-202608130805</link>
-            <guid isPermaLink="false">3fc4ea79-0cd3-45b0-931f-c3b618c5db13</guid>
-            <pubDate>Thu, 13 Aug 2026 08:05:16 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures gain 0.08% to trade around 53,910 during European hours on Thursday. Meanwhile, S&P 500 futures rise by 0.09% to trade around 7,780 and Nasdaq 100 futures advance 0.06%, trading near 29,870.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_Nasdaq-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold languishes near daily low; eyes $4,350 amid Fed hike bets, USD strength]]></title>
-            <link>https://www.fxstreet.com/news/gold-retreats-from-june-5-high-as-oil-driven-fed-rate-hike-bets-underpin-usd-202608130344</link>
-            <guid isPermaLink="false">e0f0b0a2-bca8-4bcb-a42a-155208d077f8</guid>
-            <pubDate>Thu, 13 Aug 2026 03:44:08 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) retreats over $100 from its highest level since June 5, touched earlier this Thursday, and maintains its bearish tone around the $4,375-$4,370 region through the first half of the European session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Soft profile sustained on SNB stance – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-soft-profile-sustained-on-snb-stance-ocbc-202608130800</link>
-            <guid isPermaLink="false">83bcbecd-0cde-4351-91dd-21da13a51947</guid>
-            <pubDate>Thu, 13 Aug 2026 08:00:20 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that the Swiss Franc (CHF) has weakened toward their year-end EUR/CHF target of 0.94, making it a preferred funding currency for carry trades.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-chf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Dovish risks but bullish view against Euro – ING]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-dovish-risks-but-bullish-view-against-euro-ing-202608130752</link>
-            <guid isPermaLink="false">f9c5bb73-5565-4ed8-97d1-7ee18ff5b2ec</guid>
-            <pubDate>Thu, 13 Aug 2026 07:52:03 GMT</pubDate>
-            <description><![CDATA[Francesco Pesole at ING sees some downside risks for the Norwegian Krone from Norges Bank’s meeting, as benign CPI‑ATE prints could tilt communication slightly less hawkish. He still expects rates to stay at 4.25% today and another hike later this year, but is less convinced about multiple moves.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen holds ground due to potential intervention from Japanese authorities]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-holds-ground-due-to-potential-intervention-from-japanese-authorities-202608130746</link>
-            <guid isPermaLink="false">08cc845a-249f-4229-bc53-a63e55af076f</guid>
-            <pubDate>Thu, 13 Aug 2026 07:46:31 GMT</pubDate>
-            <description><![CDATA[USD/JPY inches lower after registering minor losses in the previous day, trading around 159.40 during the European hours on Thursday. The currency pair hovers near the crucial 160.00 level, keeping traders on high alert for possible intervention from Japanese authorities.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian Ruble: Trade boost from Oil seen fading – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/russian-ruble-trade-boost-from-oil-seen-fading-commerzbank-202608130746</link>
-            <guid isPermaLink="false">ee4eb8d0-0586-478d-96ad-ea855dec03da</guid>
-            <pubDate>Thu, 13 Aug 2026 07:46:17 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose reports Russia’s June merchandise trade surplus rose to USD 12.5bn, up over 50% year-on-year, as higher Oil prices and improved Urals pricing supported exports.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-rusia-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
