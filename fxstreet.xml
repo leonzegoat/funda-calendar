@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 20:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 21:52:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro holds above 1.1500 as US inflation curbs Fed bets]]></title>
+            <link>https://www.fxstreet.com/news/euro-holds-above-11500-as-us-inflation-curbs-fed-bets-202608132122</link>
+            <guid isPermaLink="false">e66afccf-59bb-44ea-bb86-210617c11876</guid>
+            <pubDate>Thu, 13 Aug 2026 21:22:13 GMT</pubDate>
+            <description><![CDATA[The Euro holds firm above 1.1500 as inflation data in the US curbed Fed rate hike bets, as traders shifted from expecting a rate hike to a hold in the September 16 meeting, while investors await the release of economic growth figures in the European Union (EU).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar steadies off two-week lows following dovish RBNZ survey]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-steadies-off-two-week-lows-following-dovish-rbnz-survey-202608132032</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 14:25:31 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports Norwegian Krone weakness after Norges Bank left rates at 4.25% but softened its hawkish bias. Forward guidance shifted from a likely hike to a more conditional stance, dropping an explicit call for tighter policy.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Safe haven support versus Fed repricing – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-safe-haven-support-versus-fed-repricing-rabobank-202608131412</link>
-            <guid isPermaLink="false">f4ec11ad-943d-412f-b68f-dea6dc35edda</guid>
-            <pubDate>Thu, 13 Aug 2026 14:12:23 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley analyzes the US Dollar’s (USD) evolving relationship with Oil and its safe haven role.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
