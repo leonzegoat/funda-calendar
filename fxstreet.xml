@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 16:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 17:31:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar stumbles near recent highs ]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-stumbles-near-recent-highs-202608131644</link>
+            <guid isPermaLink="false">082da2b4-924e-44cd-9f95-09cd3b075b34</guid>
+            <pubDate>Thu, 13 Aug 2026 16:44:00 GMT</pubDate>
+            <description><![CDATA[AUD/USD is trading little changed on Thursday, shrinking near the 0.7050s below the multi-week high reached on Wednesday near 0.7091. The pair holds its ground after US data pointed to cooling price pressure, keeping the US Dollar (USD) stagnant.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Natural gas: Storage worries with TTF higher – ING]]></title>
+            <link>https://www.fxstreet.com/news/natural-gas-storage-worries-with-ttf-higher-ing-202608131639</link>
+            <guid isPermaLink="false">252ffac2-2e73-48db-8915-877a428df736</guid>
+            <pubDate>Thu, 13 Aug 2026 16:39:00 GMT</pubDate>
+            <description><![CDATA[ING’s Warren Patterson and Ewa Manthey highlight that European gas prices have firmed, with TTF above EUR 60/MWh, even as positioning data show funds trimming net longs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[One stock wrote the Dow Jones Industrial Average's entire session]]></title>
             <link>https://www.fxstreet.com/news/one-stock-wrote-the-dow-jones-industrial-averages-entire-session-202608131618</link>
@@ -28,7 +44,7 @@
             <link>https://www.fxstreet.com/news/japanese-yen-struggles-despite-soft-us-ppi-fading-fed-rate-hike-bets-202608131600</link>
             <guid isPermaLink="false">a175383f-50f7-4966-8cf4-33a8f5350eb3</guid>
             <pubDate>Thu, 13 Aug 2026 16:00:03 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) struggles to gain traction against the US Dollar (USD) on Thursday, even as the Greenback weakens modestly following softer-than-expected US Producer Price Index (PPI) data. The Yen strengthened immediately after the release, briefly pushing USD/JPY toward 159.  ]]></description>
+            <description><![CDATA[The Japanese Yen (JPY) struggles to gain traction against the US Dollar (USD) on Thursday, even as the Greenback weakens modestly following softer-than-expected US Producer Price Index (PPI) data. The Yen strengthened immediately after the release, briefly pushing USD/JPY toward 159.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://www.fxstreet.com/news/british-pound-climbs-as-soft-us-inflation-data-hurt-fed-hawkish-bets-202608131552</link>
             <guid isPermaLink="false">1c93c68a-9681-4d45-b52c-d021c0cb8079</guid>
             <pubDate>Thu, 13 Aug 2026 15:52:25 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling registers modest gains versus the Greenback as US inflation data in the producer side came below or aligned with estimates, revealing that the disinflation process continued. The GBP/USD trades at 1.3503, up 0.06%.]]></description>
+            <description><![CDATA[The Pound Sterling (GBP) registers modest gains versus the Greenback on Thursday as US inflation data in the producer side came in below or in line with estimates, showing that the disinflation process continues. At the time of writing, the GBP/USD pair trades at 1.3503, up 0.06%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 12:43:15 GMT</pubDate>
             <description><![CDATA[Producer inflation in the United States (US) cooled more than expected in July, adding to evidence that inflationary pressure is gradually easing after Wednesday's Consumer Price Index (CPI) data.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/inflation-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of Canada: Gradual tightening path into 2027 – NBC]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-canada-gradual-tightening-path-into-2027-nbc-202608131239</link>
-            <guid isPermaLink="false">c5278873-aa88-4512-bd81-47067d6a4c4e</guid>
-            <pubDate>Thu, 13 Aug 2026 12:39:15 GMT</pubDate>
-            <description><![CDATA[National Bank of Canada's (NBC) Taylor Schleich and Ethan Currie reaffirm their Bank of Canada (BoC) rate call, arguing that despite stronger Canadian labour data and robust Q2 GDP, accumulated slack and data lags should delay tightening.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Initial Jobless Claims increased to 209K last week]]></title>
-            <link>https://www.fxstreet.com/news/us-initial-jobless-claims-increased-to-209k-last-week-202608131237</link>
-            <guid isPermaLink="false">1869a798-1f38-414f-b017-b3ab1113e065</guid>
-            <pubDate>Thu, 13 Aug 2026 12:37:31 GMT</pubDate>
-            <description><![CDATA[According to a report from the US Department of Labour (DOL) released on Thursday, the number of US citizens submitting new applications for unemployment insurance rose to 209K for the week ending August 8.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
