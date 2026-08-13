@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 17:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 18:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Singapore Dollar: Range holds as upside risk watched against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-range-holds-as-upside-risk-watched-against-us-dollar-uob-202608131838</link>
+            <guid isPermaLink="false">a67518eb-8a5b-424d-92cf-0f7e11a10c11</guid>
+            <pubDate>Thu, 13 Aug 2026 18:38:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD stayed largely unchanged around 1.2805 on Tuesday, with momentum still flat.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Bearish flag keeps 0.8145 in focus]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-keeps-08145-in-focus-202608131836</link>
+            <guid isPermaLink="false">ec282ccc-7fa1-453b-b504-b6cac47bc57c</guid>
+            <pubDate>Thu, 13 Aug 2026 18:36:51 GMT</pubDate>
+            <description><![CDATA[The USD/CHF trades near the top trendline of a ‘bearish-flag,’ holds steady at around 0.8034, following the release of good inflation data on the producer side.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen little changed amid cooling US inflation]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-little-changed-amid-cooling-us-inflation-202608131817</link>
+            <guid isPermaLink="false">44fe7758-b443-4476-acea-3cd7568ac98e</guid>
+            <pubDate>Thu, 13 Aug 2026 18:17:25 GMT</pubDate>
+            <description><![CDATA[USD/JPY is trading sideways on Thursday, hovering in the mid-159.00s and holding within its recent range. It is more of the same for the pair, which continues to move in consolidation as opposing forces cancel each other out.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold slips as US Dollar recovers despite softer US factory inflation]]></title>
+            <link>https://www.fxstreet.com/news/gold-slips-as-us-dollar-recovers-despite-softer-us-factory-inflation-202608131813</link>
+            <guid isPermaLink="false">43dd2a6a-7f9d-4ae0-9e07-632aaa5a58d0</guid>
+            <pubDate>Thu, 13 Aug 2026 18:13:30 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) price declines on Thursday as the US Dollar (USD) trims some of its earlier losses, as economic data in the US showed that the disinflation process continues, amid a moderately softening jobs market.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: Momentum cools as XAG/USD consolidates above 50-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-momentum-cools-as-xag-usd-consolidates-above-50-day-sma-202608131810</link>
+            <guid isPermaLink="false">a36e7c34-8680-44ef-843b-efd5a2b3eaad</guid>
+            <pubDate>Thu, 13 Aug 2026 18:10:41 GMT</pubDate>
+            <description><![CDATA[Silver trades modestly lower on Thursday, holding within Monday’s trading range as buyers take a breather following the strong rally seen at the start of the month.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Growth resilient as BoE stays on hold – Standard Chartered]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-growth-resilient-as-boe-stays-on-hold-standard-chartered-202608131756</link>
+            <guid isPermaLink="false">ed8d053e-8f53-4fec-bf90-db654e297c3f</guid>
+            <pubDate>Thu, 13 Aug 2026 17:56:19 GMT</pubDate>
+            <description><![CDATA[Standard Chartered’s Christopher Graham notes that UK growth remained resilient in Q2, with GDP rising 0.4% q/q, driven by private consumption and business investment while government spending dragged. He expects a slowdown in H2, with growth easing to 0.2–0.3% q/q in Q3 and Q4.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar stumbles near recent highs ]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-stumbles-near-recent-highs-202608131644</link>
@@ -198,54 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 13:33:44 GMT</pubDate>
             <description><![CDATA[Commerzbank's Dr. Marco Wagner analyzes how Donald Trump’s past and potential future attacks on the Federal Reserve (Fed) affect its independence.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpWarsh3-65268326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Yield support erodes on weaker inflation – DBS]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-yield-support-erodes-on-weaker-inflation-dbs-202608131324</link>
-            <guid isPermaLink="false">092de2b6-3a29-4a44-9055-00e0ae40f742</guid>
-            <pubDate>Thu, 13 Aug 2026 13:24:18 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Philip Wee notes that softer US CPI and labour data kept DXY locked in a 99.4–100.1 range after the USD/JPY sell-off linked to joint US-Japan interventions. Markets sharply reduced the implied probability of a September Federal Reserve hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Still an open question": Fed’s Barkin keeps possibility of rate hike alive]]></title>
-            <link>https://www.fxstreet.com/news/still-an-open-question-feds-barkin-keeps-possibility-of-rate-hike-alive-202608131311</link>
-            <guid isPermaLink="false">c454906a-4f50-4ad6-964b-2f4a27d11f48</guid>
-            <pubDate>Thu, 13 Aug 2026 13:11:07 GMT</pubDate>
-            <description><![CDATA[Richmond Federal Reserve (Fed) President Thomas Barkin highlighted on Thursday the persistent uncertainty surrounding the US inflation outlook and monetary policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Choppy range trading outlook against US Dollar – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/euro-choppy-range-trading-outlook-against-us-dollar-rabobank-202608131311</link>
-            <guid isPermaLink="false">ce2d4190-1b83-452a-b846-96e4ffe83717</guid>
-            <pubDate>Thu, 13 Aug 2026 13:11:03 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses EUR/USD dynamics in light of shifting Fed rate hike expectations and Oil-related safe haven flows into the Dollar.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Policy support for BoJ hikes – BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-policy-support-for-boj-hikes-bbh-202608131302</link>
-            <guid isPermaLink="false">55556175-3233-4a1a-b937-dab597934c24</guid>
-            <pubDate>Thu, 13 Aug 2026 13:02:11 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights USD/JPY trading just below 160.00 as Japan’s government signals support for faster Bank of Japan (BoJ) rate hikes, reinforcing narrowing US–Japan differentials and a lower USD/JPY case.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Turkish Lira: Further depreciation seen against US Dollar – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/turkish-lira-further-depreciation-seen-against-us-dollar-commerzbank-202608131250</link>
-            <guid isPermaLink="false">51a1887d-2bbb-48f4-9954-82bb8d716ea9</guid>
-            <pubDate>Thu, 13 Aug 2026 12:50:27 GMT</pubDate>
-            <description><![CDATA[Commerzbank FX analyst Tatha Ghose highlights persistent inflation pressures and renewed current account deterioration as key drivers for continued weakness in the Turkish Lira against the Dollar.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/turkish-lira-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US PPI comes in softer than expected, confirms easing inflation pressure]]></title>
-            <link>https://www.fxstreet.com/news/us-ppi-comes-in-softer-than-expected-confirms-easing-inflation-pressures-202608131243</link>
-            <guid isPermaLink="false">a028ca90-4796-443d-a110-fa0f4a50c21e</guid>
-            <pubDate>Thu, 13 Aug 2026 12:43:15 GMT</pubDate>
-            <description><![CDATA[Producer inflation in the United States (US) cooled more than expected in July, adding to evidence that inflationary pressure is gradually easing after Wednesday's Consumer Price Index (CPI) data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/inflation-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
