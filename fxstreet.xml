@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 15:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 16:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One stock wrote the Dow Jones Industrial Average's entire session]]></title>
+            <link>https://www.fxstreet.com/news/one-stock-wrote-the-dow-jones-industrial-averages-entire-session-202608131618</link>
+            <guid isPermaLink="false">3e8aa327-c225-4a1d-8c47-e541623dcbfb</guid>
+            <pubDate>Thu, 13 Aug 2026 16:18:52 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average trades near 53,700 on Thursday, roughly 75 points and a tenth of a percent lower, on a morning when the S&P 500 prints a fresh record intraday high and the Nasdaq Composite runs close to a percent higher.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/stock-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar struggles as softer inflation expectations challenge RBNZ hawks]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-softer-inflation-expectations-challenge-rbnz-hawks-202608131600</link>
+            <guid isPermaLink="false">360d4f02-e59b-4b4e-9348-fc573947aed6</guid>
+            <pubDate>Thu, 13 Aug 2026 16:00:39 GMT</pubDate>
+            <description><![CDATA[NZD/USD trades around 0.5850 on Thursday at the time of writing, down 0.15% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen struggles despite soft US PPI, fading Fed rate-hike bets]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-struggles-despite-soft-us-ppi-fading-fed-rate-hike-bets-202608131600</link>
+            <guid isPermaLink="false">a175383f-50f7-4966-8cf4-33a8f5350eb3</guid>
+            <pubDate>Thu, 13 Aug 2026 16:00:03 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) struggles to gain traction against the US Dollar (USD) on Thursday, even as the Greenback weakens modestly following softer-than-expected US Producer Price Index (PPI) data. The Yen strengthened immediately after the release, briefly pushing USD/JPY toward 159.  ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound climbs as soft US inflation data hurt Fed hawkish bets]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-climbs-as-soft-us-inflation-data-hurt-fed-hawkish-bets-202608131552</link>
+            <guid isPermaLink="false">1c93c68a-9681-4d45-b52c-d021c0cb8079</guid>
+            <pubDate>Thu, 13 Aug 2026 15:52:25 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling registers modest gains versus the Greenback as US inflation data in the producer side came below or aligned with estimates, revealing that the disinflation process continued. The GBP/USD trades at 1.3503, up 0.06%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Carry Trade: Supportive backdrop holds – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/carry-trade-supportive-backdrop-holds-ocbc-202608131551</link>
+            <guid isPermaLink="false">da2c3353-49db-4bd2-ab86-98ac92ae498b</guid>
+            <pubDate>Thu, 13 Aug 2026 15:51:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that in-line United States (US) inflation and a modestly lower probability of a September Federal Reserve (Fed) hike have left the US Dollar (USD) broadly range-bound while risk assets continue to rally.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[United Kingdom: Upside GDP surprise, limited BoE impact – TD Securities]]></title>
             <link>https://www.fxstreet.com/news/united-kingdom-upside-gdp-surprise-limited-boe-impact-td-securities-202608131515</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 12:37:31 GMT</pubDate>
             <description><![CDATA[According to a report from the US Department of Labour (DOL) released on Thursday, the number of US citizens submitting new applications for unemployment insurance rose to 209K for the week ending August 8.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil Price Forecast: Momentum turns flat as Bollinger Bands expand]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-price-forecast-momentum-turns-flat-as-bollinger-bands-expand-202608131234</link>
-            <guid isPermaLink="false">b6a10f46-2952-4aaf-84a7-dad211aed94d</guid>
-            <pubDate>Thu, 13 Aug 2026 12:34:20 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) Oil trades modestly lower on Thursday as traders weigh weaker demand forecasts from OPEC and the International Energy Agency (IEA) against supply disruptions in the Middle East. At the time of writing, WTI trades around $80.50 per barrel, down 1.35% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro steadies against Japanese Yen as ECB rate hike expectations strengthen]]></title>
-            <link>https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-ecb-rate-hike-expectations-strengthen-202608131229</link>
-            <guid isPermaLink="false">71eb1a22-d803-4749-8029-471089aece5a</guid>
-            <pubDate>Thu, 13 Aug 2026 12:29:29 GMT</pubDate>
-            <description><![CDATA[EUR/JPY trades around 183.80 on Thursday at the time of writing, little changed on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: Benign inflation reinforces RBI pause – DBS]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-benign-inflation-reinforces-rbi-pause-dbs-202608131229</link>
-            <guid isPermaLink="false">9de0a27d-cf3b-4932-9414-7e6237ab1107</guid>
-            <pubDate>Thu, 13 Aug 2026 12:29:14 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Radhika Rao analyzes India’s July inflation data and its implications for the Reserve Bank of India. She notes that benign core inflation and limited spillovers from external shocks support a continued RBI policy pause.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar: Anchored expectations back RBNZ hikes – BBH]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-anchored-expectations-back-rbnz-hikes-bbh-202608131200</link>
-            <guid isPermaLink="false">67f36234-1fa4-4cb9-b741-ca912518212f</guid>
-            <pubDate>Thu, 13 Aug 2026 12:00:19 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes NZD/USD briefly dipped below its 200-day moving average as the Reserve Bank of New Zealand (RBNZ) Q3 inflation expectations survey showed mixed but well-anchored readings near the 2% midpoint.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro gains against British Pound despite stronger UK growth data]]></title>
-            <link>https://www.fxstreet.com/news/euro-gains-against-british-pound-despite-stronger-uk-growth-data-202608131159</link>
-            <guid isPermaLink="false">87dda4c8-ea69-423e-96ce-04b1aad3bf8f</guid>
-            <pubDate>Thu, 13 Aug 2026 11:59:27 GMT</pubDate>
-            <description><![CDATA[EUR/GBP edges higher on Thursday as the Euro (EUR) draws support from hawkish European Central Bank (ECB) expectations, overshadowing stronger-than-expected UK Gross Domestic Product (GDP) data that would otherwise have supported the British Pound (GBP).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
