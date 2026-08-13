@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 21:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 22:50:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Half of the record Japanese Yen intervention is already gone]]></title>
+            <link>https://www.fxstreet.com/news/half-of-the-record-japanese-yen-intervention-is-already-gone-202608132234</link>
+            <guid isPermaLink="false">280f27e9-dd14-4952-b05f-18c30909226b</guid>
+            <pubDate>Thu, 13 Aug 2026 22:34:39 GMT</pubDate>
+            <description><![CDATA[The Dollar changes hands at 159.50 against the Yen on Thursday, a fraction higher on the session inside a range of barely 55 pips.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The British Pound's growth beat came from a dead ceasefire]]></title>
+            <link>https://www.fxstreet.com/news/the-british-pounds-growth-beat-came-from-a-dead-ceasefire-202608132231</link>
+            <guid isPermaLink="false">ed7a4210-afc8-4c74-a116-c3866575774d</guid>
+            <pubDate>Thu, 13 Aug 2026 22:31:04 GMT</pubDate>
+            <description><![CDATA[The Pound holds just under 1.3500 on Thursday inside a session range barely 40 pips wide, which is a thin response to a morning that handed Britain a growth beat and an afternoon that handed the Dollar a soft inflation print.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed’s Goolsbee sees inflation improving as shocks fade]]></title>
+            <link>https://www.fxstreet.com/news/feds-goolsbee-sees-inflation-improving-as-shocks-fade-202608132229</link>
+            <guid isPermaLink="false">9b941adc-e40a-4eeb-83fe-22207877627d</guid>
+            <pubDate>Thu, 13 Aug 2026 22:29:47 GMT</pubDate>
+            <description><![CDATA[The Chicago Fed President, Austan Goolsbee, who is a voter until 2027, acknowledged that the disinflation process is evolving and said so late in the North American session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Crude Oil mistakes a Gulf Coast bottleneck for a glut]]></title>
+            <link>https://www.fxstreet.com/news/crude-oil-sells-a-glut-that-never-left-the-dock-202608131915</link>
+            <guid isPermaLink="false">11c81014-444b-43cf-ab21-43333bb85534</guid>
+            <pubDate>Thu, 13 Aug 2026 19:15:33 GMT</pubDate>
+            <description><![CDATA[The largest weekly build in American Crude Oil inventories in three and a half years landed on Wednesday into a market that two forecasting agencies spent the same morning describing as physically short, and the barrel has been selling since.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nuclear-energy-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Euro holds above 1.1500 as US inflation curbs Fed bets]]></title>
             <link>https://www.fxstreet.com/news/euro-holds-above-11500-as-us-inflation-curbs-fed-bets-202608132122</link>
@@ -54,14 +86,6 @@
             <pubDate>Thu, 13 Aug 2026 19:21:00 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that USD/IDR has rebounded after a near 2% month-to-date pullback, with external factors such as elevated Oil prices and US rates remaining key drivers.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-idr-stock-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crude Oil sells a glut that never left the dock]]></title>
-            <link>https://www.fxstreet.com/news/crude-oil-sells-a-glut-that-never-left-the-dock-202608131915</link>
-            <guid isPermaLink="false">11c81014-444b-43cf-ab21-43333bb85534</guid>
-            <pubDate>Thu, 13 Aug 2026 19:15:33 GMT</pubDate>
-            <description><![CDATA[The largest weekly build in American Crude Oil inventories in three and a half years landed on Wednesday into a market that two forecasting agencies spent the same morning describing as physically short, and the barrel has been selling since.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Singapore Dollar: Range holds as upside risk watched against US Dollar – UOB]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 14:42:51 GMT</pubDate>
             <description><![CDATA[EUR/GBP is trading sideways on Thursday near the 0.8540 level, with the Euro (EUR) steadying after three consecutive days of losses despite the Pound Sterling (GBP) gaining support from UK economic growth data that was broadly in line with expectations. ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: Spending resilience with energy pressures – RBC]]></title>
-            <link>https://www.fxstreet.com/news/canada-spending-resilience-with-energy-pressures-rbc-202608131435</link>
-            <guid isPermaLink="false">3948efd0-130a-41db-82a2-5b1eaf8fd733</guid>
-            <pubDate>Thu, 13 Aug 2026 14:35:05 GMT</pubDate>
-            <description><![CDATA[Royal Bank of Canada (RBC) analysts Rachel Battaglia and Abbey Xu note Canadian consumers kept spending in Q2 despite weak real wage gains and higher energy costs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canadian%20CPI.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro edges higher against US Dollar after soft US PPI data]]></title>
-            <link>https://www.fxstreet.com/news/euro-edges-higher-against-us-dollar-after-soft-us-ppi-data-202608131430</link>
-            <guid isPermaLink="false">cbc636cc-91e9-4cc5-8e8e-27a0ca24593c</guid>
-            <pubDate>Thu, 13 Aug 2026 14:30:39 GMT</pubDate>
-            <description><![CDATA[EUR/USD holds modest gains on Thursday as softer-than-expected US Producer Price Index (PPI) data fails to trigger a strong reaction in the pair. At the time of writing, EUR/USD trades around 1.1537 after recovering from an intraday low of 1.1511, its lowest level in more than a week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Softer Norges Bank stance weighs – BBH]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-softer-norges-bank-stance-weighs-bbh-202608131425</link>
-            <guid isPermaLink="false">5ef42391-ac61-46ac-ba72-616592ba7c77</guid>
-            <pubDate>Thu, 13 Aug 2026 14:25:31 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports Norwegian Krone weakness after Norges Bank left rates at 4.25% but softened its hawkish bias. Forward guidance shifted from a likely hike to a more conditional stance, dropping an explicit call for tighter policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
