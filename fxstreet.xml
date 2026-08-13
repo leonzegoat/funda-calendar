@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 02:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 04:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBP/USD Price Forecast: Trades below 1.3500 on firmer USD, ahead of UK GDP]]></title>
+            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-trades-below-13500-on-firmer-usd-ahead-of-uk-gdp-202608130402</link>
+            <guid isPermaLink="false">979a70b9-5b02-48db-9ba8-8ee0a26f3c81</guid>
+            <pubDate>Thu, 13 Aug 2026 04:02:17 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair trades with a negative bias for the second consecutive day and trades below the 1.3500 psychological mark during the Asian session on Thursday amid modest US Dollar (USD) strength.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Asian stocks rise on soft US CPI, AI earnings rally]]></title>
+            <link>https://www.fxstreet.com/news/asian-stocks-rise-on-soft-us-cpi-ai-earnings-rally-202608130351</link>
+            <guid isPermaLink="false">ab9c3767-0968-40ab-a8bc-6f6d4ea253b5</guid>
+            <pubDate>Thu, 13 Aug 2026 03:51:47 GMT</pubDate>
+            <description><![CDATA[Asian stocks mostly remain stronger, bolstered by softer US inflation data that reinforced expectations for a more accommodative Federal Reserve (Fed) policy. US headline CPI rose 3.4% year-over-year in July, down slightly from 3.5% in the previous month.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Tech_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold retreats from June 5 high as oil-driven Fed rate-hike bets underpin USD]]></title>
+            <link>https://www.fxstreet.com/news/gold-retreats-from-june-5-high-as-oil-driven-fed-rate-hike-bets-underpin-usd-202608130344</link>
+            <guid isPermaLink="false">e0f0b0a2-bca8-4bcb-a42a-155208d077f8</guid>
+            <pubDate>Thu, 13 Aug 2026 03:44:08 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) retreats after touching a fresh high since June 5, around the $4,450 area, during the Asian session on Thursday and is currently placed near the lower end of its daily range.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD wobbles around $65.40, easing hawkish Fed bets strengthen outlook]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-wobbles-around-6540-easing-hawkish-fed-bets-strengthen-outlook-202608130329</link>
+            <guid isPermaLink="false">5650c88b-88dd-4c96-9214-d0c3d5bfac0d</guid>
+            <pubDate>Thu, 13 Aug 2026 03:29:35 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) trades in a tight range at around $65.40 during the Asian trading session on Thursday. The Silver price struggles for a direction; however, an expected slowdown in United States (US) inflationary pressures in July has improved its outlook.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar remains subdued as two-year QoQ RBNZ Inflation Expectations ease in Q3]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-remains-subdued-as-two-year-qoq-rbnz-inflation-expectations-ease-in-q3-202608130327</link>
+            <guid isPermaLink="false">3513acb1-093c-4d33-abe7-743f7c881c27</guid>
+            <pubDate>Thu, 13 Aug 2026 03:27:12 GMT</pubDate>
+            <description><![CDATA[NZD/USD extends its losses for the fourth successive day, trading around 0.5840 during the Asian hours on Thursday. The pair remains subdued following the release of RBNZ Inflation Expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RBNZ Survey: NZ two-year inflation expectations cool down to 2.34% QoQ in Q3 2026]]></title>
+            <link>https://www.fxstreet.com/news/rbnz-survey-nz-two-year-inflation-expectations-cool-down-to-234-qoq-in-q3-2026-202608130308</link>
+            <guid isPermaLink="false">0823eefb-34f9-46dd-b8a8-9d51e1347dcd</guid>
+            <pubDate>Thu, 13 Aug 2026 03:08:57 GMT</pubDate>
+            <description><![CDATA[New Zealand's (NZ) inflation expectations ease on a two-year frame in the third quarter of 2026, the Reserve Bank of New Zealand’s (RBNZ) latest monetary conditions survey showed on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen flatlines near 159.50 on intervention risks, US PPI data looms]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-flatlines-near-15950-on-intervention-risks-us-ppi-data-looms-202608130237</link>
+            <guid isPermaLink="false">5309bfde-c0db-4c49-acdf-78f90f51ac4e</guid>
+            <pubDate>Thu, 13 Aug 2026 02:37:18 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair trades on a flat note near 159.40 during the Asian trading hours on Thursday. The potential upside for the pair might be limited due to a coordinated intervention in currency markets by US and Japanese authorities.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-neutral-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[0.7050: Australian Dollar stuck in a range as Iran risks offset hawkish RBA]]></title>
             <link>https://www.fxstreet.com/news/07050-australian-dollar-stuck-in-a-range-as-iran-risks-offset-hawkish-rba-202608130214</link>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 12 Aug 2026 20:06:11 GMT</pubDate>
             <description><![CDATA[BNY’s Geoff Yu notes that a less hawkish Fed has weakened the Dollar but failed to spark a sustained bid in commodity FX such as Norwegian Krone (NOK), Australian Dollar (AUD) and Emerging Markets (EM) currencies Chilean Peso (CLP), South African Rand (ZAR) and Brazilian Real (BRL).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/charts-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Bearish flag forms as bulls eye 0.8200]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-forms-as-bulls-eye-08200-202608121941</link>
-            <guid isPermaLink="false">6986dc51-fc16-4176-9b6c-399a42150fd5</guid>
-            <pubDate>Wed, 12 Aug 2026 19:41:40 GMT</pubDate>
-            <description><![CDATA[The USD/CHF pair edges higher by some 0.30% on Wednesday, refreshing ten-day highs of 0.8138, as the uptrend is poised to extend if it clears key resistance levels.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Range trade and upside risk against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-range-trade-and-upside-risk-against-us-dollar-uob-202608121937</link>
-            <guid isPermaLink="false">c721e2ea-de90-4178-a062-72aa69e066db</guid>
-            <pubDate>Wed, 12 Aug 2026 19:37:08 GMT</pubDate>
-            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann note that USD/CNH has been confined to a tight range and expect the Dollar to trade between 6.7430 and 6.7530 in the near term.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar firms ahead of a packed session]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-a-packed-session-202608121928</link>
-            <guid isPermaLink="false">3f4370fd-3074-4570-b1c8-ac1879a55cb4</guid>
-            <pubDate>Wed, 12 Aug 2026 19:28:39 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) has extended its recovery on Wednesday following a Consumer Price Index (CPI) report that printed in line with forecasts. The US Dollar Index (DXY) has pushed back above the 100.00 mark, and the bid has broadened out against most majors heading into a data-heavy Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG turns bullish, eyes 200-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-bullish-with-eyes-on-200-day-sma-202608121915</link>
-            <guid isPermaLink="false">de54672c-a31c-4532-8d10-f5d7a21b63c4</guid>
-            <pubDate>Wed, 12 Aug 2026 19:15:27 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) price surges over 1.40% on Wednesday as the latest inflation report in the United States (US) showed that prices are cooling, on its way towards the Federal Reserve’s (Fed) goal of 2%. At the time of writing, the XAG/USD pair trades at $65.53 after reaching a daily high of $66.80.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold price shines above $4,400 as inflation dip fuels Fed relief]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-shines-above-4-400-as-inflation-dip-fuels-fed-relief-202608121905</link>
-            <guid isPermaLink="false">5fbf9029-9a1f-4adb-931b-49d82145d490</guid>
-            <pubDate>Wed, 12 Aug 2026 19:05:32 GMT</pubDate>
-            <description><![CDATA[Gold price (XAU/USD) registers gains of over 1% on Wednesday as US inflation data aligns with estimates, easing the Federal Reserve’s (Fed) task of further tightening monetary policy. The Consumer Price Index (CPI) continues its downward trajectory.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen stumbles as US Dollar strengthens]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-stumbles-as-us-dollar-strengthens-202608121858</link>
-            <guid isPermaLink="false">9755767e-5faa-4dab-91fa-42048ff45d4d</guid>
-            <pubDate>Wed, 12 Aug 2026 18:58:32 GMT</pubDate>
-            <description><![CDATA[USD/JPY is back around the mid-159.00s area, testing the day's highs after rebounding sharply from a low around the 158.60 level.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: Fading bullish momentum puts focus on 1.1500 support]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-fading-bullish-momentum-puts-focus-on-11500-support-202608121811</link>
-            <guid isPermaLink="false">4e254b02-051f-40eb-996f-ebf9bf97f074</guid>
-            <pubDate>Wed, 12 Aug 2026 18:11:23 GMT</pubDate>
-            <description><![CDATA[EUR/USD edges lower on Wednesday, reversing earlier gains as the US Dollar (USD) shrugs off in-line US Consumer Price Index (CPI) data. At the time of writing, the pair trades around 1.1521 after touching an intraday high of 1.1563.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
