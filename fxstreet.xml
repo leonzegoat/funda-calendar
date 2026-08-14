@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 19:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 20:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ Forecasting the upcoming week: FOMC Minutes take center stage next week]]></title>
+            <link>https://www.fxstreet.com/news/forecasting-the-upcoming-week-fomc-minutes-take-center-stage-next-week-202608141942</link>
+            <guid isPermaLink="false">c269ed8c-db39-40b6-9e67-cf8dda9eeed0</guid>
+            <pubDate>Fri, 14 Aug 2026 19:42:23 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) extended its slide on Friday, holding below 100.00 at fresh lows after a fourth straight soft US data print.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Foreign inflows and exporters support KRW – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-foreign-inflows-and-exporters-support-krw-commerzbank-202608141939</link>
+            <guid isPermaLink="false">b178041c-e909-4721-9949-bc17f7788629</guid>
+            <pubDate>Fri, 14 Aug 2026 19:39:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank notes that the Kospi has rebounded 29.5% from its 30 July low, supported by strong tech earnings and improved sentiment toward semiconductor and memory chipmakers.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EUR/USD Price Forecast: 100-Day SMA blocks bullish reversal]]></title>
             <link>https://www.fxstreet.com/news/eur-usd-price-forecast-100-day-sma-blocks-bullish-reversal-202608141929</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 14:54:17 GMT</pubDate>
             <description><![CDATA[ING’s Lynn Song expects China’s July data to show continued sluggish momentum, with only a modest rebound and weak Retail Sales at 1.7% year-on-year. Fixed Asset Investment is forecast to contract further, while Industrial Production remains relatively firm.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro climbs as fading Fed hike expectations pressure US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/euro-climbs-as-fading-fed-hike-expectations-pressure-us-dollar-202608141445</link>
-            <guid isPermaLink="false">cba2d6c5-e42b-46da-8fac-8588c9f64ee0</guid>
-            <pubDate>Fri, 14 Aug 2026 14:45:55 GMT</pubDate>
-            <description><![CDATA[EUR/USD rallies on Friday, erasing all the losses recorded earlier this week as broad-based weakness in the US Dollar (USD) lifts the Euro (EUR). At the time of writing, the pair trades around 1.1580 near its highest level since June 17.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-chart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Upside seen as Fed hike bets fade – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/gold-upside-seen-as-fed-hike-bets-fade-commerzbank-202608141445</link>
-            <guid isPermaLink="false">05fb027f-dc52-4b3d-b74f-65ddeb91ff71</guid>
-            <pubDate>Fri, 14 Aug 2026 14:45:38 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Carsten Fritsch notes Gold has rallied to its highest level since early June as markets scale back expectations for further Fed rate hikes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
