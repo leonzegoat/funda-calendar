@@ -4,9 +4,89 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 13:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 14:39:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Federal Reserve: Labour strength supports further hikes – Nordea]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-labour-strength-supports-further-hikes-nordea-202608141437</link>
+            <guid isPermaLink="false">2f8b7a84-155b-4d68-9c1d-f9b7de18c1c3</guid>
+            <pubDate>Fri, 14 Aug 2026 14:37:19 GMT</pubDate>
+            <description><![CDATA[Nordea analysts Ole Håkon Eek-Nielsen and Jan von Gerich argue that the Federal Reserve is likely to deliver three more rate hikes over coming quarters to bring inflation back to target.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Inflation risks tilt higher – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-inflation-risks-tilt-higher-td-securities-202608141428</link>
+            <guid isPermaLink="false">16c3c0fd-0ac3-4bd6-b576-592a4bf8680d</guid>
+            <pubDate>Fri, 14 Aug 2026 14:28:51 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Julie Ioffe expects UK headline CPI to rise to 2.9% year-on-year in July, largely due to the Ofgem energy price cap adjustment. Services inflation is forecast to ease to 3.4%, while core goods rise to 1.0%, keeping core CPI at 2.6%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar surges as sharp US Retail Sales miss hits the Dollar]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-surges-as-sharp-us-retail-sales-miss-hits-the-dollar-202608141426</link>
+            <guid isPermaLink="false">abf18354-6208-4e30-913f-a92cb1f55d88</guid>
+            <pubDate>Fri, 14 Aug 2026 14:26:37 GMT</pubDate>
+            <description><![CDATA[The Canadian Dollar (CAD) is among the best performers on Friday, trading near a fresh two-month low against the US Dollar (USD) near the 1.3860s mark. The move coincides with a weak US Retail Sales report that pulled the Greenback lower across the board, but it preceded that data release.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan: GDP steady, inflation near BoJ target – ING]]></title>
+            <link>https://www.fxstreet.com/news/japan-gdp-steady-inflation-near-boj-target-ing-202608141420</link>
+            <guid isPermaLink="false">64f7cb3d-9cc0-4078-870b-0ef26b2e2cf5</guid>
+            <pubDate>Fri, 14 Aug 2026 14:20:26 GMT</pubDate>
+            <description><![CDATA[ING highlights that market consensus sees Japan’s preliminary Q2 Gross Domestic Product (GDP) holding at 0.5% quarter-on-quarter, with Private Consumption remaining the main growth driver.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Diverging energy risks shape outlook – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/oil-diverging-energy-risks-shape-outlook-commerzbank-202608141411</link>
+            <guid isPermaLink="false">cda7e3f1-5f32-4c93-a697-7543503d3955</guid>
+            <pubDate>Fri, 14 Aug 2026 14:11:18 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Norman Liebke highlights that Oil and European natural gas are reacting differently to Middle East supply risks, with Brent supported by rerouted flows while gas remains constrained by lost LNG from Qatar and US cargoes diverted to Asia.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US UoM Consumer Sentiment Index dips to 51 in August]]></title>
+            <link>https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-ease-as-inflation-labour-market-worries-loom-202608141000</link>
+            <guid isPermaLink="false">bde2ee2f-bf86-4ead-a9a2-671948d7ce50</guid>
+            <pubDate>Fri, 14 Aug 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[The preliminary University of Michigan Consumer Sentiment Index dipped in August to 51 from 55.2 in the previous month, missing economists’ expectations (54.5) and signalling extra weaknening in public confidence.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Medium-term depreciation risks build – Nordea]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-medium-term-depreciation-risks-build-nordea-202608141403</link>
+            <guid isPermaLink="false">ae774e93-ec21-463b-9525-04e8c43059b9</guid>
+            <pubDate>Fri, 14 Aug 2026 14:03:05 GMT</pubDate>
+            <description><![CDATA[Nordea strategists argue that while near-term risks for the Dollar are broadly balanced, the longer-term outlook remains negative.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada: Solid growth with limited tariff drag – RBC]]></title>
+            <link>https://www.fxstreet.com/news/canada-solid-growth-with-limited-tariff-drag-rbc-202608141353</link>
+            <guid isPermaLink="false">3e174d64-4999-47b2-96cb-260f51d89bba</guid>
+            <pubDate>Fri, 14 Aug 2026 13:53:39 GMT</pubDate>
+            <description><![CDATA[Royal Bank of Canada (RBC) economist Claire Fan highlights that Canadian growth rebounded strongly in Q2, supported by resilient domestic demand and improving net trade. She notes that U.S.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/BoC-rate-decision.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen gains on hawkish BoJ outlook and softer US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-gains-on-hawkish-boj-outlook-and-softer-us-dollar-202608141353</link>
+            <guid isPermaLink="false">dc5ed64a-b419-45b8-9fb5-dccbd9846036</guid>
+            <pubDate>Fri, 14 Aug 2026 13:53:35 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades on the back foot on Friday, pressured by a weaker US Dollar (USD), while the Japanese Yen (JPY) draws support from a more hawkish Bank of Japan (BoJ) outlook. At the time of writing, the pair trades around 158.85, down 0.40% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold: Fed pause keeps systematic demand supported - TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/gold-fed-pause-keeps-systematic-demand-supported-td-securities-202608141339</link>
+            <guid isPermaLink="false">322ccbc0-8352-4ace-8caf-24c48d94fb48</guid>
+            <pubDate>Fri, 14 Aug 2026 13:39:38 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek note that CTA (Commodity Trading Advisors) net long positioning in Gold is becoming more entrenched as discretionary demand improves.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen: BoJ policy story having little effect – ING]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-boj-policy-story-having-little-effect-ing-202608141330</link>
@@ -70,14 +150,6 @@
             <pubDate>Fri, 14 Aug 2026 12:35:17 GMT</pubDate>
             <description><![CDATA[Retail Sales in the United States decreased to $763.6 billion in July, a 0.6% decline compared to the previous month, the US Census Bureau reported on Friday. This print reversed the 0.2% expansion recorded in the previous month and came in below market expectations (+0.1%).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[UoM Consumer Sentiment Index set to ease in August]]></title>
-            <link>https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-ease-as-inflation-labour-market-worries-loom-202608141000</link>
-            <guid isPermaLink="false">bde2ee2f-bf86-4ead-a9a2-671948d7ce50</guid>
-            <pubDate>Fri, 14 Aug 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[The University of Michigan (UoM) will release the preliminary estimate of August’s Consumer Sentiment Index on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Consumption-2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Federal Reserve: Communication reset at Jackson Hole – TD Securities]]></title>
@@ -174,78 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 11:10:54 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the USD index (DXY) is trading near the lower end of its recent 99.50–100.00 range as cooling United States (US) Consumer Price Index (CPI) and Producer Price Index (PPI) have cut implied odds of a September Fed rate hike.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee flattens, awaiting fresh remarks on Hormuz future]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-trades-calm-while-oil-prices-correct-202608140525</link>
-            <guid isPermaLink="false">9f6abe8a-59d8-495d-b0ae-ff8ea1fce155</guid>
-            <pubDate>Fri, 14 Aug 2026 05:25:33 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) trades flat at around 95.40 against the US Dollar (USD) on Friday. The USD/INR pair consolidates as investors seek fresh cues regarding the reopening of the Strait of Hormuz, a vital passage to almost one-fifth of global energy supply, which is keeping oil prices higher.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CAD Price Forecast: Posts fresh two-month low below 1.3900]]></title>
-            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-posts-fresh-two-month-low-below-13900-202608141105</link>
-            <guid isPermaLink="false">801cd581-c8bc-4351-a257-dbca575ae548</guid>
-            <pubDate>Fri, 14 Aug 2026 11:05:24 GMT</pubDate>
-            <description><![CDATA[The Canadian Dollar (CAD) outperforms a majority of its currency peers on Friday, with the USD/CAD pair trading 0.32% lower at around 1.3888. The Canadian currency gains on hopes of a United States (US)-Canada interim deal.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil rebounds as supply tensions overshadow demand concerns]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-rebounds-as-supply-tensions-overshadow-demand-concerns-202608141056</link>
-            <guid isPermaLink="false">1463eb8b-175d-444a-a150-909a33f239b6</guid>
-            <pubDate>Fri, 14 Aug 2026 10:56:23 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil rebounds on Friday and trades around $80.80 at the time of writing, up 0.40% on the day. Oil prices recover some of their losses after two days of correction as investors remain concerned about energy supply disruptions in the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NZD/USD Price Forecast: Approaches 0.5900 resistance area as US Dollar weakens ]]></title>
-            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-approaches-05900-resistance-area-as-us-dollar-weakens-202608141037</link>
-            <guid isPermaLink="false">a2d306cc-13a1-4bdc-b5f6-271699aed93c</guid>
-            <pubDate>Fri, 14 Aug 2026 10:37:53 GMT</pubDate>
-            <description><![CDATA[The New Zealand Dollar (NZD) appreciates on Wednesday as the US Dollar (USD) loses ground across the board amid dwindling hopes of immediate Federal Reserve interest rate hikes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds gains above 1.1550 following Eurozone GDP and bright Trade Balance data]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-gains-above-11550-following-eurozone-gdp-and-bright-trade-balance-data-202608140959</link>
-            <guid isPermaLink="false">e67a21d2-37f1-4938-85ed-4b08c4496372</guid>
-            <pubDate>Fri, 14 Aug 2026 09:59:22 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) holds moderate gains against the US Dollar (USD) on Friday, as Eurozone Gross Domestic Product (GDP) came in line with market forecasts while June's Trade Balance beat forecasts.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bullish-realistic.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Looking for a shift in Fedspeak – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-looking-for-a-shift-in-fedspeak-ing-202608140945</link>
-            <guid isPermaLink="false">f6189794-be53-497a-a2dd-67faa2d85755</guid>
-            <pubDate>Fri, 14 Aug 2026 09:45:11 GMT</pubDate>
-            <description><![CDATA[ING strategists Francesco Pesole, Frantisek Taborsky and Chris Turner note that post-CPI summer conditions are suppressing FX volatility and keeping the Dollar broadly stable. They still see scope for a weaker Dollar as market expectations for further Federal Reserve tightening look overstated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Bearish bias within 158.00–160.20 band against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-bearish-bias-within-15800-16020-band-against-us-dollar-uob-202608140937</link>
-            <guid isPermaLink="false">78ed0b4f-35e3-42be-9a4b-319bcbf67d2d</guid>
-            <pubDate>Fri, 14 Aug 2026 09:37:28 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann judge USD/JPY price action as inconclusive intraday, with trading expected between 159.00 and 159.70 after a tight 159.01–159.56 range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608140931</link>
-            <guid isPermaLink="false">9dcfc6f1-3a32-432d-8f43-4901f5b70e85</guid>
-            <pubDate>Fri, 14 Aug 2026 09:31:45 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $64.76 per troy ounce, up 0.48% from the $64.45 it cost on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver regains ground above $64 as Fed rate hike bets fade]]></title>
-            <link>https://www.fxstreet.com/news/silver-regains-ground-above-64-as-fed-rate-hike-bets-fade-202608140931</link>
-            <guid isPermaLink="false">c0661c5b-180c-489b-b766-228162cc4ac4</guid>
-            <pubDate>Fri, 14 Aug 2026 09:31:26 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) gains 0.37% on Friday and trades around $64.70 at the time of writing, erasing part of its recent correction.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
