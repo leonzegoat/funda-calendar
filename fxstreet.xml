@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 23:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 02:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Latvia issues air threat alert, Finland restricts air and sea traffic]]></title>
+            <link>https://www.fxstreet.com/news/latvia-issues-air-threat-alert-finland-restricts-air-and-sea-traffic-202608140207</link>
+            <guid isPermaLink="false">764b41b9-6afb-4003-8638-23422b37ccab</guid>
+            <pubDate>Fri, 14 Aug 2026 02:07:32 GMT</pubDate>
+            <description><![CDATA[Latvian officials announced the activation of an air threat alert in the southeastern part of the country, near the border with Russia and Belarus, Reuters reported on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Latvia.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound edges higher vs softer USD; lacks follow-through as geopolitics cap gains]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-edges-higher-vs-softer-usd-lacks-follow-through-as-geopolitics-cap-gains-202608140154</link>
+            <guid isPermaLink="false">ff4551e0-4f86-4fc1-8c4b-9953067d3e99</guid>
+            <pubDate>Fri, 14 Aug 2026 01:54:39 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair attracts some dip-buyers during the Asian session on Friday and, for now, seems to have snapped a two-day losing streak to the weekly low, which it touched the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen strengthens as soft US PPI tempers Fed outlook  ]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-strengthens-as-soft-us-ppi-tempers-fed-outlook-202608140139</link>
+            <guid isPermaLink="false">9760f018-7e9b-47cc-beb7-47373db7b319</guid>
+            <pubDate>Fri, 14 Aug 2026 01:39:26 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair loses traction to near 159.45 during the Asian trading hours on Friday. Softer US inflation reports and fears of currency intervention weigh on the US Dollar (USD) against the Japanese Yen (JPY).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar declines despite RBA rate hike warning]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-declines-despite-rba-rate-hike-warning-202608140123</link>
+            <guid isPermaLink="false">ab3cd15d-afc9-4ada-a09b-0529b0cc98e1</guid>
+            <pubDate>Fri, 14 Aug 2026 01:23:11 GMT</pubDate>
+            <description><![CDATA[AUD/USD edges lower for the third successive day, trading around 0.7060 during the Asian hours on Friday. Reserve Bank of Australia (RBA) Assistant Governor Chris Kent stated on Thursday that recent interest rate hikes are producing their intended effect.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar recovers from two-week low as fading Fed hike bets undermine USD]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-recovers-from-two-week-low-as-fading-fed-hike-bets-undermine-usd-202608140119</link>
+            <guid isPermaLink="false">e7f6f48b-6e1d-408a-b12c-2eeed380b1bf</guid>
+            <pubDate>Fri, 14 Aug 2026 01:19:41 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair is seen building on the previous day's bounce from the 0.5820 region, or a two-week low, and gaining some positive traction during the Asian session on Friday. Spot prices climbed back above 0.5850 in the last hour and, for now, seem to have snapped a four-day losing streak.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/inflation-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7878 vs. 6.7888 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67878-vs-67888-previous-202608140115</link>
+            <guid isPermaLink="false">f013b6cc-34f6-45f7-8a48-bd39f7eb01b0</guid>
+            <pubDate>Fri, 14 Aug 2026 01:15:41 GMT</pubDate>
+            <description><![CDATA[On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7878 compared to the previous day's fix of 6.7888.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI remains below $80.50 as traders monitor diplomatic efforts to reopen Hormuz]]></title>
+            <link>https://www.fxstreet.com/news/wti-remains-below-8050-as-traders-monitor-diplomatic-efforts-to-reopen-hormuz-202608140100</link>
+            <guid isPermaLink="false">fc6e9e47-d70c-4596-a49b-9f4fa2d7321d</guid>
+            <pubDate>Fri, 14 Aug 2026 01:00:45 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price remains subdued for the third successive day, trading around $80.30 per barrel during the Asian hours on Friday. Crude oil prices edge lower as investors adopt a wait-and-see approach, closely monitoring diplomatic attempts to reopen the Strait of Hormuz.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro gathers strength above 1.1500 as cooling inflation data weighs on US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/euro-gathers-strength-above-11500-as-cooling-inflation-data-weighs-on-us-dollar-202608140043</link>
+            <guid isPermaLink="false">42d36d6c-6e2a-4710-b192-1c1b3f66d467</guid>
+            <pubDate>Fri, 14 Aug 2026 00:43:01 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair gains ground to near 1.1535 during the early Asian session on Friday. The US Dollar (USD) softens against the Euro (EUR) following a softer-than-expected US inflation report. The US July Retail Sales data will take center stage later on Friday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Treasury Secretary Bessent: We will implement unprecedented measures on Iran]]></title>
+            <link>https://www.fxstreet.com/news/iran-says-strait-of-hormuz-is-under-its-control-and-management-202608132352</link>
+            <guid isPermaLink="false">2e388e5c-577f-44f6-81e0-14a8b75c0909</guid>
+            <pubDate>Thu, 13 Aug 2026 23:52:50 GMT</pubDate>
+            <description><![CDATA[US Treasury Secretary Scott Bessent ‌said that Washington is going to apply measures that have "never been seen" on Iran, Reuters reported on Thursday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Iran.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold drifts higher above $4,350 as softer US PPI data reduces September Fed hike bets]]></title>
             <link>https://www.fxstreet.com/news/gold-drifts-higher-above-4-350-as-softer-us-ppi-data-reduces-september-fed-hike-bets-202608132327</link>
@@ -174,78 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 16:18:52 GMT</pubDate>
             <description><![CDATA[The Dow Jones Industrial Average trades near 53,700 on Thursday, roughly 75 points and a tenth of a percent lower, on a morning when the S&P 500 prints a fresh record intraday high and the Nasdaq Composite runs close to a percent higher.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/stock-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar struggles as softer inflation expectations challenge RBNZ hawks]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-softer-inflation-expectations-challenge-rbnz-hawks-202608131600</link>
-            <guid isPermaLink="false">360d4f02-e59b-4b4e-9348-fc573947aed6</guid>
-            <pubDate>Thu, 13 Aug 2026 16:00:39 GMT</pubDate>
-            <description><![CDATA[NZD/USD trades around 0.5850 on Thursday at the time of writing, down 0.15% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen struggles despite soft US PPI, fading Fed rate-hike bets]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-struggles-despite-soft-us-ppi-fading-fed-rate-hike-bets-202608131600</link>
-            <guid isPermaLink="false">a175383f-50f7-4966-8cf4-33a8f5350eb3</guid>
-            <pubDate>Thu, 13 Aug 2026 16:00:03 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) struggles to gain traction against the US Dollar (USD) on Thursday, even as the Greenback weakens modestly following softer-than-expected US Producer Price Index (PPI) data. The Yen strengthened immediately after the release, briefly pushing USD/JPY toward 159.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound climbs as soft US inflation data hurt Fed hawkish bets]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-climbs-as-soft-us-inflation-data-hurt-fed-hawkish-bets-202608131552</link>
-            <guid isPermaLink="false">1c93c68a-9681-4d45-b52c-d021c0cb8079</guid>
-            <pubDate>Thu, 13 Aug 2026 15:52:25 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling (GBP) registers modest gains versus the Greenback on Thursday as US inflation data in the producer side came in below or in line with estimates, showing that the disinflation process continues. At the time of writing, the GBP/USD pair trades at 1.3503, up 0.06%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Carry Trade: Supportive backdrop holds – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/carry-trade-supportive-backdrop-holds-ocbc-202608131551</link>
-            <guid isPermaLink="false">da2c3353-49db-4bd2-ab86-98ac92ae498b</guid>
-            <pubDate>Thu, 13 Aug 2026 15:51:00 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that in-line United States (US) inflation and a modestly lower probability of a September Federal Reserve (Fed) hike have left the US Dollar (USD) broadly range-bound while risk assets continue to rally.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Upside GDP surprise, limited BoE impact – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-upside-gdp-surprise-limited-boe-impact-td-securities-202608131515</link>
-            <guid isPermaLink="false">6c3037e0-2b04-40cb-a9f6-2ae409efe080</guid>
-            <pubDate>Thu, 13 Aug 2026 15:15:20 GMT</pubDate>
-            <description><![CDATA[TD Securities reports that United Kingdom (UK) Gross Domestic Product (GDP) for June surprised to the upside at 0.3% m/m, driven by a strong services sector expanding 0.4% m/m. May was revised to flat, leaving June as the only positive month in Q2.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold struggles below two-month high despite softer US PPI]]></title>
-            <link>https://www.fxstreet.com/news/gold-retreats-from-two-month-high-as-traders-await-us-ppi-202608131057</link>
-            <guid isPermaLink="false">67116276-ecac-4539-b5f6-1d6f6f603f29</guid>
-            <pubDate>Thu, 13 Aug 2026 10:57:10 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) trades under pressure on Thursday after hitting a fresh two-month high of $4,449 during Asian trading hours. The metal fails to capitalise on softer-than-expected US Producer Price Index (PPI) data, even as the US Dollar and Treasury yields edge lower.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Poland: Fuel-driven inflation rise contained – ING]]></title>
-            <link>https://www.fxstreet.com/news/poland-fuel-driven-inflation-rise-contained-ing-202608131503</link>
-            <guid isPermaLink="false">aac4e2be-10d8-45a4-9d23-839bdf04c3eb</guid>
-            <pubDate>Thu, 13 Aug 2026 15:03:19 GMT</pubDate>
-            <description><![CDATA[ING’s Adam Antoniak explains that Poland’s July CPI rose mainly due to higher fuel prices after VAT normalization, removal of the fuel cap and increased Oil costs following the US–Iran MoU collapse.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[India: Inflation path higher into FY27 – Standard Chartered]]></title>
-            <link>https://www.fxstreet.com/news/india-inflation-path-higher-into-fy27-standard-chartered-202608131456</link>
-            <guid isPermaLink="false">55a86563-ff1e-4d50-8e37-dbd1bc94cf06</guid>
-            <pubDate>Thu, 13 Aug 2026 14:56:22 GMT</pubDate>
-            <description><![CDATA[Standard Chartered strategists have raised its FY27 Consumer Price Index (CPI) inflation forecast to 4.9% from 4.5%, citing higher food and retail fuel prices. They now expect broader price pressures, excluding Gold and Silver, with food and beverage CPI seen at 6.3%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United States: Equities favored over Treasuries – BNY]]></title>
-            <link>https://www.fxstreet.com/news/united-states-equities-favored-over-treasuries-bny-202608131449</link>
-            <guid isPermaLink="false">2fca1acf-7f9b-4e15-a05d-4d08fb5bee1b</guid>
-            <pubDate>Thu, 13 Aug 2026 14:49:49 GMT</pubDate>
-            <description><![CDATA[Geoff Yu at BNY argues that the loss of some U.S. exceptionalism has not translated into a broad exodus from U.S. assets. Cross-border investors maintain high U.S. equity allocations, supported by technology and AI themes, while trimming Treasury holdings as curve steepening raises duration risk.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
