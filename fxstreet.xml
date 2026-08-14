@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 20:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 20:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mexican Peso refreshes multi-month highs, Banxico minutes eyed]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-refreshes-multi-month-highs-banxico-minutes-eyed-202608142044</link>
+            <guid isPermaLink="false">8a64c689-69d4-4e80-ab23-9c3e4e311cdc</guid>
+            <pubDate>Fri, 14 Aug 2026 20:44:08 GMT</pubDate>
+            <description><![CDATA[The USD/MXN refreshed 24-month lows below 17.00, but it has recovered some ground, with buyers stepping in and reclaiming the 17.00 level. Data from the United States (US) weighed on the Greenback, as consumer sentiment and Retail Sales deteriorated.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-steady-appreciation-backed-by-pboc-stance-societe-generale-202608142022</link>
+            <guid isPermaLink="false">631083ba-1d89-4f11-b7db-137e6c303b0c</guid>
+            <pubDate>Fri, 14 Aug 2026 20:22:00 GMT</pubDate>
+            <description><![CDATA[Societe Generale analysts highlight CNY’s firm trend, with the currency advancing to 6.7424, its strongest level since February 2023, on Dollar weakness and lower US yields.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ Forecasting the upcoming week: FOMC Minutes take center stage next week]]></title>
             <link>https://www.fxstreet.com/news/forecasting-the-upcoming-week-fomc-minutes-take-center-stage-next-week-202608141942</link>
@@ -28,7 +44,7 @@
             <link>https://www.fxstreet.com/news/eur-usd-price-forecast-100-day-sma-blocks-bullish-reversal-202608141929</link>
             <guid isPermaLink="false">3e3f439a-9a72-4a9f-89e4-5884df1b4cd0</guid>
             <pubDate>Fri, 14 Aug 2026 19:29:39 GMT</pubDate>
-            <description><![CDATA[The EUR/USD registers gains of over 0.32% as traders face key resistance at the 100-day Simple Moving Average (SMA) at 1.1567, as bulls eye the 1.1600 psychological figure. At the time of writing, the pair trades at 1.1564 after bouncing off daily lows of 1.1526.]]></description>
+            <description><![CDATA[The EUR/USD pair registers gains of over 0.32% on Friday as traders face key resistance at the 100-day Simple Moving Average (SMA) at 1.1567, as bulls eye the 1.1600 psychological figure. At the time of writing, the pair trades at 1.1564 after bouncing off daily lows of 1.1526.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 15:05:30 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight Canadian Dollar (CAD) strength as USD/CAD trades just below their fair value estimate around 1.3895, supported by tighter US–Canada 2-year spreads and firmer commodity FX.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold gains ground as US Dollar selling picks up, Fed rate hike bets fade]]></title>
-            <link>https://www.fxstreet.com/news/gold-bounces-from-weekly-low-on-softer-us-dollar-fading-september-fed-hike-bets-202608141116</link>
-            <guid isPermaLink="false">9fcb38f4-05b5-4114-b3d8-d87d6a5f1db2</guid>
-            <pubDate>Fri, 14 Aug 2026 11:16:24 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) rebounds on Friday after opening the day in negative territory and falling to a fresh weekly low of $4,311.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[China: Activity slowdown and LPR hold – ING]]></title>
-            <link>https://www.fxstreet.com/news/china-activity-slowdown-and-lpr-hold-ing-202608141454</link>
-            <guid isPermaLink="false">e8d63867-0193-46ea-86a9-f8248cca659f</guid>
-            <pubDate>Fri, 14 Aug 2026 14:54:17 GMT</pubDate>
-            <description><![CDATA[ING’s Lynn Song expects China’s July data to show continued sluggish momentum, with only a modest rebound and weak Retail Sales at 1.7% year-on-year. Fixed Asset Investment is forecast to contract further, while Industrial Production remains relatively firm.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
