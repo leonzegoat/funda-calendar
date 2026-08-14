@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 22:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 23:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG stalls as yields cap recovery]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-stalls-as-yields-cap-recovery-202608142259</link>
+            <guid isPermaLink="false">70512ecf-0470-4c6d-a6e9-451c99bcc164</guid>
+            <pubDate>Fri, 14 Aug 2026 22:59:08 GMT</pubDate>
+            <description><![CDATA[Silver price advanced by some 0.39% on Friday, capped by rising US yields, even though US data was softer than expected. XAG/USD trades at $64.70, after bouncing off daily lows of $63.51.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss]]></title>
             <link>https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07100-after-us-retail-sales-miss-202608142230</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 15:21:00 GMT</pubDate>
             <description><![CDATA[Nordea strategists see the Norwegian Krone (NOK) broadly stable over the next six months after July’s EUR/NOK decline, driven by higher Oil prices and Norges Bank’s increased NOK purchases.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Data-driven outlook in focus – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-data-driven-outlook-in-focus-mufg-202608141511</link>
-            <guid isPermaLink="false">10bff54f-bf30-4e8d-972b-95cf3158bd00</guid>
-            <pubDate>Fri, 14 Aug 2026 15:11:50 GMT</pubDate>
-            <description><![CDATA[MUFG analysts Lin Li, Michael Wan, Lloyd Chan and Khang Sek Lee note that upcoming US economic data will be crucial for the US Dollar outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
