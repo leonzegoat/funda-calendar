@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 10:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 11:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CAD Price Forecast: Posts fresh two-month low below 1.3900]]></title>
+            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-posts-fresh-two-month-low-below-13900-202608141105</link>
+            <guid isPermaLink="false">801cd581-c8bc-4351-a257-dbca575ae548</guid>
+            <pubDate>Fri, 14 Aug 2026 11:05:24 GMT</pubDate>
+            <description><![CDATA[The Canadian Dollar (CAD) outperforms a majority of its currency peers on Friday, with the USD/CAD pair trading 0.32% lower at around 1.3888. The Canadian currency gains on hopes of a United States (US)-Canada interim deal.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Oil rebounds as supply tensions overshadow demand concerns]]></title>
+            <link>https://www.fxstreet.com/news/wti-oil-rebounds-as-supply-tensions-overshadow-demand-concerns-202608141056</link>
+            <guid isPermaLink="false">1463eb8b-175d-444a-a150-909a33f239b6</guid>
+            <pubDate>Fri, 14 Aug 2026 10:56:23 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) US Oil rebounds on Friday and trades around $80.80 at the time of writing, up 0.40% on the day. Oil prices recover some of their losses after two days of correction as investors remain concerned about energy supply disruptions in the Middle East.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NZD/USD Price Forecast: Approaches 0.5900 resistance area as US Dollar weakens ]]></title>
+            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-approaches-05900-resistance-area-as-us-dollar-weakens-202608141037</link>
+            <guid isPermaLink="false">a2d306cc-13a1-4bdc-b5f6-271699aed93c</guid>
+            <pubDate>Fri, 14 Aug 2026 10:37:53 GMT</pubDate>
+            <description><![CDATA[The New Zealand Dollar (NZD) appreciates on Wednesday as the US Dollar (USD) loses ground across the board amid dwindling hopes of immediate Federal Reserve interest rate hikes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[UoM Consumer Sentiment Index set to  ease as inflation, labour market worries loom]]></title>
             <link>https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-ease-as-inflation-labour-market-worries-loom-202608141000</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 07:23:21 GMT</pubDate>
             <description><![CDATA[Danske Research Team notes that Norges Bank left its policy rate at 4.25% and kept a tightening bias despite weaker summer inflation. They still expect one final hike in September, though the odds have fallen and the decision is now finely balanced.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar hits fresh high since June on rising oil prices, Fed-inspired USD weakness]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-hits-fresh-high-since-june-on-rising-oil-prices-fed-inspired-usd-weakness-202608140723</link>
-            <guid isPermaLink="false">51738658-0753-4c0e-8ebd-dcf978c1bf70</guid>
-            <pubDate>Fri, 14 Aug 2026 07:23:13 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair extends the previous day's decline from the top end of the weekly range and attracts follow-through selling for the second straight day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures steady ahead of US Retail Sales data]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-steady-ahead-of-us-retail-sales-data-202608140719</link>
-            <guid isPermaLink="false">77cd7919-8edc-4a18-aca8-e8a1ee2f3153</guid>
-            <pubDate>Fri, 14 Aug 2026 07:19:55 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures remain subdued around 53,910 during European hours on Friday. Meanwhile, S&P 500 futures move little, hovering around 7,820, and Nasdaq 100 futures inch lower by 0.09%, trading near 30,160.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_DJI-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Locked in tight ranges against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-locked-in-tight-ranges-against-us-dollar-uob-202608140713</link>
-            <guid isPermaLink="false">8ba04067-4dcf-41c3-9979-714b9556654e</guid>
-            <pubDate>Fri, 14 Aug 2026 07:13:13 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report GBP/USD price action remains confined, with intraday moves seen between 1.3475 and 1.3515 as momentum has faded.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
