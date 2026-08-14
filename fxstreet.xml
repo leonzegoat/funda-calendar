@@ -4,9 +4,89 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 15:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 16:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar charges toward 0.5900 as US Dollar loses ground]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-charges-toward-05900-as-us-dollar-loses-ground-202608141628</link>
+            <guid isPermaLink="false">2418a34d-c819-4ef9-a2ac-7f2d72216487</guid>
+            <pubDate>Fri, 14 Aug 2026 16:28:19 GMT</pubDate>
+            <description><![CDATA[NZD/USD gains 0.75% on Friday and trades around 0.5895 at the time of writing, with its rally losing some momentum as it approaches the psychological 0.5900 level.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Natural gas: Tight European balance and storage risks – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/natural-gas-tight-european-balance-and-storage-risks-commerzbank-202608141617</link>
+            <guid isPermaLink="false">3edcb79c-ec63-41a8-8ccf-bcbe0df8d29d</guid>
+            <pubDate>Fri, 14 Aug 2026 16:17:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Norman Liebke stresses that European natural gas remains structurally tighter than Oil as Qatar LNG is cut off and US cargoes are redirected to Asia.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD holds gains but struggles for fresh momentum]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-gains-but-struggles-for-fresh-momentum-202608141614</link>
+            <guid isPermaLink="false">9f778167-6421-4083-a774-01d2f85c9b25</guid>
+            <pubDate>Fri, 14 Aug 2026 16:14:02 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) trades on the front foot on Friday but lacks strong follow-through and remains within the narrow range seen this week. At the time of writing, XAG/USD trades around $65 after bouncing from an intraday low of $63.51.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Spreads support upside bias against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/euro-spreads-support-upside-bias-against-us-dollar-scotiabank-202608141609</link>
+            <guid isPermaLink="false">8be46734-5fd7-4431-8257-454dc9a89e1d</guid>
+            <pubDate>Fri, 14 Aug 2026 16:09:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report EUR/USD trading in the mid-1.15s with modest gains versus the US Dollar (USD), supported by euro area Gross Domestic Product (GDP) and a return to trade surplus.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/GBP stuck in a tight range as traders observe the war]]></title>
+            <link>https://www.fxstreet.com/news/eur-gbp-stuck-in-a-tight-range-as-traders-observe-the-war-202608141606</link>
+            <guid isPermaLink="false">ff09c39d-dec3-4e3b-8668-7a4e70860cd4</guid>
+            <pubDate>Fri, 14 Aug 2026 16:06:52 GMT</pubDate>
+            <description><![CDATA[EUR/GBP has traded in a tight range around the mid-0.8500s on Friday, little changed on the day. The latest Eurozone figures came in close to forecasts, and they did nothing to push the pair out of the range it has held all week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ASEAN FX: Regional data and growth concerns – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/asean-fx-regional-data-and-growth-concerns-mufg-202608141601</link>
+            <guid isPermaLink="false">f7e7d8cb-4057-4638-824c-e331a035960a</guid>
+            <pubDate>Fri, 14 Aug 2026 16:01:00 GMT</pubDate>
+            <description><![CDATA[MUFG analysts focus on several ASEAN indicators for regional currencies. They flag Singapore’s July non-oil domestic exports after June’s strong 20.7% year-on-year rise, and expect Malaysia’s CPI to stay contained at 1.9% year-on-year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesian_Rupiah_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada: Core softness guides BoC path – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/canada-core-softness-guides-boc-path-td-securities-202608141553</link>
+            <guid isPermaLink="false">f98fda5f-bdf0-4773-b746-999ebdc79dce</guid>
+            <pubDate>Fri, 14 Aug 2026 15:53:00 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Robert Both expects Canadian headline CPI to rise to 2.9% year-on-year in July, driven by higher gasoline and food prices, while ex. food/energy components stay muted.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canadian%20CPI.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia: Policy continuity supports Rupiah – ING]]></title>
+            <link>https://www.fxstreet.com/news/indonesia-policy-continuity-supports-rupiah-ing-202608141545</link>
+            <guid isPermaLink="false">c635a04f-7aa3-4263-92a2-1de7b0eef396</guid>
+            <pubDate>Fri, 14 Aug 2026 15:45:00 GMT</pubDate>
+            <description><![CDATA[ING’s Lynn Song expects Bank Indonesia to keep its benchmark rate unchanged at 5.75% this week, prioritizing Rupiah stability while avoiding an immediate hike. The report highlights BI’s growing reliance on non-rate tools such as SRBI yields and FX intervention.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesia3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound hits three-month high as weak US sales deepen USD slide]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-advances-as-weak-us-sales-deepen-usd-slide-202608141543</link>
+            <guid isPermaLink="false">f3b9b966-a8d8-4426-81de-dd4bc112839e</guid>
+            <pubDate>Fri, 14 Aug 2026 15:43:58 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) rises by some 0.40% on Friday as a batch of US data supports a Federal Reserve (Fed) dovish stance, with consumer sentiment deteriorating while the disinflation process showed further progress.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Policy risks support gains against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-policy-risks-support-gains-against-us-dollar-scotiabank-202608141537</link>
+            <guid isPermaLink="false">dd9098ae-74ec-49b8-b668-2d8e18e2f242</guid>
+            <pubDate>Fri, 14 Aug 2026 15:37:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret observe USD/JPY trading near 159, with modest Japanese Yen (JPY) gains offering reassurance to the Ministry of Finance (MoF) after recent weakness.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Copper: Rally pauses as Chinese demand signal softens – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/copper-rally-pauses-as-chinese-demand-signal-softens-commerzbank-202608141529</link>
@@ -166,86 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 13:30:24 GMT</pubDate>
             <description><![CDATA[ING’s Chris Turner notes that despite sharp moves in Japanese money markets, the Japanese Yen is not finding lasting support. Markets now price a high probability of a Bank of Japan hike in September, narrowing US–Japan swap differentials, yet USD/JPY remains elevated as carry trades persist.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: BoE hawks get support from UK data – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-boe-hawks-get-support-from-uk-data-rabobank-202608141321</link>
-            <guid isPermaLink="false">eee08762-e81d-46c1-bda1-0cf2b468d412</guid>
-            <pubDate>Fri, 14 Aug 2026 13:21:39 GMT</pubDate>
-            <description><![CDATA[Rabobank strategist Elwin de Groot observes that stronger-than-expected UK GDP has provided fresh ammunition to Bank of England (BoE) hawks, even as the Bank remains reluctant to tighten further. Growth was broad-based, with investment and GDP per capita both rising.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: Inflation keeps three rate hikes in play - Nordea]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-inflation-keeps-three-rate-hikes-in-play-nordea-202608141312</link>
-            <guid isPermaLink="false">233b669c-ed0b-4781-bf7c-986289f9fdb4</guid>
-            <pubDate>Fri, 14 Aug 2026 13:12:19 GMT</pubDate>
-            <description><![CDATA[Nordea’s Ole Håkon Eek-Nielsen and Jan von Gerich expect the European Central Bank (ECB) to deliver three additional 25bp rate hikes, taking the deposit rate to 3%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Dovish turn risks NOK appeal – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-dovish-turn-risks-nok-appeal-societe-generale-202608141259</link>
-            <guid isPermaLink="false">99ec9919-b3ad-4472-a295-a843f47de249</guid>
-            <pubDate>Fri, 14 Aug 2026 12:59:35 GMT</pubDate>
-            <description><![CDATA[Societe Generale notes Norway’s central bank kept its policy rate unchanged at 4.25% and softened its hawkish tone. The bank still anticipates one further rate increase, but removed explicit guidance for a near-term hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Lower short-term yields weigh on the Greenback – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-lower-short-term-yields-weigh-on-the-greenback-mufg-202608141249</link>
-            <guid isPermaLink="false">00e29e2d-12cb-4c26-8222-9c024975761f</guid>
-            <pubDate>Fri, 14 Aug 2026 12:49:29 GMT</pubDate>
-            <description><![CDATA[MUFG’s Lee Hardman notes the US Dollar (USD) is trading on a softer footing as Fed rate hike expectations are scaled back following weaker labour data and a mixed United States (US) Producer Price Index (PPI) report.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: War-driven price effects and inflation – UBS]]></title>
-            <link>https://www.fxstreet.com/news/oil-war-driven-price-effects-and-inflation-ubs-202608141236</link>
-            <guid isPermaLink="false">97bead42-6a16-4935-92f8-76b99376c1fc</guid>
-            <pubDate>Fri, 14 Aug 2026 12:36:23 GMT</pubDate>
-            <description><![CDATA[UBS economist Paul Donovan discusses how the Gulf war has lifted Oil prices and pushed consumer price inflation above target in major economies.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Retail Sales contracted by 0.6% MoM in July]]></title>
-            <link>https://www.fxstreet.com/news/united-states-retail-sales-contracted-by-06-mom-in-july-202608141235</link>
-            <guid isPermaLink="false">8c3556c9-85c1-44b4-9ab7-3a1b52df890f</guid>
-            <pubDate>Fri, 14 Aug 2026 12:35:17 GMT</pubDate>
-            <description><![CDATA[Retail Sales in the United States decreased to $763.6 billion in July, a 0.6% decline compared to the previous month, the US Census Bureau reported on Friday. This print reversed the 0.2% expansion recorded in the previous month and came in below market expectations (+0.1%).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Communication reset at Jackson Hole – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-communication-reset-at-jackson-hole-td-securities-202608141225</link>
-            <guid isPermaLink="false">72b8c740-58d9-423f-b4ef-0bf745e9f7b8</guid>
-            <pubDate>Fri, 14 Aug 2026 12:25:03 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Oscar Munoz argues that Chair Kevin Warsh’s communication strategy has undermined market confidence in the Federal Reserve’s inflation-fighting resolve.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-76.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro little changed against Pound Sterling as ECB, BoE outlooks stay in focus]]></title>
-            <link>https://www.fxstreet.com/news/euro-little-changed-against-pound-sterling-as-ecb-boe-outlooks-stay-in-focus-202608141218</link>
-            <guid isPermaLink="false">942d3883-3579-4ea2-bc89-abd86bf5d8d6</guid>
-            <pubDate>Fri, 14 Aug 2026 12:18:02 GMT</pubDate>
-            <description><![CDATA[EUR/GBP is little changed on Friday, extending the sideways pattern seen through most of the week as traders show a muted reaction to second-quarter Gross Domestic Product (GDP) data from both the Eurozone and the United Kingdom (UK). At the time of writing, the cross trades around 0.8543.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar regains momentum as hawkish RBA meets softer US inflation]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-regains-momentum-as-hawkish-rba-meets-softer-us-inflation-202608141217</link>
-            <guid isPermaLink="false">8d1c5564-832f-4a04-a8e7-5fce1a993b62</guid>
-            <pubDate>Fri, 14 Aug 2026 12:17:36 GMT</pubDate>
-            <description><![CDATA[AUD/USD rebounds on Friday and trades around 0.7080 at the time of writing, gaining 0.31% on the day after falling as low as 0.7044 on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swedish Krona: Undervalued SEK with constrained upside – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/swedish-krona-undervalued-sek-with-constrained-upside-nordea-202608141213</link>
-            <guid isPermaLink="false">61e6ad4c-b4f6-432d-8657-0b6624319ffb</guid>
-            <pubDate>Fri, 14 Aug 2026 12:13:52 GMT</pubDate>
-            <description><![CDATA[Nordea strategists remain constructive on the Swedish Krona (SEK), viewing it as undervalued and supported by robust domestic fundamentals and improving macro data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
