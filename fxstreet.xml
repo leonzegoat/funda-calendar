@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 18:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 19:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: 100-Day SMA blocks bullish reversal]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-100-day-sma-blocks-bullish-reversal-202608141929</link>
+            <guid isPermaLink="false">3e3f439a-9a72-4a9f-89e4-5884df1b4cd0</guid>
+            <pubDate>Fri, 14 Aug 2026 19:29:39 GMT</pubDate>
+            <description><![CDATA[The EUR/USD registers gains of over 0.32% as traders face key resistance at the 100-day Simple Moving Average (SMA) at 1.1567, as bulls eye the 1.1600 psychological figure. At the time of writing, the pair trades at 1.1564 after bouncing off daily lows of 1.1526.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Activity data and PBOC stance guide FX – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-activity-data-and-pboc-stance-guide-fx-mufg-202608141857</link>
+            <guid isPermaLink="false">12f8d73a-859e-4e51-b907-b7c1126486be</guid>
+            <pubDate>Fri, 14 Aug 2026 18:57:00 GMT</pubDate>
+            <description><![CDATA[MUFG’s Asia FX Weekly highlights that China’s July activity indicators, following weak Q2 GDP, will be central for the Chinese Yuan and regional FX.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen holds as soft US data meets a weak Yen]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-holds-as-soft-us-data-meets-a-weak-yen-202608141853</link>
+            <guid isPermaLink="false">8e8d4509-f3b1-42d5-a674-04bb83dcfba6</guid>
+            <pubDate>Fri, 14 Aug 2026 18:53:04 GMT</pubDate>
+            <description><![CDATA[USD/JPY is holding near 159.40 at the time of writing, with little change on the day. A weak United States (US) Consumer Sentiment reading nudged the Dollar lower, but the pair has stayed close to where it started.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[USD/CAD Price Forecast: Bears target the 200-day SMA]]></title>
             <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bears-target-the-200-day-sma-202608141824</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 14:45:38 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Carsten Fritsch notes Gold has rallied to its highest level since early June as markets scale back expectations for further Fed rate hikes.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Labour strength supports further hikes – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-labour-strength-supports-further-hikes-nordea-202608141437</link>
-            <guid isPermaLink="false">2f8b7a84-155b-4d68-9c1d-f9b7de18c1c3</guid>
-            <pubDate>Fri, 14 Aug 2026 14:37:19 GMT</pubDate>
-            <description><![CDATA[Nordea analysts Ole Håkon Eek-Nielsen and Jan von Gerich argue that the Federal Reserve is likely to deliver three more rate hikes over coming quarters to bring inflation back to target.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Inflation risks tilt higher – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-inflation-risks-tilt-higher-td-securities-202608141428</link>
-            <guid isPermaLink="false">16c3c0fd-0ac3-4bd6-b576-592a4bf8680d</guid>
-            <pubDate>Fri, 14 Aug 2026 14:28:51 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Julie Ioffe expects UK headline CPI to rise to 2.9% year-on-year in July, largely due to the Ofgem energy price cap adjustment. Services inflation is forecast to ease to 3.4%, while core goods rise to 1.0%, keeping core CPI at 2.6%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar surges as sharp US Retail Sales miss hits the Dollar]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-surges-as-sharp-us-retail-sales-miss-hits-the-dollar-202608141426</link>
-            <guid isPermaLink="false">abf18354-6208-4e30-913f-a92cb1f55d88</guid>
-            <pubDate>Fri, 14 Aug 2026 14:26:37 GMT</pubDate>
-            <description><![CDATA[The Canadian Dollar (CAD) is among the best performers on Friday, trading near a fresh two-month low against the US Dollar (USD) near the 1.3860s mark. The move coincides with a weak US Retail Sales report that pulled the Greenback lower across the board, but it preceded that data release.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
