@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 17:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 18:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CAD Price Forecast: Bears target the 200-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bears-target-the-200-day-sma-202608141824</link>
+            <guid isPermaLink="false">d015cf32-bfbc-494e-9dcd-b2cec6cbeaa8</guid>
+            <pubDate>Fri, 14 Aug 2026 18:24:55 GMT</pubDate>
+            <description><![CDATA[USD/CAD extends its decline farther below 1.4000 on Friday and heads for a third consecutive weekly loss. At the time of writing, the pair trades around 1.3877, at levels last seen in early July. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Dollar Index breaks on the fourth consecutive soft print]]></title>
+            <link>https://www.fxstreet.com/news/the-dollar-index-breaks-on-the-fourth-consecutive-soft-print-202608141823</link>
+            <guid isPermaLink="false">d97d967e-1f9f-4d88-a364-a489e7cf43cc</guid>
+            <pubDate>Fri, 14 Aug 2026 18:23:56 GMT</pubDate>
+            <description><![CDATA[The Dollar Index took a payroll contraction on August 7, a cooler consumer price reading on August 12 and a flat producer price reading on August 13 without surrendering its range. Friday's data finally did it.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Consolidation near 1.28 with upside risks against US Dollar – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-consolidation-near-128-with-upside-risks-against-us-dollar-ocbc-202608141814</link>
+            <guid isPermaLink="false">fb8f1370-daa4-475c-a9bd-44340564f908</guid>
+            <pubDate>Fri, 14 Aug 2026 18:14:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note USD/SGD is consolidating around 1.28 as softer United States (US) Producer Price Index (PPI) trims Federal Reserve (Fed) hike expectations but fails to trigger fresh US Dollar (USD) selling.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Bearish flag holds as bulls eye 0.8150]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-holds-as-bulls-eye-08150-202608141804</link>
+            <guid isPermaLink="false">9e855413-2533-4d1b-8890-9b8c50741790</guid>
+            <pubDate>Fri, 14 Aug 2026 18:04:49 GMT</pubDate>
+            <description><![CDATA[The USD/CHF turns negative on the day, snapping a four-day winning streak, yet it remains above 0.8100, suggesting further upside is possible if buyers reclaim key resistance levels. At the time of writing, the pair trades at a 0.12% loss.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold rallies as weak US data dents Fed hike bets]]></title>
             <link>https://www.fxstreet.com/news/gold-rallies-as-weak-us-data-dents-fed-hike-bets-202608141739</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 14:26:37 GMT</pubDate>
             <description><![CDATA[The Canadian Dollar (CAD) is among the best performers on Friday, trading near a fresh two-month low against the US Dollar (USD) near the 1.3860s mark. The move coincides with a weak US Retail Sales report that pulled the Greenback lower across the board, but it preceded that data release.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan: GDP steady, inflation near BoJ target – ING]]></title>
-            <link>https://www.fxstreet.com/news/japan-gdp-steady-inflation-near-boj-target-ing-202608141420</link>
-            <guid isPermaLink="false">64f7cb3d-9cc0-4078-870b-0ef26b2e2cf5</guid>
-            <pubDate>Fri, 14 Aug 2026 14:20:26 GMT</pubDate>
-            <description><![CDATA[ING highlights that market consensus sees Japan’s preliminary Q2 Gross Domestic Product (GDP) holding at 0.5% quarter-on-quarter, with Private Consumption remaining the main growth driver.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Diverging energy risks shape outlook – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/oil-diverging-energy-risks-shape-outlook-commerzbank-202608141411</link>
-            <guid isPermaLink="false">cda7e3f1-5f32-4c93-a697-7543503d3955</guid>
-            <pubDate>Fri, 14 Aug 2026 14:11:18 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Norman Liebke highlights that Oil and European natural gas are reacting differently to Middle East supply risks, with Brent supported by rerouted flows while gas remains constrained by lost LNG from Qatar and US cargoes diverted to Asia.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US UoM Consumer Sentiment Index dips to 51 in August]]></title>
-            <link>https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-ease-as-inflation-labour-market-worries-loom-202608141000</link>
-            <guid isPermaLink="false">bde2ee2f-bf86-4ead-a9a2-671948d7ce50</guid>
-            <pubDate>Fri, 14 Aug 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[The preliminary University of Michigan Consumer Sentiment Index dipped in August to 51 from 55.2 in the previous month, missing economists’ expectations (54.5) and signalling extra weaknening in public confidence.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Medium-term depreciation risks build – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-medium-term-depreciation-risks-build-nordea-202608141403</link>
-            <guid isPermaLink="false">ae774e93-ec21-463b-9525-04e8c43059b9</guid>
-            <pubDate>Fri, 14 Aug 2026 14:03:05 GMT</pubDate>
-            <description><![CDATA[Nordea strategists argue that while near-term risks for the Dollar are broadly balanced, the longer-term outlook remains negative.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
