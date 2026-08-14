@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 04:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 05:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD slips below $64.00 on profit taking]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6400-on-profit-taking-202608140553</link>
+            <guid isPermaLink="false">433cb9fc-8774-468b-a05b-15300b7e6c4b</guid>
+            <pubDate>Fri, 14 Aug 2026 05:53:51 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) extends its losses for the second consecutive day, trading around $63.50 per troy ounce during the Asian hours on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI regains ground near $80 amid continued energy supply risks]]></title>
+            <link>https://www.fxstreet.com/news/wti-regains-ground-near-80-amid-continued-energy-supply-risks-202608140548</link>
+            <guid isPermaLink="false">e258b09f-1c31-4866-8e56-326f7e976187</guid>
+            <pubDate>Fri, 14 Aug 2026 05:48:23 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trades 0.4% higher around $81.40 during the early European trading session on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/JPY Price Forecast: Weakens to near 112.50, near-term outlook remains bearish]]></title>
+            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-weakens-to-near-11250-near-term-outlook-remains-bearish-202608140529</link>
+            <guid isPermaLink="false">ef2d316c-4d7e-4fd0-912a-4da99ab318f7</guid>
+            <pubDate>Fri, 14 Aug 2026 05:29:56 GMT</pubDate>
+            <description><![CDATA[The AUD/JPY cross trades in negative territory around 112.55 during the early European trading hours on Friday. The Japanese Yen (JPY) strengthens against the Australian Dollar (AUD) as traders remain on high alert for further currency intervention from Japanese authorities. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee trades calm while oil prices correct]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-trades-calm-while-oil-prices-correct-202608140525</link>
+            <guid isPermaLink="false">9f6abe8a-59d8-495d-b0ae-ff8ea1fce155</guid>
+            <pubDate>Fri, 14 Aug 2026 05:25:33 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) opens on a flat note at around 95.40 against the US Dollar (USD) on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index weakens as cooling US inflation eases Fed rate hike odds]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-weakens-as-cooling-us-inflation-eases-fed-rate-hike-odds-202608140520</link>
+            <guid isPermaLink="false">4044a2a9-313c-4355-9d1b-40321a41415e</guid>
+            <pubDate>Fri, 14 Aug 2026 05:20:13 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is losing ground for the second successive day, trading around 99.90 during the Asian hours on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold finds some support ahead of $4,300 as USD remains depressed on receding Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-extends-pullback-from-two-month-high-as-iran-risks-counter-receding-fed-hike-bets-202608140341</link>
+            <guid isPermaLink="false">5829adbe-10a9-46d1-84fb-83c11c9d023e</guid>
+            <pubDate>Fri, 14 Aug 2026 03:41:34 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) attracts some follow-through selling for the second consecutive day and retreats further from its highest level since June 5, around $4,450, which it touched the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound strengthens to near 1.3500 as Fed rate hike bets ease]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-strengthens-to-near-13500-as-fed-rate-hike-bets-ease-202608140452</link>
+            <guid isPermaLink="false">834e3d60-87e6-44e5-88a0-23049ba36681</guid>
+            <pubDate>Fri, 14 Aug 2026 04:52:43 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair gathers strength to near 1.3495 during the early European trading hours on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: Bulls cautious below 159.50, 50% Fibo. caps upside on soft USD]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-bulls-cautious-below-15950-50-fibo-caps-upside-on-soft-usd-202608140450</link>
+            <guid isPermaLink="false">900268f7-57be-4a0f-89ec-fa375b46901a</guid>
+            <pubDate>Fri, 14 Aug 2026 04:50:51 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair trades with a mild negative bias below mid-159.00s during the Asian session on Friday, though it remains close to a nearly two-week high touched the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-96.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608140435</link>
+            <guid isPermaLink="false">65e3c250-fbdb-41ed-85fb-03132c992cb0</guid>
+            <pubDate>Fri, 14 Aug 2026 04:35:57 GMT</pubDate>
+            <description><![CDATA[Gold prices fell in India on Friday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EUR/JPY Price Forecast: Holds ground near 184.00, 50-day EMA]]></title>
             <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-holds-ground-near-18400-50-day-ema-202608140406</link>
@@ -30,14 +102,6 @@
             <pubDate>Fri, 14 Aug 2026 03:48:38 GMT</pubDate>
             <description><![CDATA[USD/IDR loses ground after three days of losses, trading around 17,880 during the Asian hours on Friday. Traders remain cautious ahead of President Prabowo Subianto’s 2027 budget address to parliament later in the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/BNB-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold extends pullback from two-month high as Iran risks counter receding Fed hike bets]]></title>
-            <link>https://www.fxstreet.com/news/gold-extends-pullback-from-two-month-high-as-iran-risks-counter-receding-fed-hike-bets-202608140341</link>
-            <guid isPermaLink="false">5829adbe-10a9-46d1-84fb-83c11c9d023e</guid>
-            <pubDate>Fri, 14 Aug 2026 03:41:34 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) is seen extending the previous day's pullback from the vicinity of the $4,450 level, or the highest since June 5, and drifting lower for the second straight day on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Silver Price Forecast: XAG/USD extends correction as energy supply concerns remain intact]]></title>
@@ -182,70 +246,6 @@
             <pubDate>Thu, 13 Aug 2026 22:31:04 GMT</pubDate>
             <description><![CDATA[The Pound holds just under 1.3500 on Thursday inside a session range barely 40 pips wide, which is a thin response to a morning that handed Britain a growth beat and an afternoon that handed the Dollar a soft inflation print.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed’s Goolsbee sees inflation improving as shocks fade]]></title>
-            <link>https://www.fxstreet.com/news/feds-goolsbee-sees-inflation-improving-as-shocks-fade-202608132229</link>
-            <guid isPermaLink="false">9b941adc-e40a-4eeb-83fe-22207877627d</guid>
-            <pubDate>Thu, 13 Aug 2026 22:29:47 GMT</pubDate>
-            <description><![CDATA[The Chicago Fed President, Austan Goolsbee, who is a voter until 2027, acknowledged that the disinflation process is evolving and said so late in the North American session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Crude Oil mistakes a Gulf Coast bottleneck for a glut]]></title>
-            <link>https://www.fxstreet.com/news/crude-oil-sells-a-glut-that-never-left-the-dock-202608131915</link>
-            <guid isPermaLink="false">11c81014-444b-43cf-ab21-43333bb85534</guid>
-            <pubDate>Thu, 13 Aug 2026 19:15:33 GMT</pubDate>
-            <description><![CDATA[The largest weekly build in American Crude Oil inventories in three and a half years landed on Wednesday into a market that two forecasting agencies spent the same morning describing as physically short, and the barrel has been selling since.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nuclear-energy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds above 1.1500 as US inflation curbs Fed bets]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-above-11500-as-us-inflation-curbs-fed-bets-202608132122</link>
-            <guid isPermaLink="false">e66afccf-59bb-44ea-bb86-210617c11876</guid>
-            <pubDate>Thu, 13 Aug 2026 21:22:13 GMT</pubDate>
-            <description><![CDATA[The Euro holds firm above 1.1500 as inflation data in the US curbed Fed rate hike bets, as traders shifted from expecting a rate hike to a hold in the September 16 meeting, while investors await the release of economic growth figures in the European Union (EU).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar steadies off two-week lows following dovish RBNZ survey]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-steadies-off-two-week-lows-following-dovish-rbnz-survey-202608132032</link>
-            <guid isPermaLink="false">8618a831-1c2d-48d4-bbbb-68113dd5dda4</guid>
-            <pubDate>Thu, 13 Aug 2026 20:32:09 GMT</pubDate>
-            <description><![CDATA[NZD/USD is recovering on Thursday in the American session, regaining the mid-0.5800s after rising off two-week lows reached during the Asian session. The New Zealand Dollar (NZD) has clawed back some ground as the US Dollar (USD) lost momentum.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar holds steady ahead of US Retail Sales]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-holds-steady-ahead-of-us-retail-sales-202608132001</link>
-            <guid isPermaLink="false">b007af79-0dfa-45c3-8a71-8b26b6f7b352</guid>
-            <pubDate>Thu, 13 Aug 2026 20:01:02 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) has softened with the US Dollar Index (DXY) slipping back below the 100.00 mark after Thursday's lower-than-expected Producer Price Index (PPI) data and a higher-than-expected weekly Jobless Claims print trimmed bets on further Federal Reserve (Fed) tightening. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Bearish flag keeps 0.8145 in focus]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-keeps-08145-in-focus-202608131836</link>
-            <guid isPermaLink="false">ec282ccc-7fa1-453b-b504-b6cac47bc57c</guid>
-            <pubDate>Thu, 13 Aug 2026 18:36:51 GMT</pubDate>
-            <description><![CDATA[The USD/CHF pair trades near the top trendline of a bearish flag pattern on Thursday, holding steady at around 0.8134 after the release of softer inflation data on the producer side.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/MXN Price Forecast: Bears eye 17.00 as downtrend stretches]]></title>
-            <link>https://www.fxstreet.com/news/usd-mxn-price-forecast-bears-eye-1700-as-downtrend-stretches-202608131940</link>
-            <guid isPermaLink="false">cbb2a093-635a-4b5a-bbd9-f1f2cb430dcc</guid>
-            <pubDate>Thu, 13 Aug 2026 19:40:22 GMT</pubDate>
-            <description><![CDATA[The USD/MXN extends its downtrend for the 14th straight day, down a minimal 0.08% as the Mexican Peso hovers near a 24-month low of 17.01 on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah: Two-way trade with key levels watched against US Dollar – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-two-way-trade-with-key-levels-watched-against-us-dollar-ocbc-202608131921</link>
-            <guid isPermaLink="false">3867a2b0-ce04-4ffd-959f-c610b105f075</guid>
-            <pubDate>Thu, 13 Aug 2026 19:21:00 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that USD/IDR has rebounded after a near 2% month-to-date pullback, with external factors such as elevated Oil prices and US rates remaining key drivers.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-idr-stock-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
