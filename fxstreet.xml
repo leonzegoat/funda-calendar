@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 16:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 17:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold rallies as weak US data dents Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-rallies-as-weak-us-data-dents-fed-hike-bets-202608141739</link>
+            <guid isPermaLink="false">12016f90-9949-4a09-9762-c3f27a8a0ad9</guid>
+            <pubDate>Fri, 14 Aug 2026 17:39:26 GMT</pubDate>
+            <description><![CDATA[Gold price registers solid gains of nearly 0.90% on Friday as the US Dollar weakens across the board, following a week that featured softer inflation data, which decreased the chances for a rate hike by the Federal Reserve (Fed). The XAU/USD trades at $4,386, still below the $4,400 threshold.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Gains target 1407 against US Dollar – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-gains-target-1407-against-us-dollar-societe-generale-202608141739</link>
+            <guid isPermaLink="false">8b38dcde-7e74-49ca-a402-ec922d3bd678</guid>
+            <pubDate>Fri, 14 Aug 2026 17:39:00 GMT</pubDate>
+            <description><![CDATA[Societe Generale analysts note USD/KRW has corrected after losing its 200-day moving average near 1478 and is now testing an ascending trend line from 2023 around 1407.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound hits three-month high as weak US sales deepen USD slide]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-advances-as-weak-us-sales-deepen-usd-slide-202608141543</link>
+            <guid isPermaLink="false">f3b9b966-a8d8-4426-81de-dd4bc112839e</guid>
+            <pubDate>Fri, 14 Aug 2026 15:43:58 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) rises by some 0.40% on Friday as a batch of US data supports a Federal Reserve (Fed) dovish stance, with consumer sentiment deteriorating while the disinflation process showed further progress.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Range trade persists near 6.7450 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-near-67450-against-us-dollar-uob-202608141700</link>
+            <guid isPermaLink="false">768215bd-9d1e-49c6-aeb6-7dab2f7a393c</guid>
+            <pubDate>Fri, 14 Aug 2026 17:00:49 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann note that USD/CNH remains confined to a tight intraday range, with momentum indicators still flat and the pair expected to trade between 6.7400 and 6.7500.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Dow Jones Industrial Average learns who paid for disinflation]]></title>
+            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-learns-who-paid-for-disinflation-202608141635</link>
+            <guid isPermaLink="false">efbd9d0b-c81c-4a43-ac53-ef8409bfef42</guid>
+            <pubDate>Fri, 14 Aug 2026 16:35:16 GMT</pubDate>
+            <description><![CDATA[Two cooling inflation readings carried the broad market to a record on Thursday, taking the S&P 500 through 7,800 for the first time, and Friday morning supplied the explanation for where the cooling came from.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/stock-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar charges toward 0.5900 as US Dollar loses ground]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-charges-toward-05900-as-us-dollar-loses-ground-202608141628</link>
@@ -70,14 +110,6 @@
             <pubDate>Fri, 14 Aug 2026 15:45:00 GMT</pubDate>
             <description><![CDATA[ING’s Lynn Song expects Bank Indonesia to keep its benchmark rate unchanged at 5.75% this week, prioritizing Rupiah stability while avoiding an immediate hike. The report highlights BI’s growing reliance on non-rate tools such as SRBI yields and FX intervention.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesia3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound hits three-month high as weak US sales deepen USD slide]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-advances-as-weak-us-sales-deepen-usd-slide-202608141543</link>
-            <guid isPermaLink="false">f3b9b966-a8d8-4426-81de-dd4bc112839e</guid>
-            <pubDate>Fri, 14 Aug 2026 15:43:58 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling (GBP) rises by some 0.40% on Friday as a batch of US data supports a Federal Reserve (Fed) dovish stance, with consumer sentiment deteriorating while the disinflation process showed further progress.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Japanese Yen: Policy risks support gains against US Dollar – Scotiabank]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 14:03:05 GMT</pubDate>
             <description><![CDATA[Nordea strategists argue that while near-term risks for the Dollar are broadly balanced, the longer-term outlook remains negative.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: Solid growth with limited tariff drag – RBC]]></title>
-            <link>https://www.fxstreet.com/news/canada-solid-growth-with-limited-tariff-drag-rbc-202608141353</link>
-            <guid isPermaLink="false">3e174d64-4999-47b2-96cb-260f51d89bba</guid>
-            <pubDate>Fri, 14 Aug 2026 13:53:39 GMT</pubDate>
-            <description><![CDATA[Royal Bank of Canada (RBC) economist Claire Fan highlights that Canadian growth rebounded strongly in Q2, supported by resilient domestic demand and improving net trade. She notes that U.S.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoC-rate-decision.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen gains on hawkish BoJ outlook and softer US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-gains-on-hawkish-boj-outlook-and-softer-us-dollar-202608141353</link>
-            <guid isPermaLink="false">dc5ed64a-b419-45b8-9fb5-dccbd9846036</guid>
-            <pubDate>Fri, 14 Aug 2026 13:53:35 GMT</pubDate>
-            <description><![CDATA[USD/JPY trades on the back foot on Friday, pressured by a weaker US Dollar (USD), while the Japanese Yen (JPY) draws support from a more hawkish Bank of Japan (BoJ) outlook. At the time of writing, the pair trades around 158.85, down 0.40% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Fed pause keeps systematic demand supported - TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-fed-pause-keeps-systematic-demand-supported-td-securities-202608141339</link>
-            <guid isPermaLink="false">322ccbc0-8352-4ace-8caf-24c48d94fb48</guid>
-            <pubDate>Fri, 14 Aug 2026 13:39:38 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek note that CTA (Commodity Trading Advisors) net long positioning in Gold is becoming more entrenched as discretionary demand improves.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ policy story having little effect – ING]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-policy-story-having-little-effect-ing-202608141330</link>
-            <guid isPermaLink="false">cab417bc-3451-4c0d-9b32-149033099962</guid>
-            <pubDate>Fri, 14 Aug 2026 13:30:24 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner notes that despite sharp moves in Japanese money markets, the Japanese Yen is not finding lasting support. Markets now price a high probability of a Bank of Japan hike in September, narrowing US–Japan swap differentials, yet USD/JPY remains elevated as carry trades persist.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
