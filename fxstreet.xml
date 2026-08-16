@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 16 Aug 2026 23:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 23:47:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar gains traction to near 0.7100 on fading Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-gains-traction-to-near-07100-on-fading-fed-hike-bets-202608162329</link>
+            <guid isPermaLink="false">1f1c79e4-0f6a-4bac-aa55-1d1135594cf2</guid>
+            <pubDate>Sun, 16 Aug 2026 23:29:08 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair trades with mild gains near 0.7090 during the early Asian session on Monday. The US Dollar (USD) weakens against the Australian Dollar (AUD) as Federal Reserve (Fed) rate hike odds fade amid weaker US economic data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Israel attacks Lebanon as US prepares fresh Iran sanctions]]></title>
             <link>https://www.fxstreet.com/news/israel-strikes-lebanon-as-us-prepares-fresh-iran-sanctions-202608162303</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 15:37:00 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret observe USD/JPY trading near 159, with modest Japanese Yen (JPY) gains offering reassurance to the Ministry of Finance (MoF) after recent weakness.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Rally pauses as Chinese demand signal softens – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/copper-rally-pauses-as-chinese-demand-signal-softens-commerzbank-202608141529</link>
-            <guid isPermaLink="false">b1e3f5bf-3b80-4283-9183-7899e489a19f</guid>
-            <pubDate>Fri, 14 Aug 2026 15:29:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Barbara Lambrecht observes that despite falling LME Copper stocks and trimmed output guidance from a major producer, the recent Copper rally is losing momentum.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
