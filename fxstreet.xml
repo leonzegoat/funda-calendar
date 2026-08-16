@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 16 Aug 2026 22:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 23:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Israel attacks Lebanon as US prepares fresh Iran sanctions]]></title>
+            <link>https://www.fxstreet.com/news/israel-strikes-lebanon-as-us-prepares-fresh-iran-sanctions-202608162303</link>
+            <guid isPermaLink="false">b780988e-6988-4741-b818-f1820c3d604b</guid>
+            <pubDate>Sun, 16 Aug 2026 23:03:26 GMT</pubDate>
+            <description><![CDATA[Israel has resumed airstrikes against Lebanon in the past few days after scaling back its attacks in the enclave earlier this month, Reuters reported on Sunday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Silver Price Forecast: XAG stalls as yields cap recovery]]></title>
             <link>https://www.fxstreet.com/news/silver-price-forecast-xag-stalls-as-yields-cap-recovery-202608142259</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 15:29:00 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Barbara Lambrecht observes that despite falling LME Copper stocks and trimmed output guidance from a major producer, the recent Copper rally is losing momentum.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Range-bound near term, stronger in 2027 against Euro – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-range-bound-near-term-stronger-in-2027-against-euro-nordea-202608141521</link>
-            <guid isPermaLink="false">1ea10664-4102-4e19-9c30-4481390a555f</guid>
-            <pubDate>Fri, 14 Aug 2026 15:21:00 GMT</pubDate>
-            <description><![CDATA[Nordea strategists see the Norwegian Krone (NOK) broadly stable over the next six months after July’s EUR/NOK decline, driven by higher Oil prices and Norges Bank’s increased NOK purchases.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
