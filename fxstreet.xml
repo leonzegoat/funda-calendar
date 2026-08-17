@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 17:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 18:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro returns below 1.1600 as US Dollar selling pressure eases]]></title>
+            <link>https://www.fxstreet.com/news/euro-returns-below-11600-as-us-dollar-selling-pressure-eases-202608171755</link>
+            <guid isPermaLink="false">c8d8c10e-cf87-45e2-966d-629340d0017f</guid>
+            <pubDate>Mon, 17 Aug 2026 17:55:37 GMT</pubDate>
+            <description><![CDATA[EUR/USD trims earlier gains on Monday as the US Dollar (USD) shows signs of stabilization after opening the week under selling pressure. At the time of writing, the pair trades around 1.1580 after touching an intraday high of 1.1614, its highest level since June 17.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EUR/GBP trades in a tight range ahead of UK jobs data]]></title>
             <link>https://www.fxstreet.com/news/eur-gbp-trades-in-a-tight-range-ahead-of-uk-jobs-data-202608171654</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 11:45:58 GMT</pubDate>
             <description><![CDATA[A large majority of economists expect the Federal Reserve (Fed) to keep interest rates unchanged in September and for the rest of this year, according to a Reuters poll conducted between August 12 and 17.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Intervention risk near 160 highlighted – DBS]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-intervention-risk-near-160-highlighted-dbs-202608171138</link>
-            <guid isPermaLink="false">8d20bcc3-0ae1-4b00-a44c-09d4fce949c8</guid>
-            <pubDate>Mon, 17 Aug 2026 11:38:39 GMT</pubDate>
-            <description><![CDATA[Philip Wee of DBS Group Research notes that markets still focus on Japan’s struggle to support the Japanese Yen, while underplaying broader USD implications.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
