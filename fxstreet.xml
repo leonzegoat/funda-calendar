@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 11:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 12:02:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japan: BoJ path questioned on weak demand – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/japan-boj-path-questioned-on-weak-demand-societe-generale-202608171150</link>
+            <guid isPermaLink="false">d03690eb-5253-4167-b6fc-198768d761b6</guid>
+            <pubDate>Mon, 17 Aug 2026 11:50:55 GMT</pubDate>
+            <description><![CDATA[Societe Generale economists Reo Sakida and Jin Kenzaki say Japan’s 2Q GDP data were weaker than expected, with consumption and capex both disappointing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Bulls eye 185.00 resistance area]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-bulls-eye-18500-resistance-area-202608171147</link>
+            <guid isPermaLink="false">59a77fac-5220-4f84-9c99-5271b107dfd1</guid>
+            <pubDate>Mon, 17 Aug 2026 11:47:20 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) crawls higher for the third consecutive day on Monday, against a weak Yen (JPY), weighed down by downbeat Japanese Gross Domestic Product (GDP) figures.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Economists agree: Fed to leave interest rates unchanged this year – Reuters poll]]></title>
+            <link>https://www.fxstreet.com/news/economists-agree-fed-to-leave-interest-rates-unchanged-this-year-reuters-poll-202608171145</link>
+            <guid isPermaLink="false">5945752b-6556-4aaf-85d9-1d3a253796ab</guid>
+            <pubDate>Mon, 17 Aug 2026 11:45:58 GMT</pubDate>
+            <description><![CDATA[A large majority of economists expect the Federal Reserve (Fed) to keep interest rates unchanged in September and for the rest of this year, according to a Reuters poll conducted between August 12 and 17.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen: Intervention risk near 160 highlighted – DBS]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-intervention-risk-near-160-highlighted-dbs-202608171138</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 04:40:31 GMT</pubDate>
             <description><![CDATA[The Indian Rupee (INR) remains stronger against the US Dollar (USD) on Monday after two days of losses, with the USD/INR pair trading around 95.60 at the time of writing.]]></description>
             <enclosure url="https://editorial.fxstreet.com/images/i/chameleon-animal-arrow.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar gains against Japanese Yen despite weak economic data from China]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-gains-against-japanese-yen-despite-weak-economic-data-from-china-202608170819</link>
-            <guid isPermaLink="false">01ca35e0-6fde-40bc-8139-b95b6ed27485</guid>
-            <pubDate>Mon, 17 Aug 2026 08:19:11 GMT</pubDate>
-            <description><![CDATA[AUD/JPY extends its gains for the second successive day, trading around 113.20 during the European hours on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Supply risks keep prices elevated – ING]]></title>
-            <link>https://www.fxstreet.com/news/brent-supply-risks-keep-prices-elevated-ing-202608170814</link>
-            <guid isPermaLink="false">54e39fc5-9c39-4142-b5e5-4180d99541d7</guid>
-            <pubDate>Mon, 17 Aug 2026 08:14:53 GMT</pubDate>
-            <description><![CDATA[ING analysts Ewa Manthey and Warren Patterson note that ICE Brent is trading just below $90/bbl, supported by Middle East tensions and attacks on vessels in the Strait of Hormuz.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Solid carry as RBA pause risk grows – BBH]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-solid-carry-as-rba-pause-risk-grows-bbh-202608170806</link>
-            <guid isPermaLink="false">acc7edf0-3957-4520-bb91-39d9ba49747c</guid>
-            <pubDate>Mon, 17 Aug 2026 08:06:27 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad argues that upcoming Australian wage and labour data are unlikely to shift Reserve Bank of Australia pricing, with futures only partly discounting one final hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
