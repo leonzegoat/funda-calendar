@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 21:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 22:00:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Dow Jones Industrial Average prices the war last]]></title>
+            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-prices-the-war-last-202608172156</link>
+            <guid isPermaLink="false">2850a1c2-655e-4777-abd0-2dbcc45b70fa</guid>
+            <pubDate>Mon, 17 Aug 2026 21:56:57 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average gave up close to 260 points to beneath 53,500, roughly half a percent lower, on the day the 60-day negotiating window meant to end the war over the Strait of Hormuz expired with nothing agreed to replace it.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar stalls as China slows down]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-stalls-as-china-slows-down-202608172134</link>
+            <guid isPermaLink="false">5611a297-d364-44f7-8a77-93a4fcd4ad5e</guid>
+            <pubDate>Mon, 17 Aug 2026 21:34:24 GMT</pubDate>
+            <description><![CDATA[NZD/USD is close to flat on the day, holding the 0.5900 region and unable to join the broader move against a soft US Dollar (USD). ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[China: Growth risks and stimulus watch – TD Securities]]></title>
             <link>https://www.fxstreet.com/news/china-growth-risks-and-stimulus-watch-td-securities-202608172058</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 14:00:52 GMT</pubDate>
             <description><![CDATA[Royal Bank of Canada (RBC) economists Abbey Xu and Nathan Janzen note that Canadian inflation rose to 3% year-over-year in July, mainly on higher energy costs, while underlying measures like CPI-trim and CPI-median stayed near the 2% target.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Canadian%20CPI.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Policy doubts weigh on Yen – BNY]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-policy-doubts-weigh-on-yen-bny-202608171341</link>
-            <guid isPermaLink="false">7a847059-4543-4c8c-a1dd-5f1f2d1ae1c9</guid>
-            <pubDate>Mon, 17 Aug 2026 13:41:23 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu highlights that weak Japanese Gross Domestic Product (GDP) data and rising JGB yields are undermining confidence in the Bank of Japan’s ability to sustain a stronger Yen.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar firms after hotter-than-expected inflation data]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-firms-after-hotter-than-expected-inflation-data-202608171338</link>
-            <guid isPermaLink="false">4851ccfc-886a-48e1-a5c2-73a30476ab3e</guid>
-            <pubDate>Mon, 17 Aug 2026 13:38:39 GMT</pubDate>
-            <description><![CDATA[USD/CAD falls to its lowest level since June 3 on Monday as the US Dollar (USD) stays under pressure, while hotter-than-expected Canadian inflation data provided additional support to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3852.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
