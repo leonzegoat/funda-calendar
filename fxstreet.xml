@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 08:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 09:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[British Pound: Data-heavy week risks BoE repricing – ING]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-data-heavy-week-risks-boe-repricing-ing-202608170903</link>
+            <guid isPermaLink="false">7c0b7694-6b70-4070-bc2a-383d7768a46c</guid>
+            <pubDate>Mon, 17 Aug 2026 09:03:22 GMT</pubDate>
+            <description><![CDATA[Chris Turner at ING notes that a busier United Kingdom (UK) data calendar, including jobs, wages and July Consumer Price Index (CPI), could challenge the 55bp of Bank of England (BoE) tightening still priced in.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Conquers 1.1600 as bulls retain control above 100-SMA, 50% Fibo.]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-conquers-11600-as-bulls-retain-control-above-100-sma-50-fibo-202608170858</link>
+            <guid isPermaLink="false">569c8326-851c-4b90-bf78-497f75f9a41f</guid>
+            <pubDate>Mon, 17 Aug 2026 08:58:11 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair builds on last week's bounce from the vicinity of the 1.1500 psychological mark and gains strong follow-through positive traction on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: CPI and US tariffs weigh on outlook – BBH]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-cpi-and-us-tariffs-weigh-on-outlook-bbh-202608170848</link>
+            <guid isPermaLink="false">82833224-6c5b-4ce9-8981-b1ea4ad4415f</guid>
+            <pubDate>Mon, 17 Aug 2026 08:48:40 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects Canada’s July Consumer Price Index (CPI) to keep core inflation below 2%, reinforcing an extended Bank of Canada (BoC) pause.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canadian%20CPI.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold sticks to gains near $4,400 as USD slumps to two-month low on receding Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-remains-close-to-june-5-high-as-receding-fed-hike-bets-undermine-usd-202608170427</link>
+            <guid isPermaLink="false">1152f73d-deb8-4417-b781-9e798c200073</guid>
+            <pubDate>Mon, 17 Aug 2026 04:27:42 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) maintains its bullish tone through the first half of the European session and currently trades around $4,400, up for the second straight day. The commodity, however, remains below the highest level since June 5, touched last Thursday, amid a mixed fundamental backdrop.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Polish Zloty: Slow NBP hawkish shift weighs on PLN - Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/polish-zloty-slow-nbp-hawkish-shift-weighs-on-pln-commerzbank-202608170840</link>
+            <guid isPermaLink="false">37905e4d-b20d-4b35-8a1e-c534af01fe1d</guid>
+            <pubDate>Mon, 17 Aug 2026 08:40:16 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Tatha Ghose reports that Polish headline and core inflation have re-accelerated, with seasonally adjusted monthly rates now clearly above target. This makes earlier signals from National Bank of Poland (NBP) Governor Adam Glapinski about possible rate cuts obsolete.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound hits three-month highs at 1.3570 amid generalised US Dollar weakness]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-hits-three-month-highs-at-13570-amid-generalised-us-dollar-weakness-202608170839</link>
+            <guid isPermaLink="false">f8f277ff-2b58-4982-a5fc-0560de61c02f</guid>
+            <pubDate>Mon, 17 Aug 2026 08:39:39 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) extends gains for the second consecutive day on Monday, as investors cut back US Dollar (USD) long positions, amid a dovish repricing of the Federal Reserve’s (Fed) monetary policy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Downside bias within 158.00–160.20 band against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-downside-bias-within-15800-16020-band-against-us-dollar-uob-202608170831</link>
+            <guid isPermaLink="false">af201055-06f7-4332-a300-e2890426af4c</guid>
+            <pubDate>Mon, 17 Aug 2026 08:31:57 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang observes that USD/JPY price action remains choppy, with the pair closing around 159.30 after a dip to 158.58. Intraday direction is unclear, with trading expected between 158.80 and 159.60.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[US Dollar: Softer data challenges resilience – MUFG]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-softer-data-challenges-resilience-mufg-202608170823</link>
@@ -112,14 +168,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Gold looks to build strength above $4,400 as fading Fed hike bets keeps USD depressed]]></title>
-            <link>https://www.fxstreet.com/news/gold-remains-close-to-june-5-high-as-receding-fed-hike-bets-undermine-usd-202608170427</link>
-            <guid isPermaLink="false">1152f73d-deb8-4417-b781-9e798c200073</guid>
-            <pubDate>Mon, 17 Aug 2026 04:27:42 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) builds on Friday's bounce from the $4,300 neighborhood and attracts some follow-through buyers at the start of a new week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Canadian Dollar: Data and tariffs shape near-term risks – TD Securities]]></title>
             <link>https://www.fxstreet.com/news/canadian-dollar-data-and-tariffs-shape-near-term-risks-td-securities-202608170710</link>
             <guid isPermaLink="false">f9418dbd-efc8-4980-a62b-590fcbb4bab5</guid>
@@ -198,54 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 05:52:11 GMT</pubDate>
             <description><![CDATA[The GBP/USD pair gains traction to near 1.3555 during the early European trading hours on Monday. The US Dollar (USD) weakens against the British Pound (GBP) as bets for a US Federal Reserve (Fed) rate hike come down.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bullish-realistic.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah strengthens amid Prabowo's growth target, weaker US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-strengthens-amid-prabowos-growth-target-weaker-us-dollar-202608170545</link>
-            <guid isPermaLink="false">7711fae9-24f7-4df2-87ff-e0e005ec06ff</guid>
-            <pubDate>Mon, 17 Aug 2026 05:45:10 GMT</pubDate>
-            <description><![CDATA[USD/IDR extends its losses for the second successive day, trading around 17,820 during the Asian hours on Monday. The pair may face thin trading conditions as trading volumes remain subdued amid Indonesia’s Independence Day holiday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CNY-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/JPY Price Forecast: Struggles near 159.00; seems vulnerable below 50% Fibo. ]]></title>
-            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-struggles-near-15900-seems-vulnerable-below-50-fibo-202608170537</link>
-            <guid isPermaLink="false">7e9db8ee-aa9b-41a7-a0ee-1a5312fa7680</guid>
-            <pubDate>Mon, 17 Aug 2026 05:37:45 GMT</pubDate>
-            <description><![CDATA[The USD/JPY pair attracts some sellers at the start of a new week, though it lacks bearish conviction and shows some resilience below the 159.00 mark during the Asian session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-96.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro rallies to two-month high, eyes 1.1600 as USD struggles amid receding Fed hike bets]]></title>
-            <link>https://www.fxstreet.com/news/euro-rallies-to-two-month-high-eyes-11600-as-usd-struggles-amid-receding-fed-hike-bets-202608170502</link>
-            <guid isPermaLink="false">f67fb203-3c3d-4d35-98ba-bd9fff609afa</guid>
-            <pubDate>Mon, 17 Aug 2026 05:02:11 GMT</pubDate>
-            <description><![CDATA[The EUR/USD pair builds on last week's bounce from the vicinity of the 1.1500 psychological mark and attracts follow-through buyers for the third straight day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/JPY Price Forecast: Edges higher above 113.00, bullish bias prevails above 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-edges-higher-above-11300-bullish-bias-prevails-above-100-day-sma-202608170447</link>
-            <guid isPermaLink="false">53e9b849-e24f-435e-a028-5998f31549d0</guid>
-            <pubDate>Mon, 17 Aug 2026 04:47:13 GMT</pubDate>
-            <description><![CDATA[The AUD/JPY cross trades in positive territory near 113.00 during the early European session on Monday. The Japanese Yen (JPY) softens against the Australian Dollar (AUD) amid weaker-than-expected Japanese Gross Domestic Product (GDP) data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[India Gold price today: Gold rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608170435</link>
-            <guid isPermaLink="false">5de49541-160e-4669-a7cc-e782517c505f</guid>
-            <pubDate>Mon, 17 Aug 2026 04:35:35 GMT</pubDate>
-            <description><![CDATA[Gold prices rose in India on Monday, according to data compiled by FXStreet.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-12.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00]]></title>
-            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-rising-wedge-bottom-near-18400-202608170312</link>
-            <guid isPermaLink="false">ccc771be-2de3-4157-89dc-ca8348c32687</guid>
-            <pubDate>Mon, 17 Aug 2026 03:12:47 GMT</pubDate>
-            <description><![CDATA[EUR/JPY depreciates after two days of gains, trading around 184.20 during the Asian hours on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
