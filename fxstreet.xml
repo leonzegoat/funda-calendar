@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 20:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 20:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar sags to two-month lows as Middle East risk lifts Oil and Gold]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-sags-to-two-month-lows-as-middle-east-risk-lifts-oil-and-gold-202608172022</link>
+            <guid isPermaLink="false">2467d0c2-4789-4b36-88c2-51dcf6bbe79b</guid>
+            <pubDate>Mon, 17 Aug 2026 20:22:19 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) starts the week on the back foot, with the US Dollar Index (DXY) slipping toward two-month lows and holding below the 100.00 mark. August's run of underwhelming US data jobs, inflation and retail sales has steadily trimmed bets on a Federal Reserve (Fed) move next month. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: BI expected to extend policy pause – BBH]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-expected-to-extend-policy-pause-bbh-202608172021</link>
+            <guid isPermaLink="false">6a77ef65-f2d0-40eb-8d7b-4599fb20f78f</guid>
+            <pubDate>Mon, 17 Aug 2026 20:21:00 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects Bank Indonesia (BI) to keep its policy rate at 5.75% for a second straight meeting after 100 bps of tightening since May.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-55.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen muted on a soft US Dollar note]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-muted-on-a-soft-us-dollar-note-202608172001</link>
@@ -24,11 +40,11 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Mexican Peso softens as Middle East risks boosts the US Dollar]]></title>
+            <title><![CDATA[Mexican Peso softens as Middle East risks boost US Dollar]]></title>
             <link>https://www.fxstreet.com/news/mexican-peso-softens-as-middle-east-risks-boosts-the-us-dollar-202608171952</link>
             <guid isPermaLink="false">6f76b728-add5-4885-ab32-456dc7a52043</guid>
             <pubDate>Mon, 17 Aug 2026 19:52:53 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso weakens against the US Dollar on Monday, with USD/MXN reclaiming the 17.00 level, even though the latest US inflation and Retail Sales data disappointed investors. The USD/MXN trades at 17.03, after hitting a weekly low of 16.99.]]></description>
+            <description><![CDATA[The Mexican Peso (MXN) weakens against the US Dollar (USD) on Monday, with USD/MXN reclaiming the 17.00 level, even though the latest US inflation and Retail Sales data disappointed investors. At the time of writing, the USD/MXN pair trades at 17.03, breaking a four-day losing streak.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 13:17:31 GMT</pubDate>
             <description><![CDATA[Standard Chartered economists Hunter Chan and Shuang Ding note that China’s July real activity data showed weaker momentum, with estimated monthly Gross Domestic Product (GDP) growth dropping below 4.3% year-on-year.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/china.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar hits two-month high as US Dollar weakness offsets softer China data]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-hits-two-month-high-as-us-dollar-weakness-offsets-softer-china-data-202608171301</link>
-            <guid isPermaLink="false">56e4279a-dd0c-4f8d-ba05-c0b5676a6c52</guid>
-            <pubDate>Mon, 17 Aug 2026 13:01:04 GMT</pubDate>
-            <description><![CDATA[NZD/USD extends its advance on Monday and trades around 0.5915 at the time of writing, up 0.37% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan: Strong double-digit GDP expansion to persist – DBS]]></title>
-            <link>https://www.fxstreet.com/news/taiwan-strong-double-digit-gdp-expansion-to-persist-dbs-202608171259</link>
-            <guid isPermaLink="false">5613c8d4-5b49-42b4-b24d-133883bc47aa</guid>
-            <pubDate>Mon, 17 Aug 2026 12:59:51 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Ma Tieying revises Taiwan’s 2026 GDP growth forecast up to 11.6% from 9.4% and 2027 to 5.6% from 4.5%, noting that growth will exceed 10% and mark the strongest pace in more than three decades.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
