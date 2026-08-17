@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 12:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 13:07:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar hits two-month high as US Dollar weakness offsets softer China data]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-hits-two-month-high-as-us-dollar-weakness-offsets-softer-china-data-202608171301</link>
+            <guid isPermaLink="false">56e4279a-dd0c-4f8d-ba05-c0b5676a6c52</guid>
+            <pubDate>Mon, 17 Aug 2026 13:01:04 GMT</pubDate>
+            <description><![CDATA[NZD/USD extends its advance on Monday and trades around 0.5915 at the time of writing, up 0.37% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan: Strong double-digit GDP expansion to persist – DBS]]></title>
+            <link>https://www.fxstreet.com/news/taiwan-strong-double-digit-gdp-expansion-to-persist-dbs-202608171259</link>
+            <guid isPermaLink="false">5613c8d4-5b49-42b4-b24d-133883bc47aa</guid>
+            <pubDate>Mon, 17 Aug 2026 12:59:51 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economist Ma Tieying revises Taiwan’s 2026 GDP growth forecast up to 11.6% from 9.4% and 2027 to 5.6% from 4.5%, noting that growth will exceed 10% and mark the strongest pace in more than three decades.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: Canada headline CPI rose by 3.0% YoY in July]]></title>
+            <link>https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730</link>
+            <guid isPermaLink="false">116d4d66-63c4-4b1f-a635-c5e2b6e2dbbb</guid>
+            <pubDate>Mon, 17 Aug 2026 07:30:00 GMT</pubDate>
+            <description><![CDATA[Canada’s inflation picked up pace in July, with the headline Consumer Price Index (CPI) rising 3.0% from a year earlier, above market expectations and up from the 2.8% increase recorded in June. On a monthly basis, prices rose 0.5%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: Sideways growth and sticky inflation – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/united-states-sideways-growth-and-sticky-inflation-td-securities-202608171232</link>
+            <guid isPermaLink="false">d7e4c0db-e881-464b-ac04-c9793f42e604</guid>
+            <pubDate>Mon, 17 Aug 2026 12:32:41 GMT</pubDate>
+            <description><![CDATA[TD Securities economists Oscar Munoz and Eli Nir expect US output growth to move sideways in 2025 as the lingering Oil shock and Iran conflict create stagflationary risks, keeping the Fed on hold.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/USD Price Forecast: Bulls press toward 1.3600 as uptrend strengthens]]></title>
+            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-press-toward-13600-as-uptrend-strengthens-202608171229</link>
+            <guid isPermaLink="false">04b7c36a-093b-4eb4-a4c7-db6d499e2b01</guid>
+            <pubDate>Mon, 17 Aug 2026 12:29:43 GMT</pubDate>
+            <description><![CDATA[GBP/USD edges higher on Monday as fading expectations of an imminent Federal Reserve (Fed) rate hike drag the US Dollar (USD) lower and lift the British Pound (GBP) to its highest level since May 12.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Norwegian Krone: Further gains seen versus Euro - Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/norwegian-krone-further-gains-seen-versus-euro-rabobank-202608171217</link>
+            <guid isPermaLink="false">d81d5b8e-8369-49b8-8568-8ad09c3d551c</guid>
+            <pubDate>Mon, 17 Aug 2026 12:17:23 GMT</pubDate>
+            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley highlights that the Norwegian Krone (NOK) is the strongest G10 currency across multiple horizons, supported by Oil prices, above-target inflation and a hawkish Norges Bank.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee: RBI move tightens liquidity – BNY]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-rbi-move-tightens-liquidity-bny-202608171204</link>
+            <guid isPermaLink="false">0b40fc9b-1e3a-4717-92cf-378b20419e8d</guid>
+            <pubDate>Mon, 17 Aug 2026 12:04:33 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu notes that India’s bonds sold off after the Reserve Bank of India (RBI) unexpectedly advanced closure of its special Dollar deposit window to end-August.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Japan: BoJ path questioned on weak demand – Societe Generale]]></title>
             <link>https://www.fxstreet.com/news/japan-boj-path-questioned-on-weak-demand-societe-generale-202608171150</link>
@@ -70,14 +126,6 @@
             <pubDate>Mon, 17 Aug 2026 11:13:50 GMT</pubDate>
             <description><![CDATA[ING’s Ewa Manthey and Warren Patterson report that LME copper has surged to a record high above $14,000/t, with a sharply backwardated cash/3M spread underscoring near-term tightness.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada CPI Preview: Inflation forecast to tick higher in July, pressuring BoC]]></title>
-            <link>https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730</link>
-            <guid isPermaLink="false">116d4d66-63c4-4b1f-a635-c5e2b6e2dbbb</guid>
-            <pubDate>Mon, 17 Aug 2026 07:30:00 GMT</pubDate>
-            <description><![CDATA[Canada’s July Consumer Price Index (CPI) figures will be the focus of attention when published on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canadian%20CPI.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Yen retreats below 159.00 against the US Dollar as Japanese GDP disappoints]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 08:48:40 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects Canada’s July Consumer Price Index (CPI) to keep core inflation below 2%, reinforcing an extended Bank of Canada (BoC) pause.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Canadian%20CPI.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold sticks to gains near $4,400 as USD slumps to two-month low on receding Fed hike bets]]></title>
-            <link>https://www.fxstreet.com/news/gold-remains-close-to-june-5-high-as-receding-fed-hike-bets-undermine-usd-202608170427</link>
-            <guid isPermaLink="false">1152f73d-deb8-4417-b781-9e798c200073</guid>
-            <pubDate>Mon, 17 Aug 2026 04:27:42 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) maintains its bullish tone through the first half of the European session and currently trades around $4,400, up for the second straight day. The commodity, however, remains below the highest level since June 5, touched last Thursday, amid a mixed fundamental backdrop.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Polish Zloty: Slow NBP hawkish shift weighs on PLN - Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/polish-zloty-slow-nbp-hawkish-shift-weighs-on-pln-commerzbank-202608170840</link>
-            <guid isPermaLink="false">37905e4d-b20d-4b35-8a1e-c534af01fe1d</guid>
-            <pubDate>Mon, 17 Aug 2026 08:40:16 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose reports that Polish headline and core inflation have re-accelerated, with seasonally adjusted monthly rates now clearly above target. This makes earlier signals from National Bank of Poland (NBP) Governor Adam Glapinski about possible rate cuts obsolete.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound hits three-month highs at 1.3570 amid generalised US Dollar weakness]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-hits-three-month-highs-at-13570-amid-generalised-us-dollar-weakness-202608170839</link>
-            <guid isPermaLink="false">f8f277ff-2b58-4982-a5fc-0560de61c02f</guid>
-            <pubDate>Mon, 17 Aug 2026 08:39:39 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) extends gains for the second consecutive day on Monday, as investors cut back US Dollar (USD) long positions, amid a dovish repricing of the Federal Reserve’s (Fed) monetary policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Downside bias within 158.00–160.20 band against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-downside-bias-within-15800-16020-band-against-us-dollar-uob-202608170831</link>
-            <guid isPermaLink="false">af201055-06f7-4332-a300-e2890426af4c</guid>
-            <pubDate>Mon, 17 Aug 2026 08:31:57 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang observes that USD/JPY price action remains choppy, with the pair closing around 159.30 after a dip to 158.58. Intraday direction is unclear, with trading expected between 158.80 and 159.60.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Softer data challenges resilience – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-softer-data-challenges-resilience-mufg-202608170823</link>
-            <guid isPermaLink="false">29dbc11b-d9a8-4c3e-9ce1-74449334ba4c</guid>
-            <pubDate>Mon, 17 Aug 2026 08:23:45 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny and Lee Hardman note that weaker United States (US) data and lower short-term Treasury yields are undermining US Dollar (USD) support, even as the US Dollar Index (DXY) holds above its 200-day moving average near 99.200.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee moves little as RBI swap exit, US Dollar weakens]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-holds-ground-despite-rbi-ending-fcnr-forex-swap-window-early-202608170440</link>
-            <guid isPermaLink="false">cfcd03f4-0475-4ffc-b948-7d65825e4ab4</guid>
-            <pubDate>Mon, 17 Aug 2026 04:40:31 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) remains stronger against the US Dollar (USD) on Monday after two days of losses, with the USD/INR pair trading around 95.60 at the time of writing.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/chameleon-animal-arrow.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
