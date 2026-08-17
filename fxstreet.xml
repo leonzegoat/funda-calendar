@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 20:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 21:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[China: Growth risks and stimulus watch – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/china-growth-risks-and-stimulus-watch-td-securities-202608172058</link>
+            <guid isPermaLink="false">db4f4bd1-d195-43bf-a6a3-3b32fd20110e</guid>
+            <pubDate>Mon, 17 Aug 2026 20:58:00 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Alex Loo highlights that China’s July data showed weaker industrial production, modest retail sales and record-weak Fixed Assets Investment, reinforcing concerns about insufficient domestic demand.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Treasury yields surge as 30-year hits 2007 high]]></title>
+            <link>https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045</link>
+            <guid isPermaLink="false">ebd4579a-adbc-4584-ac8c-8a276aaca258</guid>
+            <pubDate>Mon, 17 Aug 2026 20:45:51 GMT</pubDate>
+            <description><![CDATA[US Treasury yields advance on Friday during the North American session after reversing their course following the release of US Retail Sales data last week, which disappointed investors.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Bonk_Bull.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Forex Today: US Dollar sags to two-month lows as Middle East risk lifts Oil and Gold]]></title>
             <link>https://www.fxstreet.com/news/forex-today-us-dollar-sags-to-two-month-lows-as-middle-east-risk-lifts-oil-and-gold-202608172022</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 13:38:39 GMT</pubDate>
             <description><![CDATA[USD/CAD falls to its lowest level since June 3 on Monday as the US Dollar (USD) stays under pressure, while hotter-than-expected Canadian inflation data provided additional support to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3852.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar struggles against Euro as inflation accelerates to 3%]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-struggles-against-euro-as-inflation-accelerates-to-3-202608171331</link>
-            <guid isPermaLink="false">b4b55309-fd66-4e1e-83c5-deba2037a64a</guid>
-            <pubDate>Mon, 17 Aug 2026 13:31:57 GMT</pubDate>
-            <description><![CDATA[EUR/CAD edges higher on Monday, trading around 1.6070 at the time of writing, up 0.11% on the day. The pair maintains a positive bias despite a stronger-than-expected acceleration in Canadian inflation, which provides some support to the Canadian Dollar (CAD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[China: Fiscal support to offset weak demand – Standard Chartered]]></title>
-            <link>https://www.fxstreet.com/news/china-fiscal-support-to-offset-weak-demand-standard-chartered-202608171317</link>
-            <guid isPermaLink="false">2118cac1-4a00-44d2-9fad-046d50132c5f</guid>
-            <pubDate>Mon, 17 Aug 2026 13:17:31 GMT</pubDate>
-            <description><![CDATA[Standard Chartered economists Hunter Chan and Shuang Ding note that China’s July real activity data showed weaker momentum, with estimated monthly Gross Domestic Product (GDP) growth dropping below 4.3% year-on-year.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/china.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
