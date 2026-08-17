@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 13:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 14:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold: Investors extend longs but hedge risks – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/gold-investors-extend-longs-but-hedge-risks-td-securities-202608171423</link>
+            <guid isPermaLink="false">e589351d-6713-4663-a625-dbfc80df48eb</guid>
+            <pubDate>Mon, 17 Aug 2026 14:23:04 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists note that money managers sharply increased long Gold exposure as modest inflation, soft United States (US) employment data and expectations that the Federal Reserve (Fed) will not hike rates this year weigh on the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Bullish momentum eyes mid‑1.17s against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/euro-bullish-momentum-eyes-mid-117s-against-us-dollar-scotiabank-202608171411</link>
+            <guid isPermaLink="false">fbcb68d2-00f7-42d8-b403-68a07aca813f</guid>
+            <pubDate>Mon, 17 Aug 2026 14:11:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report the Euro (EUR) is firming as Eurozone economic resilience and narrowing yield spreads versus the US support EUR/USD.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128</link>
+            <guid isPermaLink="false">29ca4c2b-b16f-4146-a190-31628cf4719d</guid>
+            <pubDate>Mon, 17 Aug 2026 11:28:11 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) struggles to build on its intraday advance even as the US Dollar (USD) remains under selling pressure amid fading expectations that the Federal Reserve (Fed) will raise interest rates at its September meeting.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Inflation steady near target – RBC]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-inflation-steady-near-target-rbc-202608171400</link>
+            <guid isPermaLink="false">db1fec30-90c5-4f7c-863e-52669fcf2b66</guid>
+            <pubDate>Mon, 17 Aug 2026 14:00:52 GMT</pubDate>
+            <description><![CDATA[Royal Bank of Canada (RBC) economists Abbey Xu and Nathan Janzen note that Canadian inflation rose to 3% year-over-year in July, mainly on higher energy costs, while underlying measures like CPI-trim and CPI-median stayed near the 2% target.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canadian%20CPI.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen: Policy doubts weigh on Yen – BNY]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-policy-doubts-weigh-on-yen-bny-202608171341</link>
@@ -20,7 +52,7 @@
             <link>https://www.fxstreet.com/news/canadian-dollar-firms-after-hotter-than-expected-inflation-data-202608171338</link>
             <guid isPermaLink="false">4851ccfc-886a-48e1-a5c2-73a30476ab3e</guid>
             <pubDate>Mon, 17 Aug 2026 13:38:39 GMT</pubDate>
-            <description><![CDATA[USD/CAD falls to its lowest level since June 3 on Monday as the US Dollar (USD) stays under pressure, while hotter-than-expected Canadian inflation data provide additional support to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3852.]]></description>
+            <description><![CDATA[USD/CAD falls to its lowest level since June 3 on Monday as the US Dollar (USD) stays under pressure, while hotter-than-expected Canadian inflation data provided additional support to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3852.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -128,14 +160,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128</link>
-            <guid isPermaLink="false">29ca4c2b-b16f-4146-a190-31628cf4719d</guid>
-            <pubDate>Mon, 17 Aug 2026 11:28:11 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) struggles to build on its intraday advance on Monday but holds modest gains as the US Dollar (USD) remains under selling pressure amid fading expectations that the Federal Reserve (Fed) will raise interest rates at its September meeting.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Canadian Dollar gains ground with inflation data set to test BoC outlook]]></title>
             <link>https://www.fxstreet.com/news/canadian-dollar-gains-ground-with-inflation-data-set-to-test-boc-outlook-202608171127</link>
             <guid isPermaLink="false">f86627d3-c887-49a6-8eaa-b8f5d7db29b7</guid>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 09:42:27 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Tatha Ghose notes that the Central Bank of the Republic of Türkiye's (CBRT) survey shows market participants revising inflation forecasts higher and expecting only gradual rate cuts from current effective levels.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/turkish-lira-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608170931</link>
-            <guid isPermaLink="false">86f6c137-843c-4e5d-af69-1bab2c8bf414</guid>
-            <pubDate>Mon, 17 Aug 2026 09:31:10 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) rose on Monday, according to FXStreet data. Silver trades at $65.46 per troy ounce, up 1.17% from the $64.70 it cost on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ hike expectations support JPY against US Dollar – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-hike-expectations-support-jpy-against-us-dollar-mufg-202608170930</link>
-            <guid isPermaLink="false">d4764fb2-56b1-466d-a4d1-87869bb5b02e</guid>
-            <pubDate>Mon, 17 Aug 2026 09:30:39 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny and Lee Hardman report that Japanese government bond yields are rising despite weaker-than-expected GDP, as markets focus on prospects for further Bank of Japan rate hikes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Losing momentum as fiscal risks rise – DBS]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-losing-momentum-as-fiscal-risks-rise-dbs-202608170920</link>
-            <guid isPermaLink="false">cf3b1565-59bc-4d29-bfcd-abd507adb3d4</guid>
-            <pubDate>Mon, 17 Aug 2026 09:20:05 GMT</pubDate>
-            <description><![CDATA[DBS Group Research’s Philip Wee argues that the US Dollar (USD) is losing momentum as markets reassess United States (US)-Japan intervention, shifting Bank of Japan (BoJ) and Federal Reserve (Fed) expectations, and rising US fiscal risks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
