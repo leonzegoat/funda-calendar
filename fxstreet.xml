@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 02:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 03:53:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-rising-wedge-bottom-near-18400-202608170312</link>
+            <guid isPermaLink="false">ccc771be-2de3-4157-89dc-ca8348c32687</guid>
+            <pubDate>Mon, 17 Aug 2026 03:12:47 GMT</pubDate>
+            <description><![CDATA[EUR/JPY depreciates after two days of gains, trading around 184.20 during the Asian hours on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index weakens to near 99.50 as traders push back Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-weakens-to-near-9950-as-traders-push-back-fed-rate-hike-bets-202608170254</link>
+            <guid isPermaLink="false">96e25eaf-e252-4ea9-9947-032fbc02d70b</guid>
+            <pubDate>Mon, 17 Aug 2026 02:54:47 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 99.50 in the Asian trading hours on Monday. The DXY loses momentum as data showed US Retail Sales unexpectedly declined in July. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Silver Price Forecast: XAG/USD bulls await acceptance above $66.00, 100-day EMA breakout]]></title>
             <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bulls-await-acceptance-above-6600-100-day-ema-breakout-202608170244</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 17:39:26 GMT</pubDate>
             <description><![CDATA[Gold price registers solid gains of nearly 0.90% on Friday as the US Dollar weakens across the board, following a week that featured softer inflation data, which decreased the chances for a rate hike by the Federal Reserve (Fed). The XAU/USD trades at $4,386, still below the $4,400 threshold.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Won: Gains target 1407 against US Dollar – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/south-korean-won-gains-target-1407-against-us-dollar-societe-generale-202608141739</link>
-            <guid isPermaLink="false">8b38dcde-7e74-49ca-a402-ec922d3bd678</guid>
-            <pubDate>Fri, 14 Aug 2026 17:39:00 GMT</pubDate>
-            <description><![CDATA[Societe Generale analysts note USD/KRW has corrected after losing its 200-day moving average near 1478 and is now testing an ascending trend line from 2023 around 1407.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound hits three-month high as weak US sales deepen USD slide]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-advances-as-weak-us-sales-deepen-usd-slide-202608141543</link>
-            <guid isPermaLink="false">f3b9b966-a8d8-4426-81de-dd4bc112839e</guid>
-            <pubDate>Fri, 14 Aug 2026 15:43:58 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling (GBP) rises by some 0.40% on Friday as a batch of US data supports a Federal Reserve (Fed) dovish stance, with consumer sentiment deteriorating while the disinflation process showed further progress.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
