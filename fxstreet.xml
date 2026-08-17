@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 09:58:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 10:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yen retreats below 159.00 against the US Dollar as Japanese GDP disappoints]]></title>
+            <link>https://www.fxstreet.com/news/yen-retreats-below-15900-against-the-us-dollar-as-japanese-gdp-slows-down-202608171040</link>
+            <guid isPermaLink="false">dcc1da83-c009-44d7-a303-4fd2f6ec842c</guid>
+            <pubDate>Mon, 17 Aug 2026 10:40:27 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen holds marginal gains against the US Dollar (USD) on Wednesday, although the USD/JPY pair has returned to levels above 159.00 during the European session, after hitting daily lows around 158.85.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold Price Forecast: XAU/USD holds bullish bias near $4,400]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-bullish-bias-near-4-400-202608171008</link>
+            <guid isPermaLink="false">2cee770b-c598-44a2-b64f-fdf4eed0c8cc</guid>
+            <pubDate>Mon, 17 Aug 2026 10:08:05 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) maintains a bullish bias around $4,400, supported by a weaker US Dollar (USD) and fading expectations of further interest rate hikes by the Federal Reserve (Fed).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Labour data seen backing BoE hold – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-labour-data-seen-backing-boe-hold-td-securities-202608171001</link>
+            <guid isPermaLink="false">e8f3a08e-4b25-4fad-b6a8-f1601eaa6702</guid>
+            <pubDate>Mon, 17 Aug 2026 10:01:25 GMT</pubDate>
+            <description><![CDATA[TD Securities expects the UK labour market to remain soft but stable in June, with employment rising 100k on a three‑month basis and unemployment edging down to 4.7%. Headline average weekly earnings are forecast to slow to 4.0%, while ex‑bonus pay holds at 3.4%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[US Dollar Index Price Forecast: Bears push against two-month lows at 99.40]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-index-price-forecast-bears-push-against-two-month-lows-at-9940-202608170956</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 07:27:25 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that September Bank of Japan (BoJ) hike odds have risen sharply, but the Japanese Yen (JPY) has reacted only modestly. They argue a sustained Yen recovery likely needs clearer commitment to faster policy normalisation.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[0.8550: Euro tests one-week highs against British Pound amid ECB hawkish bets]]></title>
-            <link>https://www.fxstreet.com/news/08550-euro-tests-one-week-highs-against-british-pound-amid-ecb-hawkish-bets-202608170720</link>
-            <guid isPermaLink="false">d1af4dd0-1a20-4da1-8ace-c4bcab1c181d</guid>
-            <pubDate>Mon, 17 Aug 2026 07:20:37 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) holds minor gains against the British Pound (GBP) for the third consecutive day on Monday, favoured by European Central Bank (ECB) - Bank of England (BoE) monetary policy divergence.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/bull-bear-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar extends pullback to start new week]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-extends-pullback-to-start-new-week-202608170716</link>
-            <guid isPermaLink="false">2f946bb7-3062-4727-9928-c16fcc026d7e</guid>
-            <pubDate>Mon, 17 Aug 2026 07:16:31 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Monday, August 17:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Data and tariffs shape near-term risks – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-data-and-tariffs-shape-near-term-risks-td-securities-202608170710</link>
-            <guid isPermaLink="false">f9418dbd-efc8-4980-a62b-590fcbb4bab5</guid>
-            <pubDate>Mon, 17 Aug 2026 07:10:51 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Robert Both and Emma Lawrence highlight that markets are watching Canadian CPI and potential US Section 338 tariffs on CAD exports. They expect headline CPI at 2.9% year-on-year in July with core at 1.85%, and see retail sales flat in June.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
