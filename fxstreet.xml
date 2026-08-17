@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 01:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 02:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD bulls await acceptance above $66.00, 100-day EMA breakout]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bulls-await-acceptance-above-6600-100-day-ema-breakout-202608170244</link>
+            <guid isPermaLink="false">f56fe705-a82a-475a-a9a2-c09d86507551</guid>
+            <pubDate>Mon, 17 Aug 2026 02:44:11 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) is seen building on Friday's bounce from mid-$63.00s and gaining some follow-through positive traction at the start of a new week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar rises on hawkish RBA outlook]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rises-on-hawkish-rba-outlook-202608170237</link>
+            <guid isPermaLink="false">7db8a3e6-e654-4e0d-bb0f-a50c12ac087a</guid>
+            <pubDate>Mon, 17 Aug 2026 02:37:01 GMT</pubDate>
+            <description><![CDATA[AUD/USD gains ground for the second successive day, trading around 0.7090 during the Asian hours on Monday. The pair appreciates as the Australian Dollar (AUD) gains on the hawkish policy stance by the Reserve Bank of Australia (RBA).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar advances due to softer US Dollar, higher oil prices]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-advances-due-to-softer-us-dollar-higher-oil-prices-202608170201</link>
+            <guid isPermaLink="false">a9c5676a-e9c7-42f4-af4c-a308f25c6374</guid>
+            <pubDate>Mon, 17 Aug 2026 02:01:42 GMT</pubDate>
+            <description><![CDATA[USD/CAD extends its losses for the third consecutive day, trading around 1.3870 during the Asian hours on Monday. The pair depreciates as the US Dollar (USD) declines amid weaker-than-expected US economic data and shifting central bank expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI posts modest gains above $81.50 as traders weigh US-Iran deadlock]]></title>
+            <link>https://www.fxstreet.com/news/wti-posts-modest-gains-above-8150-as-traders-weigh-us-iran-deadlock-202608170159</link>
+            <guid isPermaLink="false">3e7dd3d5-9319-4000-aeaf-48e735c0af07</guid>
+            <pubDate>Mon, 17 Aug 2026 01:59:16 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $81.60 during the Asian trading hours on Monday. WTI remains volatile as talks to reopen the Strait of Hormuz have completely deadlocked.  ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar advances beyond 0.5900, highest since June 3 as USD stays weak]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-advances-beyond-05900-highest-since-june-3-as-usd-stays-weak-202608170159</link>
+            <guid isPermaLink="false">5fb3c0f8-e840-4b6e-9567-032f4681e46e</guid>
+            <pubDate>Mon, 17 Aug 2026 01:59:01 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair attracts buyers for the second straight day and climbs above the 0.5900 mark, hitting a fresh high since June 3 during the Asian session on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7873 vs. 6.7878 previous]]></title>
             <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67873-vs-67878-previous-202608170115</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 15:43:58 GMT</pubDate>
             <description><![CDATA[The Pound Sterling (GBP) rises by some 0.40% on Friday as a batch of US data supports a Federal Reserve (Fed) dovish stance, with consumer sentiment deteriorating while the disinflation process showed further progress.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Range trade persists near 6.7450 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-near-67450-against-us-dollar-uob-202608141700</link>
-            <guid isPermaLink="false">768215bd-9d1e-49c6-aeb6-7dab2f7a393c</guid>
-            <pubDate>Fri, 14 Aug 2026 17:00:49 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann note that USD/CNH remains confined to a tight intraday range, with momentum indicators still flat and the pair expected to trade between 6.7400 and 6.7500.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dow Jones Industrial Average learns who paid for disinflation]]></title>
-            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-learns-who-paid-for-disinflation-202608141635</link>
-            <guid isPermaLink="false">efbd9d0b-c81c-4a43-ac53-ef8409bfef42</guid>
-            <pubDate>Fri, 14 Aug 2026 16:35:16 GMT</pubDate>
-            <description><![CDATA[Two cooling inflation readings carried the broad market to a record on Thursday, taking the S&P 500 through 7,800 for the first time, and Friday morning supplied the explanation for where the cooling came from.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/stock-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar charges toward 0.5900 as US Dollar loses ground]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-charges-toward-05900-as-us-dollar-loses-ground-202608141628</link>
-            <guid isPermaLink="false">2418a34d-c819-4ef9-a2ac-7f2d72216487</guid>
-            <pubDate>Fri, 14 Aug 2026 16:28:19 GMT</pubDate>
-            <description><![CDATA[NZD/USD gains 0.75% on Friday and trades around 0.5895 at the time of writing, with its rally losing some momentum as it approaches the psychological 0.5900 level.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Natural gas: Tight European balance and storage risks – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/natural-gas-tight-european-balance-and-storage-risks-commerzbank-202608141617</link>
-            <guid isPermaLink="false">3edcb79c-ec63-41a8-8ccf-bcbe0df8d29d</guid>
-            <pubDate>Fri, 14 Aug 2026 16:17:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Norman Liebke stresses that European natural gas remains structurally tighter than Oil as Qatar LNG is cut off and US cargoes are redirected to Asia.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD holds gains but struggles for fresh momentum]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-gains-but-struggles-for-fresh-momentum-202608141614</link>
-            <guid isPermaLink="false">9f778167-6421-4083-a774-01d2f85c9b25</guid>
-            <pubDate>Fri, 14 Aug 2026 16:14:02 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) trades on the front foot on Friday but lacks strong follow-through and remains within the narrow range seen this week. At the time of writing, XAG/USD trades around $65 after bouncing from an intraday low of $63.51.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
