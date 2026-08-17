@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 19:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 20:06:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen muted on a soft US Dollar note]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-muted-on-a-soft-us-dollar-note-202608172001</link>
+            <guid isPermaLink="false">941bcb2f-1f7f-4576-83ba-26935658a0ec</guid>
+            <pubDate>Mon, 17 Aug 2026 20:01:10 GMT</pubDate>
+            <description><![CDATA[USD/JPY is close to flat on Monday, holding the mid-159.00s region after a soft Japanese growth report overnight failed to shift it in either direction. The pair has been drifting between support at 158.60 and resistance just above 159.50 for five straight days. This is a standoff, not a trend.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Mild upside bias against US Dollar remains intact – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-mild-upside-bias-against-us-dollar-remains-intact-uob-202608171953</link>
+            <guid isPermaLink="false">f2ec35be-63ad-477a-92ce-7a227c48b83c</guid>
+            <pubDate>Mon, 17 Aug 2026 19:53:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang notes USD/SGD remains under mild downward pressure after slipping to 1.2775 before rebounding. Intraday, the pair may retest 1.2775, but support at 1.2765 is expected to hold.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso softens as Middle East risks boosts the US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-softens-as-middle-east-risks-boosts-the-us-dollar-202608171952</link>
+            <guid isPermaLink="false">6f76b728-add5-4885-ab32-456dc7a52043</guid>
+            <pubDate>Mon, 17 Aug 2026 19:52:53 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso weakens against the US Dollar on Monday, with USD/MXN reclaiming the 17.00 level, even though the latest US inflation and Retail Sales data disappointed investors. The USD/MXN trades at 17.03, after hitting a weekly low of 16.99.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chinese Yuan: Policymakers guide measured RMB appreciation – OCBC]]></title>
             <link>https://www.fxstreet.com/news/chinese-yuan-policymakers-guide-measured-rmb-appreciation-ocbc-202608171926</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 12:59:51 GMT</pubDate>
             <description><![CDATA[DBS Group Research economist Ma Tieying revises Taiwan’s 2026 GDP growth forecast up to 11.6% from 9.4% and 2027 to 5.6% from 4.5%, noting that growth will exceed 10% and mark the strongest pace in more than three decades.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: Canada headline CPI rose by 3% YoY in July]]></title>
-            <link>https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730</link>
-            <guid isPermaLink="false">116d4d66-63c4-4b1f-a635-c5e2b6e2dbbb</guid>
-            <pubDate>Mon, 17 Aug 2026 07:30:00 GMT</pubDate>
-            <description><![CDATA[Canada’s inflation picked up pace in July, with the headline Consumer Price Index (CPI) rising 3% from a year earlier, above market expectations and up from the 2.8% increase recorded in June. On a monthly basis, prices rose 0.5%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States: Sideways growth and sticky inflation – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/united-states-sideways-growth-and-sticky-inflation-td-securities-202608171232</link>
-            <guid isPermaLink="false">d7e4c0db-e881-464b-ac04-c9793f42e604</guid>
-            <pubDate>Mon, 17 Aug 2026 12:32:41 GMT</pubDate>
-            <description><![CDATA[TD Securities economists Oscar Munoz and Eli Nir expect US output growth to move sideways in 2025 as the lingering Oil shock and Iran conflict create stagflationary risks, keeping the Fed on hold.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/USD Price Forecast: Bulls press toward 1.3600 as uptrend strengthens]]></title>
-            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-press-toward-13600-as-uptrend-strengthens-202608171229</link>
-            <guid isPermaLink="false">04b7c36a-093b-4eb4-a4c7-db6d499e2b01</guid>
-            <pubDate>Mon, 17 Aug 2026 12:29:43 GMT</pubDate>
-            <description><![CDATA[GBP/USD edges higher on Monday as fading expectations of an imminent Federal Reserve (Fed) rate hike drag the US Dollar (USD) lower and lift the British Pound (GBP) to its highest level since May 12.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
