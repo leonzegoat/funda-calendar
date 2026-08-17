@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 16:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 17:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/GBP trades in a tight range ahead of UK jobs data]]></title>
+            <link>https://www.fxstreet.com/news/eur-gbp-trades-in-a-tight-range-ahead-of-uk-jobs-data-202608171654</link>
+            <guid isPermaLink="false">7ce6ed7b-fec8-456d-b280-3771f2cf9a0c</guid>
+            <pubDate>Mon, 17 Aug 2026 16:54:21 GMT</pubDate>
+            <description><![CDATA[EUR/GBP is holding a narrow band around the mid-0.8500s with little conviction in either direction. At the time of writing, the cross is close to flat on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The US Dollar Index cannot rally with Washington on the offer]]></title>
             <link>https://www.fxstreet.com/news/the-us-dollar-index-cannot-rally-with-washington-on-the-offer-202608171624</link>
@@ -20,7 +28,7 @@
             <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-lets-refiners-price-the-war-202608171616</link>
             <guid isPermaLink="false">dba8aae9-31f7-4a05-99cc-4d6b61c67822</guid>
             <pubDate>Mon, 17 Aug 2026 16:16:57 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average trades near 53,550, down close to 200 points and roughly 1,200 beneath the record printed on August 5, on the day the 60-day negotiating window that was meant to end the war over the Strait of Hormuz lapses with nothing agreed to replace it.]]></description>
+            <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades near 53,550 on Monday, down close to 200 points and roughly 1,200 beneath the record printed on August 5, on the day the 60-day negotiating window that was meant to end the war over the Strait of Hormuz lapses with nothing agreed to replace it.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/car-industry-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 11:38:39 GMT</pubDate>
             <description><![CDATA[Philip Wee of DBS Group Research notes that markets still focus on Japan’s struggle to support the Japanese Yen, while underplaying broader USD implications.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar gains ground with inflation data set to test BoC outlook]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-gains-ground-with-inflation-data-set-to-test-boc-outlook-202608171127</link>
-            <guid isPermaLink="false">f86627d3-c887-49a6-8eaa-b8f5d7db29b7</guid>
-            <pubDate>Mon, 17 Aug 2026 11:27:55 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades around 1.3860 on Monday at the time of writing, down 0.11% on the day. The pair extends its decline as the US Dollar (USD) remains under pressure against the Canadian Dollar (CAD), with investors scaling back expectations of further monetary tightening by the Federal Reserve (Fed).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
