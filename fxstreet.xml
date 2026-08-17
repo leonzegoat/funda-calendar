@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 05:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 06:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro: Upside bias targets 1.1590 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/euro-upside-bias-targets-11590-against-us-dollar-uob-202608170608</link>
+            <guid isPermaLink="false">29cfacaf-5c56-4379-9f05-091ce57a8e61</guid>
+            <pubDate>Mon, 17 Aug 2026 06:08:15 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang highlights that EUR/USD surged to 1.1585, leaving the Euro (EUR) with a firmer tone against the US Dollar (USD). Intraday, the pair could extend gains toward 1.1590, though 1.1610 is seen as strong resistance.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold sticks to modest gains around $4,400 amid weaker USD; remains below June 5 high]]></title>
+            <link>https://www.fxstreet.com/news/gold-remains-close-to-june-5-high-as-receding-fed-hike-bets-undermine-usd-202608170427</link>
+            <guid isPermaLink="false">1152f73d-deb8-4417-b781-9e798c200073</guid>
+            <pubDate>Mon, 17 Aug 2026 04:27:42 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) struggles to capitalize on modest intraday gains at the start of a new week and remains below its highest level since June 5, which it touched last Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee steadies as US Dollar declines on reducing Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-holds-ground-despite-rbi-ending-fcnr-forex-swap-window-early-202608170440</link>
+            <guid isPermaLink="false">cfcd03f4-0475-4ffc-b948-7d65825e4ab4</guid>
+            <pubDate>Mon, 17 Aug 2026 04:40:31 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) trades stronger against the US Dollar (USD) on Monday after two days of losses, with the USD/INR pair trading around 95.50 at the time of writing.]]></description>
+            <enclosure url="https://editorial.fxstreet.com/images/i/NeutralScale.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound gathers strength above 1.3550 as softer US data cools Fed hike bets ]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-gathers-strength-above-13550-as-softer-us-data-cools-fed-hike-bets-202608170552</link>
+            <guid isPermaLink="false">9da6d838-5fc7-4073-9a71-66310abfde4f</guid>
+            <pubDate>Mon, 17 Aug 2026 05:52:11 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair gains traction to near 1.3555 during the early European trading hours on Monday. The US Dollar (USD) weakens against the British Pound (GBP) as bets for a US Federal Reserve (Fed) rate hike come down.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bullish-realistic.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah strengthens amid Prabowo's growth target, weaker US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-strengthens-amid-prabowos-growth-target-weaker-us-dollar-202608170545</link>
+            <guid isPermaLink="false">7711fae9-24f7-4df2-87ff-e0e005ec06ff</guid>
+            <pubDate>Mon, 17 Aug 2026 05:45:10 GMT</pubDate>
+            <description><![CDATA[USD/IDR extends its losses for the second successive day, trading around 17,820 during the Asian hours on Monday. The pair may face thin trading conditions as trading volumes remain subdued amid Indonesia’s Independence Day holiday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CNY-bullish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[USD/JPY Price Forecast: Struggles near 159.00; seems vulnerable below 50% Fibo. ]]></title>
             <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-struggles-near-15900-seems-vulnerable-below-50-fibo-202608170537</link>
@@ -32,28 +72,12 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Indian Rupee holds ground despite RBI ending FCNR forex swap window early]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-holds-ground-despite-rbi-ending-fcnr-forex-swap-window-early-202608170440</link>
-            <guid isPermaLink="false">cfcd03f4-0475-4ffc-b948-7d65825e4ab4</guid>
-            <pubDate>Mon, 17 Aug 2026 04:40:31 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) trades stronger against the US Dollar (USD) on Monday after two days of losses, with the USD/INR pair trading around 95.50 at the time of writing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[India Gold price today: Gold rises, according to FXStreet data]]></title>
             <link>https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608170435</link>
             <guid isPermaLink="false">5de49541-160e-4669-a7cc-e782517c505f</guid>
             <pubDate>Mon, 17 Aug 2026 04:35:35 GMT</pubDate>
             <description><![CDATA[Gold prices rose in India on Monday, according to data compiled by FXStreet.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-12.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold remains close to June 5 high as receding Fed hike bets undermine USD]]></title>
-            <link>https://www.fxstreet.com/news/gold-remains-close-to-june-5-high-as-receding-fed-hike-bets-undermine-usd-202608170427</link>
-            <guid isPermaLink="false">1152f73d-deb8-4417-b781-9e798c200073</guid>
-            <pubDate>Mon, 17 Aug 2026 04:27:42 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) builds on Friday's bounce from the $4,300 neighborhood, or a one-week low, and gains some follow-through positive traction at the start of a new week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 19:42:23 GMT</pubDate>
             <description><![CDATA[The US Dollar Index (DXY) extended its slide on Friday, holding below 100.00 at fresh lows after a fourth straight soft US data print.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Won: Foreign inflows and exporters support KRW – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/south-korean-won-foreign-inflows-and-exporters-support-krw-commerzbank-202608141939</link>
-            <guid isPermaLink="false">b178041c-e909-4721-9949-bc17f7788629</guid>
-            <pubDate>Fri, 14 Aug 2026 19:39:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank notes that the Kospi has rebounded 29.5% from its 30 July low, supported by strong tech earnings and improved sentiment toward semiconductor and memory chipmakers.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: 100-Day SMA blocks bullish reversal]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-100-day-sma-blocks-bullish-reversal-202608141929</link>
-            <guid isPermaLink="false">3e3f439a-9a72-4a9f-89e4-5884df1b4cd0</guid>
-            <pubDate>Fri, 14 Aug 2026 19:29:39 GMT</pubDate>
-            <description><![CDATA[The EUR/USD pair registers gains of over 0.32% on Friday as traders face key resistance at the 100-day Simple Moving Average (SMA) at 1.1567, as bulls eye the 1.1600 psychological figure. At the time of writing, the pair trades at 1.1564 after bouncing off daily lows of 1.1526.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Activity data and PBOC stance guide FX – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-activity-data-and-pboc-stance-guide-fx-mufg-202608141857</link>
-            <guid isPermaLink="false">12f8d73a-859e-4e51-b907-b7c1126486be</guid>
-            <pubDate>Fri, 14 Aug 2026 18:57:00 GMT</pubDate>
-            <description><![CDATA[MUFG’s Asia FX Weekly highlights that China’s July activity indicators, following weak Q2 GDP, will be central for the Chinese Yuan and regional FX.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
