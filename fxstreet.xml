@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 03:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 04:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AUD/JPY Price Forecast: Edges higher above 113.00, bullish bias prevails above 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-edges-higher-above-11300-bullish-bias-prevails-above-100-day-sma-202608170447</link>
+            <guid isPermaLink="false">53e9b849-e24f-435e-a028-5998f31549d0</guid>
+            <pubDate>Mon, 17 Aug 2026 04:47:13 GMT</pubDate>
+            <description><![CDATA[The AUD/JPY cross trades in positive territory near 113.00 during the early European session on Monday. The Japanese Yen (JPY) softens against the Australian Dollar (AUD) amid weaker-than-expected Japanese Gross Domestic Product (GDP) data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee holds ground despite RBI ending FCNR forex swap window early]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-holds-ground-despite-rbi-ending-fcnr-forex-swap-window-early-202608170440</link>
+            <guid isPermaLink="false">cfcd03f4-0475-4ffc-b948-7d65825e4ab4</guid>
+            <pubDate>Mon, 17 Aug 2026 04:40:31 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) trades stronger against the US Dollar (USD) on Monday after two days of losses, with the USD/INR pair trading around 95.50 at the time of writing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold rises, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608170435</link>
+            <guid isPermaLink="false">5de49541-160e-4669-a7cc-e782517c505f</guid>
+            <pubDate>Mon, 17 Aug 2026 04:35:35 GMT</pubDate>
+            <description><![CDATA[Gold prices rose in India on Monday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-12.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold remains close to June 5 high as receding Fed hike bets undermine USD]]></title>
+            <link>https://www.fxstreet.com/news/gold-remains-close-to-june-5-high-as-receding-fed-hike-bets-undermine-usd-202608170427</link>
+            <guid isPermaLink="false">1152f73d-deb8-4417-b781-9e798c200073</guid>
+            <pubDate>Mon, 17 Aug 2026 04:27:42 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) builds on Friday's bounce from the $4,300 neighborhood, or a one-week low, and gains some follow-through positive traction at the start of a new week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00]]></title>
             <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-rising-wedge-bottom-near-18400-202608170312</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 14 Aug 2026 18:24:55 GMT</pubDate>
             <description><![CDATA[USD/CAD extends its decline farther below 1.4000 on Friday and heads for a third consecutive weekly loss. At the time of writing, the pair trades around 1.3877, at levels last seen in early July. ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dollar Index breaks on the fourth consecutive soft print]]></title>
-            <link>https://www.fxstreet.com/news/the-dollar-index-breaks-on-the-fourth-consecutive-soft-print-202608141823</link>
-            <guid isPermaLink="false">d97d967e-1f9f-4d88-a364-a489e7cf43cc</guid>
-            <pubDate>Fri, 14 Aug 2026 18:23:56 GMT</pubDate>
-            <description><![CDATA[The Dollar Index took a payroll contraction on August 7, a cooler consumer price reading on August 12 and a flat producer price reading on August 13 without surrendering its range. Friday's data finally did it.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Consolidation near 1.28 with upside risks against US Dollar – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-consolidation-near-128-with-upside-risks-against-us-dollar-ocbc-202608141814</link>
-            <guid isPermaLink="false">fb8f1370-daa4-475c-a9bd-44340564f908</guid>
-            <pubDate>Fri, 14 Aug 2026 18:14:00 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note USD/SGD is consolidating around 1.28 as softer United States (US) Producer Price Index (PPI) trims Federal Reserve (Fed) hike expectations but fails to trigger fresh US Dollar (USD) selling.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Bearish flag holds as bulls eye 0.8150]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-holds-as-bulls-eye-08150-202608141804</link>
-            <guid isPermaLink="false">9e855413-2533-4d1b-8890-9b8c50741790</guid>
-            <pubDate>Fri, 14 Aug 2026 18:04:49 GMT</pubDate>
-            <description><![CDATA[The USD/CHF turns negative on the day, snapping a four-day winning streak, yet it remains above 0.8100, suggesting further upside is possible if buyers reclaim key resistance levels. At the time of writing, the pair trades at a 0.12% loss.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold rallies as weak US data dents Fed hike bets]]></title>
-            <link>https://www.fxstreet.com/news/gold-rallies-as-weak-us-data-dents-fed-hike-bets-202608141739</link>
-            <guid isPermaLink="false">12016f90-9949-4a09-9762-c3f27a8a0ad9</guid>
-            <pubDate>Fri, 14 Aug 2026 17:39:26 GMT</pubDate>
-            <description><![CDATA[Gold price registers solid gains of nearly 0.90% on Friday as the US Dollar weakens across the board, following a week that featured softer inflation data, which decreased the chances for a rate hike by the Federal Reserve (Fed). The XAU/USD trades at $4,386, still below the $4,400 threshold.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
