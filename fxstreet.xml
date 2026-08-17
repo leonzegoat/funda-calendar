@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 15:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 15:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold strengthens above $4,400 as Fed rate-hike expectations fade]]></title>
+            <link>https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128</link>
+            <guid isPermaLink="false">29ca4c2b-b16f-4146-a190-31628cf4719d</guid>
+            <pubDate>Mon, 17 Aug 2026 11:28:11 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) extends its intraday advance on Monday, supported by fading expectations that the Federal Reserve (Fed) will raise interest rates at its September meeting, while the US Dollar (USD) remains on the back foot. At the time of writing, XAU/USD trades around $4,425, up 1.11% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen struggles despite rising bond yields and BoJ hike bets]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-struggles-despite-rising-bond-yields-and-boj-hike-bets-202608171526</link>
+            <guid isPermaLink="false">e933238b-35b1-4348-88ec-896d130c2a77</guid>
+            <pubDate>Mon, 17 Aug 2026 15:26:25 GMT</pubDate>
+            <description><![CDATA[USD/JPY rebounds on Monday after coming under selling pressure earlier in the day, as the Japanese Yen (JPY) struggles to gain traction despite a weaker US Dollar (USD). At the time of writing, the pair trades around 159.25, recovering from an intraday low of 158.85.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver accelerates above $66 as Fed expectations shift]]></title>
+            <link>https://www.fxstreet.com/news/silver-accelerates-above-66-as-fed-expectations-shift-202608171521</link>
+            <guid isPermaLink="false">415dfa6f-eb20-441a-8e45-7e5421094b7d</guid>
+            <pubDate>Mon, 17 Aug 2026 15:21:51 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) extends its advance on Monday and trades around $66.30 at the time of writing, up 2.47% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar climbs to two-month highs amid a soft US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-climbs-to-two-month-highs-amid-a-soft-us-dollar-202608171520</link>
+            <guid isPermaLink="false">03b2f81e-f21d-44bf-9c7b-bfc120f00bbf</guid>
+            <pubDate>Mon, 17 Aug 2026 15:20:35 GMT</pubDate>
+            <description><![CDATA[AUD/USD extended its recovery on Monday, pushing to fresh 10-week highs and holding near the 0.7100 zone. At the time of writing, the pair is 0.40% up for the day, driven almost entirely by a broadly weak US Dollar (USD) rather than anything positive out of Australia.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Bullish bias with data risk ahead against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-bullish-bias-with-data-risk-ahead-against-us-dollar-scotiabank-202608171508</link>
+            <guid isPermaLink="false">2a6e699a-13ae-4c50-9f93-fd6dc98ba1db</guid>
+            <pubDate>Mon, 17 Aug 2026 15:08:24 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note British Pound (GBP) is underperforming core European peers but has still reached a three‑month high against the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[China: High-tech sectors cushion broader slowdown – ING]]></title>
             <link>https://www.fxstreet.com/news/china-high-tech-sectors-cushion-broader-slowdown-ing-202608171449</link>
@@ -38,14 +78,6 @@
             <pubDate>Mon, 17 Aug 2026 14:11:00 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report the Euro (EUR) is firming as Eurozone economic resilience and narrowing yield spreads versus the US support EUR/USD.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128</link>
-            <guid isPermaLink="false">29ca4c2b-b16f-4146-a190-31628cf4719d</guid>
-            <pubDate>Mon, 17 Aug 2026 11:28:11 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) struggles to build on its intraday advance even as the US Dollar (USD) remains under selling pressure amid fading expectations that the Federal Reserve (Fed) will raise interest rates at its September meeting.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Canadian Dollar: Inflation steady near target – RBC]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 10:08:05 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) maintains a bullish bias around $4,400, supported by a weaker US Dollar (USD) and fading expectations of further interest rate hikes by the Federal Reserve (Fed).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Labour data seen backing BoE hold – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-labour-data-seen-backing-boe-hold-td-securities-202608171001</link>
-            <guid isPermaLink="false">e8f3a08e-4b25-4fad-b6a8-f1601eaa6702</guid>
-            <pubDate>Mon, 17 Aug 2026 10:01:25 GMT</pubDate>
-            <description><![CDATA[TD Securities expects the UK labour market to remain soft but stable in June, with employment rising 100k on a three‑month basis and unemployment edging down to 4.7%. Headline average weekly earnings are forecast to slow to 4.0%, while ex‑bonus pay holds at 3.4%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index Price Forecast: Bears push against two-month lows at 99.40]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-price-forecast-bears-push-against-two-month-lows-at-9940-202608170956</link>
-            <guid isPermaLink="false">cabdbca4-f9b9-47f4-8524-32feff56f918</guid>
-            <pubDate>Mon, 17 Aug 2026 09:56:25 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) extends losses for the third consecutive day on Monday, with bears testing levels at two-month lows below 99.40 during the European session.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bearish-hill.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI advances above $82.00 as US-Iran deadlock supports prices]]></title>
-            <link>https://www.fxstreet.com/news/wti-advances-above-8200-as-us-iran-deadlock-supports-prices-202608170952</link>
-            <guid isPermaLink="false">85d8ae87-ae0d-45c8-b6a9-82d3b287f92e</guid>
-            <pubDate>Mon, 17 Aug 2026 09:52:23 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil advances on Monday and trades around $82.10 at the time of writing, up 0.70% on the day. Oil prices remain supported by the deadlock between the United States (US) and Iran, which keeps concerns about Oil flows through the Strait of Hormuz elevated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swedish Krona: Riksbank seen on cautious hawkish hold – BBH]]></title>
-            <link>https://www.fxstreet.com/news/swedish-krona-riksbank-seen-on-cautious-hawkish-hold-bbh-202608170950</link>
-            <guid isPermaLink="false">526398b8-2798-4978-8b23-64beebdd0f91</guid>
-            <pubDate>Mon, 17 Aug 2026 09:50:59 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects the Riksbank to keep its policy rate at 1.75% for a seventh consecutive meeting while leaving the door open to a later hike as inflation runs above projections.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
