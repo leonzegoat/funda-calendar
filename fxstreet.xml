@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 22:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 23:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Bulls reclaim 50-day SMA, eye 217.00]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-reclaim-50-day-sma-eye-21700-202608172247</link>
+            <guid isPermaLink="false">ef3ddce6-9ab8-4f7b-a3c1-7f927cdf7368</guid>
+            <pubDate>Mon, 17 Aug 2026 22:47:38 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY cross-pair is poised to finish Monday’s session with gains of over 0.14% as traders prepare for the beginning of Tuesday’s Asian session. The cross-pair has climbed above the 50-day Simple Moving Average (SMA) at 215.52, often seen as a breakout that opens the door to further upside.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Japanese Yen is losing to its own import bill]]></title>
             <link>https://www.fxstreet.com/news/the-japanese-yen-is-losing-to-its-own-import-bill-202608172238</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 14:49:51 GMT</pubDate>
             <description><![CDATA[According to ING’s Lynn Song, Chinese industrial production growth slowed more than expected in July but remains relatively resilient compared with other domestic indicators.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Faces renewed downside risk – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-faces-renewed-downside-risk-commerzbank-202608171435</link>
-            <guid isPermaLink="false">f884f7dd-a200-495f-ba6d-c55c5eb02784</guid>
-            <pubDate>Mon, 17 Aug 2026 14:35:55 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Volkmar Baur notes that the US Dollar (USD) has weakened against the Euro (EUR) as markets steadily scale back expectations for further Federal Reserve (Fed) tightening relative to other G10 central banks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
