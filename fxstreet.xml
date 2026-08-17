@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 16:00:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 16:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The US Dollar Index cannot rally with Washington on the offer]]></title>
+            <link>https://www.fxstreet.com/news/the-us-dollar-index-cannot-rally-with-washington-on-the-offer-202608171624</link>
+            <guid isPermaLink="false">39c5c8be-ee8e-41ca-9647-c57fe668108a</guid>
+            <pubDate>Mon, 17 Aug 2026 16:24:20 GMT</pubDate>
+            <description><![CDATA[The Dollar Index trades near 99.50, roughly a tenth of a percent lower, having opened directly on its 200-day Exponential Moving Average (EMA) and failed there inside the first minutes, with a session low just above 99.25 taking out the August range.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Dow Jones Industrial Average lets refiners price the war]]></title>
+            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-lets-refiners-price-the-war-202608171616</link>
+            <guid isPermaLink="false">dba8aae9-31f7-4a05-99cc-4d6b61c67822</guid>
+            <pubDate>Mon, 17 Aug 2026 16:16:57 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average trades near 53,550, down close to 200 points and roughly 1,200 beneath the record printed on August 5, on the day the 60-day negotiating window that was meant to end the war over the Strait of Hormuz lapses with nothing agreed to replace it.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/car-industry-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Oil climbs above $82 as Washington-Tehran standoff reignites supply concerns]]></title>
+            <link>https://www.fxstreet.com/news/wti-oil-climbs-above-82-as-washington-tehran-standoff-reignites-supply-concerns-202608171604</link>
+            <guid isPermaLink="false">6a1d097f-0d33-4f63-8757-4fdb31a46bd9</guid>
+            <pubDate>Mon, 17 Aug 2026 16:04:43 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) US Oil advances on Monday and trades around $82.10 at the time of writing, up 0.68% on the day. Oil prices remain supported by the deadlock between the United States (US) and Iran, which keeps concerns about Oil flows through the Strait of Hormuz elevated.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound edges higher as traders await UK jobs and CPI data]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-edges-higher-as-traders-await-uk-jobs-cpi-data-202608171604</link>
+            <guid isPermaLink="false">f2f50a9b-b393-477a-a8f9-d5deac018ae7</guid>
+            <pubDate>Mon, 17 Aug 2026 16:04:36 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) registers modest gains of 0.14% on Monday against the US Dollar (USD) as investors digest softer-than-expected US inflation data and brace for the release of crucial UK jobs and inflation data. The GBP/USD pair trades at 1.3552 after hitting a three-month high of 1.3571.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold strengthens above $4,400 as Fed rate-hike expectations fade]]></title>
             <link>https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 11:27:55 GMT</pubDate>
             <description><![CDATA[USD/CAD trades around 1.3860 on Monday at the time of writing, down 0.11% on the day. The pair extends its decline as the US Dollar (USD) remains under pressure against the Canadian Dollar (CAD), with investors scaling back expectations of further monetary tightening by the Federal Reserve (Fed).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[China: Growth risks rise into H2 – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/china-growth-risks-rise-into-h2-commerzbank-202608171126</link>
-            <guid isPermaLink="false">204d7681-61fc-45be-853f-ed899b3f2ee7</guid>
-            <pubDate>Mon, 17 Aug 2026 11:26:01 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Dr. Henry Hao highlights that China’s July activity data undershot expectations across industrial output, retail sales and fixed-asset investment, reflecting weather disruptions and a deepening property slump.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Record highs on tightening supply – ING]]></title>
-            <link>https://www.fxstreet.com/news/copper-record-highs-on-tightening-supply-ing-202608171113</link>
-            <guid isPermaLink="false">35290092-515a-43f7-8893-0f4ee096d634</guid>
-            <pubDate>Mon, 17 Aug 2026 11:13:50 GMT</pubDate>
-            <description><![CDATA[ING’s Ewa Manthey and Warren Patterson report that LME copper has surged to a record high above $14,000/t, with a sharply backwardated cash/3M spread underscoring near-term tightness.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yen retreats below 159.00 against the US Dollar as Japanese GDP disappoints]]></title>
-            <link>https://www.fxstreet.com/news/yen-retreats-below-15900-against-the-us-dollar-as-japanese-gdp-slows-down-202608171040</link>
-            <guid isPermaLink="false">dcc1da83-c009-44d7-a303-4fd2f6ec842c</guid>
-            <pubDate>Mon, 17 Aug 2026 10:40:27 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen holds marginal gains against the US Dollar (USD) on Wednesday, although the USD/JPY pair has returned to levels above 159.00 during the European session, after hitting daily lows around 158.85.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD holds bullish bias near $4,400]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-bullish-bias-near-4-400-202608171008</link>
-            <guid isPermaLink="false">2cee770b-c598-44a2-b64f-fdf4eed0c8cc</guid>
-            <pubDate>Mon, 17 Aug 2026 10:08:05 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) maintains a bullish bias around $4,400, supported by a weaker US Dollar (USD) and fading expectations of further interest rate hikes by the Federal Reserve (Fed).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
