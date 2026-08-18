@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 06:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 07:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CAD Price Forecast: Consolidates below 1.3900 as bears await 200-SMA breakdown]]></title>
+            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-consolidates-below-13900-as-bears-await-200-sma-breakdown-202608180703</link>
+            <guid isPermaLink="false">ab086b57-ebe6-4672-857c-e84654c70643</guid>
+            <pubDate>Tue, 18 Aug 2026 07:03:28 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair struggles to capitalize on the overnight bounce from its lowest level since June 3, around the 1.3845 zone, also representing the 200-day Simple Moving Average (SMA) support, and oscillates in a narrow band on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxstreet.com/images/i/bearish-computer.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: Mood sours as Middle East tensions come back under spotlight]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-mood-sours-as-middle-east-tensions-come-back-under-spotlight-202608180700</link>
+            <guid isPermaLink="false">13bf82a0-36ba-48e1-9cc9-af8fa5dff1e8</guid>
+            <pubDate>Tue, 18 Aug 2026 07:00:14 GMT</pubDate>
+            <description><![CDATA[Here is what you need to know on Tuesday, August 18:]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/oil-war-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Equities: Stagflation fears weigh on US stocks – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/equities-stagflation-fears-weigh-on-us-stocks-deutsche-bank-202608180649</link>
+            <guid isPermaLink="false">0ef8a1e9-d820-4af2-b769-bd10378cbc27</guid>
+            <pubDate>Tue, 18 Aug 2026 06:49:32 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank strategists note that rising oil prices are reinforcing stagflation concerns and weighing on equities globally.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro holds gains against British Pound as UK unemployment disappoints   ]]></title>
+            <link>https://www.fxstreet.com/news/euro-holds-gains-against-british-pound-as-uk-unemployment-disappoints-202608180644</link>
+            <guid isPermaLink="false">af32e014-1bfd-4570-91b1-121d26b29721</guid>
+            <pubDate>Tue, 18 Aug 2026 06:44:05 GMT</pubDate>
+            <description><![CDATA[The EUR/GBP cross posts modest gains near 0.8550 during the early European trading hours on Tuesday. The British Pound (GBP) attracts some sellers against the Euro (EUR) following the UK employment data. Traders brace for the ZEW Survey from Germany and the Eurozone later on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound dips to fresh lows near 1.3520 after mixed UK employment data]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-dips-to-fresh-lows-near-13520-after-mixed-uk-employment-data-202608180629</link>
+            <guid isPermaLink="false">e049af7c-f5a7-499b-95d3-98e1067efa49</guid>
+            <pubDate>Tue, 18 Aug 2026 06:29:35 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) extends its reversal against the US Dollar (USD) on Tuesday as June’s UK unemployment data fails to convince investors in an already risk-off market, as tensions in the Middle East rise.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-62.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee: RBI inflow strategy recalibrated – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-rbi-inflow-strategy-recalibrated-commerzbank-202608180627</link>
+            <guid isPermaLink="false">97e2d152-4783-4d02-94e9-b1a21cc687e8</guid>
+            <pubDate>Tue, 18 Aug 2026 06:27:50 GMT</pubDate>
+            <description><![CDATA[Commerzbank analysts describe how the Reserve Bank of India’s (RBI) early closure of the FCNR(B) swap window follows strong FX inflows and rising liquidity costs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears]]></title>
+            <link>https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349</link>
+            <guid isPermaLink="false">c854dcc5-5a1d-4745-ac47-4427253dd7d0</guid>
+            <pubDate>Tue, 18 Aug 2026 03:49:02 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) sticks to modest intraday losses below the $4,400 mark heading into the European session on Tuesday and, for now, seems to have snapped a two-day winning streak.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound drops against Yen after UK employment data release]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-drops-against-yen-after-uk-employment-data-release-202608180615</link>
+            <guid isPermaLink="false">b85651e4-09ea-4b55-8d8b-623390b0b0e4</guid>
+            <pubDate>Tue, 18 Aug 2026 06:15:56 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) faces selling pressure against the Japanese Yen (JPY) after the release of the United Kingdom (UK) labor market data for three months ending in June, dropping to near 215.95.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Upside bias needs confirmation above 1.1615 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/euro-upside-bias-needs-confirmation-above-11615-against-us-dollar-uob-202608180610</link>
+            <guid isPermaLink="false">7da04e17-3203-4efb-ab1f-a0bcfc548480</guid>
+            <pubDate>Tue, 18 Aug 2026 06:10:28 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report that EUR/USD briefly broke above major resistance at 1.1610 to 1.1614 before fading, leaving the Euro in a near-term consolidation between 1.1560 and 1.1600.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[United Kingdom Unemployment Rate stays at 4.9% in June vs. 4.8% expected]]></title>
             <link>https://www.fxstreet.com/news/united-kingdom-unemployment-rate-stays-at-49-in-june-vs-48-expected-202608180602</link>
@@ -46,14 +118,6 @@
             <pubDate>Tue, 18 Aug 2026 05:20:52 GMT</pubDate>
             <description><![CDATA[The EUR/USD pair loses traction to around 1.1575, snapping the three-day winning streak during the early European session on Tuesday. The Euro (EUR) edges lower against the US Dollar (USD) as traders remain cautious about the US-Iran conflict and the closure of the Strait of Hormuz. ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold slides below $4,400 as oil-fueled inflation risks and US-Iran tensions bolster USD]]></title>
-            <link>https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349</link>
-            <guid isPermaLink="false">c854dcc5-5a1d-4745-ac47-4427253dd7d0</guid>
-            <pubDate>Tue, 18 Aug 2026 03:49:02 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its intraday descent and slides back below the $4,400 mark during the Asian session on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low]]></title>
@@ -182,70 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 00:29:33 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $84.00 during the early Asian trading hours on Tuesday. WTI steadies as traders continue to assess the developments surrounding Middle East conflicts. ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US President Donald Trump says not seeking extension of Iran MOU]]></title>
-            <link>https://www.fxstreet.com/news/us-president-donald-trump-says-not-seeking-extension-of-iran-mou-202608172340</link>
-            <guid isPermaLink="false">56e4631a-532b-4dcb-b8ed-8af1372ab152</guid>
-            <pubDate>Mon, 17 Aug 2026 23:40:07 GMT</pubDate>
-            <description><![CDATA[US President Donald Trump said that he is not interested in renewing the expiring agreement with Iran, Bloomberg reported on Monday. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold gains momentum above $4,400 as softer US data dampens Fed hike odds ]]></title>
-            <link>https://www.fxstreet.com/news/gold-gains-momentum-above-4-400-as-softer-us-data-dampens-fed-hike-odds-202608172327</link>
-            <guid isPermaLink="false">7af7ad49-4d80-41fb-a0f1-2e5de53bb711</guid>
-            <pubDate>Mon, 17 Aug 2026 23:27:26 GMT</pubDate>
-            <description><![CDATA[Gold price (XAU/USD) edges higher to near $4,415 during the early Asian session on Tuesday. The precious metal extends its upside amid fading expectations for further US Federal Reserve (Fed) rate hikes. Traders will closely monitor the developments surrounding the Middle East conflicts. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar climbs as the Greenback falls on soft US data]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-climbs-as-the-greenback-falls-on-soft-us-data-202608172304</link>
-            <guid isPermaLink="false">edf209f9-f223-40ff-b5d4-dbeb245884f3</guid>
-            <pubDate>Mon, 17 Aug 2026 23:04:08 GMT</pubDate>
-            <description><![CDATA[The Aussie Dollar trades near two-month highs of 0.7129, supported by a weaker US Dollar, amid a scarce economic docket in the US, following last week’s softer Retail Sales data. The AUD/USD trades at 0.7106, up 0.32%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-chart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/JPY Price Forecast: Bulls reclaim 50-day SMA, eye 217.00]]></title>
-            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-reclaim-50-day-sma-eye-21700-202608172247</link>
-            <guid isPermaLink="false">ef3ddce6-9ab8-4f7b-a3c1-7f927cdf7368</guid>
-            <pubDate>Mon, 17 Aug 2026 22:47:38 GMT</pubDate>
-            <description><![CDATA[The GBP/JPY cross-pair is poised to finish Monday’s session with gains of over 0.14% as traders prepare for the beginning of Tuesday’s Asian session. The cross-pair has climbed above the 50-day Simple Moving Average (SMA) at 215.52, often seen as a breakout that opens the door to further upside.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Japanese Yen is losing to its own import bill]]></title>
-            <link>https://www.fxstreet.com/news/the-japanese-yen-is-losing-to-its-own-import-bill-202608172238</link>
-            <guid isPermaLink="false">3f97bd85-3337-4e89-83f5-2974a8313fee</guid>
-            <pubDate>Mon, 17 Aug 2026 22:38:55 GMT</pubDate>
-            <description><![CDATA[USD/JPY sat near 159.50 through Monday inside a 75-pip range for a net gain of 10 pips, on the day the Dollar Index broke beneath its 200-day Exponential Moving Average (EMA) to its weakest level since June.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: Struggles at 1.1600, dives below 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-struggles-at-11600-dives-below-100-day-sma-202608172221</link>
-            <guid isPermaLink="false">981eea27-fb20-4fa5-87b6-d07f60e34207</guid>
-            <pubDate>Mon, 17 Aug 2026 22:21:59 GMT</pubDate>
-            <description><![CDATA[The shared currency clings to minimal gains versus the US Dollar on Monday, edging up by some 0.08% after reaching a month-and-a-half high at 1.1614, then reversing course and falling beneath 1.1600, poised to end the session near the low of the day (LOD) of 1.1561.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound Sterling did not earn its three-month high]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-sterling-did-not-earn-its-three-month-high-202608172217</link>
-            <guid isPermaLink="false">cd392c34-48e6-482e-b4b2-c0f8fdb8a79c</guid>
-            <pubDate>Mon, 17 Aug 2026 22:17:47 GMT</pubDate>
-            <description><![CDATA[GBP/USD cleared 1.3550 on Monday for the first time in three months, printed the highest level of the window just above it and handed the entire advance back within hours for a net gain under 10 pips. Sterling did none of the work behind that number.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Treasury yields surge as 30-year hits 2007 high]]></title>
-            <link>https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045</link>
-            <guid isPermaLink="false">ebd4579a-adbc-4584-ac8c-8a276aaca258</guid>
-            <pubDate>Mon, 17 Aug 2026 20:45:51 GMT</pubDate>
-            <description><![CDATA[US Treasury yields advance on Monday during the North American session after reversing their course following the release of US Retail Sales data last week, which disappointed investors.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Bonk_Bull.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
