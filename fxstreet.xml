@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 17:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 17:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD consolidates as bullish momentum fades]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-as-bullish-momentum-fades-202608181730</link>
+            <guid isPermaLink="false">0dfa4602-7a1d-43cf-8ee6-b11d7c83fe7e</guid>
+            <pubDate>Tue, 18 Aug 2026 17:30:50 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) edges lower on Tuesday, remaining confined within a week-old trading range as bullish momentum softens following the recent rally. At the time of writing, XAG/USD trades around $63.96, down 2.77% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A two-decade yield high buys the Dollar Index nothing]]></title>
+            <link>https://www.fxstreet.com/news/a-two-decade-yield-high-buys-the-dollar-index-nothing-202608181728</link>
+            <guid isPermaLink="false">1dc4f1dd-eda4-41ff-9f93-32b6d9b12a61</guid>
+            <pubDate>Tue, 18 Aug 2026 17:28:48 GMT</pubDate>
+            <description><![CDATA[The highest long-dated US yields in nearly two decades have moved the Dollar Index by three hundredths of a point. Spot holds just above 99.50 after a session range of 17 pips, still beneath a flat 200-day Exponential Moving Average (EMA) near 99.75 that has capped every attempt for a fortnight.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Dow Jones Industrial Average has a term premium problem]]></title>
+            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-has-a-term-premium-problem-202608181727</link>
+            <guid isPermaLink="false">9c035739-19b1-4c38-969c-fce7f54d1055</guid>
+            <pubDate>Tue, 18 Aug 2026 17:27:28 GMT</pubDate>
+            <description><![CDATA[A quarter-point Federal Reserve increase by December stopped being a certainty over the past eight days, and the Dow Jones Industrial Average is lower for it. Spot trades near 53,400, down roughly 105 points on the session and about 2.5% beneath the record just short of 54,750 set on August 5.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar declines from two-month highs as Hormuz tensions lift the US Dollar]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-declines-from-two-month-highs-as-hormuz-tensions-lift-the-us-dollar-202608181625</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 11:46:20 GMT</pubDate>
             <description><![CDATA[Silver (XAG/USD) declines on Tuesday and trades around $65.00 at the time of writing, down 1.20% on the day. The white metal nevertheless remains trapped within the consolidation range that has dominated trading for about a week, as opposing forces prevent a clear direction from emerging.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Hormuz conflict keeps prices elevated – BNY]]></title>
-            <link>https://www.fxstreet.com/news/oil-hormuz-conflict-keeps-prices-elevated-bny-202608181135</link>
-            <guid isPermaLink="false">2256e76a-5fc4-436b-bf23-21420135bfbb</guid>
-            <pubDate>Tue, 18 Aug 2026 11:35:22 GMT</pubDate>
-            <description><![CDATA[Geoff Yu at BNY notes Brent crude briefly rose above $91.85 per barrel, its highest in over three weeks, as hopes for a rapid reopening of the Strait of Hormuz faded.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Qatar: Iran-Oman bilateral Hormuz agreement needed before US-Iran talks]]></title>
-            <link>https://www.fxstreet.com/news/qatar-iran-oman-bilateral-hormuz-agreement-needed-before-us-iran-talks-202608181128</link>
-            <guid isPermaLink="false">eee67b83-2909-4ad7-a03e-0bd52175b62e</guid>
-            <pubDate>Tue, 18 Aug 2026 11:28:52 GMT</pubDate>
-            <description><![CDATA[Qatar’s Foreign Ministry spokesperson, Majed Al-Ansari, said the mediators are waiting for Oman and Iran to reach a bilateral agreement on the Strait of Hormuz, a critical chokepoint to almost 20% of global energy supply, before returning to broader United States (US)-Iran talks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Qatar_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Safe haven status faces debt-market strains – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-safe-haven-status-faces-debt-market-strains-rabobank-202608181124</link>
-            <guid isPermaLink="false">dcdd6825-22c5-44e2-86e3-1b5fba3372c2</guid>
-            <pubDate>Tue, 18 Aug 2026 11:24:10 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley discusses how rising global bond yields and mounting concerns over United States (US) fiscal discipline are challenging the traditional safe haven role of US Treasuries and the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
