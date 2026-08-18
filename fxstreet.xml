@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 01:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 03:01:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July ]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-05900-as-chinas-economy-slows-in-july-202608180226</link>
+            <guid isPermaLink="false">7bc2c52f-0463-4298-ac52-9c645ebdd553</guid>
+            <pubDate>Tue, 18 Aug 2026 02:26:20 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair declines to around 0.5895 during the Asian trading hours on Tuesday. Weaker-than-expected Chinese Retail Sales and Industrial Production data weigh on the China-proxy New Zealand Dollar (NZD) against the US Dollar (USD). ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6550-amid-us-iran-peace-uncertainty-202608180208</link>
+            <guid isPermaLink="false">6a17084b-f696-424d-9aa1-09e7e5cd21e2</guid>
+            <pubDate>Tue, 18 Aug 2026 02:08:51 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) declines after two days of gains, trading around $65.60 per troy ounce during the Asian hours on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar holds near early June high as rising oil prices offset modest USD strength]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-holds-near-early-june-high-as-rising-oil-prices-offset-modest-usd-strength-202608180155</link>
+            <guid isPermaLink="false">d6bc7981-374d-4ce2-bf29-920880ec6442</guid>
+            <pubDate>Tue, 18 Aug 2026 01:55:49 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair struggles to build on the overnight bounce from the 200-day Simple Moving Average (SMA) support near the 1.3845 region, or the lowest level since June 3, and is seen consolidating during the Asian session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[British Pound gathers strength to near 1.3550 as Fed hike bets fade, UK jobs data loom]]></title>
             <link>https://www.fxstreet.com/news/british-pound-gathers-strength-to-near-13550-as-fed-hike-bets-fade-uk-jobs-data-loom-202608180127</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 17:55:37 GMT</pubDate>
             <description><![CDATA[EUR/USD trims earlier gains on Monday as the US Dollar (USD) shows signs of stabilization after opening the week under selling pressure. At the time of writing, the pair trades around 1.1580 after touching an intraday high of 1.1614, its highest level since June 17.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP trades in a tight range ahead of UK jobs data]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-trades-in-a-tight-range-ahead-of-uk-jobs-data-202608171654</link>
-            <guid isPermaLink="false">7ce6ed7b-fec8-456d-b280-3771f2cf9a0c</guid>
-            <pubDate>Mon, 17 Aug 2026 16:54:21 GMT</pubDate>
-            <description><![CDATA[EUR/GBP is holding a narrow band around the mid-0.8500s with little conviction in either direction. At the time of writing, the cross is close to flat on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The US Dollar Index cannot rally with Washington on the offer]]></title>
-            <link>https://www.fxstreet.com/news/the-us-dollar-index-cannot-rally-with-washington-on-the-offer-202608171624</link>
-            <guid isPermaLink="false">39c5c8be-ee8e-41ca-9647-c57fe668108a</guid>
-            <pubDate>Mon, 17 Aug 2026 16:24:20 GMT</pubDate>
-            <description><![CDATA[The Dollar Index trades near 99.50, roughly a tenth of a percent lower, having opened directly on its 200-day Exponential Moving Average (EMA) and failed there inside the first minutes, with a session low just above 99.25 taking out the August range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dow Jones Industrial Average lets refiners price the war]]></title>
-            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-lets-refiners-price-the-war-202608171616</link>
-            <guid isPermaLink="false">dba8aae9-31f7-4a05-99cc-4d6b61c67822</guid>
-            <pubDate>Mon, 17 Aug 2026 16:16:57 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades near 53,550 on Monday, down close to 200 points and roughly 1,200 beneath the record printed on August 5, on the day the 60-day negotiating window that was meant to end the war over the Strait of Hormuz lapses with nothing agreed to replace it.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/car-industry-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
