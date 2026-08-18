@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 07:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 08:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro: Overvaluation and energy risks weigh against US Dollar – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/euro-overvaluation-and-energy-risks-weigh-against-us-dollar-mufg-202608180836</link>
+            <guid isPermaLink="false">36b2d752-ee4a-442f-ac22-37ca7e5f2c04</guid>
+            <pubDate>Tue, 18 Aug 2026 08:36:52 GMT</pubDate>
+            <description><![CDATA[MUFG’s Halpenny notes that EUR/USD remains capped near its 200-day moving average at 1.1630 and is 2.5%-3.0% overvalued in the bank’s short-term model.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Holds breakout near 0.7100]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-holds-breakout-near-07100-202608180825</link>
+            <guid isPermaLink="false">eb1d0116-2eba-4f4b-846c-be055898151f</guid>
+            <pubDate>Tue, 18 Aug 2026 08:25:15 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) trades almost flat at around 0.7100 against the US Dollar (USD) during the European trading session on Tuesday, but is close to its over two-month high of 0.7130 posted on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-70.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones futures drop as soaring US yields, US-Iran friction rattle markets]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-futures-drop-as-soaring-us-yields-us-iran-friction-rattle-markets-202608180823</link>
+            <guid isPermaLink="false">52fb1fb7-4f42-47a8-b235-f9d2cef09454</guid>
+            <pubDate>Tue, 18 Aug 2026 08:23:28 GMT</pubDate>
+            <description><![CDATA[Dow Jones futures fall by 0.25%, trading around 53,410 during European hours on Tuesday. Meanwhile, S&P 500 futures decline 0.52% to near 7,730, and Nasdaq 100 futures slip 0.92%, trading near 29,820.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_Nasdaq-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Stagnation with stabilisation signs – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-stagnation-with-stabilisation-signs-deutsche-bank-202608180819</link>
+            <guid isPermaLink="false">29647582-515c-405f-9761-889618db6f91</guid>
+            <pubDate>Tue, 18 Aug 2026 08:19:16 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank’s Chief UK Economist Sanjay Raja notes that while the United Kingdom (UK) economy has exceeded expectations, the labour market remains stagnant, with the jobless rate stuck at 4.9% and payrolled employees falling.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold sticks to losses below $4,400 as USD recovers further from two-month low]]></title>
+            <link>https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349</link>
+            <guid isPermaLink="false">c854dcc5-5a1d-4745-ac47-4427253dd7d0</guid>
+            <pubDate>Tue, 18 Aug 2026 03:49:02 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) remains depressed below the $4,400 mark through the first half of the European session on Tuesday, snapping a two-day winning streak amid a broadly firmer US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Fragile recovery tied to US – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-fragile-recovery-tied-to-us-commerzbank-202608180808</link>
+            <guid isPermaLink="false">1e436e2b-781d-4a05-a1fd-197e198897a2</guid>
+            <pubDate>Tue, 18 Aug 2026 08:08:17 GMT</pubDate>
+            <description><![CDATA[Commerzbank FX analyst Michael Pfister highlights that the Canadian Dollar’s recent weakness contrasts with a fragile recovery in Canada’s real economy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-cad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar declines due to increased risk aversion]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-declines-due-to-increased-risk-aversion-202608180804</link>
+            <guid isPermaLink="false">bc2d4d33-7fa3-4023-8bcf-57d2f63d3cb5</guid>
+            <pubDate>Tue, 18 Aug 2026 08:04:50 GMT</pubDate>
+            <description><![CDATA[NZD/USD depreciates after two days of losses, trading around 0.5880 during the European hours on Tuesday. The pair depreciates as the US Dollar (USD) holds ground on safe-haven flows amid escalating geopolitical tensions between the US and Iran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[United States Dollar Index extends recovery from two-month low; trades above 99.50]]></title>
             <link>https://www.fxstreet.com/news/united-states-dollar-index-extends-recovery-from-two-month-low-trades-above-9950-202608180755</link>
@@ -120,14 +176,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears]]></title>
-            <link>https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349</link>
-            <guid isPermaLink="false">c854dcc5-5a1d-4745-ac47-4427253dd7d0</guid>
-            <pubDate>Tue, 18 Aug 2026 03:49:02 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) sticks to modest intraday losses below the $4,400 mark heading into the European session on Tuesday and, for now, seems to have snapped a two-day winning streak.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[British Pound drops against Yen after UK employment data release]]></title>
             <link>https://www.fxstreet.com/news/british-pound-drops-against-yen-after-uk-employment-data-release-202608180615</link>
             <guid isPermaLink="false">b85651e4-09ea-4b55-8d8b-623390b0b0e4</guid>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 04:37:19 GMT</pubDate>
             <description><![CDATA[Gold prices fell in India on Tuesday, according to data compiled by FXStreet.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive]]></title>
-            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-to-near-11350-near-term-outlook-remain-constructive-202608180427</link>
-            <guid isPermaLink="false">9940da2c-161e-4c22-aadf-f651158a9734</guid>
-            <pubDate>Tue, 18 Aug 2026 04:27:48 GMT</pubDate>
-            <description><![CDATA[The AUD/JPY cross trades in positive territory around 113.40 during the early European trading hours on Tuesday. The Japanese Yen (JPY) weakens against the Australian Dollar (AUD) amid mounting fiscal concerns and persistent inflationary pressures.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Price Forecast: Bulls retain near two-week top, above $84.00 and 38.2% Fibo.]]></title>
-            <link>https://www.fxstreet.com/news/wti-price-forecast-bulls-retain-near-two-week-top-above-8400-and-382-fibo-202608180402</link>
-            <guid isPermaLink="false">36eb118d-6b46-4153-a371-69d22b8f3bac</guid>
-            <pubDate>Tue, 18 Aug 2026 04:02:55 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – enters a bullish consolidation phase after hitting an over two-week high during the Asian session on Tuesday and currently trades around the $84.20 region.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[UKMTO reports incident in the Strait of Hormuz — Reuters]]></title>
-            <link>https://www.fxstreet.com/news/ukmto-reports-incident-in-the-strait-of-hormuz-reuters-202608180337</link>
-            <guid isPermaLink="false">2c4792a0-6a48-4729-b688-6197cce2fab6</guid>
-            <pubDate>Tue, 18 Aug 2026 03:37:46 GMT</pubDate>
-            <description><![CDATA[The UK Maritime Trade Operations (UKMTO) said that it has received a report of an incident in the Strait of Hormuz, Reuters reported on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen remains near two-week low against US Dollar despite hawkish BoJ bets]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-remains-near-two-week-low-against-us-dollar-despite-hawkish-boj-bets-202608180326</link>
-            <guid isPermaLink="false">ff948879-2b2d-40b8-a960-7ea7c1622948</guid>
-            <pubDate>Tue, 18 Aug 2026 03:26:08 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) trades close to its two-week low against the US Dollar (USD) in the Asian trading session on Tuesday at around 159.50. The USD/JPY pair is under pressure even as financial markets are confident about a Bank of Japan (BoJ) interest rate hike in the September meeting.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index holds ground on safe-haven demand]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-holds-ground-on-safe-haven-demand-202608180311</link>
-            <guid isPermaLink="false">404973c5-f182-4178-b801-55397ab54a8d</guid>
-            <pubDate>Tue, 18 Aug 2026 03:11:46 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is inching higher after three days of losses and trading around 99.60 during the Asian hours on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July ]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-05900-as-chinas-economy-slows-in-july-202608180226</link>
-            <guid isPermaLink="false">7bc2c52f-0463-4298-ac52-9c645ebdd553</guid>
-            <pubDate>Tue, 18 Aug 2026 02:26:20 GMT</pubDate>
-            <description><![CDATA[The NZD/USD pair declines to around 0.5895 during the Asian trading hours on Tuesday. Weaker-than-expected Chinese Retail Sales and Industrial Production data weigh on the China-proxy New Zealand Dollar (NZD) against the US Dollar (USD). ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
