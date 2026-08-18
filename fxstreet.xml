@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 23:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 23:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold steadies below $4,350 as surging yields offset support from Fed rate-hold bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-steadies-below-4-350-as-surging-yields-offset-support-from-fed-rate-hold-bets-202608182325</link>
+            <guid isPermaLink="false">141f7c49-eb5c-4ecc-986e-cdcaf658aa08</guid>
+            <pubDate>Tue, 18 Aug 2026 23:25:00 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) holds steady near $4,335 after pulling back from an early-June top near $4,450 during the early Asian trading hours on Wednesday. The precious metal faced some selling pressure in the previous session as Treasury yields surged to their highest levels in decades. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: SMAs confluence blocks bulls near 185.00]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-smas-confluence-blocks-bulls-near-18500-202608182310</link>
+            <guid isPermaLink="false">902ba529-f7df-43f6-9ec9-30179c688801</guid>
+            <pubDate>Tue, 18 Aug 2026 23:10:26 GMT</pubDate>
+            <description><![CDATA[The EUR/JPY registers two consecutive days of gains, but on Tuesday, buyers failed to gain traction as they faced a confluence of key resistance levels near the 184.70 area. The cross-pair is poised to end the day unchanged, near its opening price of 184.69.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Japanese Yen gives back half a record intervention]]></title>
+            <link>https://www.fxstreet.com/news/the-japanese-yen-gives-back-half-a-record-intervention-202608182303</link>
+            <guid isPermaLink="false">41816fb6-98cf-4d8e-b3d8-55b1c68ad005</guid>
+            <pubDate>Tue, 18 Aug 2026 23:03:37 GMT</pubDate>
+            <description><![CDATA[The Dollar trades near 159.50 against the Yen on Tuesday after a session high just short of 160.00, the strongest level the pair has reached since Tokyo and Washington intervened together at the end of July.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GBP/JPY Price Forecast: Bulls stall near 216.00 as RSI flattens]]></title>
             <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-stall-near-21600-as-rsi-flattens-202608182251</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 10:51:51 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) trades under pressure on Tuesday, snapping a two-day winning streak as a firmer US Dollar (USD) and elevated long-term US Treasury yields weigh on the precious metal. At the time of writing, XAU/USD trades around $4,382, down 0.78% on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Tight market keeps Brent elevated – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/oil-tight-market-keeps-brent-elevated-td-securities-202608181439</link>
-            <guid isPermaLink="false">33e0e50f-0c34-428f-b6fe-ba9ce5a4dcad</guid>
-            <pubDate>Tue, 18 Aug 2026 14:39:42 GMT</pubDate>
-            <description><![CDATA[TD Securities’ commodity strategy team maintains a bullish view on Oil, citing persistent tightness and Strait of Hormuz tensions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Soft UK jobs but supportive mix - BBH]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-soft-uk-jobs-but-supportive-mix-bbh-202608181424</link>
-            <guid isPermaLink="false">da361605-8c65-40ac-b751-c629a45f53e2</guid>
-            <pubDate>Tue, 18 Aug 2026 14:24:56 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad describes United Kingdom (UK) June labor data as soft, with unemployment stuck at 4.9% and private sector regular pay growth slowing to 2.8% year-on-year.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar remains resilient near two-month high ahead of Fed Minutes]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-remains-resilient-near-two-month-high-ahead-of-fed-minutes-202608181418</link>
-            <guid isPermaLink="false">eca13d14-cee9-4fb4-9fc7-d22ba98c5370</guid>
-            <pubDate>Tue, 18 Aug 2026 14:18:02 GMT</pubDate>
-            <description><![CDATA[AUD/USD edges higher on Tuesday and trades around 0.7115 at the time of writing, up 0.1% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
