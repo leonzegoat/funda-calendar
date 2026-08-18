@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 13:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 13:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI Oil Price Forecast: Weak trend strength keeps WTI below 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/wti-oil-price-forecast-weak-trend-strength-keeps-wti-below-100-day-sma-202608181357</link>
+            <guid isPermaLink="false">95863656-2c8c-4de8-bdf1-d6835a679a60</guid>
+            <pubDate>Tue, 18 Aug 2026 13:57:04 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) holds firm on Tuesday after jumping almost 3% the previous day. The lack of progress toward reopening the Strait of Hormuz keeps a geopolitical risk premium in energy markets. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold: Price holds despite higher yields – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-holds-despite-higher-yields-commerzbank-202608181344</link>
+            <guid isPermaLink="false">bfbdd38f-8b37-4ae4-87f8-11a48433ed30</guid>
+            <pubDate>Tue, 18 Aug 2026 13:44:10 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Carsten Fritsch notes that Gold remains around USD 4,400 per ounce even as US Treasury yields rise back toward late-July levels, decoupling from real interest rates.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold expected to trade range-bound despite increasing bets of a Fed rate pause]]></title>
+            <link>https://www.fxstreet.com/news/gold-expected-to-trade-range-bound-despite-increasing-bets-of-a-fed-rate-pause-202608181334</link>
+            <guid isPermaLink="false">bb457028-c2d8-493e-a127-e348e470bcee</guid>
+            <pubDate>Tue, 18 Aug 2026 13:34:01 GMT</pubDate>
+            <description><![CDATA[Gold prices continue to draw support from expectations that the Federal Reserve (Fed) will hold interest rates steady through the remainder of the year after softer US inflation and employment data. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-175.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro consolidates below two-month high as US Dollar steadies]]></title>
+            <link>https://www.fxstreet.com/news/euro-consolidates-below-two-month-high-as-us-dollar-steadies-202608181319</link>
+            <guid isPermaLink="false">152c7c6e-d98c-498c-94dd-04df6d8dabf8</guid>
+            <pubDate>Tue, 18 Aug 2026 13:19:12 GMT</pubDate>
+            <description><![CDATA[EUR/USD consolidates losses on Tuesday after pulling back from a two-month high of 1.1614 reached the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Copper: Tariff distortions unwind, prices seen lower – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/copper-tariff-distortions-unwind-prices-seen-lower-td-securities-202608181315</link>
+            <guid isPermaLink="false">291ab5fb-c8b1-4dc7-9a8d-102f1029f95e</guid>
+            <pubDate>Tue, 18 Aug 2026 13:15:12 GMT</pubDate>
+            <description><![CDATA[TD Securities analysts describe Copper’s current strength as driven by speculative positioning, tariff-related arbitrage and supply disruption headlines rather than genuine global shortage.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar: Market overpricing RBNZ hikes – BNY]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-market-overpricing-rbnz-hikes-bny-202608181256</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 09:19:47 GMT</pubDate>
             <description><![CDATA[Standard Chartered’s Carol Liao and Moriarty Lam analyze slowing loan growth in China despite stable real Gross Domestic Product (GDP) and recent reflation.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound trades lower against US Dollar after soft UK employment data]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-trades-lower-against-us-dollar-after-soft-uk-employment-data-202608180916</link>
-            <guid isPermaLink="false">e0071e1f-03f6-4ebb-b2e4-ebe6bce66895</guid>
-            <pubDate>Tue, 18 Aug 2026 09:16:07 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) is down 0.1% to near 1.3530 against the US Dollar (USD) during the European trading session on Tuesday. The British currency comes under pressure after the release of the United Kingdom (UK) employment data for three months ending June.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI consolidates below $84.50, two-week top as bullish bias remains amid Hormuz standoff]]></title>
-            <link>https://www.fxstreet.com/news/wti-consolidates-below-8450-two-week-top-as-bullish-bias-remains-amid-hormuz-standoff-202608180912</link>
-            <guid isPermaLink="false">ebfc517b-67f9-4c1a-bc17-1f7751b97d45</guid>
-            <pubDate>Tue, 18 Aug 2026 09:12:50 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – extends its consolidative price move through the first half of the European session and currently trades near the $84.25-$84.30 area, close to a two-week high set earlier this Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States: August inflation profile – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/united-states-august-inflation-profile-td-securities-202608180909</link>
-            <guid isPermaLink="false">292a8e1b-f37d-4712-808e-152874cc79a2</guid>
-            <pubDate>Tue, 18 Aug 2026 09:09:33 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Macro Research team, led by Oscar Munoz and Molly Brooks, projects a stronger US August CPI profile. Headline CPI is seen rising 0.39% month-on-month, with gasoline and food inflation rebounding.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar receives support from firm oil prices]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-receives-support-from-firm-oil-prices-202608180903</link>
-            <guid isPermaLink="false">038b3277-25dc-449f-9c34-899656663f08</guid>
-            <pubDate>Tue, 18 Aug 2026 09:03:42 GMT</pubDate>
-            <description><![CDATA[USD/CAD extends its losses for the fourth successive day, trading around 1.3870 during the European hours on Tuesday. The currency pair depreciates as the commodity-linked Canadian Dollar (CAD) gains support from firming crude oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany ZEW Survey - Economic Sentiment improves more than expected to 34.2 in August]]></title>
-            <link>https://www.fxstreet.com/news/germany-zew-survey-economic-sentiment-improves-more-than-expected-to-342-in-august-202608180902</link>
-            <guid isPermaLink="false">486a16f2-b923-4cab-8d79-426714c7059e</guid>
-            <pubDate>Tue, 18 Aug 2026 09:02:34 GMT</pubDate>
-            <description><![CDATA[German ZEW Survey - Economic Sentiment arrives at 34.2 in August, beating the estimates of 30.0 and the July reading of 26.3.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/german-bank-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
