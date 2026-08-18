@@ -4,15 +4,47 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 13:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 14:43:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oil: Tight market keeps Brent elevated – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/oil-tight-market-keeps-brent-elevated-td-securities-202608181439</link>
+            <guid isPermaLink="false">33e0e50f-0c34-428f-b6fe-ba9ce5a4dcad</guid>
+            <pubDate>Tue, 18 Aug 2026 14:39:42 GMT</pubDate>
+            <description><![CDATA[TD Securities’ commodity strategy team maintains a bullish view on Oil, citing persistent tightness and Strait of Hormuz tensions.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Soft UK jobs but supportive mix - BBH]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-soft-uk-jobs-but-supportive-mix-bbh-202608181424</link>
+            <guid isPermaLink="false">da361605-8c65-40ac-b751-c629a45f53e2</guid>
+            <pubDate>Tue, 18 Aug 2026 14:24:56 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad describes United Kingdom (UK) June labor data as soft, with unemployment stuck at 4.9% and private sector regular pay growth slowing to 2.8% year-on-year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar remains resilient near two-month high ahead of Fed Minutes]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-remains-resilient-near-two-month-high-ahead-of-fed-minutes-202608181418</link>
+            <guid isPermaLink="false">eca13d14-cee9-4fb4-9fc7-d22ba98c5370</guid>
+            <pubDate>Tue, 18 Aug 2026 14:18:02 GMT</pubDate>
+            <description><![CDATA[AUD/USD edges higher on Tuesday and trades around 0.7115 at the time of writing, up 0.1% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Further gains eye 1.35–1.37 against US Dollar - Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-further-gains-eye-135-137-against-us-dollar-scotiabank-202608181406</link>
+            <guid isPermaLink="false">7d965b7a-df9e-432a-9528-d2bb52f3e15c</guid>
+            <pubDate>Tue, 18 Aug 2026 14:06:30 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report USD/CAD trading near equilibrium around 1.3870, with Canadian Dollar (CAD) fundamentals supported by narrower front-end spreads and firm crude prices. They see investors relatively unconcerned by looming US tariff deadlines.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WTI Oil Price Forecast: Weak trend strength keeps WTI below 100-day SMA]]></title>
             <link>https://www.fxstreet.com/news/wti-oil-price-forecast-weak-trend-strength-keeps-wti-below-100-day-sma-202608181357</link>
             <guid isPermaLink="false">95863656-2c8c-4de8-bdf1-d6835a679a60</guid>
             <pubDate>Tue, 18 Aug 2026 13:57:04 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) holds firm on Tuesday after jumping almost 3% the previous day. The lack of progress toward reopening the Strait of Hormuz keeps a geopolitical risk premium in energy markets. ]]></description>
+            <description><![CDATA[West Texas Intermediate (WTI) holds firm on Tuesday after jumping 3% the previous day. The lack of progress toward reopening the Strait of Hormuz keeps a geopolitical risk premium in energy markets.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 09:47:49 GMT</pubDate>
             <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/JPY’s slight increase in upward momentum after trading between 158.82 and 159.59 still falls short of signaling a sustained advance, keeping intraday price action likely confined to 159.00–159.80.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thailand: Middle East shock tests growth – DBS]]></title>
-            <link>https://www.fxstreet.com/news/thailand-middle-east-shock-tests-growth-dbs-202608180931</link>
-            <guid isPermaLink="false">bf46c2e7-28fe-4853-8fde-e92d32e760ec</guid>
-            <pubDate>Tue, 18 Aug 2026 09:31:28 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Chua Han Teng reviews Thailand’s latest macro data, noting Real Gross Domestic Product (GDP) growth slowed to 1.9% year-on-year in 2Q26 from 2.8% in 1Q26, bringing 1H26 growth to 2.4%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608180931</link>
-            <guid isPermaLink="false">d925f3c5-ea52-4a7c-ad5e-5fb4135976c9</guid>
-            <pubDate>Tue, 18 Aug 2026 09:31:09 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) fell on Tuesday, according to FXStreet data. Silver trades at $64.97 per troy ounce, down 1.25% from the $65.79 it cost on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro remains subdued following German ZEW Survey data]]></title>
-            <link>https://www.fxstreet.com/news/euro-remains-subdued-following-german-zew-survey-data-202608180923</link>
-            <guid isPermaLink="false">65ec9104-2dc1-4acb-a66f-0fef51225c11</guid>
-            <pubDate>Tue, 18 Aug 2026 09:23:43 GMT</pubDate>
-            <description><![CDATA[EUR/USD depreciates after three days of gains, trading around 1.1570 during the European hours on Tuesday. The pair loses ground as the Euro (EUR) remains subdued following the release of German ZEW Survey data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[China: Credit-light growth reshapes loan demand – Standard Chartered]]></title>
-            <link>https://www.fxstreet.com/news/china-credit-light-growth-reshapes-loan-demand-standard-chartered-202608180919</link>
-            <guid isPermaLink="false">2d45a4a7-cb24-4ee3-85bd-1a5aa797dcab</guid>
-            <pubDate>Tue, 18 Aug 2026 09:19:47 GMT</pubDate>
-            <description><![CDATA[Standard Chartered’s Carol Liao and Moriarty Lam analyze slowing loan growth in China despite stable real Gross Domestic Product (GDP) and recent reflation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
