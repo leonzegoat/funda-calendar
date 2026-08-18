@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 22:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 23:01:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Bulls stall near 216.00 as RSI flattens]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-stall-near-21600-as-rsi-flattens-202608182251</link>
+            <guid isPermaLink="false">f9e731b8-fc18-4fe4-bb46-28bd24d9d8ab</guid>
+            <pubDate>Tue, 18 Aug 2026 22:51:20 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY consolidates at familiar levels on Tuesday, virtually unchanged near 216.00, with the cross-pair seesawing within the 215.85-216.22 range, as neither buyers nor sellers are able to clear key resistance/support levels during the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[British Pound Sterling's three-month high was made in America]]></title>
             <link>https://www.fxstreet.com/news/british-pound-sterlings-three-month-high-was-made-in-america-202608182233</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 14:18:02 GMT</pubDate>
             <description><![CDATA[AUD/USD edges higher on Tuesday and trades around 0.7115 at the time of writing, up 0.1% on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Further gains eye 1.35–1.37 against US Dollar - Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-further-gains-eye-135-137-against-us-dollar-scotiabank-202608181406</link>
-            <guid isPermaLink="false">7d965b7a-df9e-432a-9528-d2bb52f3e15c</guid>
-            <pubDate>Tue, 18 Aug 2026 14:06:30 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report USD/CAD trading near equilibrium around 1.3870, with Canadian Dollar (CAD) fundamentals supported by narrower front-end spreads and firm crude prices. They see investors relatively unconcerned by looming US tariff deadlines.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
