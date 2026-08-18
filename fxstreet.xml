@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 21:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 21:59:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mexican Peso dips on Middle East tensions, eyes on FOMC minutes]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-dips-on-middle-east-tensions-eyes-on-fomc-minutes-202608182158</link>
+            <guid isPermaLink="false">a873d71f-717c-46dd-a5f8-4528330c6c8a</guid>
+            <pubDate>Tue, 18 Aug 2026 21:58:57 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso loses some ground on Tuesday, depreciating by about 0.16% against the US Dollar as investors await the release of the Federal Reserve’s last meeting minutes, with a resolution of the US-Iran conflict remaining unlikely.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Mexico.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Chinese Yuan: Sideways range holds against US Dollar – UOB]]></title>
             <link>https://www.fxstreet.com/news/chinese-yuan-sideways-range-holds-against-us-dollar-uob-202608182102</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 13:34:01 GMT</pubDate>
             <description><![CDATA[Gold prices continue to draw support from expectations that the Federal Reserve (Fed) will hold interest rates steady through the remainder of the year after softer US inflation and employment data. ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-175.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro consolidates below two-month high as US Dollar steadies]]></title>
-            <link>https://www.fxstreet.com/news/euro-consolidates-below-two-month-high-as-us-dollar-steadies-202608181319</link>
-            <guid isPermaLink="false">152c7c6e-d98c-498c-94dd-04df6d8dabf8</guid>
-            <pubDate>Tue, 18 Aug 2026 13:19:12 GMT</pubDate>
-            <description><![CDATA[EUR/USD consolidates losses on Tuesday after pulling back from a two-month high of 1.1614 reached the previous day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
