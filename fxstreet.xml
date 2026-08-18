@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 21:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 22:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[British Pound Sterling's three-month high was made in America]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sterlings-three-month-high-was-made-in-america-202608182233</link>
+            <guid isPermaLink="false">a3a64805-2a88-41e9-9fcc-76c782ccf558</guid>
+            <pubDate>Tue, 18 Aug 2026 22:33:28 GMT</pubDate>
+            <description><![CDATA[The British Pound trades just short of 1.3550 against the Dollar on Tuesday, holding inside Monday's range after a peak short of 1.3600 carried it to its strongest level since early May. That leaves close to 300 pips of recovery from the base just short of 1.3300 built in the first week of August.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar holds steady amid a firm US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-amid-a-firm-us-dollar-202608182230</link>
+            <guid isPermaLink="false">8ef8c8d6-a4df-4dd0-b159-d662ab81fb17</guid>
+            <pubDate>Tue, 18 Aug 2026 22:30:22 GMT</pubDate>
+            <description><![CDATA[NZD/USD hovers around the 0.5870 zone at the time of writing on Tuesday, marginally lower on the day. The pair is treading water as a firm US Dollar (USD) and a cautious market mood keep the New Zealand Dollar (NZD) on the back foot.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Trump says no Iran talks; naval blockade remains]]></title>
+            <link>https://www.fxstreet.com/news/us-president-trump-says-no-iran-talks-naval-blockade-remains-202608182213</link>
+            <guid isPermaLink="false">100b880c-e7be-440b-a66e-797298f19c23</guid>
+            <pubDate>Tue, 18 Aug 2026 22:13:53 GMT</pubDate>
+            <description><![CDATA[The US President Donald Trump posted on his social network that “there are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran. The Naval Blockade remains in full force and effect. The Hormuz Strait is open and operating.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Trump-9.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Mexican Peso dips on Middle East tensions, eyes on FOMC minutes]]></title>
             <link>https://www.fxstreet.com/news/mexican-peso-dips-on-middle-east-tensions-eyes-on-fomc-minutes-202608182158</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 14:06:30 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report USD/CAD trading near equilibrium around 1.3870, with Canadian Dollar (CAD) fundamentals supported by narrower front-end spreads and firm crude prices. They see investors relatively unconcerned by looming US tariff deadlines.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil Price Forecast: Weak trend strength keeps WTI below 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-price-forecast-weak-trend-strength-keeps-wti-below-100-day-sma-202608181357</link>
-            <guid isPermaLink="false">95863656-2c8c-4de8-bdf1-d6835a679a60</guid>
-            <pubDate>Tue, 18 Aug 2026 13:57:04 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) holds firm on Tuesday after jumping 3% the previous day. The lack of progress toward reopening the Strait of Hormuz keeps a geopolitical risk premium in energy markets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Price holds despite higher yields – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-holds-despite-higher-yields-commerzbank-202608181344</link>
-            <guid isPermaLink="false">bfbdd38f-8b37-4ae4-87f8-11a48433ed30</guid>
-            <pubDate>Tue, 18 Aug 2026 13:44:10 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Carsten Fritsch notes that Gold remains around USD 4,400 per ounce even as US Treasury yields rise back toward late-July levels, decoupling from real interest rates.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold expected to trade range-bound despite increasing bets of a Fed rate pause]]></title>
-            <link>https://www.fxstreet.com/news/gold-expected-to-trade-range-bound-despite-increasing-bets-of-a-fed-rate-pause-202608181334</link>
-            <guid isPermaLink="false">bb457028-c2d8-493e-a127-e348e470bcee</guid>
-            <pubDate>Tue, 18 Aug 2026 13:34:01 GMT</pubDate>
-            <description><![CDATA[Gold prices continue to draw support from expectations that the Federal Reserve (Fed) will hold interest rates steady through the remainder of the year after softer US inflation and employment data. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-175.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
