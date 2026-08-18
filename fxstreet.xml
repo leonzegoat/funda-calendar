@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 10:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 10:47:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eases-below-4-400-as-us-yields-rally-202608181043</link>
+            <guid isPermaLink="false">9b1c5919-1b3f-48ce-9446-e4f942ebce68</guid>
+            <pubDate>Tue, 18 Aug 2026 10:43:56 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) shows moderate losses on Tuesday, weighed by higher US Treasury yields and a risk-averse sentiment, which has triggered a mild US Dollar recovery.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc: Growing role as funding currency – ING]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-growing-role-as-funding-currency-ing-202608181003</link>
+            <guid isPermaLink="false">31bdfa4c-ff14-4dcf-9813-74234cf5edb3</guid>
+            <pubDate>Tue, 18 Aug 2026 10:03:46 GMT</pubDate>
+            <description><![CDATA[Chris Turner at ING highlights low volatility weighing on the Swiss Franc (CHF) and Japanese Yen (JPY), with investors increasingly favouring franc funding to avoid potential Yen intervention. Short CHF/JPY is seen as a carry-positive way to express a Yen view.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-chf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Euro ticks higher against the British Pound after upbeat German economic sentiment ]]></title>
             <link>https://www.fxstreet.com/news/euro-ticks-higher-against-the-british-pound-after-upbeat-german-economic-sentiment-202608180952</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 07:08:51 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that still-attractive US Dollar (USD) carry and softer United States (US) data, which have reduced the odds of a September Fed hike, should keep the Dollar rangebound.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD remains sideways around $65, FOMC takes centre stage]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-sideways-around-65-fomc-takes-centre-stage-202608180707</link>
-            <guid isPermaLink="false">e4a9e7fd-5c48-4d8c-8fbe-4a227088cc6e</guid>
-            <pubDate>Tue, 18 Aug 2026 07:07:24 GMT</pubDate>
-            <description><![CDATA[Silver price (XAG/USD) continues to trade in a limited range at around $65.30 during the European trading session on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CAD Price Forecast: Consolidates below 1.3900 as bears await 200-SMA breakdown]]></title>
-            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-consolidates-below-13900-as-bears-await-200-sma-breakdown-202608180703</link>
-            <guid isPermaLink="false">ab086b57-ebe6-4672-857c-e84654c70643</guid>
-            <pubDate>Tue, 18 Aug 2026 07:03:28 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair struggles to capitalize on the overnight bounce from its lowest level since June 3, around the 1.3845 zone, also representing the 200-day Simple Moving Average (SMA) support, and oscillates in a narrow band on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bearish-computer.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
