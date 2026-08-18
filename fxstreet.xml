@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 23:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 23:59:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar reverses as Iran risks lift USD ahead of Fed minutes]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-reverses-as-iran-risks-lift-usd-ahead-of-fed-minutes-202608182353</link>
+            <guid isPermaLink="false">c4c613dc-d1ea-46e4-b8c8-aa6e76e981f1</guid>
+            <pubDate>Tue, 18 Aug 2026 23:53:01 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar reversed its course against the Greenback on Tuesday as investors remain uncertain of the outcome of the Middle East conflict, which tends to push energy prices higher, increasing the likelihood that major central banks would need to tighten monetary policy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump, Carney hold last-minute talks ahead of new 50% tariffs on Canadian goods]]></title>
+            <link>https://www.fxstreet.com/news/trump-carney-hold-last-minute-talks-ahead-of-new-50-tariffs-on-canadian-goods-202608182340</link>
+            <guid isPermaLink="false">f1e6cd8b-3c41-4e70-99f3-ba26349497a6</guid>
+            <pubDate>Tue, 18 Aug 2026 23:40:17 GMT</pubDate>
+            <description><![CDATA[US President Donald Trump and Canadian Prime Minister Mark Carney are negotiating in an effort to reach an agreement on tariffs, with just hours to go before the United States (US) imposes 50% tariffs on hockey sticks, wine and an array of other Canadian imports, CNBC reported on Tuesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/tariffs-001.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold steadies below $4,350 as surging yields offset support from Fed rate-hold bets]]></title>
             <link>https://www.fxstreet.com/news/gold-steadies-below-4-350-as-surging-yields-offset-support-from-fed-rate-hold-bets-202608182325</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 14:58:57 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Euro (EUR) is resilient around 1.1576, with Germany’s ZEW survey showing improving expectations and a slow recovery backdrop. Short-term EUR/USD technicals are described as bullish, with strong intraday and daily momentum.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound steadies as weak US data counters Iran risk]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-steadies-as-weak-us-data-counters-iran-risk-202608181451</link>
-            <guid isPermaLink="false">d72ea43d-788e-473a-bf72-cb274ca98a67</guid>
-            <pubDate>Tue, 18 Aug 2026 14:51:11 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling steadies on Tuesday as geopolitical tensions rise in the Middle East, while housing data misses estimates and US Industrial Production decelerates. The GBP/USD trades at 1.3547.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold struggles below recent highs as yields and the US Dollar stay firm]]></title>
-            <link>https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051</link>
-            <guid isPermaLink="false">815ce639-a4fc-428c-8b2a-8b224a6d4e4a</guid>
-            <pubDate>Tue, 18 Aug 2026 10:51:51 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) trades under pressure on Tuesday, snapping a two-day winning streak as a firmer US Dollar (USD) and elevated long-term US Treasury yields weigh on the precious metal. At the time of writing, XAU/USD trades around $4,382, down 0.78% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
