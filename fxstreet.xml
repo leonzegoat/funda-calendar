@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 03:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 04:45:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-18500-after-breaking-above-50-day-ema-202608180442</link>
+            <guid isPermaLink="false">2e25f864-29e3-4eb1-a934-afe724d66ea5</guid>
+            <pubDate>Tue, 18 Aug 2026 04:42:17 GMT</pubDate>
+            <description><![CDATA[EUR/JPY extends its winning streak for the fourth successive day, trading around 184.80 during the Asian hours on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608180437</link>
+            <guid isPermaLink="false">6fb27aec-61ea-4014-a714-f41967670631</guid>
+            <pubDate>Tue, 18 Aug 2026 04:37:19 GMT</pubDate>
+            <description><![CDATA[Gold prices fell in India on Tuesday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive]]></title>
+            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-to-near-11350-near-term-outlook-remain-constructive-202608180427</link>
+            <guid isPermaLink="false">9940da2c-161e-4c22-aadf-f651158a9734</guid>
+            <pubDate>Tue, 18 Aug 2026 04:27:48 GMT</pubDate>
+            <description><![CDATA[The AUD/JPY cross trades in positive territory around 113.40 during the early European trading hours on Tuesday. The Japanese Yen (JPY) weakens against the Australian Dollar (AUD) amid mounting fiscal concerns and persistent inflationary pressures.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Bulls retain near two-week top, above $84.00 and 38.2% Fibo.]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-bulls-retain-near-two-week-top-above-8400-and-382-fibo-202608180402</link>
+            <guid isPermaLink="false">36eb118d-6b46-4153-a371-69d22b8f3bac</guid>
+            <pubDate>Tue, 18 Aug 2026 04:02:55 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – enters a bullish consolidation phase after hitting an over two-week high during the Asian session on Tuesday and currently trades around the $84.20 region.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold drifts lower as oil-driven inflation risks and US-Iran tensions bolster USD]]></title>
             <link>https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 20:01:10 GMT</pubDate>
             <description><![CDATA[USD/JPY is close to flat on Monday, holding the mid-159.00s region after a soft Japanese growth report overnight failed to shift it in either direction. The pair has been drifting between support at 158.60 and resistance just above 159.50 for five straight days. This is a standoff, not a trend.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Mild upside bias against US Dollar remains intact – UOB]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-mild-upside-bias-against-us-dollar-remains-intact-uob-202608171953</link>
-            <guid isPermaLink="false">f2ec35be-63ad-477a-92ce-7a227c48b83c</guid>
-            <pubDate>Mon, 17 Aug 2026 19:53:00 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang notes USD/SGD remains under mild downward pressure after slipping to 1.2775 before rebounding. Intraday, the pair may retest 1.2775, but support at 1.2765 is expected to hold.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso softens as Middle East risks boost US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-softens-as-middle-east-risks-boosts-the-us-dollar-202608171952</link>
-            <guid isPermaLink="false">6f76b728-add5-4885-ab32-456dc7a52043</guid>
-            <pubDate>Mon, 17 Aug 2026 19:52:53 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso (MXN) weakens against the US Dollar (USD) on Monday, with USD/MXN reclaiming the 17.00 level, even though the latest US inflation and Retail Sales data disappointed investors. At the time of writing, the USD/MXN pair trades at 17.03, breaking a four-day losing streak.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Policymakers guide measured RMB appreciation – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-policymakers-guide-measured-rmb-appreciation-ocbc-202608171926</link>
-            <guid isPermaLink="false">06775614-aba3-441b-908c-6c91ef5066b5</guid>
-            <pubDate>Mon, 17 Aug 2026 19:26:00 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that USD/CNH is trading near recent lows as Chinese policymakers allow a measured pace of Renminbi (RMB) appreciation while resisting an overly rapid move via a sizeable fixing premium.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United States: Washington hardens AI alignment strategy - Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/united-states-washington-hardens-ai-alignment-strategy-rabobank-202608171852</link>
-            <guid isPermaLink="false">b8100466-1936-4b68-be20-f73004b2934e</guid>
-            <pubDate>Mon, 17 Aug 2026 18:52:08 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Senior Macro Strategist Bas van Geffen describes Washington’s emerging carrot-and-stick approach to artificial intelligence, extending its Pax Silica framework.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Tech_2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
