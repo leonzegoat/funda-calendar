@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 11:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 12:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[European gas: LNG inflows key for prices – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/european-gas-lng-inflows-key-for-prices-commerzbank-202608181157</link>
+            <guid isPermaLink="false">7e4a42c0-7c6a-42ca-8f25-46c7cd91b619</guid>
+            <pubDate>Tue, 18 Aug 2026 11:57:58 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Norman Liebke argues that European gas storage will depend on higher LNG imports over winter, as current inflows of 8 bcm per month would see storages trend toward 0% by March.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold: Higher-rate risk to keep prices range-bound – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/gold-higher-rate-risk-to-keep-prices-range-bound-td-securities-202608181146</link>
+            <guid isPermaLink="false">4ffaf70a-8b7b-47e4-841d-541a1e021c5f</guid>
+            <pubDate>Tue, 18 Aug 2026 11:46:28 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists see Gold supported by doubts over the Federal Reserve (Fed) but with limited near-term upside.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NZD/USD Price Forecast: Kiwi fails to find follow-through above 0.5900 ]]></title>
+            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-fails-to-find-follow-through-above-05900-202608181146</link>
+            <guid isPermaLink="false">9abf4274-48e3-4bc8-a719-e14ef0a957e0</guid>
+            <pubDate>Tue, 18 Aug 2026 11:46:22 GMT</pubDate>
+            <description><![CDATA[The New Zealand Dollar (NZD) trades lower against the US Dollar (USD) on Tuesday, weighed by a moderate risk-averse sentiment as tensions in the Middle East grow.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver retreats toward $65 ahead of Fed Minutes as energy tensions cloud outlook]]></title>
+            <link>https://www.fxstreet.com/news/silver-retreats-toward-65-ahead-of-fed-minutes-as-energy-tensions-cloud-outlook-202608181146</link>
+            <guid isPermaLink="false">1140210d-cbb7-4536-a51a-b8dff118d73c</guid>
+            <pubDate>Tue, 18 Aug 2026 11:46:20 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) declines on Tuesday and trades around $65.00 at the time of writing, down 1.20% on the day. The white metal nevertheless remains trapped within the consolidation range that has dominated trading for about a week, as opposing forces prevent a clear direction from emerging.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Hormuz conflict keeps prices elevated – BNY]]></title>
+            <link>https://www.fxstreet.com/news/oil-hormuz-conflict-keeps-prices-elevated-bny-202608181135</link>
+            <guid isPermaLink="false">2256e76a-5fc4-436b-bf23-21420135bfbb</guid>
+            <pubDate>Tue, 18 Aug 2026 11:35:22 GMT</pubDate>
+            <description><![CDATA[Geoff Yu at BNY notes Brent crude briefly rose above $91.85 per barrel, its highest in over three weeks, as hopes for a rapid reopening of the Strait of Hormuz faded.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Qatar: Iran-Oman bilateral Hormuz agreement needed before US-Iran talks]]></title>
             <link>https://www.fxstreet.com/news/qatar-iran-oman-bilateral-hormuz-agreement-needed-before-us-iran-talks-202608181128</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 08:23:28 GMT</pubDate>
             <description><![CDATA[Dow Jones futures fall by 0.25%, trading around 53,410 during European hours on Tuesday. Meanwhile, S&P 500 futures decline 0.52% to near 7,730, and Nasdaq 100 futures slip 0.92%, trading near 29,820.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_Nasdaq-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Stagnation with stabilisation signs – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-stagnation-with-stabilisation-signs-deutsche-bank-202608180819</link>
-            <guid isPermaLink="false">29647582-515c-405f-9761-889618db6f91</guid>
-            <pubDate>Tue, 18 Aug 2026 08:19:16 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank’s Chief UK Economist Sanjay Raja notes that while the United Kingdom (UK) economy has exceeded expectations, the labour market remains stagnant, with the jobless rate stuck at 4.9% and payrolled employees falling.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold sticks to losses below $4,400 as USD recovers further from two-month low]]></title>
-            <link>https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349</link>
-            <guid isPermaLink="false">c854dcc5-5a1d-4745-ac47-4427253dd7d0</guid>
-            <pubDate>Tue, 18 Aug 2026 03:49:02 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) remains depressed below the $4,400 mark through the first half of the European session on Tuesday, snapping a two-day winning streak amid a broadly firmer US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Fragile recovery tied to US – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-fragile-recovery-tied-to-us-commerzbank-202608180808</link>
-            <guid isPermaLink="false">1e436e2b-781d-4a05-a1fd-197e198897a2</guid>
-            <pubDate>Tue, 18 Aug 2026 08:08:17 GMT</pubDate>
-            <description><![CDATA[Commerzbank FX analyst Michael Pfister highlights that the Canadian Dollar’s recent weakness contrasts with a fragile recovery in Canada’s real economy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-cad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar declines due to increased risk aversion]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-declines-due-to-increased-risk-aversion-202608180804</link>
-            <guid isPermaLink="false">bc2d4d33-7fa3-4023-8bcf-57d2f63d3cb5</guid>
-            <pubDate>Tue, 18 Aug 2026 08:04:50 GMT</pubDate>
-            <description><![CDATA[NZD/USD depreciates after two days of losses, trading around 0.5880 during the European hours on Tuesday. The pair depreciates as the US Dollar (USD) holds ground on safe-haven flows amid escalating geopolitical tensions between the US and Iran.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index extends recovery from two-month low; trades above 99.50]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-extends-recovery-from-two-month-low-trades-above-9950-202608180755</link>
-            <guid isPermaLink="false">45f89e09-d4fb-4ce9-8970-f91e971c18c7</guid>
-            <pubDate>Tue, 18 Aug 2026 07:55:12 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, builds on the overnight goodish rebound from the 99.30 area, or the lowest level since June 5, and gains some follow-through traction on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
