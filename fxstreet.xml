@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 15:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 15:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen stays on the back foot despite hawkish BoJ expectations]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-stays-on-the-back-foot-despite-hawkish-boj-expectations-202608181540</link>
+            <guid isPermaLink="false">194762df-254c-43b3-80d8-8660ba0baeb1</guid>
+            <pubDate>Tue, 18 Aug 2026 15:40:50 GMT</pubDate>
+            <description><![CDATA[USD/JPY extends its sideways movement below the 160.00 psychological mark on Tuesday as the US Dollar (USD) struggles to gain traction.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Copper: Booming prices face supply risks – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/copper-booming-prices-face-supply-risks-commerzbank-202608181509</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 11:13:45 GMT</pubDate>
             <description><![CDATA[ING analysts Ewa Manthey and Warren Patterson highlight that LME Copper has pushed above $14,000/t, approaching record highs as nearby market conditions tighten.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eases-below-4-400-as-us-yields-rally-202608181043</link>
-            <guid isPermaLink="false">9b1c5919-1b3f-48ce-9446-e4f942ebce68</guid>
-            <pubDate>Tue, 18 Aug 2026 10:43:56 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) shows moderate losses on Tuesday, weighed by higher US Treasury yields and a risk-averse sentiment, which has triggered a mild US Dollar recovery.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
