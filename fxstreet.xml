@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 18:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 19:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Flag support rebound keeps bulls alive]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-flag-support-rebound-keeps-bulls-alive-202608181931</link>
+            <guid isPermaLink="false">022d06a2-2642-4876-b5d7-e9a472681dd9</guid>
+            <pubDate>Tue, 18 Aug 2026 19:31:34 GMT</pubDate>
+            <description><![CDATA[The USD/CHF recovers some ground after testing the 50-day Simple Moving Average (SMA) of 0.7866 along with the bottom trendline of the ‘bearish flag’, which so far contained price action amid the lack of conviction of buyers and sellers, regarding the trend’s direction.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Gradual appreciation view – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-gradual-appreciation-view-mufg-202608181900</link>
+            <guid isPermaLink="false">5ac48940-b140-4607-94b8-325248a34d8e</guid>
+            <pubDate>Tue, 18 Aug 2026 19:00:57 GMT</pubDate>
+            <description><![CDATA[MUFG analysts Lin Li and Khang Sek Lee note that July data point to weaker Chinese growth and a widening divergence between the "new" and "traditional" economy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: Strong exports underpin SGD – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-strong-exports-underpin-sgd-commerzbank-202608181841</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 12:30:23 GMT</pubDate>
             <description><![CDATA[Chris Turner at ING describes EUR/USD as contained after a rally stalled just above 1.16, with investors cautious due to high natural gas prices and upcoming FOMC minutes. He expects a 1.1520–1.1580 range near term, while higher energy supports ECB hike expectations.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US ADP Employment Change 4-week average rises to 9.5K as hiring rebounds]]></title>
-            <link>https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-rises-to-95k-as-hiring-rebounds-202608181224</link>
-            <guid isPermaLink="false">42b6da9d-7fdc-456b-9486-90dda75aeb61</guid>
-            <pubDate>Tue, 18 Aug 2026 12:24:41 GMT</pubDate>
-            <description><![CDATA[Private-sector hiring in the United States (US) shows tentative signs of improvement in early August. According to the NER Pulse, the weekly companion to the ADP National Employment Report, private employers added an average of 9.5K jobs per week in the four weeks ending August 1.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-clock.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: War-linked range trading outlook – BBH]]></title>
-            <link>https://www.fxstreet.com/news/brent-war-linked-range-trading-outlook-bbh-202608181219</link>
-            <guid isPermaLink="false">54895da4-4613-4e53-8961-013f8535db94</guid>
-            <pubDate>Tue, 18 Aug 2026 12:19:47 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes Brent crude has rallied above $91 as the US–Iran Strait of Hormuz standoff persists. Haddad argues crude Oil is driving the war narrative and expects price swings to steer escalation risks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
