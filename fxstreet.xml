@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 21:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 21:39:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chinese Yuan: Sideways range holds against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-sideways-range-holds-against-us-dollar-uob-202608182102</link>
+            <guid isPermaLink="false">a04cf0f7-a710-4246-a779-476c1ad5c405</guid>
+            <pubDate>Tue, 18 Aug 2026 21:02:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann note that USD/CNH has been trading quietly, with intraday ranges clustered around current levels.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[South Korean Won: Bearish Won view with 1,400 support – TD Securities]]></title>
             <link>https://www.fxstreet.com/news/south-korean-won-bearish-won-view-with-1-400-support-td-securities-202608182024</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 13:19:12 GMT</pubDate>
             <description><![CDATA[EUR/USD consolidates losses on Tuesday after pulling back from a two-month high of 1.1614 reached the previous day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Tariff distortions unwind, prices seen lower – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/copper-tariff-distortions-unwind-prices-seen-lower-td-securities-202608181315</link>
-            <guid isPermaLink="false">291ab5fb-c8b1-4dc7-9a8d-102f1029f95e</guid>
-            <pubDate>Tue, 18 Aug 2026 13:15:12 GMT</pubDate>
-            <description><![CDATA[TD Securities analysts describe Copper’s current strength as driven by speculative positioning, tariff-related arbitrage and supply disruption headlines rather than genuine global shortage.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
