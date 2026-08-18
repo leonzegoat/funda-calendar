@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 04:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 05:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indian Rupee ticks up on possible RBI’s intervention]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534</link>
+            <guid isPermaLink="false">4c071a6c-f98a-4f03-be5a-f3987c301080</guid>
+            <pubDate>Tue, 18 Aug 2026 05:34:57 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) edges up against the US Dollar (USD) on Tuesday. The USD/INR ticks lower to near 95.67 after refreshing the three-week high at 95.85 in the opening session. The Indian currency has gained slight strength due to potential Reserve Bank of India’s (RBI) intervention.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro declines below 1.1600 on US-Iran war worries]]></title>
+            <link>https://www.fxstreet.com/news/euro-declines-below-11600-on-us-iran-war-worries-202608180520</link>
+            <guid isPermaLink="false">ec8f6f41-0870-44cf-93f7-59de6dc2a5e8</guid>
+            <pubDate>Tue, 18 Aug 2026 05:20:52 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair loses traction to around 1.1575, snapping the three-day winning streak during the early European session on Tuesday. The Euro (EUR) edges lower against the US Dollar (USD) as traders remain cautious about the US-Iran conflict and the closure of the Strait of Hormuz. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold slides below $4,400 as oil-fueled inflation risks and US-Iran tensions bolster USD]]></title>
+            <link>https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349</link>
+            <guid isPermaLink="false">c854dcc5-5a1d-4745-ac47-4427253dd7d0</guid>
+            <pubDate>Tue, 18 Aug 2026 03:49:02 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) extends its intraday descent and slides back below the $4,400 mark during the Asian session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-bulls-seem-hesitant-near-07100-as-usd-recovers-from-two-month-low-202608180449</link>
+            <guid isPermaLink="false">2fa2e4cb-7632-4dec-add8-acd2a50fd674</guid>
+            <pubDate>Tue, 18 Aug 2026 04:49:08 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair turns lower following a modest Asian session uptick on Tuesday, awaiting a break below the 0.7100 mark before extending the previous day's retracement from the highest level since June 5.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA]]></title>
             <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-18500-after-breaking-above-50-day-ema-202608180442</link>
@@ -38,14 +70,6 @@
             <pubDate>Tue, 18 Aug 2026 04:02:55 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – enters a bullish consolidation phase after hitting an over two-week high during the Asian session on Tuesday and currently trades around the $84.20 region.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold drifts lower as oil-driven inflation risks and US-Iran tensions bolster USD]]></title>
-            <link>https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349</link>
-            <guid isPermaLink="false">c854dcc5-5a1d-4745-ac47-4427253dd7d0</guid>
-            <pubDate>Tue, 18 Aug 2026 03:49:02 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) attracts some sellers following a modest Asian session uptick on Tuesday, stalling a two-day move higher from the $4,300 neighborhood.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[UKMTO reports incident in the Strait of Hormuz — Reuters]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 20:58:00 GMT</pubDate>
             <description><![CDATA[TD Securities’ Alex Loo highlights that China’s July data showed weaker industrial production, modest retail sales and record-weak Fixed Assets Investment, reinforcing concerns about insufficient domestic demand.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar sags to two-month lows as Middle East risk lifts Oil and Gold]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-sags-to-two-month-lows-as-middle-east-risk-lifts-oil-and-gold-202608172022</link>
-            <guid isPermaLink="false">2467d0c2-4789-4b36-88c2-51dcf6bbe79b</guid>
-            <pubDate>Mon, 17 Aug 2026 20:22:19 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) starts the week on the back foot, with the US Dollar Index (DXY) slipping toward two-month lows and holding below the 100.00 mark. August's run of underwhelming US data jobs, inflation and retail sales has steadily trimmed bets on a Federal Reserve (Fed) move next month. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah: BI expected to extend policy pause – BBH]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-expected-to-extend-policy-pause-bbh-202608172021</link>
-            <guid isPermaLink="false">6a77ef65-f2d0-40eb-8d7b-4599fb20f78f</guid>
-            <pubDate>Mon, 17 Aug 2026 20:21:00 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects Bank Indonesia (BI) to keep its policy rate at 5.75% for a second straight meeting after 100 bps of tightening since May.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-55.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen muted on a soft US Dollar note]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-muted-on-a-soft-us-dollar-note-202608172001</link>
-            <guid isPermaLink="false">941bcb2f-1f7f-4576-83ba-26935658a0ec</guid>
-            <pubDate>Mon, 17 Aug 2026 20:01:10 GMT</pubDate>
-            <description><![CDATA[USD/JPY is close to flat on Monday, holding the mid-159.00s region after a soft Japanese growth report overnight failed to shift it in either direction. The pair has been drifting between support at 158.60 and resistance just above 159.50 for five straight days. This is a standoff, not a trend.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
