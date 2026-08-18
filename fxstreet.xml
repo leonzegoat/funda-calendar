@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 19:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 20:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South Korean Won: Bearish Won view with 1,400 support – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-bearish-won-view-with-1-400-support-td-securities-202608182024</link>
+            <guid isPermaLink="false">69f51866-95af-4d42-b676-8e143387e927</guid>
+            <pubDate>Tue, 18 Aug 2026 20:24:48 GMT</pubDate>
+            <description><![CDATA[TD Securities turns bearish on the Korean Won, arguing USD/KRW is likely to find support around 1,400 as prior KRW strength fades.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Flag support rebound keeps bulls alive]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-flag-support-rebound-keeps-bulls-alive-202608181931</link>
+            <guid isPermaLink="false">022d06a2-2642-4876-b5d7-e9a472681dd9</guid>
+            <pubDate>Tue, 18 Aug 2026 19:31:34 GMT</pubDate>
+            <description><![CDATA[The USD/CHF pair recovers some ground on Tuesday after testing the 50-day Simple Moving Average (SMA) of 0.7866 along with the bottom trendline of the ‘bearish flag’, which so far contained price action amid the lack of conviction of buyers and sellers, regarding the trend’s direction.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Forex Today: US Dollar firms on Hormuz jitters ahead of UK CPI and FOMC Minutes]]></title>
             <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-on-hormuz-jitters-ahead-of-uk-cpi-and-fomc-minutes-202608181954</link>
@@ -22,14 +38,6 @@
             <pubDate>Tue, 18 Aug 2026 19:35:48 GMT</pubDate>
             <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD rebounded after a sharper-than-expected drop to 1.2752, easing immediate downside pressure and pointing to intraday consolidation between 1.2760 and 1.2795.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Flag support rebound keeps bulls alive]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-flag-support-rebound-keeps-bulls-alive-202608181931</link>
-            <guid isPermaLink="false">022d06a2-2642-4876-b5d7-e9a472681dd9</guid>
-            <pubDate>Tue, 18 Aug 2026 19:31:34 GMT</pubDate>
-            <description><![CDATA[The USD/CHF pair recovers some ground on Tuesday after testing the 50-day Simple Moving Average (SMA) of 0.7866 along with the bottom trendline of the ‘bearish flag’, which so far contained price action amid the lack of conviction of buyers and sellers, regarding the trend’s direction.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-object.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Chinese Yuan: Gradual appreciation view – MUFG]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 13:15:12 GMT</pubDate>
             <description><![CDATA[TD Securities analysts describe Copper’s current strength as driven by speculative positioning, tariff-related arbitrage and supply disruption headlines rather than genuine global shortage.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar: Market overpricing RBNZ hikes – BNY]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-market-overpricing-rbnz-hikes-bny-202608181256</link>
-            <guid isPermaLink="false">29f3d79b-0022-479b-8100-9cdedf844bb5</guid>
-            <pubDate>Tue, 18 Aug 2026 12:56:44 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu highlights that foreign holdings of New Zealand government bonds rose to 58.9% in July 2026, while NZD/USD trades slightly above its 12‑month average.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
