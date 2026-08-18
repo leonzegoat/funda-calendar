@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 05:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 06:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[United Kingdom Unemployment Rate stays at 4.9% in June vs. 4.8% expected]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-unemployment-rate-stays-at-49-in-june-vs-48-expected-202608180602</link>
+            <guid isPermaLink="false">1daa5fa7-fff1-4b35-bd51-c4d2e78727d8</guid>
+            <pubDate>Tue, 18 Aug 2026 06:02:04 GMT</pubDate>
+            <description><![CDATA[The United Kingdom’s (UK) ILO Unemployment Rate stayed at 4.9% in the three months to June after reporting 4.9% in the previous reading, data published by the Office for National Statistics (ONS) showed on Tuesday. The data came in above the market consensus of 4.8%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah holds weak footing ahead of looming BI policy decision]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-holds-weak-footing-ahead-of-looming-bi-policy-decision-202608180601</link>
+            <guid isPermaLink="false">882927fc-1a3e-426e-9644-58aba8233d7a</guid>
+            <pubDate>Tue, 18 Aug 2026 06:01:11 GMT</pubDate>
+            <description><![CDATA[USD/IDR remains in the positive territory after experiencing volatility, trading around 17,900 during the Asian hours on Tuesday. The pair continues to draw support from a weakening Indonesian Rupiah (IDR), driven by cautious domestic sentiment ahead of Bank Indonesia’s (BI) two-day policy meeting.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc edges lower as US Dollar rebounds, FOMC minutes in focus]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-edges-lower-as-us-dollar-rebounds-fomc-minutes-in-focus-202608180554</link>
+            <guid isPermaLink="false">b8e88344-fbdb-4937-ba97-eb7144880f77</guid>
+            <pubDate>Tue, 18 Aug 2026 05:54:32 GMT</pubDate>
+            <description><![CDATA[The Swiss Franc (CHF) trades marginally lower against the US Dollar (USD) in the early European trading session on Tuesday, with the USD/CHF pair edging up to near 0.8116.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indian Rupee ticks up on possible RBI’s intervention]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 20:45:51 GMT</pubDate>
             <description><![CDATA[US Treasury yields advance on Monday during the North American session after reversing their course following the release of US Retail Sales data last week, which disappointed investors.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Bonk_Bull.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dow Jones Industrial Average prices the war last]]></title>
-            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-prices-the-war-last-202608172156</link>
-            <guid isPermaLink="false">2850a1c2-655e-4777-abd0-2dbcc45b70fa</guid>
-            <pubDate>Mon, 17 Aug 2026 21:56:57 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average gave up close to 260 points to beneath 53,500, roughly half a percent lower, on the day the 60-day negotiating window meant to end the war over the Strait of Hormuz expired with nothing agreed to replace it.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar stalls as China slows down]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-stalls-as-china-slows-down-202608172134</link>
-            <guid isPermaLink="false">5611a297-d364-44f7-8a77-93a4fcd4ad5e</guid>
-            <pubDate>Mon, 17 Aug 2026 21:34:24 GMT</pubDate>
-            <description><![CDATA[NZD/USD is close to flat on the day, holding the 0.5900 region and unable to join the broader move against a soft US Dollar (USD). ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[China: Growth risks and stimulus watch – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/china-growth-risks-and-stimulus-watch-td-securities-202608172058</link>
-            <guid isPermaLink="false">db4f4bd1-d195-43bf-a6a3-3b32fd20110e</guid>
-            <pubDate>Mon, 17 Aug 2026 20:58:00 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Alex Loo highlights that China’s July data showed weaker industrial production, modest retail sales and record-weak Fixed Assets Investment, reinforcing concerns about insufficient domestic demand.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
