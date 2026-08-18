@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 09:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 10:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro ticks higher against the British Pound after upbeat German economic sentiment ]]></title>
+            <link>https://www.fxstreet.com/news/euro-ticks-higher-against-the-british-pound-after-upbeat-german-economic-sentiment-202608180952</link>
+            <guid isPermaLink="false">04adaa09-acb8-4343-af13-0d9b6816357e</guid>
+            <pubDate>Tue, 18 Aug 2026 09:52:15 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) nudges higher against the British Pound (GBP) on Tuesday, buoyed by positive German economic sentiment figures while, in the UK, June’s employment report failed to convince investors.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Bearish bias within tight range against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-bearish-bias-within-tight-range-against-us-dollar-uob-202608180947</link>
+            <guid isPermaLink="false">e026ea17-da47-43c9-b1f4-94845ada8a57</guid>
+            <pubDate>Tue, 18 Aug 2026 09:47:49 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/JPY’s slight increase in upward momentum after trading between 158.82 and 159.59 still falls short of signaling a sustained advance, keeping intraday price action likely confined to 159.00–159.80.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thailand: Middle East shock tests growth – DBS]]></title>
             <link>https://www.fxstreet.com/news/thailand-middle-east-shock-tests-growth-dbs-202608180931</link>
@@ -36,7 +52,7 @@
             <link>https://www.fxstreet.com/news/euro-remains-subdued-following-german-zew-survey-data-202608180923</link>
             <guid isPermaLink="false">65ec9104-2dc1-4acb-a66f-0fef51225c11</guid>
             <pubDate>Tue, 18 Aug 2026 09:23:43 GMT</pubDate>
-            <description><![CDATA[EUR/CAD depreciates after three days of gains, trading around 1.1570 during the European hours on Tuesday. The pair loses ground as the Euro (EUR) remains subdued following the release of German ZEW Survey data.]]></description>
+            <description><![CDATA[EUR/USD depreciates after three days of gains, trading around 1.1570 during the European hours on Tuesday. The pair loses ground as the Euro (EUR) remains subdued following the release of German ZEW Survey data.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 07:03:28 GMT</pubDate>
             <description><![CDATA[The USD/CAD pair struggles to capitalize on the overnight bounce from its lowest level since June 3, around the 1.3845 zone, also representing the 200-day Simple Moving Average (SMA) support, and oscillates in a narrow band on Tuesday.]]></description>
             <enclosure url="https://editorial.fxstreet.com/images/i/bearish-computer.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: Mood sours as Middle East tensions come back under spotlight]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-mood-sours-as-middle-east-tensions-come-back-under-spotlight-202608180700</link>
-            <guid isPermaLink="false">13bf82a0-36ba-48e1-9cc9-af8fa5dff1e8</guid>
-            <pubDate>Tue, 18 Aug 2026 07:00:14 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Tuesday, August 18:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/oil-war-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: Stagflation fears weigh on US stocks – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-stagflation-fears-weigh-on-us-stocks-deutsche-bank-202608180649</link>
-            <guid isPermaLink="false">0ef8a1e9-d820-4af2-b769-bd10378cbc27</guid>
-            <pubDate>Tue, 18 Aug 2026 06:49:32 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists note that rising oil prices are reinforcing stagflation concerns and weighing on equities globally.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
