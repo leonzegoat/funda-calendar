@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 10:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 11:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Qatar: Iran-Oman bilateral Hormuz agreement needed before US-Iran talks]]></title>
+            <link>https://www.fxstreet.com/news/qatar-iran-oman-bilateral-hormuz-agreement-needed-before-us-iran-talks-202608181128</link>
+            <guid isPermaLink="false">eee67b83-2909-4ad7-a03e-0bd52175b62e</guid>
+            <pubDate>Tue, 18 Aug 2026 11:28:52 GMT</pubDate>
+            <description><![CDATA[Qatar’s Foreign Ministry spokesperson, Majed Al-Ansari, said the mediators are waiting for Oman and Iran to reach a bilateral agreement on the Strait of Hormuz, a critical chokepoint to almost 20% of global energy supply, before returning to broader United States (US)-Iran talks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Qatar_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Safe haven status faces debt-market strains – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-safe-haven-status-faces-debt-market-strains-rabobank-202608181124</link>
+            <guid isPermaLink="false">dcdd6825-22c5-44e2-86e3-1b5fba3372c2</guid>
+            <pubDate>Tue, 18 Aug 2026 11:24:10 GMT</pubDate>
+            <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley discusses how rising global bond yields and mounting concerns over United States (US) fiscal discipline are challenging the traditional safe haven role of US Treasuries and the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee remains weak due to sudden FCNR (B) closure, higher oil prices]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534</link>
+            <guid isPermaLink="false">4c071a6c-f98a-4f03-be5a-f3987c301080</guid>
+            <pubDate>Tue, 18 Aug 2026 05:34:57 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) trades with caution against the US Dollar (USD) on Tuesday. The USD/INR is close to its fresh three-week high of 95.85 despite potential Reserve Bank of India (RBI) intervention.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: Aims to extend rally above 160.00]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-aims-to-extend-rally-above-16000-202608181115</link>
+            <guid isPermaLink="false">e50bc179-9443-403e-a33e-681a77204c56</guid>
+            <pubDate>Tue, 18 Aug 2026 11:15:08 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) underperforms its major currency peers on Tuesday, with USD/JPY trading 0.16% higher at around 159.70 during the European trading session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Copper: Squeeze deepens on tight supply – ING]]></title>
+            <link>https://www.fxstreet.com/news/copper-squeeze-deepens-on-tight-supply-ing-202608181113</link>
+            <guid isPermaLink="false">961b2506-d2ae-4524-874d-6ed36ee06cec</guid>
+            <pubDate>Tue, 18 Aug 2026 11:13:45 GMT</pubDate>
+            <description><![CDATA[ING analysts Ewa Manthey and Warren Patterson highlight that LME Copper has pushed above $14,000/t, approaching record highs as nearby market conditions tighten.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold falls as rising US Treasury yields strengthen the US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051</link>
+            <guid isPermaLink="false">815ce639-a4fc-428c-8b2a-8b224a6d4e4a</guid>
+            <pubDate>Tue, 18 Aug 2026 10:51:51 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) attracts sellers on Tuesday, snapping a two-day winning streak as a firmer US Dollar (USD) and rising long-term US Treasury yields weigh on the precious metal. At the time of writing, XAU/USD trades around $4,393, down 0.50% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally]]></title>
             <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eases-below-4-400-as-us-yields-rally-202608181043</link>
@@ -54,14 +102,6 @@
             <pubDate>Tue, 18 Aug 2026 09:31:09 GMT</pubDate>
             <description><![CDATA[Silver prices (XAG/USD) fell on Tuesday, according to FXStreet data. Silver trades at $64.97 per troy ounce, down 1.25% from the $65.79 it cost on Monday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee remains weak due to higher oil prices, RBI closes FCNR (B) window]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534</link>
-            <guid isPermaLink="false">4c071a6c-f98a-4f03-be5a-f3987c301080</guid>
-            <pubDate>Tue, 18 Aug 2026 05:34:57 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) trades with caution against the US Dollar (USD) on Tuesday. The USD/INR is close to its fresh three-week high of 95.85 despite potential Reserve Bank of India (RBI) intervention.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Euro remains subdued following German ZEW Survey data]]></title>
@@ -128,7 +168,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fiscal concerns and doubts on Fed independence send US yields to long-term highs]]></title>
+            <title><![CDATA[Fiscal concerns and doubts on Fed independence send US yields to 19-year highs]]></title>
             <link>https://www.fxstreet.com/news/fiscal-concerns-and-doubts-on-fed-independence-send-us-yields-to-long-term-highs-202608180853</link>
             <guid isPermaLink="false">cf18c6fc-6ff9-4d7c-a05d-96235cb67604</guid>
             <pubDate>Tue, 18 Aug 2026 08:53:14 GMT</pubDate>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 07:55:12 GMT</pubDate>
             <description><![CDATA[The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, builds on the overnight goodish rebound from the 99.30 area, or the lowest level since June 5, and gains some follow-through traction on Tuesday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/JPY Price Forecast: Pound steadies below the 216.35 resistance area]]></title>
-            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-pound-steadies-below-the-21635-resistance-area-202608180750</link>
-            <guid isPermaLink="false">0d56937f-7b99-4c81-9c52-cd334db1bb4f</guid>
-            <pubDate>Tue, 18 Aug 2026 07:50:18 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) edges higher against the Japanese Yen (JPY) on Tuesday and extends gains for the third consecutive day, despite the mixed UK employment figures seen earlier on the day.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bullish-hill.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Upside risk targets 0.7150 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-upside-risk-targets-07150-against-us-dollar-uob-202608180743</link>
-            <guid isPermaLink="false">209fc778-6e34-4f15-80fc-bca1be09b079</guid>
-            <pubDate>Tue, 18 Aug 2026 07:43:13 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that AUD/USD strength remains intact after a jump to 0.7129, though overbought conditions should confine intraday moves to a 0.7090–0.7130 band.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Softer as jobs data cools hikes – ING]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-softer-as-jobs-data-cools-hikes-ing-202608180721</link>
-            <guid isPermaLink="false">3c4bf680-6aac-4ffa-b2c5-cf7fcc13fd23</guid>
-            <pubDate>Tue, 18 Aug 2026 07:21:38 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner reports a firmer EUR/GBP after UK labour data, with economist James Smith highlighting a cool jobs market and minimal wage pressures, implying little impetus for Bank of England hikes this year.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen hits drift closer to the key 160.00 level as risk appetite fades]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-hits-drift-closer-to-the-key-16000-level-as-risk-appetite-fades-202608180715</link>
-            <guid isPermaLink="false">353631ee-5a29-4323-b5a6-370f40021250</guid>
-            <pubDate>Tue, 18 Aug 2026 07:15:15 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) accelerates its decline as the US Dollar (USD) draws support from a sourer market mood, with investors wary of a re-escalation of tensions in the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Carry-supported but rangebound near term – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-carry-supported-but-rangebound-near-term-ocbc-202608180708</link>
-            <guid isPermaLink="false">3836331f-2615-43ee-bd41-1fb9c4575487</guid>
-            <pubDate>Tue, 18 Aug 2026 07:08:51 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that still-attractive US Dollar (USD) carry and softer United States (US) data, which have reduced the odds of a September Fed hike, should keep the Dollar rangebound.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
