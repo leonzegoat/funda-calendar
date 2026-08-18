@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 14:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Copper: Booming prices face supply risks – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/copper-booming-prices-face-supply-risks-commerzbank-202608181509</link>
+            <guid isPermaLink="false">8b8e34c3-f97c-44a6-9662-3ffa36cd262e</guid>
+            <pubDate>Tue, 18 Aug 2026 15:09:10 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Barbara Lambrecht highlights that Copper prices on the LME are close to record highs, with an unusually large cash–3‑month spread driven by falling LME stocks and tariff-related pre‑emptive buying in the US.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Bullish momentum targets mid-1.17s – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/euro-bullish-momentum-targets-mid-117s-scotiabank-202608181458</link>
+            <guid isPermaLink="false">0cbfedc1-fe1e-428c-85b4-129fdf20008f</guid>
+            <pubDate>Tue, 18 Aug 2026 14:58:57 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Euro (EUR) is resilient around 1.1576, with Germany’s ZEW survey showing improving expectations and a slow recovery backdrop. Short-term EUR/USD technicals are described as bullish, with strong intraday and daily momentum.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound steadies as weak US data counters Iran risk]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-steadies-as-weak-us-data-counters-iran-risk-202608181451</link>
+            <guid isPermaLink="false">d72ea43d-788e-473a-bf72-cb274ca98a67</guid>
+            <pubDate>Tue, 18 Aug 2026 14:51:11 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling steadies on Tuesday as geopolitical tensions rise in the Middle East, while housing data misses estimates and US Industrial Production decelerates. The GBP/USD trades at 1.3547.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold struggles below recent highs as yields and the US Dollar stay firm]]></title>
+            <link>https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051</link>
+            <guid isPermaLink="false">815ce639-a4fc-428c-8b2a-8b224a6d4e4a</guid>
+            <pubDate>Tue, 18 Aug 2026 10:51:51 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) trades under pressure on Tuesday, snapping a two-day winning streak as a firmer US Dollar (USD) and elevated long-term US Treasury yields weigh on the precious metal. At the time of writing, XAU/USD trades around $4,382, down 0.78% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Oil: Tight market keeps Brent elevated – TD Securities]]></title>
             <link>https://www.fxstreet.com/news/oil-tight-market-keeps-brent-elevated-td-securities-202608181439</link>
@@ -94,14 +126,6 @@
             <pubDate>Tue, 18 Aug 2026 12:40:49 GMT</pubDate>
             <description><![CDATA[Rabobank’s Mauricio Une and Renan Alves note softer United States (US) inflation and cooling labor data, giving the Federal Reserve (Fed) more time to assess policy.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold falls as rising US Treasury yields strengthen the US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051</link>
-            <guid isPermaLink="false">815ce639-a4fc-428c-8b2a-8b224a6d4e4a</guid>
-            <pubDate>Tue, 18 Aug 2026 10:51:51 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) remains on the back foot at the start of American trading hours on Tuesday, snapping a two-day winning streak as a firmer US Dollar (USD) and rising long-term US Treasury yields weigh on the precious metal. At the time of writing, XAU/USD trades around $4,396, down 0.47% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Euro: Range-bound before FOMC against US Dollar – ING]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 10:43:56 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) shows moderate losses on Tuesday, weighed by higher US Treasury yields and a risk-averse sentiment, which has triggered a mild US Dollar recovery.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Growing role as funding currency – ING]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-growing-role-as-funding-currency-ing-202608181003</link>
-            <guid isPermaLink="false">31bdfa4c-ff14-4dcf-9813-74234cf5edb3</guid>
-            <pubDate>Tue, 18 Aug 2026 10:03:46 GMT</pubDate>
-            <description><![CDATA[Chris Turner at ING highlights low volatility weighing on the Swiss Franc (CHF) and Japanese Yen (JPY), with investors increasingly favouring franc funding to avoid potential Yen intervention. Short CHF/JPY is seen as a carry-positive way to express a Yen view.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-chf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro ticks higher against the British Pound after upbeat German economic sentiment ]]></title>
-            <link>https://www.fxstreet.com/news/euro-ticks-higher-against-the-british-pound-after-upbeat-german-economic-sentiment-202608180952</link>
-            <guid isPermaLink="false">04adaa09-acb8-4343-af13-0d9b6816357e</guid>
-            <pubDate>Tue, 18 Aug 2026 09:52:15 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) nudges higher against the British Pound (GBP) on Tuesday, buoyed by positive German economic sentiment figures while, in the UK, June’s employment report failed to convince investors.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Bearish bias within tight range against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-bearish-bias-within-tight-range-against-us-dollar-uob-202608180947</link>
-            <guid isPermaLink="false">e026ea17-da47-43c9-b1f4-94845ada8a57</guid>
-            <pubDate>Tue, 18 Aug 2026 09:47:49 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/JPY’s slight increase in upward momentum after trading between 158.82 and 159.59 still falls short of signaling a sustained advance, keeping intraday price action likely confined to 159.00–159.80.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
