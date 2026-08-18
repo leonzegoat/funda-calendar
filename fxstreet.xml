@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 12:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 13:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar: Market overpricing RBNZ hikes – BNY]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-market-overpricing-rbnz-hikes-bny-202608181256</link>
+            <guid isPermaLink="false">29f3d79b-0022-479b-8100-9cdedf844bb5</guid>
+            <pubDate>Tue, 18 Aug 2026 12:56:44 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu highlights that foreign holdings of New Zealand government bonds rose to 58.9% in July 2026, while NZD/USD trades slightly above its 12‑month average.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazilian Real: Fiscal risks point to weakness against US Dollar - Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/brazilian-real-fiscal-risks-point-to-weakness-against-us-dollar-rabobank-202608181240</link>
+            <guid isPermaLink="false">92664595-61db-4992-8668-b0e88912c998</guid>
+            <pubDate>Tue, 18 Aug 2026 12:40:49 GMT</pubDate>
+            <description><![CDATA[Rabobank’s Mauricio Une and Renan Alves note softer United States (US) inflation and cooling labor data, giving the Federal Reserve (Fed) more time to assess policy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold falls as rising US Treasury yields strengthen the US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051</link>
+            <guid isPermaLink="false">815ce639-a4fc-428c-8b2a-8b224a6d4e4a</guid>
+            <pubDate>Tue, 18 Aug 2026 10:51:51 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) remains on the back foot at the start of American trading hours on Tuesday, snapping a two-day winning streak as a firmer US Dollar (USD) and rising long-term US Treasury yields weigh on the precious metal. At the time of writing, XAU/USD trades around $4,396, down 0.47% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Range-bound before FOMC against US Dollar – ING]]></title>
+            <link>https://www.fxstreet.com/news/euro-range-bound-before-fomc-against-us-dollar-ing-202608181230</link>
+            <guid isPermaLink="false">d03f7ae5-56d4-4e28-8b3f-53a5074c8fca</guid>
+            <pubDate>Tue, 18 Aug 2026 12:30:23 GMT</pubDate>
+            <description><![CDATA[Chris Turner at ING describes EUR/USD as contained after a rally stalled just above 1.16, with investors cautious due to high natural gas prices and upcoming FOMC minutes. He expects a 1.1520–1.1580 range near term, while higher energy supports ECB hike expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US ADP Employment Change 4-week average rises to 9.5K as hiring rebounds]]></title>
+            <link>https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-rises-to-95k-as-hiring-rebounds-202608181224</link>
+            <guid isPermaLink="false">42b6da9d-7fdc-456b-9486-90dda75aeb61</guid>
+            <pubDate>Tue, 18 Aug 2026 12:24:41 GMT</pubDate>
+            <description><![CDATA[Private-sector hiring in the United States (US) shows tentative signs of improvement in early August. According to the NER Pulse, the weekly companion to the ADP National Employment Report, private employers added an average of 9.5K jobs per week in the four weeks ending August 1.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-clock.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brent: War-linked range trading outlook – BBH]]></title>
+            <link>https://www.fxstreet.com/news/brent-war-linked-range-trading-outlook-bbh-202608181219</link>
+            <guid isPermaLink="false">54895da4-4613-4e53-8961-013f8535db94</guid>
+            <pubDate>Tue, 18 Aug 2026 12:19:47 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes Brent crude has rallied above $91 as the US–Iran Strait of Hormuz standoff persists. Haddad argues crude Oil is driving the war narrative and expects price swings to steer escalation risks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar remains resilient as Oil strength counters firmer US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-remains-resilient-as-oil-strength-counters-firmer-us-dollar-202608181216</link>
+            <guid isPermaLink="false">1a1c35ec-462f-4cc9-84db-9ec3275e8ee5</guid>
+            <pubDate>Tue, 18 Aug 2026 12:16:05 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades little changed on Tuesday as rising long-term US Treasury yields lift the US Dollar (USD), while elevated Oil prices underpin the commodity-linked Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3874, near levels last seen in early June.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-neutral-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[European gas: LNG inflows key for prices – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/european-gas-lng-inflows-key-for-prices-commerzbank-202608181157</link>
@@ -86,14 +142,6 @@
             <pubDate>Tue, 18 Aug 2026 11:13:45 GMT</pubDate>
             <description><![CDATA[ING analysts Ewa Manthey and Warren Patterson highlight that LME Copper has pushed above $14,000/t, approaching record highs as nearby market conditions tighten.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold falls as rising US Treasury yields strengthen the US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051</link>
-            <guid isPermaLink="false">815ce639-a4fc-428c-8b2a-8b224a6d4e4a</guid>
-            <pubDate>Tue, 18 Aug 2026 10:51:51 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) attracts sellers on Tuesday, snapping a two-day winning streak as a firmer US Dollar (USD) and rising long-term US Treasury yields weigh on the precious metal. At the time of writing, XAU/USD trades around $4,393, down 0.50% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 09:02:34 GMT</pubDate>
             <description><![CDATA[German ZEW Survey - Economic Sentiment arrives at 34.2 in August, beating the estimates of 30.0 and the July reading of 26.3.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/german-bank-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Dovish Fed repricing versus strong flows – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-dovish-fed-repricing-versus-strong-flows-bbh-202608180858</link>
-            <guid isPermaLink="false">c633e404-32c5-45be-bc2c-c3ae9ee62329</guid>
-            <pubDate>Tue, 18 Aug 2026 08:58:04 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights a mixed backdrop for the Dollar, with dovish Federal Reserve (Fed) repricing seen capping US Dollar (USD) rebounds even as foreign demand remains strong.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fiscal concerns and doubts on Fed independence send US yields to 19-year highs]]></title>
-            <link>https://www.fxstreet.com/news/fiscal-concerns-and-doubts-on-fed-independence-send-us-yields-to-long-term-highs-202608180853</link>
-            <guid isPermaLink="false">cf18c6fc-6ff9-4d7c-a05d-96235cb67604</guid>
-            <pubDate>Tue, 18 Aug 2026 08:53:14 GMT</pubDate>
-            <description><![CDATA[US Treasury yields keep rising across the curve this week, with the yield for the 30-year Treasury bond reaching its highest level since 2007, during the global financial crisis, at 5.33% so far on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Rally extends above $91/bbl – ING]]></title>
-            <link>https://www.fxstreet.com/news/brent-rally-extends-above-91-bbl-ing-202608180847</link>
-            <guid isPermaLink="false">d6dcaf9f-2029-4c93-9015-76c42c76294f</guid>
-            <pubDate>Tue, 18 Aug 2026 08:47:26 GMT</pubDate>
-            <description><![CDATA[ING strategists Ewa Manthey and Warren Patterson note that Brent Oil has extended its rally, trading above $91/bbl as geopolitical risks and supply concerns support prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Overvaluation and energy risks weigh against US Dollar – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/euro-overvaluation-and-energy-risks-weigh-against-us-dollar-mufg-202608180836</link>
-            <guid isPermaLink="false">36b2d752-ee4a-442f-ac22-37ca7e5f2c04</guid>
-            <pubDate>Tue, 18 Aug 2026 08:36:52 GMT</pubDate>
-            <description><![CDATA[MUFG’s Halpenny notes that EUR/USD remains capped near its 200-day moving average at 1.1630 and is 2.5%-3.0% overvalued in the bank’s short-term model.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/USD Price Forecast: Holds breakout near 0.7100]]></title>
-            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-holds-breakout-near-07100-202608180825</link>
-            <guid isPermaLink="false">eb1d0116-2eba-4f4b-846c-be055898151f</guid>
-            <pubDate>Tue, 18 Aug 2026 08:25:15 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) trades almost flat at around 0.7100 against the US Dollar (USD) during the European trading session on Tuesday, but is close to its over two-month high of 0.7130 posted on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-70.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures drop as soaring US yields, US-Iran friction rattle markets]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-drop-as-soaring-us-yields-us-iran-friction-rattle-markets-202608180823</link>
-            <guid isPermaLink="false">52fb1fb7-4f42-47a8-b235-f9d2cef09454</guid>
-            <pubDate>Tue, 18 Aug 2026 08:23:28 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures fall by 0.25%, trading around 53,410 during European hours on Tuesday. Meanwhile, S&P 500 futures decline 0.52% to near 7,730, and Nasdaq 100 futures slip 0.92%, trading near 29,820.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_Nasdaq-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
