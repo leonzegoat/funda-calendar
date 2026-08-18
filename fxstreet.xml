@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 23:59:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 01:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[British Pound gathers strength to near 1.3550 as Fed hike bets fade, UK jobs data loom]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-gathers-strength-to-near-13550-as-fed-hike-bets-fade-uk-jobs-data-loom-202608180127</link>
+            <guid isPermaLink="false">1642fc00-343a-4a39-99b5-a997362471f6</guid>
+            <pubDate>Tue, 18 Aug 2026 01:27:36 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair gains momentum to around 1.3550 during the early Asian trading hours on Tuesday. The US Dollar (USD) softens against the British Pound (GBP) as cooler US inflation data have prompted traders to reduce bets on a US Federal Reserve (Fed) rate hike.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7905 vs. 6.7873 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67905-vs-67873-previous-202608180115</link>
+            <guid isPermaLink="false">66f52cfd-87a2-4779-a3ba-84074ee04d8b</guid>
+            <pubDate>Tue, 18 Aug 2026 01:15:34 GMT</pubDate>
+            <description><![CDATA[The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7905 compared to the previous day's fix of 6.7873 and 6.7452 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro flat lines below two-month high as oil-driven inflation fears support USD]]></title>
+            <link>https://www.fxstreet.com/news/euro-flat-lines-below-two-month-low-as-oil-driven-inflation-fears-support-usd-202608180114</link>
+            <guid isPermaLink="false">6f083825-38ee-4adf-84d9-4413b6094a4e</guid>
+            <pubDate>Tue, 18 Aug 2026 01:14:26 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair holds steady around the 1.1575-1.1580 region during the Asian session on Tuesday and, for now, seems to have stalled the previous day's modest pullback from a two-month top.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar gains as US Dollar struggles amid fading Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-gains-as-us-dollar-struggles-amid-fading-fed-rate-hike-bets-202608180100</link>
+            <guid isPermaLink="false">24be567b-d28f-4ef7-bd24-6cf483230ed3</guid>
+            <pubDate>Tue, 18 Aug 2026 01:00:26 GMT</pubDate>
+            <description><![CDATA[AUD/USD extends its gains for the third successive day, trading around 0.7110 during the Asian hours on Tuesday. The currency pair continues to appreciate as the US Dollar (USD) remains subdued amid fading expectations for further rate hikes by the Federal Reserve (Fed).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI flatlines near $84.00 as Trump rejects truce extension]]></title>
+            <link>https://www.fxstreet.com/news/wti-flatlines-near-8400-as-trump-rejects-truce-extension-202608180029</link>
+            <guid isPermaLink="false">5fbe0f19-5d2a-4cab-9ba1-99c8bcfaaa1a</guid>
+            <pubDate>Tue, 18 Aug 2026 00:29:33 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $84.00 during the early Asian trading hours on Tuesday. WTI steadies as traders continue to assess the developments surrounding Middle East conflicts. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[US President Donald Trump says not seeking extension of Iran MOU]]></title>
             <link>https://www.fxstreet.com/news/us-president-donald-trump-says-not-seeking-extension-of-iran-mou-202608172340</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 17 Aug 2026 16:16:57 GMT</pubDate>
             <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades near 53,550 on Monday, down close to 200 points and roughly 1,200 beneath the record printed on August 5, on the day the 60-day negotiating window that was meant to end the war over the Strait of Hormuz lapses with nothing agreed to replace it.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/car-industry-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil climbs above $82 as Washington-Tehran standoff reignites supply concerns]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-climbs-above-82-as-washington-tehran-standoff-reignites-supply-concerns-202608171604</link>
-            <guid isPermaLink="false">6a1d097f-0d33-4f63-8757-4fdb31a46bd9</guid>
-            <pubDate>Mon, 17 Aug 2026 16:04:43 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil advances on Monday and trades around $82.10 at the time of writing, up 0.68% on the day. Oil prices remain supported by the deadlock between the United States (US) and Iran, which keeps concerns about Oil flows through the Strait of Hormuz elevated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound edges higher as traders await UK jobs and CPI data]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-edges-higher-as-traders-await-uk-jobs-cpi-data-202608171604</link>
-            <guid isPermaLink="false">f2f50a9b-b393-477a-a8f9-d5deac018ae7</guid>
-            <pubDate>Mon, 17 Aug 2026 16:04:36 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling (GBP) registers modest gains of 0.14% on Monday against the US Dollar (USD) as investors digest softer-than-expected US inflation data and brace for the release of crucial UK jobs and inflation data. The GBP/USD pair trades at 1.3552 after hitting a three-month high of 1.3571.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold strengthens above $4,400 as Fed rate-hike expectations fade]]></title>
-            <link>https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128</link>
-            <guid isPermaLink="false">29ca4c2b-b16f-4146-a190-31628cf4719d</guid>
-            <pubDate>Mon, 17 Aug 2026 11:28:11 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its intraday advance on Monday, supported by fading expectations that the Federal Reserve (Fed) will raise interest rates at its September meeting, while the US Dollar (USD) remains on the back foot. At the time of writing, XAU/USD trades around $4,425, up 1.11% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen struggles despite rising bond yields and BoJ hike bets]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-struggles-despite-rising-bond-yields-and-boj-hike-bets-202608171526</link>
-            <guid isPermaLink="false">e933238b-35b1-4348-88ec-896d130c2a77</guid>
-            <pubDate>Mon, 17 Aug 2026 15:26:25 GMT</pubDate>
-            <description><![CDATA[USD/JPY rebounds on Monday after coming under selling pressure earlier in the day, as the Japanese Yen (JPY) struggles to gain traction despite a weaker US Dollar (USD). At the time of writing, the pair trades around 159.25, recovering from an intraday low of 158.85.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver accelerates above $66 as Fed expectations shift]]></title>
-            <link>https://www.fxstreet.com/news/silver-accelerates-above-66-as-fed-expectations-shift-202608171521</link>
-            <guid isPermaLink="false">415dfa6f-eb20-441a-8e45-7e5421094b7d</guid>
-            <pubDate>Mon, 17 Aug 2026 15:21:51 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) extends its advance on Monday and trades around $66.30 at the time of writing, up 2.47% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
