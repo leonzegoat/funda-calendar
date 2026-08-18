@@ -4,15 +4,31 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 19:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 19:59:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar firms on Hormuz jitters ahead of UK CPI and FOMC Minutes]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-on-hormuz-jitters-ahead-of-uk-cpi-and-fomc-minutes-202608181954</link>
+            <guid isPermaLink="false">2ec1a9d2-b818-42db-9c59-4205b3289dac</guid>
+            <pubDate>Tue, 18 Aug 2026 19:54:27 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) held a firm tone near the 99.60s on Tuesday, keeping a mild safe-haven bid as tensions around the Strait of Hormuz stayed front and center. Gold and Oil both sold off, and most major currencies drifted lower against the Greenback.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Upside risk stays in focus against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608181935</link>
+            <guid isPermaLink="false">1fe3a379-f43f-420e-af55-fc84a3a6fa76</guid>
+            <pubDate>Tue, 18 Aug 2026 19:35:48 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD rebounded after a sharper-than-expected drop to 1.2752, easing immediate downside pressure and pointing to intraday consolidation between 1.2760 and 1.2795.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[USD/CHF Price Forecast: Flag support rebound keeps bulls alive]]></title>
             <link>https://www.fxstreet.com/news/usd-chf-price-forecast-flag-support-rebound-keeps-bulls-alive-202608181931</link>
             <guid isPermaLink="false">022d06a2-2642-4876-b5d7-e9a472681dd9</guid>
             <pubDate>Tue, 18 Aug 2026 19:31:34 GMT</pubDate>
-            <description><![CDATA[The USD/CHF recovers some ground after testing the 50-day Simple Moving Average (SMA) of 0.7866 along with the bottom trendline of the ‘bearish flag’, which so far contained price action amid the lack of conviction of buyers and sellers, regarding the trend’s direction.]]></description>
+            <description><![CDATA[The USD/CHF pair recovers some ground on Tuesday after testing the 50-day Simple Moving Average (SMA) of 0.7866 along with the bottom trendline of the ‘bearish flag’, which so far contained price action amid the lack of conviction of buyers and sellers, regarding the trend’s direction.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-object.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 12:56:44 GMT</pubDate>
             <description><![CDATA[BNY’s Geoff Yu highlights that foreign holdings of New Zealand government bonds rose to 58.9% in July 2026, while NZD/USD trades slightly above its 12‑month average.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazilian Real: Fiscal risks point to weakness against US Dollar - Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/brazilian-real-fiscal-risks-point-to-weakness-against-us-dollar-rabobank-202608181240</link>
-            <guid isPermaLink="false">92664595-61db-4992-8668-b0e88912c998</guid>
-            <pubDate>Tue, 18 Aug 2026 12:40:49 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Mauricio Une and Renan Alves note softer United States (US) inflation and cooling labor data, giving the Federal Reserve (Fed) more time to assess policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Range-bound before FOMC against US Dollar – ING]]></title>
-            <link>https://www.fxstreet.com/news/euro-range-bound-before-fomc-against-us-dollar-ing-202608181230</link>
-            <guid isPermaLink="false">d03f7ae5-56d4-4e28-8b3f-53a5074c8fca</guid>
-            <pubDate>Tue, 18 Aug 2026 12:30:23 GMT</pubDate>
-            <description><![CDATA[Chris Turner at ING describes EUR/USD as contained after a rally stalled just above 1.16, with investors cautious due to high natural gas prices and upcoming FOMC minutes. He expects a 1.1520–1.1580 range near term, while higher energy supports ECB hike expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
