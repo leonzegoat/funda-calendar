@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 21:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 22:01:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar rallies as Treasury buyback drags US yields ]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-rallies-as-treasury-buyback-drags-us-yields-202608192133</link>
+            <guid isPermaLink="false">b144c3dd-f3ba-4cd7-a555-eac0a0bff6d2</guid>
+            <pubDate>Wed, 19 Aug 2026 21:33:36 GMT</pubDate>
+            <description><![CDATA[The New Zealand Dollar (NZD) rallies against the US Dollar (USD), pushing north of the 0.5930 mark. The move is driven by broad weakness in the Greenback rather than anything out of New Zealand.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australia unemployment rate expected to hold at 4.4% in July ]]></title>
             <link>https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-hold-at-44-in-july-202608192130</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 13:41:48 GMT</pubDate>
             <description><![CDATA[EUR/USD climbs sharply on Wednesday, reaching its highest level since June as the US Dollar (USD) comes under fresh selling pressure following the US Treasury’s announcement that it will increase buybacks of longer-dated government debt.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Shallow uptrend risk into next year – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-shallow-uptrend-risk-into-next-year-rabobank-202608191339</link>
-            <guid isPermaLink="false">473fb2a6-0fe7-416d-a6f2-cfaa8eb5371f</guid>
-            <pubDate>Wed, 19 Aug 2026 13:39:32 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley notes AUD/USD is currently on the back foot, with the Australian Dollar the weakest G10 currency on a one-day view. Despite market doubts, Rabobank still expects one more Reserve Bank of Australia (RBA) rate hike this year.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
