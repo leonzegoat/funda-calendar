@@ -4,15 +4,47 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 18:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 18:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: 100-day SMA tested as US Dollar tanks]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-100-day-sma-tested-as-us-dollar-tanks-202608191854</link>
+            <guid isPermaLink="false">5ade415b-ba18-4684-97f7-4b4951fdf210</guid>
+            <pubDate>Wed, 19 Aug 2026 18:54:29 GMT</pubDate>
+            <description><![CDATA[The USD/CHF tumbles nearly 2% on Wednesday as a US Treasury announcement of a buyback sent the Greenback into a tailspin, as US Treasury yields also dive. The pair trades at 0.7979 after reaching a high of 0.8128.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rallies as buyback sinks yields despite Fed hawkish minutes]]></title>
+            <link>https://www.fxstreet.com/news/gold-soars-toward-4-500-as-treasury-buyback-sinks-us-yields-202608191655</link>
+            <guid isPermaLink="false">6f4cf6cc-49c3-4c21-b822-d7efabcd8e85</guid>
+            <pubDate>Wed, 19 Aug 2026 16:55:54 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) rallies during Wednesday’s session after the US Federal Reserve (Fed) released the minutes of its July meeting, in which the US central bank held rates unchanged but not unanimously, with three members dissenting and calling for a rate hike.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: FOMC officials acknowledged inflation remained elevated]]></title>
+            <link>https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400</link>
+            <guid isPermaLink="false">91383cb8-11c5-46b6-858f-c0338ef09bcc</guid>
+            <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[The Federal Open Market Committee (FOMC) published the Minutes of the July meeting on Wednesday. "The information available at the time of the meeting indicated that inflation remained elevated.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Positive momentum points to further upside]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-positive-momentum-points-to-further-upside-202608191819</link>
+            <guid isPermaLink="false">2fb075f3-745b-41ab-952a-2ecc8b0e847f</guid>
+            <pubDate>Wed, 19 Aug 2026 18:19:27 GMT</pubDate>
+            <description><![CDATA[AUD/USD holds firm near a two-and-a-half-month high on Wednesday, supported by broad US Dollar (USD) weakness, while technical indicators point to further upside. At the time of writing, the pair trades around 0.7118, up 0.43% on the day, after reaching an intraday high of 0.7129.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mexican Peso rallies to two-year high on US Treasury buyback ]]></title>
             <link>https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-on-us-treasury-buyback-202608191749</link>
             <guid isPermaLink="false">8242810c-2ed5-473d-a1f4-6c3086173641</guid>
             <pubDate>Wed, 19 Aug 2026 17:49:35 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso rallies to a two-year high of 16.94 as the US Dollar weakens amid falling US yields, which retreated after the US Treasury doubled the size of its long-duration bond buyback. The USD/MXN trades at 16.95, down 0.27%.]]></description>
+            <description><![CDATA[The Mexican Peso (MXN) rallies to a two-year high of 16.94 on Wednesday as the US Dollar (USD) weakens amid falling US yields, which retreated after the US Treasury doubled the size of its long-duration bond buyback. The USD/MXN pair trades at 16.95, down 0.27%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -24,28 +56,12 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Fed Minutes set to provide clues about the degree of support for interest-rate hikes]]></title>
-            <link>https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400</link>
-            <guid isPermaLink="false">91383cb8-11c5-46b6-858f-c0338ef09bcc</guid>
-            <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[The United States (US) Federal Reserve (Fed) will release the Minutes of the July Federal Open Market Committee (FOMC) meeting on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[New Zealand Dollar jumps as falling US yields weigh on the USD]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-jumps-as-falling-us-yields-weigh-on-the-usd-202608191706</link>
             <guid isPermaLink="false">57036d58-5b5b-47c9-95e8-823f1aee60c2</guid>
             <pubDate>Wed, 19 Aug 2026 17:06:22 GMT</pubDate>
             <description><![CDATA[NZD/USD rises sharply on Wednesday and trades around 0.5930 at the time of writing, up 0.96% on the day. The New Zealand Dollar (NZD) benefits primarily from broad weakness in the US Dollar (USD), as the sharp decline in US Treasury yields reduces the appeal of the Greenback.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold soars toward $4,500 as Treasury buyback sinks US yields]]></title>
-            <link>https://www.fxstreet.com/news/gold-soars-toward-4-500-as-treasury-buyback-sinks-us-yields-202608191655</link>
-            <guid isPermaLink="false">6f4cf6cc-49c3-4c21-b822-d7efabcd8e85</guid>
-            <pubDate>Wed, 19 Aug 2026 16:55:54 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) skyrockets on Wednesday as the Greenback edges lower amid falling US bond yields, driven by the US Treasury's buyback of long-dated bonds. At the time of writing, the XAU/USD pair trades at $4,495, up by over 3.70% in the day and at its highest level since June 4.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dow Jones Industrial Average rallies on a bid nobody made]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 12:18:46 GMT</pubDate>
             <description><![CDATA[National Bank of Canada’s (NBC) Angelo Katsoras argues that Canada’s push to diversify exports away from the United States (US) toward the European Union (EU) faces growing obstacles as EU industrial policy turns more protectionist.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen gains as US Dollar retreats ahead of FOMC Minutes]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-gains-as-us-dollar-retreats-ahead-of-fomc-minutes-202608191216</link>
-            <guid isPermaLink="false">f858ee6b-f1e6-41d7-926c-2705e6a71783</guid>
-            <pubDate>Wed, 19 Aug 2026 12:16:19 GMT</pubDate>
-            <description><![CDATA[USD/JPY edges lower on Wednesday as the US Dollar (USD) loses momentum and retreats toward the June lows touched earlier this week. At the time of writing, the pair trades around 159.10, down 0.32% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed minutes watched as rate doubts grow – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-minutes-watched-as-rate-doubts-grow-commerzbank-202608191205</link>
-            <guid isPermaLink="false">34f2dcf3-3400-41b1-ab49-1c794e308047</guid>
-            <pubDate>Wed, 19 Aug 2026 12:05:55 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Antje Praefcke says markets will scrutinize the latest Fed minutes for clues on how close policymakers remain to another rate hike after weaker US labour and inflation data reduced expectations for a hike by year-end.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
