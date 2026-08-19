@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 05:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 06:03:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Breaking: United Kingdom CPI inflation climbs to 2.9% YoY in July, as expected]]></title>
+            <link>https://www.fxstreet.com/news/uk-cpi-set-to-show-inflation-rebounding-to-four-month-high-due-to-higher-energy-bill-202608190200</link>
+            <guid isPermaLink="false">ec55d760-c810-43f8-8e43-2570ee36d0c6</guid>
+            <pubDate>Wed, 19 Aug 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[The United Kingdom (UK) headline Consumer Price Index (CPI) climbed 2.9% over the year in July, compared to a rise of 2.6% in June, the data released by the Office for National Statistics (ONS) showed on Wednesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/IDR Price Forecast: Trades near 17,850 after pulling back from moving averages]]></title>
+            <link>https://www.fxstreet.com/news/usd-idr-price-forecast-trades-near-17-850-after-pulling-back-from-moving-averages-202608190600</link>
+            <guid isPermaLink="false">a060b1d3-7ba9-43d3-bf85-5bc573179f0c</guid>
+            <pubDate>Wed, 19 Aug 2026 06:00:00 GMT</pubDate>
+            <description><![CDATA[USD/IDR depreciates after registering modest gains in the previous day, trading around 17,870 during the Asian hours on Wednesday. The technical analysis of the daily chart suggests that the pair is remaining within the rectangle, indicating a consolidation phase.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indian Rupee holds onto two-week losses against US Dollar]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531</link>
@@ -54,14 +70,6 @@
             <pubDate>Wed, 19 Aug 2026 04:35:45 GMT</pubDate>
             <description><![CDATA[Gold prices rose in India on Wednesday, according to data compiled by FXStreet.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[UK CPI set to show inflation accelerated in July, bolstering case for BoE rate hike]]></title>
-            <link>https://www.fxstreet.com/news/uk-cpi-set-to-show-inflation-rebounding-to-four-month-high-due-to-higher-energy-bill-202608190200</link>
-            <guid isPermaLink="false">ec55d760-c810-43f8-8e43-2570ee36d0c6</guid>
-            <pubDate>Wed, 19 Aug 2026 02:00:00 GMT</pubDate>
-            <description><![CDATA[The United Kingdom (UK) Office for National Statistics (ONS) will release the high-impact Consumer Price Index (CPI) report for July at 06:00 GMT. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[EUR/JPY Price Forecast: Softens to near 184.50, mildly bearish bias persists under 100-day SMA]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 22:30:22 GMT</pubDate>
             <description><![CDATA[NZD/USD hovers around the 0.5870 zone at the time of writing on Tuesday, marginally lower on the day. The pair is treading water as a firm US Dollar (USD) and a cautious market mood keep the New Zealand Dollar (NZD) on the back foot.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US President Trump says no Iran talks; naval blockade remains]]></title>
-            <link>https://www.fxstreet.com/news/us-president-trump-says-no-iran-talks-naval-blockade-remains-202608182213</link>
-            <guid isPermaLink="false">100b880c-e7be-440b-a66e-797298f19c23</guid>
-            <pubDate>Tue, 18 Aug 2026 22:13:53 GMT</pubDate>
-            <description><![CDATA[The US President Donald Trump posted on his social network that “there are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran. The Naval Blockade remains in full force and effect. The Hormuz Strait is open and operating.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Trump-9.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
