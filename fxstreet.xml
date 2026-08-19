@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 13:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 14:44:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Canadian Dollar strengthens as Trump pauses 50% tariffs, Oil prices climb]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-strengthens-as-trump-pauses-50-tariffs-oil-prices-climb-202608191440</link>
+            <guid isPermaLink="false">ada19f04-0d03-41e9-b66e-4d9db73d4aef</guid>
+            <pubDate>Wed, 19 Aug 2026 14:40:33 GMT</pubDate>
+            <description><![CDATA[USD/CAD declines on Wednesday and trades around 1.3810 at the time of writing, down 0.62% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: RBA keeps hawkish bias on inflation – BNY]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rba-keeps-hawkish-bias-on-inflation-bny-202608191438</link>
+            <guid isPermaLink="false">90ca397b-a568-47f7-b9f9-400f5a97087c</guid>
+            <pubDate>Wed, 19 Aug 2026 14:38:06 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu reports the Reserve Bank of Australia remains concerned about inflation, with Deputy Governor Andrew Hauser saying further rate hikes cannot be ruled out.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of England: Rate hold baseline with conflict risks – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-england-rate-hold-baseline-with-conflict-risks-societe-generale-202608191422</link>
+            <guid isPermaLink="false">7f36b78a-673f-47f3-bc28-ce863ac7eb37</guid>
+            <pubDate>Wed, 19 Aug 2026 14:22:40 GMT</pubDate>
+            <description><![CDATA[Sam Cartwright at Societe Generale argues recent easing in United Kingdom (UK) services inflation and labour market loosening support the Bank of England’s wait-and-see stance. The baseline view is Bank Rate stays at 3.75% through 2026 to restrain underlying inflation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index falls as US Treasury doubles long-dated debt buybacks]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-falls-as-us-treasury-doubles-long-dated-debt-buybacks-202608191418</link>
+            <guid isPermaLink="false">6f2628d4-f80c-4b24-a18c-8a75bddc2d0b</guid>
+            <pubDate>Wed, 19 Aug 2026 14:18:09 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) comes under fresh selling pressure on Wednesday as longer-term US Treasury yields fall sharply following the Treasury Department’s decision to expand its buyback operations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Growth-driven recovery offers policy lesson – ING]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-growth-driven-recovery-offers-policy-lesson-ing-202608191408</link>
+            <guid isPermaLink="false">57c508b5-78cf-42bf-828a-beb8d75a7af9</guid>
+            <pubDate>Wed, 19 Aug 2026 14:08:13 GMT</pubDate>
+            <description><![CDATA[Chris Turner at ING explains that Korea’s earlier massive portfolio outflows and a weaker Korean Won (KRW) pushed USD/KRW to 1560 in June, despite a large current account surplus.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed Minutes expected to shed light on the depth of FOMC hawkish split]]></title>
+            <link>https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400</link>
+            <guid isPermaLink="false">91383cb8-11c5-46b6-858f-c0338ef09bcc</guid>
+            <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[The United States (US) Federal Reserve (Fed) will release the Minutes of the July Federal Open Market Committee (FOMC) meeting on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Chinese Yuan: Policy support eyed as growth slows – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/chinese-yuan-policy-support-eyed-as-growth-slows-commerzbank-202608191353</link>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 09:39:25 GMT</pubDate>
             <description><![CDATA[Commerzbank FX analysts Norman Liebke and Michael Pfister see the Brazilian Real (BRL) supported by the Brazilian Central Bank’s (BCB) hawkish stance and still-elevated real interest rates.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-rio.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro extends gains against British Pound as Eurozone inflation accelerates]]></title>
-            <link>https://www.fxstreet.com/news/euro-extends-gains-against-british-pound-as-eurozone-inflation-accelerates-202608190936</link>
-            <guid isPermaLink="false">24044bba-5a4f-41a2-9753-58b40716be1d</guid>
-            <pubDate>Wed, 19 Aug 2026 09:36:53 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) trades higher against the British Pound (GBP) on Wednesday, on track for a five-day winning streak, and received additional support after Eurozone final inflation figures confirmed higher price pressures in July.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608190930</link>
-            <guid isPermaLink="false">9bf0574e-c6fb-4cef-a673-bbe1724e1144</guid>
-            <pubDate>Wed, 19 Aug 2026 09:30:50 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) fell on Wednesday, according to FXStreet data. Silver trades at $63.10 per troy ounce, down 0.38% from the $63.35 it cost on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Upside risks building for inflation – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-upside-risks-building-for-inflation-deutsche-bank-202608190929</link>
-            <guid isPermaLink="false">b4d1f8a4-8494-49cc-8610-4d9ea1ae42bc</guid>
-            <pubDate>Wed, 19 Aug 2026 09:29:24 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank’s Chief United Kingdom (UK) Economist Sanjay Raja notes that UK inflation data for July broadly matched expectations, with headline Consumer Price Index (CPI) rising and core CPI steady.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro remains stronger following July’s Eurozone HICP data]]></title>
-            <link>https://www.fxstreet.com/news/euro-remains-stronger-following-julys-eurozone-hicp-data-202608190915</link>
-            <guid isPermaLink="false">2203fc2d-c5cb-4fa8-af0d-677c6b02600d</guid>
-            <pubDate>Wed, 19 Aug 2026 09:15:50 GMT</pubDate>
-            <description><![CDATA[EUR/USD rises after registering minor losses in the previous day, trading around 1.1600 during the European hours on Wednesday. The pair holds ground as the Euro (EUR) remains stronger following the release of Eurozone Harmonized Index of Consumer Prices (HICP) data for July.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: LME stock jump eases supply squeeze – ING]]></title>
-            <link>https://www.fxstreet.com/news/copper-lme-stock-jump-eases-supply-squeeze-ing-202608190915</link>
-            <guid isPermaLink="false">571a9f62-f162-415c-a8bb-4386813a78c6</guid>
-            <pubDate>Wed, 19 Aug 2026 09:15:42 GMT</pubDate>
-            <description><![CDATA[ING’s commodities team highlights that Copper prices on the LME have retreated sharply, falling below $14,000/t as a significant increase in on-warrant inventories eases the previous supply squeeze.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Higher yields threaten housing and risk sentiment – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-higher-yields-threaten-housing-and-risk-sentiment-mufg-202608190900</link>
-            <guid isPermaLink="false">1bbf7c66-b9e6-4489-a5e2-c7901c63bded</guid>
-            <pubDate>Wed, 19 Aug 2026 09:00:50 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny highlights how elevated US Treasury yields and rising mortgage rates are beginning to weigh on the US housing market, with Housing Starts and Pending Home Sales softening.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
