@@ -4,15 +4,23 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 18:54:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 19:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[USD/CHF Price Forecast: 100-day SMA tested as US Dollar tanks]]></title>
+            <title><![CDATA[Silver surges as Treasury buyback plan sinks the US Dollar ]]></title>
+            <link>https://www.fxstreet.com/news/silver-surges-as-treasury-buyback-plan-sinks-the-us-dollar-202608191908</link>
+            <guid isPermaLink="false">4072a0d6-b51a-4002-89e5-48f1ad078923</guid>
+            <pubDate>Wed, 19 Aug 2026 19:08:29 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) trades sharply higher on Wednesday, changing hands near $65.80. The metal is riding a broad rally across precious metals with Gold (XAU/USD) soaring toward $4,500. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Franc tests 100-day SMA as US Dollar tanks]]></title>
             <link>https://www.fxstreet.com/news/usd-chf-price-forecast-100-day-sma-tested-as-us-dollar-tanks-202608191854</link>
             <guid isPermaLink="false">5ade415b-ba18-4684-97f7-4b4951fdf210</guid>
             <pubDate>Wed, 19 Aug 2026 18:54:29 GMT</pubDate>
-            <description><![CDATA[The USD/CHF tumbles nearly 2% on Wednesday as a US Treasury announcement of a buyback sent the Greenback into a tailspin, as US Treasury yields also dive. The pair trades at 0.7979 after reaching a high of 0.8128.]]></description>
+            <description><![CDATA[The USD/CHF pair tumbles nearly 2% on Wednesday as a US Treasury buyback announcement sends the Greenback into a tailspin, while US Treasury yields also dive. The pair trades at 0.7979 after reaching a high of 0.8128.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-animal.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 12:33:18 GMT</pubDate>
             <description><![CDATA[BNY’s Geoff Yu highlights European Central Bank (ECB) President Christine Lagarde’s warning that Europe’s post-war growth model is eroding as global trade fragments and cheap energy fades.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-eur.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: EU protectionist shift challenges diversification – NBC]]></title>
-            <link>https://www.fxstreet.com/news/canada-eu-protectionist-shift-challenges-diversification-nbc-202608191218</link>
-            <guid isPermaLink="false">fda5f5d1-3318-4387-a4f7-38879fe3819c</guid>
-            <pubDate>Wed, 19 Aug 2026 12:18:46 GMT</pubDate>
-            <description><![CDATA[National Bank of Canada’s (NBC) Angelo Katsoras argues that Canada’s push to diversify exports away from the United States (US) toward the European Union (EU) faces growing obstacles as EU industrial policy turns more protectionist.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
