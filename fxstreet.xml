@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 09:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 10:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar: RBA seen sidelined on softer wages – BBH]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rba-seen-sidelined-on-softer-wages-bbh-202608190949</link>
+            <guid isPermaLink="false">9145aae9-5f60-459a-b815-1738c11f7086</guid>
+            <pubDate>Wed, 19 Aug 2026 09:49:41 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports the Australian Dollar is underperforming as bond yields fall after Q2 wage growth matched expectations. Haddad argues this outcome will keep the RBA on hold, with private sector wage gains at a four‑year low.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro steadies against Japanese Yen as ECB, BoJ rate-hike bets collide]]></title>
+            <link>https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-ecb-boj-rate-hike-bets-collide-202608190948</link>
+            <guid isPermaLink="false">799ad2e0-e27e-44b1-ad60-837ea6c2a918</guid>
+            <pubDate>Wed, 19 Aug 2026 09:48:58 GMT</pubDate>
+            <description><![CDATA[EUR/JPY trades around 184.70 on Wednesday at the time of writing, edging 0.03% lower on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Brazilian Real: Election risks then renewed gains – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/brazilian-real-election-risks-then-renewed-gains-commerzbank-202608190939</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 07:11:41 GMT</pubDate>
             <description><![CDATA[The NZD/USD pair trades with mild losses around 0.5875 during the early European session on Wednesday. Escalating tensions in the Middle East boost a safe-haven currency such as the US Dollar (USD) and act as a headwind for the pair. ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah: Oil gains and BI decision shape IDR – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-oil-gains-and-bi-decision-shape-idr-ocbc-202608190704</link>
-            <guid isPermaLink="false">7b443009-7ca2-40b8-945b-ee80227d15a9</guid>
-            <pubDate>Wed, 19 Aug 2026 07:04:31 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) weakness is driven by higher Oil prices and elevated global yields, even as domestic sentiment improves after President Prabowo’s speeches and the BI governor nomination.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-landscape-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/USD Price Forecast: Rising 20-day EMA supports near-term bullish bias]]></title>
-            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-rising-20-day-ema-supports-near-term-bullish-bias-202608190653</link>
-            <guid isPermaLink="false">ec396e4a-9410-4962-b2b5-f219fde38a45</guid>
-            <pubDate>Wed, 19 Aug 2026 06:53:41 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) underperforms its major currency peers on Wednesday, trading 0.17% lower at around 0.7070 against the US Dollar (USD) during the European trading session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
