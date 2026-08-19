@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 11:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 12:00:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: Policy continuity supports currency – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-policy-continuity-supports-currency-societe-generale-202608191152</link>
+            <guid isPermaLink="false">bfaf3451-7d2f-4b83-93f3-e94db83161f2</guid>
+            <pubDate>Wed, 19 Aug 2026 11:52:25 GMT</pubDate>
+            <description><![CDATA[Societe Generale analysts Galvin Chia and Kunal Kundu note that Bank Indonesia kept the BI rate at 5.75%, with deposit and lending facility rates unchanged, reinforcing Rupiah stability and inflation control.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-55.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold Price Forecast: XAU/USD bounces to $4,370, but upside momentum is fading]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bounces-to-4-370-but-upside-momentum-is-fading-202608191141</link>
+            <guid isPermaLink="false">418aa664-6eb9-4827-ad35-9bd3b4214a57</guid>
+            <pubDate>Wed, 19 Aug 2026 11:41:26 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) trades moderately higher on Wednesday and returns to the $4,370 area, after finding buyers near the $4,300 area on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Needs decisive break above $85 for fresh advance]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-needs-decisive-break-above-85-for-fresh-advance-202608191140</link>
+            <guid isPermaLink="false">688c1abc-7305-4565-bfb0-02a912086a3f</guid>
+            <pubDate>Wed, 19 Aug 2026 11:40:26 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trade 0.55% higher at around $84.80 during the European trading session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver has rebounded to $63, but inflationary risks hold buyers back]]></title>
+            <link>https://www.fxstreet.com/news/silver-has-rebounded-to-63-but-inflationary-risks-hold-buyers-back-202608191131</link>
+            <guid isPermaLink="false">04799bab-3bcb-4f68-893c-607e5e33c8bc</guid>
+            <pubDate>Wed, 19 Aug 2026 11:31:24 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) stabilizes around $63.45 on Wednesday, up 0.16% on the day at the time of writing. The white metal is attempting to regain its footing after hitting an intraday low of $62.19, initially extending the pullback that followed Tuesday’s rejection from the $66.50 area.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[British Pound: Carry appeal keeps Sterling resilient as BoE stays on hold – ING]]></title>
             <link>https://www.fxstreet.com/news/british-pound-carry-appeal-keeps-sterling-resilient-as-boe-stays-on-hold-ing-202608191126</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 07:49:48 GMT</pubDate>
             <description><![CDATA[Derek Halpenny at MUFG notes that UK July CPI came in broadly as expected, with the headline rate rising to 2.9% mainly on higher utility bills, while services inflation eased.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: Chip-led selloff under stagflation pressure – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-chip-led-selloff-under-stagflation-pressure-deutsche-bank-202608190741</link>
-            <guid isPermaLink="false">97c07a20-f604-4980-a9b9-7ddd86ef47a7</guid>
-            <pubDate>Wed, 19 Aug 2026 07:41:20 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists note that global equities endured another difficult session as rising yields and higher Oil reinforced a stagflationary backdrop. US indices, led by chip stocks and the NASDAQ, extended declines, while the STOXX Europe 600 posted its fifth consecutive drop.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold climbs back above $4,350 as USD remains depressed ahead of FOMC Minutes]]></title>
-            <link>https://www.fxstreet.com/news/gold-recovers-from-weekly-low-as-usd-softens-ahead-of-fomc-minutes-202608190336</link>
-            <guid isPermaLink="false">2493a751-67b7-46a7-851e-d532b039c3c6</guid>
-            <pubDate>Wed, 19 Aug 2026 03:36:33 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) climbs back above $4,350 during the first half of the European session, reversing a part of the previous day's heavy losses.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: UK inflation data arrive mixed, focus shifts to FOMC Minutes]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-uk-inflation-data-arrive-mixed-focus-shifts-to-fomc-minutes-202608190739</link>
-            <guid isPermaLink="false">6b67ede2-a2f3-4741-a45f-e3ee79946a6f</guid>
-            <pubDate>Wed, 19 Aug 2026 07:39:09 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Wednesday, August 19:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah holds firm as BI keeps rate steady at 5.75%]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-holds-firm-as-bi-keeps-rate-steady-at-575-202608190738</link>
-            <guid isPermaLink="false">e1cfcc5f-1f40-46e6-ac17-33ea95ab393e</guid>
-            <pubDate>Wed, 19 Aug 2026 07:38:43 GMT</pubDate>
-            <description><![CDATA[USD/IDR depreciates after registering modest gains in the previous day, trading around 17,870 during the European hours on Wednesday. The pair holds losses as the Indonesian Rupiah (IDR) remains stronger following the release of the interest rate decision by the Bank Indonesia (BI).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-neutral-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
