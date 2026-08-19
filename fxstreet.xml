@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 10:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 10:47:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indian Rupee trades lower, RBI remains on standby to limit downside]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531</link>
+            <guid isPermaLink="false">4691e1f0-94ab-403c-921d-a522e770bccb</guid>
+            <pubDate>Wed, 19 Aug 2026 05:31:26 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) remains vulnerable against the US Dollar (USD), close to its two-week low at around 95.75.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar ticks up from intra-week lows with all eyes on Fed minutes]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-ticks-up-from-intra-week-lows-with-all-eyes-on-fed-minutes-202608191032</link>
+            <guid isPermaLink="false">c5729978-78bd-4376-9997-2534ff7130f2</guid>
+            <pubDate>Wed, 19 Aug 2026 10:32:03 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD)has bounced up from intra-week lows against the US Dollar (USD) on Friday, although the daily chart remains negative.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/USD Price Forecast: More upside expected above 1.3570]]></title>
+            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-more-upside-expected-above-13570-202608191025</link>
+            <guid isPermaLink="false">208808bc-c065-4719-9ba6-d180c0dacdb8</guid>
+            <pubDate>Wed, 19 Aug 2026 10:25:13 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) is up 0.2% to near 1.3557 against the US Dollar (USD) during the European trading session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar: RBA seen sidelined on softer wages – BBH]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-rba-seen-sidelined-on-softer-wages-bbh-202608190949</link>
@@ -86,14 +110,6 @@
             <pubDate>Wed, 19 Aug 2026 08:49:16 GMT</pubDate>
             <description><![CDATA[Standard Chartered strategists have revised its Bank of Japan (BoJ) rate outlook, bringing forward its expected 25bps hike from October to September and raising its terminal rate forecast to 1.75% from 1.50% previously.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee trades lower amid higher oil prices, early FCNR (B) closure]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531</link>
-            <guid isPermaLink="false">4691e1f0-94ab-403c-921d-a522e770bccb</guid>
-            <pubDate>Wed, 19 Aug 2026 05:31:26 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) remains vulnerable against the US Dollar (USD), close to its two-week low at around 95.75.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Swiss Franc picks up within range, USDollar softens awaiting Fed minutes]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 07:18:50 GMT</pubDate>
             <description><![CDATA[European Central Bank (ECB) official and Finnish Central Bank Governor Olli Rehn said in a written copy of a speech, released during the European trading session on Wednesday, that it is essential to keep inflation expectations anchored.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecasts: XAG/USD tests levels sub-$63.00 as bearish pressure mounts]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-tests-levels-sub-6300-as-bearish-pressure-mounts-202608190714</link>
-            <guid isPermaLink="false">145c7e6a-ec8c-4a92-87a9-fc7e3240acf4</guid>
-            <pubDate>Wed, 19 Aug 2026 07:14:05 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) trades lower for the second consecutive day on Wednesday, exploring prices below the $63.00 level at the time of writing, after a reversal from the $66.50 area on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NZD/USD Price Forecast: Weakens below 0.5900, but staying supported above 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-weakens-below-05900-but-staying-supported-above-100-day-sma-202608190711</link>
-            <guid isPermaLink="false">24981b38-de8e-4609-94c8-11a504ae1ce4</guid>
-            <pubDate>Wed, 19 Aug 2026 07:11:41 GMT</pubDate>
-            <description><![CDATA[The NZD/USD pair trades with mild losses around 0.5875 during the early European session on Wednesday. Escalating tensions in the Middle East boost a safe-haven currency such as the US Dollar (USD) and act as a headwind for the pair. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
