@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 22:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 23:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: sellers take control below 50-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-sellers-take-control-below-50-day-sma-202608192301</link>
+            <guid isPermaLink="false">788a0e79-d52b-4265-baaa-820d25088115</guid>
+            <pubDate>Wed, 19 Aug 2026 23:01:05 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY retreats on Wednesday as the cross-pair fails to climb past 216.00  and fell beneath the 50-day Simple Moving Average (SMA) of 125.56. The cross-pair trades at 214.25 down 0.37%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Washington bought the Japanese Yen again without meaning to]]></title>
             <link>https://www.fxstreet.com/news/washington-bought-the-japanese-yen-again-without-meaning-to-202608192228</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 14:18:09 GMT</pubDate>
             <description><![CDATA[The US Dollar Index (DXY) comes under fresh selling pressure on Wednesday as longer-term US Treasury yields fall sharply following the Treasury Department’s decision to expand its buyback operations.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Won: Growth-driven recovery offers policy lesson – ING]]></title>
-            <link>https://www.fxstreet.com/news/south-korean-won-growth-driven-recovery-offers-policy-lesson-ing-202608191408</link>
-            <guid isPermaLink="false">57c508b5-78cf-42bf-828a-beb8d75a7af9</guid>
-            <pubDate>Wed, 19 Aug 2026 14:08:13 GMT</pubDate>
-            <description><![CDATA[Chris Turner at ING explains that Korea’s earlier massive portfolio outflows and a weaker Korean Won (KRW) pushed USD/KRW to 1560 in June, despite a large current account surplus.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
