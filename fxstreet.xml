@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 08:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 09:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brazilian Real: Election risks then renewed gains – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/brazilian-real-election-risks-then-renewed-gains-commerzbank-202608190939</link>
+            <guid isPermaLink="false">b07d46c4-4c8a-4ed9-aa89-563b8aef9480</guid>
+            <pubDate>Wed, 19 Aug 2026 09:39:25 GMT</pubDate>
+            <description><![CDATA[Commerzbank FX analysts Norman Liebke and Michael Pfister see the Brazilian Real (BRL) supported by the Brazilian Central Bank’s (BCB) hawkish stance and still-elevated real interest rates.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/brazil-rio.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro extends gains against British Pound as Eurozone inflation accelerates]]></title>
+            <link>https://www.fxstreet.com/news/euro-extends-gains-against-british-pound-as-eurozone-inflation-accelerates-202608190936</link>
+            <guid isPermaLink="false">24044bba-5a4f-41a2-9753-58b40716be1d</guid>
+            <pubDate>Wed, 19 Aug 2026 09:36:53 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) trades higher against the British Pound (GBP) on Wednesday, on track for a five-day winning streak, and received additional support after Eurozone final inflation figures confirmed higher price pressures in July.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608190930</link>
+            <guid isPermaLink="false">9bf0574e-c6fb-4cef-a673-bbe1724e1144</guid>
+            <pubDate>Wed, 19 Aug 2026 09:30:50 GMT</pubDate>
+            <description><![CDATA[Silver prices (XAG/USD) fell on Wednesday, according to FXStreet data. Silver trades at $63.10 per troy ounce, down 0.38% from the $63.35 it cost on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Upside risks building for inflation – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-upside-risks-building-for-inflation-deutsche-bank-202608190929</link>
+            <guid isPermaLink="false">b4d1f8a4-8494-49cc-8610-4d9ea1ae42bc</guid>
+            <pubDate>Wed, 19 Aug 2026 09:29:24 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank’s Chief United Kingdom (UK) Economist Sanjay Raja notes that UK inflation data for July broadly matched expectations, with headline Consumer Price Index (CPI) rising and core CPI steady.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro remains stronger following July’s Eurozone HICP data]]></title>
+            <link>https://www.fxstreet.com/news/euro-remains-stronger-following-julys-eurozone-hicp-data-202608190915</link>
+            <guid isPermaLink="false">2203fc2d-c5cb-4fa8-af0d-677c6b02600d</guid>
+            <pubDate>Wed, 19 Aug 2026 09:15:50 GMT</pubDate>
+            <description><![CDATA[EUR/USD rises after registering minor losses in the previous day, trading around 1.1600 during the European hours on Wednesday. The pair holds ground as the Euro (EUR) remains stronger following the release of Eurozone Harmonized Index of Consumer Prices (HICP) data for July.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Copper: LME stock jump eases supply squeeze – ING]]></title>
+            <link>https://www.fxstreet.com/news/copper-lme-stock-jump-eases-supply-squeeze-ing-202608190915</link>
+            <guid isPermaLink="false">571a9f62-f162-415c-a8bb-4386813a78c6</guid>
+            <pubDate>Wed, 19 Aug 2026 09:15:42 GMT</pubDate>
+            <description><![CDATA[ING’s commodities team highlights that Copper prices on the LME have retreated sharply, falling below $14,000/t as a significant increase in on-warrant inventories eases the previous supply squeeze.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Higher yields threaten housing and risk sentiment – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-higher-yields-threaten-housing-and-risk-sentiment-mufg-202608190900</link>
+            <guid isPermaLink="false">1bbf7c66-b9e6-4489-a5e2-c7901c63bded</guid>
+            <pubDate>Wed, 19 Aug 2026 09:00:50 GMT</pubDate>
+            <description><![CDATA[MUFG’s Derek Halpenny highlights how elevated US Treasury yields and rising mortgage rates are beginning to weigh on the US housing market, with Housing Starts and Pending Home Sales softening.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: BoJ’s hawkish pivot reshapes outlook against US Dollar - Standard Chartered]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-bojs-hawkish-pivot-reshapes-outlook-against-us-dollar-standard-chartered-202608190849</link>
+            <guid isPermaLink="false">ecb5f4a5-26c7-4020-8374-62489939aac7</guid>
+            <pubDate>Wed, 19 Aug 2026 08:49:16 GMT</pubDate>
+            <description><![CDATA[Standard Chartered strategists have revised its Bank of Japan (BoJ) rate outlook, bringing forward its expected 25bps hike from October to September and raising its terminal rate forecast to 1.75% from 1.50% previously.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indian Rupee trades lower amid higher oil prices, early FCNR (B) closure]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531</link>
@@ -182,70 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 06:53:41 GMT</pubDate>
             <description><![CDATA[The Australian Dollar (AUD) underperforms its major currency peers on Wednesday, trading 0.17% lower at around 0.7070 against the US Dollar (USD) during the European trading session.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: Defensive rotation with higher yields – Danske Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-defensive-rotation-with-higher-yields-danske-bank-202608190646</link>
-            <guid isPermaLink="false">5d7da1a7-4b7c-4677-8cef-b5cc16c6df0b</guid>
-            <pubDate>Wed, 19 Aug 2026 06:46:01 GMT</pubDate>
-            <description><![CDATA[Danske Research Team reports a marked drop in global equities, with the S&P 500 and Stoxx 600 down 0.7% on Tuesday. After a period of value-versus-growth rotation, flows shifted toward defensive sectors such as consumer staples and health care, funded by cyclicals.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Asia FX: Lower US yields offset Oil risk – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/asia-fx-lower-us-yields-offset-oil-risk-mufg-202608190637</link>
-            <guid isPermaLink="false">c47b8e0d-23ca-4003-9cc8-607a1e6ecacb</guid>
-            <pubDate>Wed, 19 Aug 2026 06:37:36 GMT</pubDate>
-            <description><![CDATA[MUFG’s Lloyd Chan notes that the Korean Won (KRW) and Taiwan Dollar (TWD) are leading Asia FX gains as softer US yields and a resilient technology cycle support sentiment.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro trims gains against British Pound after UK CPI inflation rises to 2.9%]]></title>
-            <link>https://www.fxstreet.com/news/euro-trims-gains-against-british-pound-after-uk-cpi-inflation-rises-to-29-202608190635</link>
-            <guid isPermaLink="false">23205b99-0f8d-4fff-bc23-3f49a7049dd2</guid>
-            <pubDate>Wed, 19 Aug 2026 06:35:19 GMT</pubDate>
-            <description><![CDATA[The EUR/GBP cross pares gains around 0.8555 during the early European trading hours on Wednesday. The British Pound (GBP) attracts some buyers against the Euro (EUR) following the UK inflation data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound edges up within range following hotter UK inflation data]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-edges-up-within-range-following-hotter-uk-inflation-data-202608190631</link>
-            <guid isPermaLink="false">fa6729a4-6372-4520-ab8f-a44768ffffe9</guid>
-            <pubDate>Wed, 19 Aug 2026 06:31:44 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) ticked up against the US Dollar (USD) on Monday, following the release of UK inflation data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/inflation-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom CPI inflation jumps to 2.9% YoY in July, as expected]]></title>
-            <link>https://www.fxstreet.com/news/uk-cpi-set-to-show-inflation-rebounding-to-four-month-high-due-to-higher-energy-bill-202608190200</link>
-            <guid isPermaLink="false">ec55d760-c810-43f8-8e43-2570ee36d0c6</guid>
-            <pubDate>Wed, 19 Aug 2026 02:00:00 GMT</pubDate>
-            <description><![CDATA[The United Kingdom (UK) headline Consumer Price Index (CPI) climbed 2.9% over the year in July, compared to a rise of 2.6% in June, the data released by the Office for National Statistics (ONS) showed on Wednesday. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-shopping-cart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: JGB spillover supports firmer JPY against US Dollar – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-jgb-spillover-supports-firmer-jpy-against-us-dollar-ocbc-202608190625</link>
-            <guid isPermaLink="false">7e67c6d8-e7f6-48fa-bbaf-a9554cfb1b9b</guid>
-            <pubDate>Wed, 19 Aug 2026 06:25:28 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that rising long-end Japanese government bond yields are increasingly influencing global curves and the Japanese Yen.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound shows limited reaction to expected increase in UK headline inflation]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-shows-limited-reaction-to-expected-increase-in-uk-headline-inflation-202608190614</link>
-            <guid isPermaLink="false">40de7e81-5f79-40e9-b2c2-0261e99543e1</guid>
-            <pubDate>Wed, 19 Aug 2026 06:14:19 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) reflects a slight market action against the Japanese Yen (JPY) near its day’s low at around 215.70 after the release of the United Kingdom (UK) Consumer Price Index (CPI) data for July.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah: BI seen hiking to anchor rupiah – UOB]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-seen-hiking-to-anchor-rupiah-uob-202608190610</link>
-            <guid isPermaLink="false">c5833aca-6096-4676-bbf5-a6f5681232bb</guid>
-            <pubDate>Wed, 19 Aug 2026 06:10:29 GMT</pubDate>
-            <description><![CDATA[UOB strategists highlight Bank Indonesia’s (BI) policy meeting, with consensus expecting no change but its macro team forecasting a 25 bps hike to 6.00%. They see risks around the Indonesian Rupiah (IDR), divided views on Federal Reserve (Fed) policy and rising global inflation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-61.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
