@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 23:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 01:47:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar declines to weekly low as USD holds firm ahead of FOMC Minutes]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-declines-to-weekly-low-as-usd-holds-firm-ahead-of-fomc-minutes-202608190145</link>
+            <guid isPermaLink="false">7575edd7-ca3b-436a-afcd-6d71078af9c9</guid>
+            <pubDate>Wed, 19 Aug 2026 01:45:51 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair is seen extending this week's retracement slide from the 0.5925 area, or the highest since June 3, and drifting lower for the second straight day on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound declines below 1.3550 on soft UK labour figures, traders brace for CPI data]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-declines-below-13550-on-soft-uk-labour-figures-traders-brace-for-cpi-data-202608190135</link>
+            <guid isPermaLink="false">2a01ede0-e81c-47cb-9c45-eacf93b89743</guid>
+            <pubDate>Wed, 19 Aug 2026 01:35:54 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair loses ground to around 1.3535 during the early Asian trading hours on Wednesday. The British Pound (GBP) weakens against the US Dollar (USD) amid disappointing UK labour data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI rises to near $85.00 amid escalating US-Iran tensions]]></title>
+            <link>https://www.fxstreet.com/news/wti-rises-to-near-8500-amid-escalating-us-iran-tensions-202608190123</link>
+            <guid isPermaLink="false">45d3da1f-8c0c-4d86-92e0-21ebfa3ad203</guid>
+            <pubDate>Wed, 19 Aug 2026 01:23:33 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price extends its gains for the fourth consecutive day, trading around $84.80 per barrel during the Asian hours on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar consolidates near 1.3900 vs USD ahead of US tariffs deadline, FOMC Minutes]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-consolidates-near-13900-vs-usd-ahead-of-us-tariffs-deadline-fomc-minutes-202608190116</link>
+            <guid isPermaLink="false">ea33d93b-d7bc-4b7d-ada9-6d46cc83ae28</guid>
+            <pubDate>Wed, 19 Aug 2026 01:16:10 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair struggles to capitalize on this week's modest recovery from its lowest level since June 3 and oscillates in a range around the 1.3900 mark during the Asian session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-neutral-line-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7854 vs. 6.7905 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67854-vs-67905-previous-202608190115</link>
+            <guid isPermaLink="false">539e938f-a881-48e9-a0cb-aa93e47f292a</guid>
+            <pubDate>Wed, 19 Aug 2026 01:15:36 GMT</pubDate>
+            <description><![CDATA[On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7854 compared to the previous day's fix of 6.7905 and 6.7421 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro strengthens above 1.1550 on fading Fed hike bets ]]></title>
+            <link>https://www.fxstreet.com/news/euro-strengthens-above-11550-on-fading-fed-hike-bets-202608190046</link>
+            <guid isPermaLink="false">df382001-54ad-469d-9559-b16b4c4a9d45</guid>
+            <pubDate>Wed, 19 Aug 2026 00:46:54 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair trades with mild gains near 1.1580 during the early Asian session on Wednesday. The US Dollar (USD) softens against the Euro (EUR) as softer US inflation data dialed back expectations of tighter Federal Reserve (Fed) policy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-chart.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar reverses as Iran risks lift USD ahead of Fed minutes]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-reverses-as-iran-risks-lift-usd-ahead-of-fed-minutes-202608182353</link>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 17:27:28 GMT</pubDate>
             <description><![CDATA[A quarter-point Federal Reserve (Fed) increase by December stopped being a certainty over the past eight days, and the Dow Jones Industrial Average is lower for it.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar declines from two-month highs as Hormuz tensions lift the US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-declines-from-two-month-highs-as-hormuz-tensions-lift-the-us-dollar-202608181625</link>
-            <guid isPermaLink="false">bde8e20f-f179-4f8e-bfc8-f7b0fb6634b4</guid>
-            <pubDate>Tue, 18 Aug 2026 16:25:40 GMT</pubDate>
-            <description><![CDATA[AUD/USD trades just below 0.7100 on Tuesday, a touch lower for the day and sliding from the two-month highs reached on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro fails to hold gains over the Pound ahead of UK inflation]]></title>
-            <link>https://www.fxstreet.com/news/euro-fails-to-hold-gains-over-the-pound-ahead-of-uk-inflation-202608181610</link>
-            <guid isPermaLink="false">7b621563-8394-491d-b64b-537aa8001de8</guid>
-            <pubDate>Tue, 18 Aug 2026 16:10:59 GMT</pubDate>
-            <description><![CDATA[EUR/GBP slips toward 0.8550 at the time of writing on Tuesday, with the Euro (EUR) unable to hold onto earlier gains against the Pound Sterling (GBP).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar edges lower on US-Iran tensions as RBNZ hike expectations curb losses]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-on-us-iran-tensions-as-rbnz-hike-expectations-curb-losses-202608181605</link>
-            <guid isPermaLink="false">18bb057d-e16d-42e1-a7b3-4ba1511aa4f5</guid>
-            <pubDate>Tue, 18 Aug 2026 16:05:40 GMT</pubDate>
-            <description><![CDATA[NZD/USD retreats on Tuesday and trades around 0.5880 at the time of writing, down 0.38% on the day. The New Zealand Dollar (NZD) remains under pressure as mounting geopolitical tensions between the United States (US) and Iran fuel risk aversion and support demand for the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen stays on the back foot despite hawkish BoJ expectations]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-stays-on-the-back-foot-despite-hawkish-boj-expectations-202608181540</link>
-            <guid isPermaLink="false">194762df-254c-43b3-80d8-8660ba0baeb1</guid>
-            <pubDate>Tue, 18 Aug 2026 15:40:50 GMT</pubDate>
-            <description><![CDATA[USD/JPY extends its sideways movement below the 160.00 psychological mark on Tuesday as the US Dollar (USD) struggles to gain traction.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Booming prices face supply risks – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/copper-booming-prices-face-supply-risks-commerzbank-202608181509</link>
-            <guid isPermaLink="false">8b8e34c3-f97c-44a6-9662-3ffa36cd262e</guid>
-            <pubDate>Tue, 18 Aug 2026 15:09:10 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Barbara Lambrecht highlights that Copper prices on the LME are close to record highs, with an unusually large cash–3‑month spread driven by falling LME stocks and tariff-related pre‑emptive buying in the US.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Bullish momentum targets mid-1.17s – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/euro-bullish-momentum-targets-mid-117s-scotiabank-202608181458</link>
-            <guid isPermaLink="false">0cbfedc1-fe1e-428c-85b4-129fdf20008f</guid>
-            <pubDate>Tue, 18 Aug 2026 14:58:57 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Euro (EUR) is resilient around 1.1576, with Germany’s ZEW survey showing improving expectations and a slow recovery backdrop. Short-term EUR/USD technicals are described as bullish, with strong intraday and daily momentum.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
