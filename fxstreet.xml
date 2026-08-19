@@ -4,15 +4,39 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 20:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 21:30:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australia unemployment rate expected to hold at 4.4% in July ]]></title>
+            <link>https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-hold-at-44-in-july-202608192130</link>
+            <guid isPermaLink="false">75839f72-dad0-40b9-aec9-97662774de06</guid>
+            <pubDate>Wed, 19 Aug 2026 21:30:00 GMT</pubDate>
+            <description><![CDATA[Australia will release the July monthly employment report on Thursday at 01:30 GMT. Ahead of the announcement, analysts anticipate a modest 15K increase in job creation, while the Unemployment Rate is expected to remain steady at 4.4%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-clock-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Dollar Index answers to the Treasury, not the Fed]]></title>
+            <link>https://www.fxstreet.com/news/the-dollar-index-answers-to-the-treasury-not-the-fed-202608192119</link>
+            <guid isPermaLink="false">c97a6457-f422-4fae-9a97-f8d7808107fa</guid>
+            <pubDate>Wed, 19 Aug 2026 21:19:31 GMT</pubDate>
+            <description><![CDATA[The Dollar Index closed Wednesday 0.86% lower just beneath 98.80, its weakest close since mid-May, and it closed on the session low. The document that did the damage was not a central bank document.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD eyes $67 as US yields slide]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-eyes-67-as-us-yields-slide-202608192054</link>
+            <guid isPermaLink="false">22dbe98d-a655-4669-bb29-a8faa8addc2e</guid>
+            <pubDate>Wed, 19 Aug 2026 20:54:21 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) price reversed course on Wednesday and soared over 5% as US Treasury yields edged lower, following the US Treasury stepping in to cap long-end US bond yields, which had reached levels last seen in 2007.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Euro surges as traders ignore Fed’s hawkish minutes]]></title>
             <link>https://www.fxstreet.com/news/euro-surges-as-traders-ignore-feds-hawkish-minutes-202608192007</link>
             <guid isPermaLink="false">2f163469-3d09-4e84-afd8-8c05025d5263</guid>
             <pubDate>Wed, 19 Aug 2026 20:07:27 GMT</pubDate>
-            <description><![CDATA[The shared currency gained over 0.85% during the North American session on Wednesday, even though the latest Federal Reserve minutes had a “hawkish” tone, with some participants, along with the three dissenters, suggesting that raising rates could be necessary if the disinflation process stalls.]]></description>
+            <description><![CDATA[The Euro (EUR) gains over 0.85% against the US Dollar (USD) during the North American session on Wednesday, even though the latest Federal Reserve (Fed) minutes had a hawkish tone, with some participants, along with the three dissenters, suggesting that raising rates could be necessary if the disinf]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-chart.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 13:39:32 GMT</pubDate>
             <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley notes AUD/USD is currently on the back foot, with the Australian Dollar the weakest G10 currency on a one-day view. Despite market doubts, Rabobank still expects one more Reserve Bank of Australia (RBA) rate hike this year.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah: Stability-focused BI stance – UOB]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-stability-focused-bi-stance-uob-202608191325</link>
-            <guid isPermaLink="false">ba3b6252-2658-4472-84d6-1f8cfcd6a9cf</guid>
-            <pubDate>Wed, 19 Aug 2026 13:25:06 GMT</pubDate>
-            <description><![CDATA[UOB economist Enrico Tanuwidjaja notes that Bank Indonesia (BI) kept the BI Rate at 5.75% in August, prioritizing Rupiah and macro-financial stability over growth.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesia.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Treasury doubles some long-dated debt buybacks to support liquidity]]></title>
-            <link>https://www.fxstreet.com/news/us-treasury-doubles-some-long-dated-debt-buybacks-to-support-liquidity-202608191309</link>
-            <guid isPermaLink="false">e06e5fec-89f1-49cb-b73f-0f7d72273e60</guid>
-            <pubDate>Wed, 19 Aug 2026 13:09:34 GMT</pubDate>
-            <description><![CDATA[The United States (US) Department of the Treasury (US Treasury) announced on Wednesday that it will double the size of some of its buyback operations aimed at supporting liquidity in the longer-dated Treasury securities market.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_Nasdaq-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Constrained backdrop and BoE risks – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-constrained-backdrop-and-boe-risks-societe-generale-202608191304</link>
-            <guid isPermaLink="false">51bcc3cb-5de9-4d83-aefd-4da0960f9b9f</guid>
-            <pubDate>Wed, 19 Aug 2026 13:04:45 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Sam Cartwright argues that a new UK Prime Minister has not altered the constrained fiscal backdrop, limiting ambitions on housebuilding, social care, investment and defence.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
