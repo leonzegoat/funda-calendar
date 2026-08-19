@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 12:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 13:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US Treasury doubles some long-dated debt buybacks to support liquidity]]></title>
+            <link>https://www.fxstreet.com/news/us-treasury-doubles-some-long-dated-debt-buybacks-to-support-liquidity-202608191309</link>
+            <guid isPermaLink="false">e06e5fec-89f1-49cb-b73f-0f7d72273e60</guid>
+            <pubDate>Wed, 19 Aug 2026 13:09:34 GMT</pubDate>
+            <description><![CDATA[The United States (US) Department of the Treasury (US Treasury) announced on Wednesday that it will double the size of some of its buyback operations aimed at supporting liquidity in the longer-dated Treasury securities market.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_Nasdaq-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Constrained backdrop and BoE risks – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-constrained-backdrop-and-boe-risks-societe-generale-202608191304</link>
+            <guid isPermaLink="false">51bcc3cb-5de9-4d83-aefd-4da0960f9b9f</guid>
+            <pubDate>Wed, 19 Aug 2026 13:04:45 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Sam Cartwright argues that a new UK Prime Minister has not altered the constrained fiscal backdrop, limiting ambitions on housebuilding, social care, investment and defence.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[China: Policy support and structural shifts – HSBC]]></title>
+            <link>https://www.fxstreet.com/news/china-policy-support-and-structural-shifts-hsbc-202608191246</link>
+            <guid isPermaLink="false">2c29c0f9-7a05-430d-88b4-6c2412170dd9</guid>
+            <pubDate>Wed, 19 Aug 2026 12:46:31 GMT</pubDate>
+            <description><![CDATA[HSBC strategists review July data and the latest China Politburo guidance. Retail sales and Fixed Asset Investment softened, while Industrial Production and exports were supported by AI-related and green technology demand.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold finds support as US Dollar retreats ahead of Fed Minutes]]></title>
+            <link>https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109</link>
+            <guid isPermaLink="false">cac3fdeb-6876-4e95-bfa7-1e8e2a0de71b</guid>
+            <pubDate>Wed, 19 Aug 2026 11:09:12 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) enters Wednesday’s American trading hours with decent intraday gains, as a softer US Dollar (USD) and a modest pullback in long-term US Treasury yields help the metal recover some of the previous day’s losses.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Domestic demand resilience supports EUR – BNY]]></title>
+            <link>https://www.fxstreet.com/news/euro-domestic-demand-resilience-supports-eur-bny-202608191233</link>
+            <guid isPermaLink="false">1356b7fb-50cc-41d5-be6a-39aeb01e310a</guid>
+            <pubDate>Wed, 19 Aug 2026 12:33:18 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu highlights European Central Bank (ECB) President Christine Lagarde’s warning that Europe’s post-war growth model is eroding as global trade fragments and cheap energy fades.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-eur.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada: EU protectionist shift challenges diversification – NBC]]></title>
+            <link>https://www.fxstreet.com/news/canada-eu-protectionist-shift-challenges-diversification-nbc-202608191218</link>
+            <guid isPermaLink="false">fda5f5d1-3318-4387-a4f7-38879fe3819c</guid>
+            <pubDate>Wed, 19 Aug 2026 12:18:46 GMT</pubDate>
+            <description><![CDATA[National Bank of Canada’s (NBC) Angelo Katsoras argues that Canada’s push to diversify exports away from the United States (US) toward the European Union (EU) faces growing obstacles as EU industrial policy turns more protectionist.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen gains as US Dollar retreats ahead of FOMC Minutes]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-gains-as-us-dollar-retreats-ahead-of-fomc-minutes-202608191216</link>
+            <guid isPermaLink="false">f858ee6b-f1e6-41d7-926c-2705e6a71783</guid>
+            <pubDate>Wed, 19 Aug 2026 12:16:19 GMT</pubDate>
+            <description><![CDATA[USD/JPY edges lower on Wednesday as the US Dollar (USD) loses momentum and retreats toward the June lows touched earlier this week. At the time of writing, the pair trades around 159.10, down 0.32% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Fed minutes watched as rate doubts grow – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-fed-minutes-watched-as-rate-doubts-grow-commerzbank-202608191205</link>
+            <guid isPermaLink="false">34f2dcf3-3400-41b1-ab49-1c794e308047</guid>
+            <pubDate>Wed, 19 Aug 2026 12:05:55 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Antje Praefcke says markets will scrutinize the latest Fed minutes for clues on how close policymakers remain to another rate hike after weaker US labour and inflation data reduced expectations for a hike by year-end.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Indonesian Rupiah: Policy continuity supports currency – Societe Generale]]></title>
             <link>https://www.fxstreet.com/news/indonesian-rupiah-policy-continuity-supports-currency-societe-generale-202608191152</link>
@@ -46,14 +110,6 @@
             <pubDate>Wed, 19 Aug 2026 11:26:14 GMT</pubDate>
             <description><![CDATA[ING’s Chris Turner, citing UK economist James Smith, notes that July United Kingdom (UK) Consumer Price Index (CPI) had limited impact on EUR/GBP, with benign food inflation and only a modest uptick in the Bank of England’s core services measure to 3.8%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold finds support as US Dollar retreats ahead of Fed Minutes]]></title>
-            <link>https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109</link>
-            <guid isPermaLink="false">cac3fdeb-6876-4e95-bfa7-1e8e2a0de71b</guid>
-            <pubDate>Wed, 19 Aug 2026 11:09:12 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) regains ground on Wednesday after falling nearly 2% on the previous day as a softer US Dollar (USD) and a modest pullback in long-term US Treasury yields lend support to the precious metal. At the time of writing, XAU/USD trades around $4,371, up 0.90% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[US Dollar: Exposure normalizes as real rates fall – BNY]]></title>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 08:20:11 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that Gold’s rebound has lost momentum as renewed Oil gains and higher long-end US yields revive inflation concerns. Daily charts show fading bullish momentum and a lower Relative Strength Index (RSI) from near overbought levels.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures pause as tech sell-off, oil pressures weigh on sentiment]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-pause-as-tech-sell-off-oil-pressures-weigh-on-sentiment-202608190818</link>
-            <guid isPermaLink="false">92ea4161-5122-4158-8943-3f70bdb375ac</guid>
-            <pubDate>Wed, 19 Aug 2026 08:18:22 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures inch higher 0.06% to trade around 53,440 during European hours on Wednesday. Meanwhile, S&P 500 futures remain steady near 7,710, and Nasdaq 100 futures edge lower 0.03%, trading near 29,580.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index slumps in countdown to FOMC minutes]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-slumps-in-countdown-to-fomc-minutes-202608190818</link>
-            <guid isPermaLink="false">eaba1662-6fd1-4a76-9ec5-532b0df8320c</guid>
-            <pubDate>Wed, 19 Aug 2026 08:18:08 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) trades lower against its major currency peers on Wednesday ahead of the Federal Open Market Committee (FOMC) minutes of the July policy meeting, which will be published at 18:00 GMT.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Range-bound trading as FOMC minutes loom – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-range-bound-trading-as-fomc-minutes-loom-ing-202608190809</link>
-            <guid isPermaLink="false">b928ff63-7544-4c20-9380-ba45398b0bb1</guid>
-            <pubDate>Wed, 19 Aug 2026 08:09:38 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner notes that the Dollar remains supported by higher energy prices and long-end US yields, but FX volatility is still low, favouring carry trades.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI holds ground around $84.50 as supply risks increase due to US-Iran peace uncertainty]]></title>
-            <link>https://www.fxstreet.com/news/wti-holds-ground-around-8450-as-supply-risks-increase-due-to-us-iran-peace-uncertainty-202608190801</link>
-            <guid isPermaLink="false">f7b62ffb-ed27-4c26-b3b1-5b688e41a481</guid>
-            <pubDate>Wed, 19 Aug 2026 08:01:28 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) oil price moves sideways after three days of gains, trading around $84.50 per barrel during the European hours on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Extends rebound as yields stabilize against US Dollar - Danske Bank]]></title>
-            <link>https://www.fxstreet.com/news/euro-extends-rebound-as-yields-stabilize-against-us-dollar-danske-bank-202608190758</link>
-            <guid isPermaLink="false">4983d6ec-44eb-4af1-a975-a0c9e9c9a549</guid>
-            <pubDate>Wed, 19 Aug 2026 07:58:53 GMT</pubDate>
-            <description><![CDATA[Danske Research Team notes that EUR/USD has extended its rebound towards 1.1600 as European yields remain elevated while US Treasury yields stabilize after the recent spike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CAD Price Forecast: Bears look at 1.3850 support after rejection at 1.3900 ]]></title>
-            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bears-look-at-13850-support-after-rejection-at-13900-202608190751</link>
-            <guid isPermaLink="false">afa5d94b-f899-4e07-99a7-2833fc07be1c</guid>
-            <pubDate>Wed, 19 Aug 2026 07:51:10 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) resumes its broader bearish trend with the Canadian Dollar (CAD) drawing support from higher Oil prices and a deal with the US to pause 50% tariffs on Canadian exports.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: BoE outlook steady with CPI and jobs data – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-boe-outlook-steady-with-cpi-and-jobs-data-mufg-202608190749</link>
-            <guid isPermaLink="false">e317f984-f84d-42de-acc5-08d750fe9f92</guid>
-            <pubDate>Wed, 19 Aug 2026 07:49:48 GMT</pubDate>
-            <description><![CDATA[Derek Halpenny at MUFG notes that UK July CPI came in broadly as expected, with the headline rate rising to 2.9% mainly on higher utility bills, while services inflation eased.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
