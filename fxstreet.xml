@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 03:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 03:59:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold recovers from weekly low as USD softens ahead of FOMC Minutes]]></title>
+            <link>https://www.fxstreet.com/news/gold-recovers-from-weekly-low-as-usd-softens-ahead-of-fomc-minutes-202608190336</link>
+            <guid isPermaLink="false">2493a751-67b7-46a7-851e-d532b039c3c6</guid>
+            <pubDate>Wed, 19 Aug 2026 03:36:33 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) rebounds from the weekly low, which it touched during the Asian session on Wednesday, and climbs above $4,350 in the last hour.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar weakens despite RBA’s Hauser hawkish remarks]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-weakens-despite-rbas-hauser-hawkish-remarks-202608190335</link>
+            <guid isPermaLink="false">d9f12ca9-0eb0-4922-95fd-3cf7372b23f5</guid>
+            <pubDate>Wed, 19 Aug 2026 03:35:10 GMT</pubDate>
+            <description><![CDATA[AUD/USD extends its losses for the second successive day, trading around 0.7080 during the Asian hours on Wednesday. Addressing the broader economic backdrop, Reserve Bank of Australia (RBA) Deputy Governor Andrew Hauser emphasized on Wednesday that inflation remains unacceptably high.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD extends decline to near $63 amid continued energy supply risks]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-decline-to-near-63-amid-continued-energy-supply-risks-202608190333</link>
+            <guid isPermaLink="false">4bc3e6a8-17d3-43ed-95dd-5ed5b7be933e</guid>
+            <pubDate>Wed, 19 Aug 2026 03:33:01 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) is down 0.5% to near $63.00 during the Asian trading session on Wednesday. The white metal extends its Tuesday’s decline amid fears of prolonged inflation concerns on the back of continued energy supply disruption.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[US President Trump: I have paused 50% tariffs against Canada ]]></title>
             <link>https://www.fxstreet.com/news/us-president-trump-i-have-paused-50-tariffs-against-canada-202608190258</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 19:00:57 GMT</pubDate>
             <description><![CDATA[MUFG analysts Lin Li and Khang Sek Lee note that July data point to weaker Chinese growth and a widening divergence between the "new" and "traditional" economy.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Strong exports underpin SGD – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-strong-exports-underpin-sgd-commerzbank-202608181841</link>
-            <guid isPermaLink="false">2a240f23-1685-45b5-9df1-404216421a6c</guid>
-            <pubDate>Tue, 18 Aug 2026 18:41:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Singapore-focused FX research highlights robust non-oil domestic exports driven by electronics and AI-related demand, with NODX growth already above the government’s upgraded full-year forecast.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Economists agree: BoE will hold rates through year-end – Reuters poll]]></title>
-            <link>https://www.fxstreet.com/news/economists-agree-boe-will-hold-rates-through-year-end-reuters-poll-202608181809</link>
-            <guid isPermaLink="false">f9c06db0-e92a-4657-af82-e2f688d42e52</guid>
-            <pubDate>Tue, 18 Aug 2026 18:09:51 GMT</pubDate>
-            <description><![CDATA[The Bank of England (BoE) will keep interest rates unchanged for the rest of the year, according to a Reuters poll conducted between August 13 and 18.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen drifts lower as Greenback retains safe-haven bid]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-drifts-lower-as-greenback-retains-safe-haven-bid-202608181806</link>
-            <guid isPermaLink="false">76c349b5-6db8-4c07-85be-fcc544429c74</guid>
-            <pubDate>Tue, 18 Aug 2026 18:06:31 GMT</pubDate>
-            <description><![CDATA[USD/JPY holds modest gains near the 159.60s on Tuesday, edging higher on the day. The pair has clawed back ground after a recent sharp pullback and is grinding back toward the upper end of its recent range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
