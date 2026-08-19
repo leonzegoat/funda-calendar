@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 15:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 16:03:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fed Minutes set to show the extent of the hawkish bias after divisive meeting]]></title>
+            <link>https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400</link>
+            <guid isPermaLink="false">91383cb8-11c5-46b6-858f-c0338ef09bcc</guid>
+            <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[The United States (US) Federal Reserve (Fed) will release the Minutes of the July Federal Open Market Committee (FOMC) meeting on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indonesian Rupiah: BI holds rates to back IDR – BNY]]></title>
             <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-holds-rates-to-back-idr-bny-202608191524</link>
@@ -20,7 +28,7 @@
             <link>https://www.fxstreet.com/news/british-pound-jumps-as-treasury-buyback-weakens-the-us-dollar-202608191523</link>
             <guid isPermaLink="false">33a828da-36c0-4f45-9eee-b7a58fbd870c</guid>
             <pubDate>Wed, 19 Aug 2026 15:23:31 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling climbs against the Greenback on Wednesday as the US Treasury stepped up in the markets to offer liquidity support via a buyback of longer-dated bonds, a day after the US 30-year yield hit its highest level since 2007.]]></description>
+            <description><![CDATA[The Pound Sterling (GBP) climbs against the US Dollar (USD) on Wednesday as the US Treasury stepped up in the markets to offer liquidity support via a buyback of longer-dated bonds, a day after the US 30-year yield hit its highest level since 2007.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bullish-object.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 19 Aug 2026 14:08:13 GMT</pubDate>
             <description><![CDATA[Chris Turner at ING explains that Korea’s earlier massive portfolio outflows and a weaker Korean Won (KRW) pushed USD/KRW to 1560 in June, despite a large current account surplus.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed Minutes expected to shed light on the depth of FOMC hawkish split]]></title>
-            <link>https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400</link>
-            <guid isPermaLink="false">91383cb8-11c5-46b6-858f-c0338ef09bcc</guid>
-            <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[The United States (US) Federal Reserve (Fed) will release the Minutes of the July Federal Open Market Committee (FOMC) meeting on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Chinese Yuan: Policy support eyed as growth slows – Commerzbank]]></title>
