@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 22:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 22:43:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Washington bought the Japanese Yen again without meaning to]]></title>
+            <link>https://www.fxstreet.com/news/washington-bought-the-japanese-yen-again-without-meaning-to-202608192228</link>
+            <guid isPermaLink="false">679a5f39-059f-43a8-b3cc-0abc6cfd087f</guid>
+            <pubDate>Wed, 19 Aug 2026 22:28:58 GMT</pubDate>
+            <description><![CDATA[USD/JPY closed Wednesday 0.92% lower just above 158.00, the largest single-session decline since the early-August intervention, and Tokyo did not lift a finger for it.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Pound Sterling's best level since May was made in Washington]]></title>
+            <link>https://www.fxstreet.com/news/pound-sterlings-best-level-since-may-was-made-in-washington-202608192216</link>
+            <guid isPermaLink="false">c6d93ca2-43cc-4673-a5e7-302357ecd3a6</guid>
+            <pubDate>Wed, 19 Aug 2026 22:16:53 GMT</pubDate>
+            <description><![CDATA[GBP/USD closed Wednesday 0.53% higher just above 1.3600, its best close in three months, and the United Kingdom inflation report that opened the session had almost nothing to do with it. Sterling spent the London morning up barely twenty pips on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar rallies as Treasury buyback drags US yields ]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-rallies-as-treasury-buyback-drags-us-yields-202608192133</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 14:08:13 GMT</pubDate>
             <description><![CDATA[Chris Turner at ING explains that Korea’s earlier massive portfolio outflows and a weaker Korean Won (KRW) pushed USD/KRW to 1560 in June, despite a large current account surplus.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Policy support eyed as growth slows – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-policy-support-eyed-as-growth-slows-commerzbank-202608191353</link>
-            <guid isPermaLink="false">7bdcc408-c594-40d9-81e4-79d10f14f728</guid>
-            <pubDate>Wed, 19 Aug 2026 13:53:41 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Charlie Lay, Dr. Henry Hao and Moses Lim note that China’s July data showed weaker Industrial Production and Retail Sales, underscoring fading momentum at the start of Q3.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro rises to June highs as falling US Treasury yields weigh on US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/euro-rises-to-june-highs-as-falling-us-treasury-yields-weigh-on-us-dollar-202608191341</link>
-            <guid isPermaLink="false">a08d652e-5536-43a9-a731-c7aaabc87848</guid>
-            <pubDate>Wed, 19 Aug 2026 13:41:48 GMT</pubDate>
-            <description><![CDATA[EUR/USD climbs sharply on Wednesday, reaching its highest level since June as the US Dollar (USD) comes under fresh selling pressure following the US Treasury’s announcement that it will increase buybacks of longer-dated government debt.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
