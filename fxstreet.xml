@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 10:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 11:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[British Pound: Carry appeal keeps Sterling resilient as BoE stays on hold – ING]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-carry-appeal-keeps-sterling-resilient-as-boe-stays-on-hold-ing-202608191126</link>
+            <guid isPermaLink="false">2ccf2135-f231-422c-929a-f1586d0a3167</guid>
+            <pubDate>Wed, 19 Aug 2026 11:26:14 GMT</pubDate>
+            <description><![CDATA[ING’s Chris Turner, citing UK economist James Smith, notes that July United Kingdom (UK) Consumer Price Index (CPI) had limited impact on EUR/GBP, with benign food inflation and only a modest uptick in the Bank of England’s core services measure to 3.8%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold finds support as US Dollar retreats ahead of Fed Minutes]]></title>
+            <link>https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109</link>
+            <guid isPermaLink="false">cac3fdeb-6876-4e95-bfa7-1e8e2a0de71b</guid>
+            <pubDate>Wed, 19 Aug 2026 11:09:12 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) regains ground on Wednesday after falling nearly 2% on the previous day as a softer US Dollar (USD) and a modest pullback in long-term US Treasury yields lend support to the precious metal. At the time of writing, XAU/USD trades around $4,371, up 0.90% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Exposure normalizes as real rates fall – BNY]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-exposure-normalizes-as-real-rates-fall-bny-202608191107</link>
+            <guid isPermaLink="false">52c81edd-a910-4c08-acbd-84e08e0d60bd</guid>
+            <pubDate>Wed, 19 Aug 2026 11:07:40 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu highlights that international investors are aggressively cutting Dollar exposure as real-yield support erodes following the July FOMC meeting. The bank sees the Dollar decline as a normalization of previously extreme U.S. asset holdings rather than a collapse in U.S. exceptionalism.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Indian Rupee trades lower, RBI remains on standby to limit downside]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 07:38:43 GMT</pubDate>
             <description><![CDATA[USD/IDR depreciates after registering modest gains in the previous day, trading around 17,870 during the European hours on Wednesday. The pair holds losses as the Indonesian Rupiah (IDR) remains stronger following the release of the interest rate decision by the Bank Indonesia (BI).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Tariff delay offers only muted relief – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-tariff-delay-offers-only-muted-relief-commerzbank-202608190733</link>
-            <guid isPermaLink="false">8232144d-9ee9-4526-b6b9-4bbed87ffe56</guid>
-            <pubDate>Wed, 19 Aug 2026 07:33:10 GMT</pubDate>
-            <description><![CDATA[Michael Pfister at Commerzbank reports that new 50% US tariffs on selected Canadian goods have been delayed by three days as an agreement is reportedly close, prompting only a modest Canadian Dollar (CAD) rebound amid uncertainty over the deal’s durability.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Inventory draws and risk premiums support prices – ING]]></title>
-            <link>https://www.fxstreet.com/news/oil-inventory-draws-and-risk-premiums-support-prices-ing-202608190719</link>
-            <guid isPermaLink="false">ddcfa56c-7b30-4b1a-942c-325e108970be</guid>
-            <pubDate>Wed, 19 Aug 2026 07:19:45 GMT</pubDate>
-            <description><![CDATA[ING strategists Ewa Manthey and Warren Patterson note that Oil prices have risen for a fourth straight session, supported by US-Iran tensions and concerns over shipping through the Strait of Hormuz.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ECB's Rehn: Keeping inflation expectations anchored is essential]]></title>
-            <link>https://www.fxstreet.com/news/ecbs-rehn-keeping-inflation-expectations-anchored-is-essential-202608190718</link>
-            <guid isPermaLink="false">3ceb6a48-9bcc-4344-98a4-fbddd37405e1</guid>
-            <pubDate>Wed, 19 Aug 2026 07:18:50 GMT</pubDate>
-            <description><![CDATA[European Central Bank (ECB) official and Finnish Central Bank Governor Olli Rehn said in a written copy of a speech, released during the European trading session on Wednesday, that it is essential to keep inflation expectations anchored.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
