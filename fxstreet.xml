@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 13:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 13:58:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chinese Yuan: Policy support eyed as growth slows – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-policy-support-eyed-as-growth-slows-commerzbank-202608191353</link>
+            <guid isPermaLink="false">7bdcc408-c594-40d9-81e4-79d10f14f728</guid>
+            <pubDate>Wed, 19 Aug 2026 13:53:41 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Charlie Lay, Dr. Henry Hao and Moses Lim note that China’s July data showed weaker Industrial Production and Retail Sales, underscoring fading momentum at the start of Q3.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro rises to June highs as falling US Treasury yields weigh on US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/euro-rises-to-june-highs-as-falling-us-treasury-yields-weigh-on-us-dollar-202608191341</link>
+            <guid isPermaLink="false">a08d652e-5536-43a9-a731-c7aaabc87848</guid>
+            <pubDate>Wed, 19 Aug 2026 13:41:48 GMT</pubDate>
+            <description><![CDATA[EUR/USD climbs sharply on Wednesday, reaching its highest level since June as the US Dollar (USD) comes under fresh selling pressure following the US Treasury’s announcement that it will increase buybacks of longer-dated government debt.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: Shallow uptrend risk into next year – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-shallow-uptrend-risk-into-next-year-rabobank-202608191339</link>
+            <guid isPermaLink="false">473fb2a6-0fe7-416d-a6f2-cfaa8eb5371f</guid>
+            <pubDate>Wed, 19 Aug 2026 13:39:32 GMT</pubDate>
+            <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley notes AUD/USD is currently on the back foot, with the Australian Dollar the weakest G10 currency on a one-day view. Despite market doubts, Rabobank still expects one more Reserve Bank of Australia (RBA) rate hike this year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: Stability-focused BI stance – UOB]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-stability-focused-bi-stance-uob-202608191325</link>
+            <guid isPermaLink="false">ba3b6252-2658-4472-84d6-1f8cfcd6a9cf</guid>
+            <pubDate>Wed, 19 Aug 2026 13:25:06 GMT</pubDate>
+            <description><![CDATA[UOB economist Enrico Tanuwidjaja notes that Bank Indonesia (BI) kept the BI Rate at 5.75% in August, prioritizing Rupiah and macro-financial stability over growth.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesia.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold climbs over 2% as US Treasury buyback plan pressures long-term yields]]></title>
+            <link>https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109</link>
+            <guid isPermaLink="false">cac3fdeb-6876-4e95-bfa7-1e8e2a0de71b</guid>
+            <pubDate>Wed, 19 Aug 2026 11:09:12 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) rallies on Wednesday as a softer US Dollar (USD) and a sharp pullback in long-term US Treasury yields help the metal recover all the previous day’s losses. At the time of writing, XAU/USD trades around $4,458, up over 2.5% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[US Treasury doubles some long-dated debt buybacks to support liquidity]]></title>
             <link>https://www.fxstreet.com/news/us-treasury-doubles-some-long-dated-debt-buybacks-to-support-liquidity-202608191309</link>
@@ -30,14 +70,6 @@
             <pubDate>Wed, 19 Aug 2026 12:46:31 GMT</pubDate>
             <description><![CDATA[HSBC strategists review July data and the latest China Politburo guidance. Retail sales and Fixed Asset Investment softened, while Industrial Production and exports were supported by AI-related and green technology demand.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold finds support as US Dollar retreats ahead of Fed Minutes]]></title>
-            <link>https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109</link>
-            <guid isPermaLink="false">cac3fdeb-6876-4e95-bfa7-1e8e2a0de71b</guid>
-            <pubDate>Wed, 19 Aug 2026 11:09:12 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) enters Wednesday’s American trading hours with decent intraday gains, as a softer US Dollar (USD) and a modest pullback in long-term US Treasury yields help the metal recover some of the previous day’s losses.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Euro: Domestic demand resilience supports EUR – BNY]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 09:00:50 GMT</pubDate>
             <description><![CDATA[MUFG’s Derek Halpenny highlights how elevated US Treasury yields and rising mortgage rates are beginning to weigh on the US housing market, with Housing Starts and Pending Home Sales softening.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ’s hawkish pivot reshapes outlook against US Dollar - Standard Chartered]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-bojs-hawkish-pivot-reshapes-outlook-against-us-dollar-standard-chartered-202608190849</link>
-            <guid isPermaLink="false">ecb5f4a5-26c7-4020-8374-62489939aac7</guid>
-            <pubDate>Wed, 19 Aug 2026 08:49:16 GMT</pubDate>
-            <description><![CDATA[Standard Chartered strategists have revised its Bank of Japan (BoJ) rate outlook, bringing forward its expected 25bps hike from October to September and raising its terminal rate forecast to 1.75% from 1.50% previously.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc picks up within range, USDollar softens awaiting Fed minutes]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-picks-up-within-range-usdollar-softens-awaiting-fed-minutes-202608190831</link>
-            <guid isPermaLink="false">172907de-9c8a-4267-86b7-5f5e647704ab</guid>
-            <pubDate>Wed, 19 Aug 2026 08:31:13 GMT</pubDate>
-            <description><![CDATA[The Swiss Franc (CHF) appreciates moderately on Wednesday, as the US Dollar (USD) pulls back against major peers, with investors bracing for the release of the minutes of July’s Federal Reserve (Fed) monetary policy meeting, due later on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: Range-bound with RBI support against US Dollar – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-range-bound-with-rbi-support-against-us-dollar-commerzbank-202608190828</link>
-            <guid isPermaLink="false">8381b03d-8736-443f-bd3f-7971a1fcface</guid>
-            <pubDate>Wed, 19 Aug 2026 08:28:48 GMT</pubDate>
-            <description><![CDATA[Commerzbank FX analysts Charlie Lay and Moses Lim see USD/INR staying broadly stable as the Reserve Bank of India (RBI) keeps the policy repo rate at 5.25% and remains in wait-and-see mode.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Pullback risk with higher yields and Oil – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/gold-pullback-risk-with-higher-yields-and-oil-ocbc-202608190820</link>
-            <guid isPermaLink="false">b5f50102-1526-4fac-b4ab-8a9b334343dc</guid>
-            <pubDate>Wed, 19 Aug 2026 08:20:11 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that Gold’s rebound has lost momentum as renewed Oil gains and higher long-end US yields revive inflation concerns. Daily charts show fading bullish momentum and a lower Relative Strength Index (RSI) from near overbought levels.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
