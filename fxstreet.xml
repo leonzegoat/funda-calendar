@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 01:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 03:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US President Trump: I have paused 50% tariffs against Canada ]]></title>
+            <link>https://www.fxstreet.com/news/us-president-trump-i-have-paused-50-tariffs-against-canada-202608190258</link>
+            <guid isPermaLink="false">5f74f3b7-911c-4f72-9d01-20fb65f859b3</guid>
+            <pubDate>Wed, 19 Aug 2026 02:58:27 GMT</pubDate>
+            <description><![CDATA[Following overnight negotiations with Canadian Prime Minister Mark Carney, US President Donald Trump announced on Wednesday, “I have paused 50% tariffs against Canada for a three-day period.”]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RBA’s Hauser: Will have to raise rates again if inflation doesn’t come down]]></title>
+            <link>https://www.fxstreet.com/news/rbas-hauser-will-have-to-raise-rates-again-if-inflation-doesnt-come-down-202608190252</link>
+            <guid isPermaLink="false">c58efbd3-6969-42a3-b4d6-407a49039413</guid>
+            <pubDate>Wed, 19 Aug 2026 02:52:58 GMT</pubDate>
+            <description><![CDATA[Reserve Bank of Australia (RBA) Deputy Governor Andrew Hauser said during the Asian trading session on Wednesday that inflation is too high and the central bank needs to raise interest rates to bring price pressures down.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen gains ground as BoJ rate hike bets rise  ]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-gains-ground-as-boj-rate-hike-bets-rise-202608190229</link>
+            <guid isPermaLink="false">b126221b-e6f9-4da7-9a1e-8bf3115ba77a</guid>
+            <pubDate>Wed, 19 Aug 2026 02:29:04 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair edges lower to around 159.45 during the Asian trading hours on Wednesday. The Japanese Yen (JPY) strengthens against the US Dollar (USD) as market expectations grow for another interest rate hike by the Bank of Japan (BoJ).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index hovers above 99.50 due to safe-haven support]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-hovers-above-9950-due-to-safe-haven-support-202608190207</link>
+            <guid isPermaLink="false">a9daf4fa-379d-4969-8523-01b524f8719f</guid>
+            <pubDate>Wed, 19 Aug 2026 02:07:51 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is steadying after registering minor gains in the previous day and trading around 99.60 during the Asian hours on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[UK CPI set to show inflation rebounding to four-month high due to higher energy bill]]></title>
+            <link>https://www.fxstreet.com/news/uk-cpi-set-to-show-inflation-rebounding-to-four-month-high-due-to-higher-energy-bill-202608190200</link>
+            <guid isPermaLink="false">ec55d760-c810-43f8-8e43-2570ee36d0c6</guid>
+            <pubDate>Wed, 19 Aug 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[The United Kingdom (UK) Office for National Statistics (ONS) will release the high-impact Consumer Price Index (CPI) report for July at 06:00 GMT. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/inflation-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar declines to weekly low as USD holds firm ahead of FOMC Minutes]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-declines-to-weekly-low-as-usd-holds-firm-ahead-of-fomc-minutes-202608190145</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 18:06:31 GMT</pubDate>
             <description><![CDATA[USD/JPY holds modest gains near the 159.60s on Tuesday, edging higher on the day. The pair has clawed back ground after a recent sharp pullback and is grinding back toward the upper end of its recent range.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia Rupiah: Fiscal discipline supports stability – UOB]]></title>
-            <link>https://www.fxstreet.com/news/indonesia-rupiah-fiscal-discipline-supports-stability-uob-202608181751</link>
-            <guid isPermaLink="false">e346855b-5dd1-4ef2-a466-79e88d9669ab</guid>
-            <pubDate>Tue, 18 Aug 2026 17:51:00 GMT</pubDate>
-            <description><![CDATA[UOB economist Enrico Tanuwidjaja reviews Indonesia’s 2027 State Budget, highlighting a calibrated balance between growth and fiscal discipline that matters for the Rupiah and local bonds.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-flag-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold price falls as US yields surge, pressuring bullion]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-falls-as-us-yields-surge-pressuring-bullion-202608181748</link>
-            <guid isPermaLink="false">26133ab4-2cb4-4b8c-a5c1-29f58c8ad364</guid>
-            <pubDate>Tue, 18 Aug 2026 17:48:21 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) retreats on Tuesday as US Treasury yields keep their momentum, while energy prices rise further amid a lack of progress in talks between the US and Iran. XAU/USD trades at $4,364, down over 1.10%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD consolidates as bullish momentum fades]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-as-bullish-momentum-fades-202608181730</link>
-            <guid isPermaLink="false">0dfa4602-7a1d-43cf-8ee6-b11d7c83fe7e</guid>
-            <pubDate>Tue, 18 Aug 2026 17:30:50 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) edges lower on Tuesday, remaining confined within a week-old trading range as bullish momentum softens following the recent rally. At the time of writing, XAG/USD trades around $63.96, down 2.77% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A two-decade yield high buys the Dollar Index nothing]]></title>
-            <link>https://www.fxstreet.com/news/a-two-decade-yield-high-buys-the-dollar-index-nothing-202608181728</link>
-            <guid isPermaLink="false">1dc4f1dd-eda4-41ff-9f93-32b6d9b12a61</guid>
-            <pubDate>Tue, 18 Aug 2026 17:28:48 GMT</pubDate>
-            <description><![CDATA[The highest long-dated US yields in nearly two decades have moved the US Dollar Index (DXY) by three hundredths of a point.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dow Jones Industrial Average has a term premium problem]]></title>
-            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-has-a-term-premium-problem-202608181727</link>
-            <guid isPermaLink="false">9c035739-19b1-4c38-969c-fce7f54d1055</guid>
-            <pubDate>Tue, 18 Aug 2026 17:27:28 GMT</pubDate>
-            <description><![CDATA[A quarter-point Federal Reserve (Fed) increase by December stopped being a certainty over the past eight days, and the Dow Jones Industrial Average is lower for it.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
