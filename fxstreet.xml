@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 03:59:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 04:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Swiss Franc strengthens as US Dollar falls on fading Fed rate hike expectations]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-falls-on-fading-fed-rate-hike-expectations-202608190451</link>
+            <guid isPermaLink="false">1f5cc159-f2ac-4f69-a3c2-3d2c1768d5d6</guid>
+            <pubDate>Wed, 19 Aug 2026 04:51:47 GMT</pubDate>
+            <description><![CDATA[USD/CHF depreciates after registering modest gains in the previous day, trading around 0.8120 during the Asian hours on Wednesday. The pair depreciates as the US Dollar (USD) weakens amid easing expectations of a US interest rate hike next month.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Sits near three-week high, below $85.00 as bulls eye 100-SMA breakout]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-sits-near-three-week-high-below-8500-as-bulls-eye-100-sma-breakout-202608190445</link>
+            <guid isPermaLink="false">2b8e968d-b1a9-4232-8c7c-a4a65c1b5879</guid>
+            <pubDate>Wed, 19 Aug 2026 04:45:53 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – touches a nearly three-week high during the Asian session on Wednesday, though it struggles to build on the momentum beyond the $85.00 mark.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold rises, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608190435</link>
+            <guid isPermaLink="false">26f38d69-60fc-464a-b349-489dc2bd7078</guid>
+            <pubDate>Wed, 19 Aug 2026 04:35:45 GMT</pubDate>
+            <description><![CDATA[Gold prices rose in India on Wednesday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[UK CPI set to show inflation accelerated in July, bolstering case for BoE rate hike]]></title>
+            <link>https://www.fxstreet.com/news/uk-cpi-set-to-show-inflation-rebounding-to-four-month-high-due-to-higher-energy-bill-202608190200</link>
+            <guid isPermaLink="false">ec55d760-c810-43f8-8e43-2570ee36d0c6</guid>
+            <pubDate>Wed, 19 Aug 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[The United Kingdom (UK) Office for National Statistics (ONS) will release the high-impact Consumer Price Index (CPI) report for July at 06:00 GMT. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Softens to near 184.50, mildly bearish bias persists under 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-softens-to-near-18450-mildly-bearish-bias-persists-under-100-day-sma-202608190425</link>
+            <guid isPermaLink="false">f5f41bb0-8ba8-47aa-912f-eb4c4d3d8b96</guid>
+            <pubDate>Wed, 19 Aug 2026 04:25:45 GMT</pubDate>
+            <description><![CDATA[The EUR/JPY cross trades in negative territory around 184.60 during the early European trading hours on Wednesday. The Japanese Yen (JPY) edges higher against the Euro (EUR) amid hawkish signals from the Bank of Japan (BoJ).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar strengthens as Trump pauses 50% tariffs and USD slides before FOMC Minutes]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-strengthens-as-trump-pauses-50-tariffs-and-usd-slides-before-fomc-minutes-202608190403</link>
+            <guid isPermaLink="false">2b25b9a1-2e02-4b3d-a365-796ea74cbb74</guid>
+            <pubDate>Wed, 19 Aug 2026 04:03:56 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair meets with fresh supply during the Asian session on Wednesday and, for now, seems to have stalled its recovery from the lowest level since June 3, touched earlier this week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold recovers from weekly low as USD softens ahead of FOMC Minutes]]></title>
             <link>https://www.fxstreet.com/news/gold-recovers-from-weekly-low-as-usd-softens-ahead-of-fomc-minutes-202608190336</link>
@@ -62,14 +110,6 @@
             <pubDate>Wed, 19 Aug 2026 02:07:51 GMT</pubDate>
             <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is steadying after registering minor gains in the previous day and trading around 99.60 during the Asian hours on Wednesday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[UK CPI set to show inflation rebounding to four-month high due to higher energy bill]]></title>
-            <link>https://www.fxstreet.com/news/uk-cpi-set-to-show-inflation-rebounding-to-four-month-high-due-to-higher-energy-bill-202608190200</link>
-            <guid isPermaLink="false">ec55d760-c810-43f8-8e43-2570ee36d0c6</guid>
-            <pubDate>Wed, 19 Aug 2026 02:00:00 GMT</pubDate>
-            <description><![CDATA[The United Kingdom (UK) Office for National Statistics (ONS) will release the high-impact Consumer Price Index (CPI) report for July at 06:00 GMT. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/inflation-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Zealand Dollar declines to weekly low as USD holds firm ahead of FOMC Minutes]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 18 Aug 2026 21:02:00 GMT</pubDate>
             <description><![CDATA[United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann note that USD/CNH has been trading quietly, with intraday ranges clustered around current levels.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Won: Bearish Won view with 1,400 support – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/south-korean-won-bearish-won-view-with-1-400-support-td-securities-202608182024</link>
-            <guid isPermaLink="false">69f51866-95af-4d42-b676-8e143387e927</guid>
-            <pubDate>Tue, 18 Aug 2026 20:24:48 GMT</pubDate>
-            <description><![CDATA[TD Securities turns bearish on the Korean Won, arguing USD/KRW is likely to find support around 1,400 as prior KRW strength fades.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Flag support rebound keeps bulls alive]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-flag-support-rebound-keeps-bulls-alive-202608181931</link>
-            <guid isPermaLink="false">022d06a2-2642-4876-b5d7-e9a472681dd9</guid>
-            <pubDate>Tue, 18 Aug 2026 19:31:34 GMT</pubDate>
-            <description><![CDATA[The USD/CHF pair recovers some ground on Tuesday after testing the 50-day Simple Moving Average (SMA) of 0.7866 along with the bottom trendline of the ‘bearish flag’, which so far contained price action amid the lack of conviction of buyers and sellers, regarding the trend’s direction.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar firms on Hormuz jitters ahead of UK CPI and FOMC Minutes]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-on-hormuz-jitters-ahead-of-uk-cpi-and-fomc-minutes-202608181954</link>
-            <guid isPermaLink="false">2ec1a9d2-b818-42db-9c59-4205b3289dac</guid>
-            <pubDate>Tue, 18 Aug 2026 19:54:27 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) held a firm tone near the 99.60s on Tuesday, keeping a mild safe-haven bid as tensions around the Strait of Hormuz stayed front and center. Gold and Oil both sold off, and most major currencies drifted lower against the Greenback.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Upside risk stays in focus against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608181935</link>
-            <guid isPermaLink="false">1fe3a379-f43f-420e-af55-fc84a3a6fa76</guid>
-            <pubDate>Tue, 18 Aug 2026 19:35:48 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD rebounded after a sharper-than-expected drop to 1.2752, easing immediate downside pressure and pointing to intraday consolidation between 1.2760 and 1.2795.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Gradual appreciation view – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-gradual-appreciation-view-mufg-202608181900</link>
-            <guid isPermaLink="false">5ac48940-b140-4607-94b8-325248a34d8e</guid>
-            <pubDate>Tue, 18 Aug 2026 19:00:57 GMT</pubDate>
-            <description><![CDATA[MUFG analysts Lin Li and Khang Sek Lee note that July data point to weaker Chinese growth and a widening divergence between the "new" and "traditional" economy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
