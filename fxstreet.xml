@@ -4,9 +4,105 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 07:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 07:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CAD Price Forecast: Bears look at 1.3850 support after rejection at 1.3900 ]]></title>
+            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bears-look-at-13850-support-after-rejection-at-13900-202608190751</link>
+            <guid isPermaLink="false">afa5d94b-f899-4e07-99a7-2833fc07be1c</guid>
+            <pubDate>Wed, 19 Aug 2026 07:51:10 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) resumes its broader bearish trend with the Canadian Dollar (CAD) drawing support from higher Oil prices and a deal with the US to pause 50% tariffs on Canadian exports.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: BoE outlook steady with CPI and jobs data – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-boe-outlook-steady-with-cpi-and-jobs-data-mufg-202608190749</link>
+            <guid isPermaLink="false">e317f984-f84d-42de-acc5-08d750fe9f92</guid>
+            <pubDate>Wed, 19 Aug 2026 07:49:48 GMT</pubDate>
+            <description><![CDATA[Derek Halpenny at MUFG notes that UK July CPI came in broadly as expected, with the headline rate rising to 2.9% mainly on higher utility bills, while services inflation eased.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Equities: Chip-led selloff under stagflation pressure – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/equities-chip-led-selloff-under-stagflation-pressure-deutsche-bank-202608190741</link>
+            <guid isPermaLink="false">97c07a20-f604-4980-a9b9-7ddd86ef47a7</guid>
+            <pubDate>Wed, 19 Aug 2026 07:41:20 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank strategists note that global equities endured another difficult session as rising yields and higher Oil reinforced a stagflationary backdrop. US indices, led by chip stocks and the NASDAQ, extended declines, while the STOXX Europe 600 posted its fifth consecutive drop.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold climbs back above $4,350 as USD remains depressed ahead of FOMC Minutes]]></title>
+            <link>https://www.fxstreet.com/news/gold-recovers-from-weekly-low-as-usd-softens-ahead-of-fomc-minutes-202608190336</link>
+            <guid isPermaLink="false">2493a751-67b7-46a7-851e-d532b039c3c6</guid>
+            <pubDate>Wed, 19 Aug 2026 03:36:33 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) climbs back above $4,350 during the first half of the European session, reversing a part of the previous day's heavy losses.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: UK inflation data arrive mixed, focus shifts to FOMC Minutes]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-uk-inflation-data-arrive-mixed-focus-shifts-to-fomc-minutes-202608190739</link>
+            <guid isPermaLink="false">6b67ede2-a2f3-4741-a45f-e3ee79946a6f</guid>
+            <pubDate>Wed, 19 Aug 2026 07:39:09 GMT</pubDate>
+            <description><![CDATA[Here is what you need to know on Wednesday, August 19:]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah holds firm as BI keeps rate steady at 5.75%]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-holds-firm-as-bi-keeps-rate-steady-at-575-202608190738</link>
+            <guid isPermaLink="false">e1cfcc5f-1f40-46e6-ac17-33ea95ab393e</guid>
+            <pubDate>Wed, 19 Aug 2026 07:38:43 GMT</pubDate>
+            <description><![CDATA[USD/IDR depreciates after registering modest gains in the previous day, trading around 17,870 during the European hours on Wednesday. The pair holds losses as the Indonesian Rupiah (IDR) remains stronger following the release of the interest rate decision by the Bank Indonesia (BI).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Tariff delay offers only muted relief – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-tariff-delay-offers-only-muted-relief-commerzbank-202608190733</link>
+            <guid isPermaLink="false">8232144d-9ee9-4526-b6b9-4bbed87ffe56</guid>
+            <pubDate>Wed, 19 Aug 2026 07:33:10 GMT</pubDate>
+            <description><![CDATA[Michael Pfister at Commerzbank reports that new 50% US tariffs on selected Canadian goods have been delayed by three days as an agreement is reportedly close, prompting only a modest Canadian Dollar (CAD) rebound amid uncertainty over the deal’s durability.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Inventory draws and risk premiums support prices – ING]]></title>
+            <link>https://www.fxstreet.com/news/oil-inventory-draws-and-risk-premiums-support-prices-ing-202608190719</link>
+            <guid isPermaLink="false">ddcfa56c-7b30-4b1a-942c-325e108970be</guid>
+            <pubDate>Wed, 19 Aug 2026 07:19:45 GMT</pubDate>
+            <description><![CDATA[ING strategists Ewa Manthey and Warren Patterson note that Oil prices have risen for a fourth straight session, supported by US-Iran tensions and concerns over shipping through the Strait of Hormuz.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ECB's Rehn: Keeping inflation expectations anchored is essential]]></title>
+            <link>https://www.fxstreet.com/news/ecbs-rehn-keeping-inflation-expectations-anchored-is-essential-202608190718</link>
+            <guid isPermaLink="false">3ceb6a48-9bcc-4344-98a4-fbddd37405e1</guid>
+            <pubDate>Wed, 19 Aug 2026 07:18:50 GMT</pubDate>
+            <description><![CDATA[European Central Bank (ECB) official and Finnish Central Bank Governor Olli Rehn said in a written copy of a speech, released during the European trading session on Wednesday, that it is essential to keep inflation expectations anchored.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecasts: XAG/USD tests levels sub-$63.00 as bearish pressure mounts]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-tests-levels-sub-6300-as-bearish-pressure-mounts-202608190714</link>
+            <guid isPermaLink="false">145c7e6a-ec8c-4a92-87a9-fc7e3240acf4</guid>
+            <pubDate>Wed, 19 Aug 2026 07:14:05 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) trades lower for the second consecutive day on Wednesday, exploring prices below the $63.00 level at the time of writing, after a reversal from the $66.50 area on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee stays under pressure amid higher oil prices]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531</link>
+            <guid isPermaLink="false">4691e1f0-94ab-403c-921d-a522e770bccb</guid>
+            <pubDate>Wed, 19 Aug 2026 05:31:26 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) remains vulnerable against the US Dollar (USD), close to its two-week low at around 95.75.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NZD/USD Price Forecast: Weakens below 0.5900, but staying supported above 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-weakens-below-05900-but-staying-supported-above-100-day-sma-202608190711</link>
+            <guid isPermaLink="false">24981b38-de8e-4609-94c8-11a504ae1ce4</guid>
+            <pubDate>Wed, 19 Aug 2026 07:11:41 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair trades with mild losses around 0.5875 during the early European session on Wednesday. Escalating tensions in the Middle East boost a safe-haven currency such as the US Dollar (USD) and act as a headwind for the pair. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indonesian Rupiah: Oil gains and BI decision shape IDR – OCBC]]></title>
             <link>https://www.fxstreet.com/news/indonesian-rupiah-oil-gains-and-bi-decision-shape-idr-ocbc-202608190704</link>
@@ -72,14 +168,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gold surrenders modest intraday gains; trades below $4,450 as FOMC Minutes loom]]></title>
-            <link>https://www.fxstreet.com/news/gold-recovers-from-weekly-low-as-usd-softens-ahead-of-fomc-minutes-202608190336</link>
-            <guid isPermaLink="false">2493a751-67b7-46a7-851e-d532b039c3c6</guid>
-            <pubDate>Wed, 19 Aug 2026 03:36:33 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) surrenders modest intraday gains and trades near the lower end of its daily range, below $4,450 heading into the European session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[British Pound shows limited reaction to expected increase in UK headline inflation]]></title>
             <link>https://www.fxstreet.com/news/british-pound-shows-limited-reaction-to-expected-increase-in-uk-headline-inflation-202608190614</link>
             <guid isPermaLink="false">40de7e81-5f79-40e9-b2c2-0261e99543e1</guid>
@@ -110,14 +198,6 @@
             <pubDate>Wed, 19 Aug 2026 06:00:00 GMT</pubDate>
             <description><![CDATA[USD/IDR depreciates after registering modest gains in the previous day, trading around 17,870 during the Asian hours on Wednesday. The technical analysis of the daily chart suggests that the pair is remaining within the rectangle, indicating a consolidation phase.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee holds onto two-week losses against US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531</link>
-            <guid isPermaLink="false">4691e1f0-94ab-403c-921d-a522e770bccb</guid>
-            <pubDate>Wed, 19 Aug 2026 05:31:26 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) opens on a flat note against the US Dollar (USD), but is close to its two-week low at around 95.75.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[EUR/USD Price Forecast: Gathers strength above 1.1550, bullish outlook remains intact ]]></title>
@@ -166,86 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 04:03:56 GMT</pubDate>
             <description><![CDATA[The USD/CAD pair meets with fresh supply during the Asian session on Wednesday and, for now, seems to have stalled its recovery from the lowest level since June 3, touched earlier this week.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar weakens despite RBA’s Hauser hawkish remarks]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-weakens-despite-rbas-hauser-hawkish-remarks-202608190335</link>
-            <guid isPermaLink="false">d9f12ca9-0eb0-4922-95fd-3cf7372b23f5</guid>
-            <pubDate>Wed, 19 Aug 2026 03:35:10 GMT</pubDate>
-            <description><![CDATA[AUD/USD extends its losses for the second successive day, trading around 0.7080 during the Asian hours on Wednesday. Addressing the broader economic backdrop, Reserve Bank of Australia (RBA) Deputy Governor Andrew Hauser emphasized on Wednesday that inflation remains unacceptably high.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD extends decline to near $63 amid continued energy supply risks]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-decline-to-near-63-amid-continued-energy-supply-risks-202608190333</link>
-            <guid isPermaLink="false">4bc3e6a8-17d3-43ed-95dd-5ed5b7be933e</guid>
-            <pubDate>Wed, 19 Aug 2026 03:33:01 GMT</pubDate>
-            <description><![CDATA[Silver price (XAG/USD) is down 0.5% to near $63.00 during the Asian trading session on Wednesday. The white metal extends its Tuesday’s decline amid fears of prolonged inflation concerns on the back of continued energy supply disruption.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US President Trump: I have paused 50% tariffs against Canada ]]></title>
-            <link>https://www.fxstreet.com/news/us-president-trump-i-have-paused-50-tariffs-against-canada-202608190258</link>
-            <guid isPermaLink="false">5f74f3b7-911c-4f72-9d01-20fb65f859b3</guid>
-            <pubDate>Wed, 19 Aug 2026 02:58:27 GMT</pubDate>
-            <description><![CDATA[Following overnight negotiations with Canadian Prime Minister Mark Carney, US President Donald Trump announced on Wednesday, “I have paused 50% tariffs against Canada for a three-day period.”]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RBA’s Hauser: Will have to raise rates again if inflation doesn’t come down]]></title>
-            <link>https://www.fxstreet.com/news/rbas-hauser-will-have-to-raise-rates-again-if-inflation-doesnt-come-down-202608190252</link>
-            <guid isPermaLink="false">c58efbd3-6969-42a3-b4d6-407a49039413</guid>
-            <pubDate>Wed, 19 Aug 2026 02:52:58 GMT</pubDate>
-            <description><![CDATA[Reserve Bank of Australia (RBA) Deputy Governor Andrew Hauser said during the Asian trading session on Wednesday that inflation is too high and the central bank needs to raise interest rates to bring price pressures down.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen gains ground as BoJ rate hike bets rise  ]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-gains-ground-as-boj-rate-hike-bets-rise-202608190229</link>
-            <guid isPermaLink="false">b126221b-e6f9-4da7-9a1e-8bf3115ba77a</guid>
-            <pubDate>Wed, 19 Aug 2026 02:29:04 GMT</pubDate>
-            <description><![CDATA[The USD/JPY pair edges lower to around 159.45 during the Asian trading hours on Wednesday. The Japanese Yen (JPY) strengthens against the US Dollar (USD) as market expectations grow for another interest rate hike by the Bank of Japan (BoJ).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index hovers above 99.50 due to safe-haven support]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-hovers-above-9950-due-to-safe-haven-support-202608190207</link>
-            <guid isPermaLink="false">a9daf4fa-379d-4969-8523-01b524f8719f</guid>
-            <pubDate>Wed, 19 Aug 2026 02:07:51 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is steadying after registering minor gains in the previous day and trading around 99.60 during the Asian hours on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar declines to weekly low as USD holds firm ahead of FOMC Minutes]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-declines-to-weekly-low-as-usd-holds-firm-ahead-of-fomc-minutes-202608190145</link>
-            <guid isPermaLink="false">7575edd7-ca3b-436a-afcd-6d71078af9c9</guid>
-            <pubDate>Wed, 19 Aug 2026 01:45:51 GMT</pubDate>
-            <description><![CDATA[The NZD/USD pair is seen extending this week's retracement slide from the 0.5925 area, or the highest since June 3, and drifting lower for the second straight day on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound declines below 1.3550 on soft UK labour figures, traders brace for CPI data]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-declines-below-13550-on-soft-uk-labour-figures-traders-brace-for-cpi-data-202608190135</link>
-            <guid isPermaLink="false">2a01ede0-e81c-47cb-9c45-eacf93b89743</guid>
-            <pubDate>Wed, 19 Aug 2026 01:35:54 GMT</pubDate>
-            <description><![CDATA[The GBP/USD pair loses ground to around 1.3535 during the early Asian trading hours on Wednesday. The British Pound (GBP) weakens against the US Dollar (USD) amid disappointing UK labour data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI rises to near $85.00 amid escalating US-Iran tensions]]></title>
-            <link>https://www.fxstreet.com/news/wti-rises-to-near-8500-amid-escalating-us-iran-tensions-202608190123</link>
-            <guid isPermaLink="false">45d3da1f-8c0c-4d86-92e0-21ebfa3ad203</guid>
-            <pubDate>Wed, 19 Aug 2026 01:23:33 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) oil price extends its gains for the fourth consecutive day, trading around $84.80 per barrel during the Asian hours on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar consolidates near 1.3900 vs USD ahead of US tariffs deadline, FOMC Minutes]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-consolidates-near-13900-vs-usd-ahead-of-us-tariffs-deadline-fomc-minutes-202608190116</link>
-            <guid isPermaLink="false">ea33d93b-d7bc-4b7d-ada9-6d46cc83ae28</guid>
-            <pubDate>Wed, 19 Aug 2026 01:16:10 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair struggles to capitalize on this week's modest recovery from its lowest level since June 3 and oscillates in a range around the 1.3900 mark during the Asian session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-neutral-line-1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
