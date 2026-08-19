@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 23:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 23:39:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold climbs above $4,500 as US Dollar, yields fall]]></title>
+            <link>https://www.fxstreet.com/news/gold-climbs-above-4-500-as-us-dollar-yields-fall-202608192326</link>
+            <guid isPermaLink="false">eeefbe6a-ee39-44da-a111-30af23eeb973</guid>
+            <pubDate>Wed, 19 Aug 2026 23:26:55 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) rises to around $4,520 during the early Asian session on Thursday. The precious metal surges to the highest since early June amid the weakening US Dollar (USD) after the US Treasury Department stepped in to provide relief to bond markets.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar gains as Treasury buyback offsets hawkish Fed]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-gains-as-treasury-buyback-offsets-hawkish-fed-202608192321</link>
+            <guid isPermaLink="false">9b94ec43-63b2-40dc-876c-7a0952a27a1d</guid>
+            <pubDate>Wed, 19 Aug 2026 23:21:00 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar advances on Wednesday, up over 0.56%, as the US Dollar registers losses amid the US Treasury bond buyback and despite the release of hawkish Federal Reserve minutes from the July meeting. The AUD/USD trades at 0.7127.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[GBP/JPY Price Forecast: sellers take control below 50-day SMA]]></title>
             <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-sellers-take-control-below-50-day-sma-202608192301</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 14:38:06 GMT</pubDate>
             <description><![CDATA[BNY’s Geoff Yu reports the Reserve Bank of Australia remains concerned about inflation, with Deputy Governor Andrew Hauser saying further rate hikes cannot be ruled out.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of England: Rate hold baseline with conflict risks – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-england-rate-hold-baseline-with-conflict-risks-societe-generale-202608191422</link>
-            <guid isPermaLink="false">7f36b78a-673f-47f3-bc28-ce863ac7eb37</guid>
-            <pubDate>Wed, 19 Aug 2026 14:22:40 GMT</pubDate>
-            <description><![CDATA[Sam Cartwright at Societe Generale argues recent easing in United Kingdom (UK) services inflation and labour market loosening support the Bank of England’s wait-and-see stance. The baseline view is Bank Rate stays at 3.75% through 2026 to restrain underlying inflation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index falls as US Treasury doubles long-dated debt buybacks]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-falls-as-us-treasury-doubles-long-dated-debt-buybacks-202608191418</link>
-            <guid isPermaLink="false">6f2628d4-f80c-4b24-a18c-8a75bddc2d0b</guid>
-            <pubDate>Wed, 19 Aug 2026 14:18:09 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) comes under fresh selling pressure on Wednesday as longer-term US Treasury yields fall sharply following the Treasury Department’s decision to expand its buyback operations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
