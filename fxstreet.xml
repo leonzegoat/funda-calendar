@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 15:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 16:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold reclaims $4,500 despite rebound in US Treasury yields and US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116</link>
+            <guid isPermaLink="false">b456c169-0592-49f5-a406-9696d14b0ec6</guid>
+            <pubDate>Thu, 20 Aug 2026 11:16:10 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) trims its earlier intraday losses during American trading hours on Thursday and climbs back above the $4,500 mark, even as US Treasury yields rebound and the US Dollar (USD) stabilizes following the previous day’s sharp pullback.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound climbs as UK inflation keeps BoE hike bets alive]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-climbs-as-uk-inflation-keeps-boe-hike-bets-alive-202608201558</link>
+            <guid isPermaLink="false">caae1719-ed16-4594-b853-35ae64d53bd1</guid>
+            <pubDate>Thu, 20 Aug 2026 15:58:58 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) advances on Thursday during the North American session, up 0.25% after US economic data showed that the labor market remains solid, despite a weaker Nonfarm Payrolls in July.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed's Musalem: Hiking rates now could save more aggressive action later]]></title>
+            <link>https://www.fxstreet.com/news/feds-musalem-hiking-rates-now-could-save-more-aggressive-action-later-202608201552</link>
+            <guid isPermaLink="false">3762ef9b-2754-4d31-992c-07706439c82f</guid>
+            <pubDate>Thu, 20 Aug 2026 15:52:51 GMT</pubDate>
+            <description><![CDATA[Federal Reserve Bank of St. Louis President Alberto Musalem is crossing the wires with remarks on the economy and the monetary policy outlook, speaking in an interview with CNBC on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Debasement worries weigh after buyback – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-debasement-worries-weigh-after-buyback-scotiabank-202608201552</link>
+            <guid isPermaLink="false">8fc72e48-4ff2-4816-ba62-6b07da7d8b30</guid>
+            <pubDate>Thu, 20 Aug 2026 15:52:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the US Dollar (USD) is extending losses to its weakest level since mid-June as markets react to the US Treasury’s decision to double bond buybacks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA]]></title>
             <link>https://www.fxstreet.com/news/usd-chf-price-forecast-attempts-to-reclaim-08000-after-defending-the-100-day-sma-202608201540</link>
@@ -86,14 +118,6 @@
             <pubDate>Thu, 20 Aug 2026 14:13:55 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report that EUR/USD gains are being driven mainly by broad US Dollar (USD) weakness, with front-end spreads narrowing since late June and supporting Euro (EUR) fundamentals.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold pares gains as US Treasury yields, Dollar recover]]></title>
-            <link>https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116</link>
-            <guid isPermaLink="false">b456c169-0592-49f5-a406-9696d14b0ec6</guid>
-            <pubDate>Thu, 20 Aug 2026 11:16:10 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) remains on the back foot during American trading hours on Thursday as US Treasury yields rebound and the US Dollar stabilizes following the previous day’s sharp pullback.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Indonesian Rupiah: BI pause keeps tightening risk alive – Commerzbank]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 12:11:55 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman (BBH) notes that US long-term Treasury yields have retraced most of their decline following the Treasury’s expanded buyback announcement, while the US Dollar (USD) remains under pressure.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Riksbank: Early-2027 hike view – Nomura]]></title>
-            <link>https://www.fxstreet.com/news/riksbank-early-2027-hike-view-nomura-202608201201</link>
-            <guid isPermaLink="false">4291e793-ba7f-4f36-801b-73724c3c1877</guid>
-            <pubDate>Thu, 20 Aug 2026 12:01:43 GMT</pubDate>
-            <description><![CDATA[Nomura’s European Economics team, led by Josie Anderson, George Buckley and Andrzej Szczepaniak, reviews the latest Riksbank decision to keep the policy rate at 1.75%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen trims gains as downbeat foreign trade data offsets US Dollar’s weakness]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-trims-gains-as-downbeat-foreign-trade-data-offsets-us-dollars-weakness-202608201154</link>
-            <guid isPermaLink="false">e00822a7-5cbe-47f1-9319-f17793f7b597</guid>
-            <pubDate>Thu, 20 Aug 2026 11:54:53 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) shows a moderate pullback on Friday, despite the broad-based US Dollar (USD) weakness, following the US Treasury’s plan to double buybacks of long-term Government debt.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Neutral-Tendency-2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Flows and trade leave Japanese Yen exposed – BNY]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-flows-and-trade-leave-japanese-yen-exposed-bny-202608201149</link>
-            <guid isPermaLink="false">dfc3dfc6-bd3a-49cd-974b-d6a364b6079d</guid>
-            <pubDate>Thu, 20 Aug 2026 11:49:25 GMT</pubDate>
-            <description><![CDATA[Geoff Yu at BNY Mellon highlights that foreign investors are accelerating Japanese Government Bond selling while Japanese investors increase purchases of overseas bonds and equities. This flow mix weakens support for the Japanese Yen and points to further depreciation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
