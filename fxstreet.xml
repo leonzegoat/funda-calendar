@@ -4,9 +4,97 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 12:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 13:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Analysts agree: Indian Rupee should draw support from hawkish RBI, strong reserves]]></title>
+            <link>https://www.fxstreet.com/news/analysts-agree-indian-rupee-should-draw-support-from-hawkish-rbi-strong-reserves-202608201308</link>
+            <guid isPermaLink="false">4f83ebff-3559-45c3-937e-7d4272ce9a72</guid>
+            <pubDate>Thu, 20 Aug 2026 13:08:56 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) is balancing solid macroeconomic fundamentals and massive central bank reserves against renewed hawkish undertones from the Reserve Bank of India (RBI).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-179.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Consolidation after treasury buybacks – DBS]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-consolidation-after-treasury-buybacks-dbs-202608201305</link>
+            <guid isPermaLink="false">5ddfc17a-5fe3-418f-99d3-087f89fd5b81</guid>
+            <pubDate>Thu, 20 Aug 2026 13:05:24 GMT</pubDate>
+            <description><![CDATA[DBS Group Research strategist Chang Wei Liang notes ongoing Dollar weakness after the US Treasury unexpectedly doubled long-dated bond buybacks, pushing DXY below 99.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed's Daly: Rise in long term yields is a global issue]]></title>
+            <link>https://www.fxstreet.com/news/feds-daly-rise-in-long-term-yields-is-a-global-issue-202608201300</link>
+            <guid isPermaLink="false">6115871c-3c1e-4e60-aee9-d74799329d8e</guid>
+            <pubDate>Thu, 20 Aug 2026 13:00:51 GMT</pubDate>
+            <description><![CDATA[In an interview with Bloomberg TV on Thursday, Federal Reserve (Fed) Bank of San Francisco President Mary Daly argued that the rise in long term Treasury bond yields is a global issue and added that she doesn't see the Fed's credibility at risk.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar retreats as weak jobs data weighs on RBA rate outlook]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-retreats-as-weak-jobs-data-weighs-on-rba-rate-outlook-202608201254</link>
+            <guid isPermaLink="false">39811e1e-6f1d-4c1f-bd2f-d9790e507aca</guid>
+            <pubDate>Thu, 20 Aug 2026 12:54:02 GMT</pubDate>
+            <description><![CDATA[AUD/USD declines 0.22% on Thursday and trades around 0.7110 at the time of writing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Debt concerns shape FX outlook – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-debt-concerns-shape-fx-outlook-rabobank-202608201253</link>
+            <guid isPermaLink="false">2b2f8e42-3014-4728-8006-d3f8d83e49c4</guid>
+            <pubDate>Thu, 20 Aug 2026 12:53:11 GMT</pubDate>
+            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses USD/JPY in context of fiscal and debt dynamics in Japan and the United States (US).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold pares gains as US Treasury yields, Dollar recover]]></title>
+            <link>https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116</link>
+            <guid isPermaLink="false">b456c169-0592-49f5-a406-9696d14b0ec6</guid>
+            <pubDate>Thu, 20 Aug 2026 11:16:10 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) extends its intraday decline at the start of American trading hours on Thursday as US Treasury yields and the US Dollar stabilise following the previous day’s sharp pullback.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold: Rally faces questions as buybacks reshape yields – BNY]]></title>
+            <link>https://www.fxstreet.com/news/gold-rally-faces-questions-as-buybacks-reshape-yields-bny-202608201240</link>
+            <guid isPermaLink="false">5f1aff16-53e3-4084-a0a4-7e9ee2cc3a9f</guid>
+            <pubDate>Thu, 20 Aug 2026 12:40:12 GMT</pubDate>
+            <description><![CDATA[BNY Mellon’s Geoff Yu notes Gold has surged through $4,500/oz. as investors reassess U.S. Treasury buybacks and their inflation implications. The report argues the intervention has calmed bond markets but may shift pressure into alternative stores of value like Gold and Bitcoin.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Initial Jobless Claims dropped to 206K last week]]></title>
+            <link>https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-206k-last-week-202608201238</link>
+            <guid isPermaLink="false">94c60233-394e-49fc-b681-0a8ccb17b6f1</guid>
+            <pubDate>Thu, 20 Aug 2026 12:38:19 GMT</pubDate>
+            <description><![CDATA[According to a report from the US Department of Labour (DOL) released on Thursday, the number of US citizens submitting new applications for unemployment insurance shrunk to 206K for the week ending August 15.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: Long-end yield risks contained – ING]]></title>
+            <link>https://www.fxstreet.com/news/united-states-long-end-yield-risks-contained-ing-202608201225</link>
+            <guid isPermaLink="false">89993aff-e82b-4047-a9a8-bc6ded53e886</guid>
+            <pubDate>Thu, 20 Aug 2026 12:25:08 GMT</pubDate>
+            <description><![CDATA[ING’s Padhraic Garvey analyses how the US Treasury’s decision to double buybacks in 10-30 year maturities affects long-end US Treasuries. He stresses that while the programme is sizeable and could be expanded again, it mainly mutes, rather than reverses, upward pressure on long yields.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound gains as Japanese Yen struggles despite hawkish BoJ outlook]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-gains-as-japanese-yen-struggles-despite-hawkish-boj-outlook-202608201213</link>
+            <guid isPermaLink="false">0cdb1b33-63e4-4d70-8319-582de92740bc</guid>
+            <pubDate>Thu, 20 Aug 2026 12:13:57 GMT</pubDate>
+            <description><![CDATA[GBP/JPY edges higher on Thursday, reversing all the losses recorded on the previous day. The move is largely driven by broad Japanese Yen (JPY) weakness rather than any major positive development for the British Pound (GBP), with a sparse economic calendar offering little fresh impetus.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Treasury buybacks raise fiscal questions – BBH]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-treasury-buybacks-raise-fiscal-questions-bbh-202608201211</link>
+            <guid isPermaLink="false">3d389924-0105-42f1-8f60-c5b701bc42c2</guid>
+            <pubDate>Thu, 20 Aug 2026 12:11:55 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman (BBH) notes that US long-term Treasury yields have retraced most of their decline following the Treasury’s expanded buyback announcement, while the US Dollar (USD) remains under pressure.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Riksbank: Early-2027 hike view – Nomura]]></title>
             <link>https://www.fxstreet.com/news/riksbank-early-2027-hike-view-nomura-202608201201</link>
@@ -62,14 +150,6 @@
             <pubDate>Thu, 20 Aug 2026 05:02:58 GMT</pubDate>
             <description><![CDATA[The Indian Rupee (INR) surrenders a majority of its opening gains against the US Dollar (USD) on Thursday. The USD/INR pair rebounds to near 95.72 from its day's low of 95.59 as higher Oil prices limit the upside in the Indian currency.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold pares gains, remaining close to recent highs, as Treasury buybacks weigh on US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116</link>
-            <guid isPermaLink="false">b456c169-0592-49f5-a406-9696d14b0ec6</guid>
-            <pubDate>Thu, 20 Aug 2026 11:16:10 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) bulls take a breather on Thursday following the sharp rally on the previous day, triggered by a steep pullback in long-term US Treasury yields. At the time of writing, XAU/USD trades around $4,488, easing from an intraday high of $4,527, its highest level since June 2.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Australian Dollar: Softer jobs data keeps RBA sidelined – BBH]]></title>
@@ -166,86 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 08:55:27 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trades 2% higher at around $86.00 during the European trading session on Thursday, the highest level seen in over three weeks.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Tight physical market supports prices – ING]]></title>
-            <link>https://www.fxstreet.com/news/copper-tight-physical-market-supports-prices-ing-202608200855</link>
-            <guid isPermaLink="false">639f748a-e46e-4ea9-a658-e7b2a91c43bc</guid>
-            <pubDate>Thu, 20 Aug 2026 08:55:05 GMT</pubDate>
-            <description><![CDATA[ING’s commodities team, led by Ewa Manthey and Warren Patterson, reports Copper market tightness has eased slightly as LME inventories rose by more than 55kt over two sessions, narrowing the cash-to-three-month backwardation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures gain on Treasury bond buyback relief]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-gain-on-treasury-bond-buyback-relief-202608200850</link>
-            <guid isPermaLink="false">7127a798-4150-4e07-a496-06dac2b0cdcf</guid>
-            <pubDate>Thu, 20 Aug 2026 08:50:36 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures inch lose 0.11% to trade around 53,470 during European hours on Thursday. Meanwhile, S&P 500 futures remain inching lower by 0.06%, trading near 7,720, and Nasdaq 100 futures remain steady around 29,520.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_Nasdaq-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: RBI seen comfortably on hold – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rbi-seen-comfortably-on-hold-commerzbank-202608200846</link>
-            <guid isPermaLink="false">08902780-9b7e-4ce1-bed5-062359d0f287</guid>
-            <pubDate>Thu, 20 Aug 2026 08:46:21 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Dr. Henry Hao and Moses Lim note India’s economy remains supported by strong domestic demand and exports, with growth projected at 6.7% in fiscal 2026-2027 versus 8% previously. Inflation is forecast at 5%, within the RBI’s 2-6% band, allowing policy to stay on hold at 5.25%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Divided hawks shape late-2026 hike risks – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-divided-hawks-shape-late-2026-hike-risks-societe-generale-202608200833</link>
-            <guid isPermaLink="false">fff71d1f-49b4-4388-b344-6a09fdb71e55</guid>
-            <pubDate>Thu, 20 Aug 2026 08:33:48 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Jan Groen highlights a divided Federal Reserve, with a larger ‘keep-on-hold’ camp waiting for core PCE inflation data in 2H 2026 before backing rate hikes.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Treasury doubles long-dated bond buybacks: Why are yields rising again?]]></title>
-            <link>https://www.fxstreet.com/news/us-treasury-doubles-long-dated-bond-buybacks-why-are-yields-rising-again-202608200832</link>
-            <guid isPermaLink="false">66745a4c-7c7f-4e97-b9ed-5167af82468f</guid>
-            <pubDate>Thu, 20 Aug 2026 08:32:19 GMT</pubDate>
-            <description><![CDATA[The US 10-year Treasury yield attempts to stabilize on Thursday, edging higher to 4.672% at the time of writing after hitting a low of 4.635% on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/BullishChart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold bears seem hesitant as sustained USD selling offsets hawkish Fed and Iran risks]]></title>
-            <link>https://www.fxstreet.com/news/gold-retreats-from-june-highs-as-hawkish-fomc-minutes-and-us-iran-tensions-support-usd-202608200354</link>
-            <guid isPermaLink="false">6e62eb71-14f7-41b0-a33d-8d8777c024bc</guid>
-            <pubDate>Thu, 20 Aug 2026 03:54:54 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) maintains its offered tone below the $4,500 mark through the first half of the European session on Thursday. Wednesday's hawkish FOMC Minutes turn out to be a key factor undermining the bullion.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Upside capped as yields ease – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-upside-capped-as-yields-ease-mufg-202608200824</link>
-            <guid isPermaLink="false">df38a99c-d257-4276-a4e8-0b45a435a06d</guid>
-            <pubDate>Thu, 20 Aug 2026 08:24:44 GMT</pubDate>
-            <description><![CDATA[MUFG’s Lloyd Chan notes the US Dollar weakened after US Treasury Secretary Bessent announced a major expansion of long-dated Treasury buybacks, which pushed long-end yields lower.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound gains as US Dollar softens on Treasury bond buybacks]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-gains-as-us-dollar-softens-on-treasury-bond-buybacks-202608200818</link>
-            <guid isPermaLink="false">7cb69e82-7015-46bc-8db8-ceb94ac2612f</guid>
-            <pubDate>Thu, 20 Aug 2026 08:18:30 GMT</pubDate>
-            <description><![CDATA[GBP/USD extends its gains for the second successive day, trading around 1.3630 during the European hours on Thursday. The pair appreciates as the US Dollar (USD) faces challenges, driven by the decision of the US Treasury Department to stabilize domestic bond markets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: Doubling US bond-buying plan opens way for 1.1800]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-doubling-us-bond-buying-plan-opens-way-for-11800-202608200815</link>
-            <guid isPermaLink="false">602e6205-93b5-40a3-b41f-89d590220fcb</guid>
-            <pubDate>Thu, 20 Aug 2026 08:15:37 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) posts a fresh three-month high at around 1.1693 against the US Dollar (USD) during the European trading session on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Bullish bias within broad range against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-bullish-bias-within-broad-range-against-us-dollar-uob-202608200811</link>
-            <guid isPermaLink="false">a2b0615c-a901-4bf5-8d61-12c44ea1c346</guid>
-            <pubDate>Thu, 20 Aug 2026 08:11:27 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s Quek Ser Leang and Lee Sue Ann highlight that USD/JPY dropped sharply to around 158.00, eroding the previous upside bias.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
