@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 23:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 00:00:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US Treasury Department to buy back more longer-term bonds]]></title>
+            <link>https://www.fxstreet.com/news/us-treasury-department-to-buy-back-more-longer-term-bonds-202608192354</link>
+            <guid isPermaLink="false">61fa867d-7efb-40ad-bd32-72b507471844</guid>
+            <pubDate>Wed, 19 Aug 2026 23:54:29 GMT</pubDate>
+            <description><![CDATA[The US Treasury Department said on Wednesday that it will buy back more of its longer-term bonds, in an effort to curb a sharp increase in borrowing costs, the Wall Street Journal reported.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/white-house-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Donald Trump announces "crushing economic operation" on Iran]]></title>
+            <link>https://www.fxstreet.com/news/us-president-donald-trump-announces-crushing-economic-operation-on-iran-202608192341</link>
+            <guid isPermaLink="false">3b3a9821-c473-4e59-9348-7c364835e93d</guid>
+            <pubDate>Wed, 19 Aug 2026 23:41:11 GMT</pubDate>
+            <description><![CDATA[US President Trump announced the most severe economic action ever taken against Iran, CBS News reported on Wednesday. Trump said this will be economic conflict and isolation on an unprecedented scale and the countries allowing financial aid to Iran will face severe economic consequences. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpAngry-6526.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold climbs above $4,500 as US Dollar, yields fall]]></title>
             <link>https://www.fxstreet.com/news/gold-climbs-above-4-500-as-us-dollar-yields-fall-202608192326</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 11:09:12 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) rallies on Wednesday as a softer US Dollar (USD) and a sharp pullback in long-term US Treasury yields help the metal break above its week-old trading range and climb to its highest level since June 4. At the time of writing, XAU/USD trades around $4,490, up more than 3.5% on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar strengthens as Trump pauses 50% tariffs, Oil prices climb]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-strengthens-as-trump-pauses-50-tariffs-oil-prices-climb-202608191440</link>
-            <guid isPermaLink="false">ada19f04-0d03-41e9-b66e-4d9db73d4aef</guid>
-            <pubDate>Wed, 19 Aug 2026 14:40:33 GMT</pubDate>
-            <description><![CDATA[USD/CAD declines on Wednesday and trades around 1.3810 at the time of writing, down 0.62% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA keeps hawkish bias on inflation – BNY]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-keeps-hawkish-bias-on-inflation-bny-202608191438</link>
-            <guid isPermaLink="false">90ca397b-a568-47f7-b9f9-400f5a97087c</guid>
-            <pubDate>Wed, 19 Aug 2026 14:38:06 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu reports the Reserve Bank of Australia remains concerned about inflation, with Deputy Governor Andrew Hauser saying further rate hikes cannot be ruled out.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
