@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 18:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 19:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Dollar Index takes its floor from a Fed non-voter]]></title>
+            <link>https://www.fxstreet.com/news/the-dollar-index-takes-its-floor-from-a-fed-non-voter-202608201844</link>
+            <guid isPermaLink="false">11ed5ea8-6391-4f5d-884d-279b2a31039c</guid>
+            <pubDate>Thu, 20 Aug 2026 18:44:47 GMT</pubDate>
+            <description><![CDATA[The Dollar Index has spent Thursday building a floor just above 98.50 and defending it with everything the calendar had to offer, and the entire effort is worth roughly a tenth of a point.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DollarIndex.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: Softer Dollar offers limited relief – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-softer-dollar-offers-limited-relief-ocbc-202608201843</link>
+            <guid isPermaLink="false">16eaf266-9610-4044-86f9-8d1171e14c1c</guid>
+            <pubDate>Thu, 20 Aug 2026 18:43:19 GMT</pubDate>
+            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) should find some relief from a softer Dollar and lower long-end US yields, with BI keeping its policy rate at 5.75% and focusing on currency stability.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-flag-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Upside risk stays in focus against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608201833</link>
+            <guid isPermaLink="false">946dee5d-b0d3-45e5-9e52-3f991b5c457a</guid>
+            <pubDate>Thu, 20 Aug 2026 18:33:36 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s Quek Ser Leang and Lee Sue Ann note that USD/SGD extended its overnight slide as the US Dollar (USD) sell-off pushed the pair back toward the 1.27 area.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-100-day-sma-as-rally-extends-202608201812</link>
+            <guid isPermaLink="false">25d387f0-858f-4452-adb7-9cbc3cc67db1</guid>
+            <pubDate>Thu, 20 Aug 2026 18:12:21 GMT</pubDate>
+            <description><![CDATA[Silver price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground and then resumed their rise following the US Treasury bond buyback announcement. The XAG/USD trades at $68.18 at the time of writing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen underperforms as elevated Oil prices weigh, US Dollar recovers]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-underperforms-as-elevated-oil-prices-weigh-us-dollar-recovers-202608201756</link>
@@ -24,11 +56,11 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/GoldBullishChart.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Banxico minutes signals long rate pause as inflation eases]]></title>
+            <title><![CDATA[Banxico minutes signal long rate pause as inflation eases]]></title>
             <link>https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736</link>
             <guid isPermaLink="false">861910b8-3c9f-4957-b52a-5ad3cc63ec3b</guid>
             <pubDate>Thu, 20 Aug 2026 17:36:26 GMT</pubDate>
-            <description><![CDATA[The minutes of the Bank of Mexico (Banxico) August’s August meeting revealed that the central bank is expected to hold rates steady for some time, despite the resumption of the disinflation process.]]></description>
+            <description><![CDATA[The minutes of the Bank of Mexico (Banxico) August meeting showed that the central bank is expected to hold rates steady for some time, despite the resumption of the disinflation process.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 13:20:30 GMT</pubDate>
             <description><![CDATA[BNY Mellon’s Geoff Yu highlights comments from RBI Governor Sanjay Malhotra that the central bank’s net-short forward-Dollar position is still very manageable despite large bearish bets to support the Rupee.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Analysts agree: Indian Rupee should draw support from hawkish RBI, strong reserves]]></title>
-            <link>https://www.fxstreet.com/news/analysts-agree-indian-rupee-should-draw-support-from-hawkish-rbi-strong-reserves-202608201308</link>
-            <guid isPermaLink="false">4f83ebff-3559-45c3-937e-7d4272ce9a72</guid>
-            <pubDate>Thu, 20 Aug 2026 13:08:56 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) is balancing solid macroeconomic fundamentals and massive central bank reserves against renewed hawkish undertones from the Reserve Bank of India (RBI).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-179.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Consolidation after treasury buybacks – DBS]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-consolidation-after-treasury-buybacks-dbs-202608201305</link>
-            <guid isPermaLink="false">5ddfc17a-5fe3-418f-99d3-087f89fd5b81</guid>
-            <pubDate>Thu, 20 Aug 2026 13:05:24 GMT</pubDate>
-            <description><![CDATA[DBS Group Research strategist Chang Wei Liang notes ongoing Dollar weakness after the US Treasury unexpectedly doubled long-dated bond buybacks, pushing DXY below 99.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed's Daly: Rise in long term yields is a global issue]]></title>
-            <link>https://www.fxstreet.com/news/feds-daly-rise-in-long-term-yields-is-a-global-issue-202608201300</link>
-            <guid isPermaLink="false">6115871c-3c1e-4e60-aee9-d74799329d8e</guid>
-            <pubDate>Thu, 20 Aug 2026 13:00:51 GMT</pubDate>
-            <description><![CDATA[In an interview with Bloomberg TV on Thursday, Federal Reserve (Fed) Bank of San Francisco President Mary Daly argued that the rise in long term Treasury bond yields is a global issue and added that she doesn't see the Fed's credibility at risk.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar retreats as weak jobs data weighs on RBA rate outlook]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-retreats-as-weak-jobs-data-weighs-on-rba-rate-outlook-202608201254</link>
-            <guid isPermaLink="false">39811e1e-6f1d-4c1f-bd2f-d9790e507aca</guid>
-            <pubDate>Thu, 20 Aug 2026 12:54:02 GMT</pubDate>
-            <description><![CDATA[AUD/USD declines 0.22% on Thursday and trades around 0.7110 at the time of writing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
