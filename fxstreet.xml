@@ -4,9 +4,89 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 08:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 09:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indian Rupee: RBI minutes temper rate-cut hopes – DBS]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-rbi-minutes-temper-rate-cut-hopes-dbs-202608200938</link>
+            <guid isPermaLink="false">036fa6c5-f83c-439a-9347-984e68e2d281</guid>
+            <pubDate>Thu, 20 Aug 2026 09:38:34 GMT</pubDate>
+            <description><![CDATA[Radhika Rao at DBS Group Research highlights that Reserve Bank of India (RBI) minutes from the early-August meeting were more cautious than Governor Sanjay Malhotra’s public messaging.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608200932</link>
+            <guid isPermaLink="false">5cdd7815-8592-466b-9232-5201f397e583</guid>
+            <pubDate>Thu, 20 Aug 2026 09:32:47 GMT</pubDate>
+            <description><![CDATA[Silver prices (XAG/USD) fell on Thursday, according to FXStreet data. Silver trades at $66.71 per troy ounce, down 0.42% from the $67.00 it cost on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal Reserve: AI, inflation risks and limited FX impact – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-ai-inflation-risks-and-limited-fx-impact-mufg-202608200925</link>
+            <guid isPermaLink="false">befd7751-6c9a-4456-b505-f8a1213ebdfa</guid>
+            <pubDate>Thu, 20 Aug 2026 09:25:37 GMT</pubDate>
+            <description><![CDATA[MUFG’s research team uses AI-driven textual analysis to judge the July FOMC minutes as slightly more hawkish, with broader support for a rate hike and concern over inflation expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Policy-driven yield retreat – UBS]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-policy-driven-yield-retreat-ubs-202608200916</link>
+            <guid isPermaLink="false">9e259e39-e1d9-4fb5-a449-e8ab4f7b48e5</guid>
+            <pubDate>Thu, 20 Aug 2026 09:16:24 GMT</pubDate>
+            <description><![CDATA[UBS' chief economist Paul Donovan notes that the United States (US) Treasury’s plan to at least double purchases of long-term US government bonds triggered a rally, pushing 10-year yields down to levels seen a week ago.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro weakens against Canadian Dollar amid higher oil prices]]></title>
+            <link>https://www.fxstreet.com/news/euro-weakens-against-canadian-dollar-amid-higher-oil-prices-202608200910</link>
+            <guid isPermaLink="false">cae990e9-90bb-4cda-b3d9-ec2f869a5890</guid>
+            <pubDate>Thu, 20 Aug 2026 09:10:01 GMT</pubDate>
+            <description><![CDATA[EUR/CAD halts its three-day winning streak, trading around 1.6110 during the European hours on Thursday. The currency cross faces downward pressure as the commodity-linked Canadian Dollar (CAD) gains support from rising crude oil prices.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Upside bias targets 1.1725 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/euro-upside-bias-targets-11725-against-us-dollar-uob-202608200905</link>
+            <guid isPermaLink="false">5c3d4fef-c7a6-4acf-a90d-1efa246bcd82</guid>
+            <pubDate>Thu, 20 Aug 2026 09:05:59 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s Quek Ser Leang and Lee Sue Ann highlight that EUR/USD has broken to a three‑month high near 1.1680 as Dollar weakness and strong momentum underpin the pair.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee capitalizes on falling US bond yields]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502</link>
+            <guid isPermaLink="false">8c740ec6-07c7-40f0-acb9-f5cc7daf7fbe</guid>
+            <pubDate>Thu, 20 Aug 2026 05:02:58 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) snaps three-day losing streak against the US Dollar (USD) on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI refreshes three-week high near $86 amid US-Iran deadlock]]></title>
+            <link>https://www.fxstreet.com/news/wti-refreshes-three-week-high-near-86-amid-us-iran-deadlock-202608200855</link>
+            <guid isPermaLink="false">c65b7187-b9b2-4a34-8be7-a28393538814</guid>
+            <pubDate>Thu, 20 Aug 2026 08:55:27 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trades 2% higher at around $86.00 during the European trading session on Thursday, the highest level seen in over three weeks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Copper: Tight physical market supports prices – ING]]></title>
+            <link>https://www.fxstreet.com/news/copper-tight-physical-market-supports-prices-ing-202608200855</link>
+            <guid isPermaLink="false">639f748a-e46e-4ea9-a658-e7b2a91c43bc</guid>
+            <pubDate>Thu, 20 Aug 2026 08:55:05 GMT</pubDate>
+            <description><![CDATA[ING’s commodities team, led by Ewa Manthey and Warren Patterson, reports Copper market tightness has eased slightly as LME inventories rose by more than 55kt over two sessions, narrowing the cash-to-three-month backwardation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones futures gain on Treasury bond buyback relief]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-futures-gain-on-treasury-bond-buyback-relief-202608200850</link>
+            <guid isPermaLink="false">7127a798-4150-4e07-a496-06dac2b0cdcf</guid>
+            <pubDate>Thu, 20 Aug 2026 08:50:36 GMT</pubDate>
+            <description><![CDATA[Dow Jones futures inch lose 0.11% to trade around 53,470 during European hours on Thursday. Meanwhile, S&P 500 futures remain inching lower by 0.06%, trading near 7,720, and Nasdaq 100 futures remain steady around 29,520.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_Nasdaq-2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Indian Rupee: RBI seen comfortably on hold – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-rbi-seen-comfortably-on-hold-commerzbank-202608200846</link>
@@ -144,14 +224,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Indian Rupee snaps three-day losing streak as US yields plummet]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502</link>
-            <guid isPermaLink="false">8c740ec6-07c7-40f0-acb9-f5cc7daf7fbe</guid>
-            <pubDate>Thu, 20 Aug 2026 05:02:58 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) snaps three-day losing streak against the US Dollar (USD) on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[US Dollar: Risk-on pattern with softer DXY – ING]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-risk-on-pattern-with-softer-dxy-ing-202608200710</link>
             <guid isPermaLink="false">35bc2563-ff3e-4760-9b57-b65d6e4df623</guid>
@@ -174,78 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 07:04:03 GMT</pubDate>
             <description><![CDATA[The USD/CAD pair declines to around 1.3790 during the early European trading hours on Thursday. The US Dollar (USD) weakens against the Canadian Dollar (CAD) as cooling US inflation dampens aggressive US Federal Reserve (Fed) policy expectations.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swedish Krona: Hawkish Riksbank stance holds – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/swedish-krona-hawkish-riksbank-stance-holds-commerzbank-202608200652</link>
-            <guid isPermaLink="false">47c154af-2d23-48b4-9bfd-ab355d4d3e36</guid>
-            <pubDate>Thu, 20 Aug 2026 06:52:45 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Antje Praefcke expects the Sweden’s central bank, the Riksbank, to leave its policy rate at 1.75% and maintain a hawkish tone similar to June’s statement.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecasts: XAG/USD stands tall near $67 supported by US Treasury’s buybacks]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-stands-tall-near-67-supported-by-us-treasurys-buybacks-202608200644</link>
-            <guid isPermaLink="false">0347aa19-d26a-4a3d-a084-ebfc1a7719b3</guid>
-            <pubDate>Thu, 20 Aug 2026 06:44:32 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) is practically flat on Thursday, holding most of Wednesday’s gains, trading just above $67.00 at the European session opening.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: Elevated Oil keeps INR lagging against US Dollar – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-elevated-oil-keeps-inr-lagging-against-us-dollar-ocbc-202608200636</link>
-            <guid isPermaLink="false">44cd2dc5-354d-418b-96af-7e29e0a4a2d8</guid>
-            <pubDate>Thu, 20 Aug 2026 06:36:09 GMT</pubDate>
-            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong note Indian Rupee (INR) remains under pressure despite broader US Dollar (USD) weakness, as high Oil prices and importer Dollar demand weigh on the currency.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: Yield relief and healthcare gains lift markets – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-yield-relief-and-healthcare-gains-lift-markets-deutsche-bank-202608200625</link>
-            <guid isPermaLink="false">061200b1-a52d-4e41-b0f8-ee765aa42dbb</guid>
-            <pubDate>Thu, 20 Aug 2026 06:25:52 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists note that equities rebounded as a sharp decline in long-end US Treasury yields helped the S&P 500 end a three-day losing streak.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran's Araghchi says economic D-Day is a diversion from the US crisis]]></title>
-            <link>https://www.fxstreet.com/news/irans-araghchi-says-economic-d-day-is-a-diversion-from-the-us-crisis-202608200624</link>
-            <guid isPermaLink="false">2061bbdf-b065-49d7-b5ab-53b49f7e75dc</guid>
-            <pubDate>Thu, 20 Aug 2026 06:24:18 GMT</pubDate>
-            <description><![CDATA[Iran's Foreign Minister Abbas Araghchi dismissed US President Donald Trump’s threatened “economic D-Day” against Tehran as an attempt to divert attention from US debt and rising interest costs, Reuters reported on Thursday. Araghchi added that US policies will bring defeat and enmity. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Iran_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Further gains face 1.3655 cap against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-further-gains-face-13655-cap-against-us-dollar-uob-202608200615</link>
-            <guid isPermaLink="false">d7bde438-a7fb-4643-ae90-4dd6f61cf9a4</guid>
-            <pubDate>Thu, 20 Aug 2026 06:15:33 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s Quek Ser Leang and Lee Sue Ann report that GBP/USD spiked to 1.3630 before easing, leaving short‑term conditions overstretched.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/JPY Price Forecast: Gains traction above 185.00, bullish signals keep uptrend intact]]></title>
-            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-gains-traction-above-18500-bullish-signals-keep-uptrend-intact-202608200607</link>
-            <guid isPermaLink="false">f81c2814-4836-4dea-92ef-7260bba60319</guid>
-            <pubDate>Thu, 20 Aug 2026 06:07:22 GMT</pubDate>
-            <description><![CDATA[The EUR/JPY cross gathers strength to around 185.20 during the early European session on Thursday. The Japanese Yen (JPY) softens against the Euro (EUR) amid disappointing Japanese Gross Domestic Product (GDP) data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Spikes higher against US Dollar on Treasury buybacks – Danske Bank]]></title>
-            <link>https://www.fxstreet.com/news/euro-spikes-higher-against-us-dollar-on-treasury-buybacks-danske-bank-202608200607</link>
-            <guid isPermaLink="false">b7dcf22c-06c7-455d-9919-45725da05313</guid>
-            <pubDate>Thu, 20 Aug 2026 06:07:02 GMT</pubDate>
-            <description><![CDATA[Danske Research Team notes that EUR/USD jumped after the US Treasury increased buyback volumes of longer-dated US Treasuries, flattening the bond curve and pulling the 10-year yield below Tuesday’s peak.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah strengthens as BI to focus on currency stability]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-bi-to-focus-on-currency-stability-202608200531</link>
-            <guid isPermaLink="false">d6e256ea-ae1d-4f77-a13d-d90a53264aa2</guid>
-            <pubDate>Thu, 20 Aug 2026 05:31:09 GMT</pubDate>
-            <description><![CDATA[USD/IDR extends its losses for the second successive day, trading around 17,810 during the Asian hours on Thursday. The pair depreciates as the Indonesian Rupiah (IDR) finds solid backing from Bank Indonesia's (BI) renewed commitment to currency stability.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BNB-bullish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
