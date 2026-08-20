@@ -4,16 +4,96 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 06:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 07:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Gold sticks to losses below $4,500 as USD firms on hawkish FOMC minutes and Iran risks]]></title>
+            <title><![CDATA[Australian Dollar holds early losses driven by weak job data]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-holds-early-losses-driven-by-weak-job-data-202608200704</link>
+            <guid isPermaLink="false">aefe3fa5-5159-42e0-ae2f-2cbc37906313</guid>
+            <pubDate>Thu, 20 Aug 2026 07:04:15 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) remains under pressure against its major currency peers during the early European trading session on Thursday. As of writing, the antipodean is down 0.17% to near 0.7110 against the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar gains traction on fading Fed rate hike bets, US-Canada tariff pause]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-gains-traction-on-fading-fed-rate-hike-bets-us-canada-tariff-pause-202608200704</link>
+            <guid isPermaLink="false">c7e63d8b-4dfe-4ac9-b10a-dfb6422ee47e</guid>
+            <pubDate>Thu, 20 Aug 2026 07:04:03 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair declines to around 1.3790 during the early European trading hours on Thursday. The US Dollar (USD) weakens against the Canadian Dollar (CAD) as cooling US inflation dampens aggressive US Federal Reserve (Fed) policy expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold remains depressed below $4,500 amid hawkish Fed; weak USD sentiment limits losses]]></title>
             <link>https://www.fxstreet.com/news/gold-retreats-from-june-highs-as-hawkish-fomc-minutes-and-us-iran-tensions-support-usd-202608200354</link>
             <guid isPermaLink="false">6e62eb71-14f7-41b0-a33d-8d8777c024bc</guid>
             <pubDate>Thu, 20 Aug 2026 03:54:54 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) sticks to modest intraday losses through the Asian session and currently trades below the $4,500 mark, though it remains close to the highest level since early June, set earlier this Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+            <description><![CDATA[Gold (XAU/USD) remains depressed below the $4,500 mark through the early European session, though it remains close to the highest level since early June, touched earlier this Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Antam3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swedish Krona: Hawkish Riksbank stance holds – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/swedish-krona-hawkish-riksbank-stance-holds-commerzbank-202608200652</link>
+            <guid isPermaLink="false">47c154af-2d23-48b4-9bfd-ab355d4d3e36</guid>
+            <pubDate>Thu, 20 Aug 2026 06:52:45 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Antje Praefcke expects the Sweden’s central bank, the Riksbank, to leave its policy rate at 1.75% and maintain a hawkish tone similar to June’s statement.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecasts: XAG/USD stands tall near $67 supported by US Treasury’s buybacks]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-stands-tall-near-67-supported-by-us-treasurys-buybacks-202608200644</link>
+            <guid isPermaLink="false">0347aa19-d26a-4a3d-a084-ebfc1a7719b3</guid>
+            <pubDate>Thu, 20 Aug 2026 06:44:32 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) is practically flat on Thursday, holding most of Wednesday’s gains, trading just above $67.00 at the European session opening.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee: Elevated Oil keeps INR lagging against US Dollar – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-elevated-oil-keeps-inr-lagging-against-us-dollar-ocbc-202608200636</link>
+            <guid isPermaLink="false">44cd2dc5-354d-418b-96af-7e29e0a4a2d8</guid>
+            <pubDate>Thu, 20 Aug 2026 06:36:09 GMT</pubDate>
+            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong note Indian Rupee (INR) remains under pressure despite broader US Dollar (USD) weakness, as high Oil prices and importer Dollar demand weigh on the currency.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Equities: Yield relief and healthcare gains lift markets – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/equities-yield-relief-and-healthcare-gains-lift-markets-deutsche-bank-202608200625</link>
+            <guid isPermaLink="false">061200b1-a52d-4e41-b0f8-ee765aa42dbb</guid>
+            <pubDate>Thu, 20 Aug 2026 06:25:52 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank strategists note that equities rebounded as a sharp decline in long-end US Treasury yields helped the S&P 500 end a three-day losing streak.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran's Araghchi says economic D-Day is a diversion from the US crisis]]></title>
+            <link>https://www.fxstreet.com/news/irans-araghchi-says-economic-d-day-is-a-diversion-from-the-us-crisis-202608200624</link>
+            <guid isPermaLink="false">2061bbdf-b065-49d7-b5ab-53b49f7e75dc</guid>
+            <pubDate>Thu, 20 Aug 2026 06:24:18 GMT</pubDate>
+            <description><![CDATA[Iran's Foreign Minister Abbas Araghchi dismissed US President Donald Trump’s threatened “economic D-Day” against Tehran as an attempt to divert attention from US debt and rising interest costs, Reuters reported on Thursday. Araghchi added that US policies will bring defeat and enmity. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Iran_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Further gains face 1.3655 cap against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-further-gains-face-13655-cap-against-us-dollar-uob-202608200615</link>
+            <guid isPermaLink="false">d7bde438-a7fb-4643-ae90-4dd6f61cf9a4</guid>
+            <pubDate>Thu, 20 Aug 2026 06:15:33 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s Quek Ser Leang and Lee Sue Ann report that GBP/USD spiked to 1.3630 before easing, leaving short‑term conditions overstretched.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Gains traction above 185.00, bullish signals keep uptrend intact]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-gains-traction-above-18500-bullish-signals-keep-uptrend-intact-202608200607</link>
+            <guid isPermaLink="false">f81c2814-4836-4dea-92ef-7260bba60319</guid>
+            <pubDate>Thu, 20 Aug 2026 06:07:22 GMT</pubDate>
+            <description><![CDATA[The EUR/JPY cross gathers strength to around 185.20 during the early European session on Thursday. The Japanese Yen (JPY) softens against the Euro (EUR) amid disappointing Japanese Gross Domestic Product (GDP) data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Spikes higher against US Dollar on Treasury buybacks – Danske Bank]]></title>
+            <link>https://www.fxstreet.com/news/euro-spikes-higher-against-us-dollar-on-treasury-buybacks-danske-bank-202608200607</link>
+            <guid isPermaLink="false">b7dcf22c-06c7-455d-9919-45725da05313</guid>
+            <pubDate>Thu, 20 Aug 2026 06:07:02 GMT</pubDate>
+            <description><![CDATA[Danske Research Team notes that EUR/USD jumped after the US Treasury increased buyback volumes of longer-dated US Treasuries, flattening the bond curve and pulling the 10-year yield below Tuesday’s peak.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Indonesian Rupiah strengthens as BI to focus on currency stability]]></title>
@@ -166,86 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 01:17:33 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI) oil price appreciates after registering modest losses in the previous day, trading around $85.50 per barrel during the Asian hours on Thursday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7808 vs. 6.7854 previous]]></title>
-            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67808-vs-67854-previous-202608200115</link>
-            <guid isPermaLink="false">8710582e-412a-4812-8411-5f22afbf53f0</guid>
-            <pubDate>Thu, 20 Aug 2026 01:15:29 GMT</pubDate>
-            <description><![CDATA[The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7808 compared to the previous day's fix of 6.7854 and 6.7196 Reuters estimate.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PBOC leaves Loan Prime Rates unchanged in August]]></title>
-            <link>https://www.fxstreet.com/news/pboc-leaves-loan-prime-rates-unchanged-in-august-202608200107</link>
-            <guid isPermaLink="false">40d7d119-b992-4a3e-a63c-e0cd3a18aca0</guid>
-            <pubDate>Thu, 20 Aug 2026 01:07:29 GMT</pubDate>
-            <description><![CDATA[The People’s Bank of China (PBOC), China's central bank, announced to leave its Loan Prime Rates (LPRs) unchanged on Thursday. The one-year and five-year LPRs were at 3.00% and 3.50%, respectively.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoC-rate-decision.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro edges lower below 1.1700 despite fading Fed hike odds ]]></title>
-            <link>https://www.fxstreet.com/news/euro-edges-lower-below-11700-despite-fading-fed-hike-odds-202608200103</link>
-            <guid isPermaLink="false">fd903c3a-e588-4c92-9531-365eb5d6efca</guid>
-            <pubDate>Thu, 20 Aug 2026 01:03:21 GMT</pubDate>
-            <description><![CDATA[The EUR/USD pair posts modest losses around 1.1675 during the early Asian session on Thursday. The Euro (EUR) edges lower against the US Dollar (USD) after experiencing a sharp surge in the previous session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Treasury Department to buy back more longer-term bonds]]></title>
-            <link>https://www.fxstreet.com/news/us-treasury-department-to-buy-back-more-longer-term-bonds-202608192354</link>
-            <guid isPermaLink="false">61fa867d-7efb-40ad-bd32-72b507471844</guid>
-            <pubDate>Wed, 19 Aug 2026 23:54:29 GMT</pubDate>
-            <description><![CDATA[The US Treasury Department said on Wednesday that it will buy back more of its longer-term bonds, in an effort to curb a sharp increase in borrowing costs, the Wall Street Journal reported.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/white-house-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US President Donald Trump announces "crushing economic operation" on Iran]]></title>
-            <link>https://www.fxstreet.com/news/us-president-donald-trump-announces-crushing-economic-operation-on-iran-202608192341</link>
-            <guid isPermaLink="false">3b3a9821-c473-4e59-9348-7c364835e93d</guid>
-            <pubDate>Wed, 19 Aug 2026 23:41:11 GMT</pubDate>
-            <description><![CDATA[US President Trump announced the most severe economic action ever taken against Iran, CBS News reported on Wednesday. Trump said this will be economic conflict and isolation on an unprecedented scale and the countries allowing financial aid to Iran will face severe economic consequences. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpAngry-6526.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold climbs above $4,500 as US Dollar, yields fall]]></title>
-            <link>https://www.fxstreet.com/news/gold-climbs-above-4-500-as-us-dollar-yields-fall-202608192326</link>
-            <guid isPermaLink="false">eeefbe6a-ee39-44da-a111-30af23eeb973</guid>
-            <pubDate>Wed, 19 Aug 2026 23:26:55 GMT</pubDate>
-            <description><![CDATA[Gold price (XAU/USD) rises to around $4,520 during the early Asian session on Thursday. The precious metal surges to the highest since early June amid the weakening US Dollar (USD) after the US Treasury Department stepped in to provide relief to bond markets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar gains as Treasury buyback offsets hawkish Fed]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-gains-as-treasury-buyback-offsets-hawkish-fed-202608192321</link>
-            <guid isPermaLink="false">9b94ec43-63b2-40dc-876c-7a0952a27a1d</guid>
-            <pubDate>Wed, 19 Aug 2026 23:21:00 GMT</pubDate>
-            <description><![CDATA[The Aussie Dollar advances on Wednesday, up over 0.56%, as the US Dollar registers losses amid the US Treasury bond buyback and despite the release of hawkish Federal Reserve minutes from the July meeting. The AUD/USD trades at 0.7127.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/JPY Price Forecast: sellers take control below 50-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-sellers-take-control-below-50-day-sma-202608192301</link>
-            <guid isPermaLink="false">788a0e79-d52b-4265-baaa-820d25088115</guid>
-            <pubDate>Wed, 19 Aug 2026 23:01:05 GMT</pubDate>
-            <description><![CDATA[The GBP/JPY retreats on Wednesday as the cross-pair fails to climb past 216.00  and fell beneath the 50-day Simple Moving Average (SMA) of 125.56. The cross-pair trades at 214.25 down 0.37%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Washington bought the Japanese Yen again without meaning to]]></title>
-            <link>https://www.fxstreet.com/news/washington-bought-the-japanese-yen-again-without-meaning-to-202608192228</link>
-            <guid isPermaLink="false">679a5f39-059f-43a8-b3cc-0abc6cfd087f</guid>
-            <pubDate>Wed, 19 Aug 2026 22:28:58 GMT</pubDate>
-            <description><![CDATA[USD/JPY closed Wednesday 0.92% lower just above 158.00, the largest single-session decline since the early-August intervention, and Tokyo did not lift a finger for it.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Pound Sterling's best level since May was made in Washington]]></title>
-            <link>https://www.fxstreet.com/news/pound-sterlings-best-level-since-may-was-made-in-washington-202608192216</link>
-            <guid isPermaLink="false">c6d93ca2-43cc-4673-a5e7-302357ecd3a6</guid>
-            <pubDate>Wed, 19 Aug 2026 22:16:53 GMT</pubDate>
-            <description><![CDATA[GBP/USD closed Wednesday 0.53% higher just above 1.3600, its best close in three months, and the United Kingdom inflation report that opened the session had almost nothing to do with it. Sterling spent the London morning up barely twenty pips on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
