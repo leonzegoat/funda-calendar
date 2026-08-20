@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 19:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 20:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mexican Peso holds firm as Banxico minutes supports the Peso]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-holds-firm-as-banxico-minutes-supports-the-peso-202608202014</link>
+            <guid isPermaLink="false">052f18ff-d28d-4f79-8dd0-a10af28f7e0b</guid>
+            <pubDate>Thu, 20 Aug 2026 20:14:02 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso holds firm versus the Greenback as Banxico adopted a cautious stance regarding monetary policy, while jobs data in the US revealed that the labour market is stable. The USD/MXN pair exchanges hands at 16.95, virtually unchanged.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-scale-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[South Korean Won: Rally accelerates with foreign inflows – DBS]]></title>
             <link>https://www.fxstreet.com/news/south-korean-won-rally-accelerates-with-foreign-inflows-dbs-202608201921</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 13:30:55 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight that USD/CAD is under pressure as broad US Dollar (USD) weakness combines with tentative progress on a US-Canada trade deal.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro eases from three-month high as US Dollar stabilises, Jobless Claims beat expectations]]></title>
-            <link>https://www.fxstreet.com/news/euro-eases-from-three-month-high-as-us-dollar-stabilises-jobless-claims-beat-expectations-202608201327</link>
-            <guid isPermaLink="false">e3d0d3a3-c2b8-45ac-acd0-7cd1f1097cc8</guid>
-            <pubDate>Thu, 20 Aug 2026 13:27:55 GMT</pubDate>
-            <description><![CDATA[EUR/USD trims part of its earlier gains on Thursday as the US Dollar (USD) stabilises following the previous day’s sharp selloff. At the time of writing, the pair trades around 1.1686 after touching an intraday high of 1.1710, its highest level since May 14.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
