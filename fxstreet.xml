@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 03:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 04:00:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Asian equities rally; KOSPI leads gains as US Treasury support counters Fed/Iran risks]]></title>
+            <link>https://www.fxstreet.com/news/asian-equities-rally-kospi-leads-gains-as-us-treasury-support-counters-fed-iran-risks-202608200357</link>
+            <guid isPermaLink="false">8ebcb172-3f0c-4089-aad2-84da6c522b18</guid>
+            <pubDate>Thu, 20 Aug 2026 03:57:49 GMT</pubDate>
+            <description><![CDATA[Asian equities advanced on Thursday, with South Korea's KOSPI surging nearly 6% intraday amid a more than 5% jump in SK Hynix shares following the buyback announcement.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD refreshes two-month high as US doubles bond buyback plan]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-refreshes-two-month-high-as-us-doubles-bond-buyback-plan-202608200356</link>
+            <guid isPermaLink="false">ac3646b3-0679-4e25-8ee8-c5bc60371f3e</guid>
+            <pubDate>Thu, 20 Aug 2026 03:56:31 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) posts a fresh two-month high at $67.33 in the Asian trading session on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold retreats from June highs as hawkish FOMC minutes and US-Iran tensions support USD]]></title>
+            <link>https://www.fxstreet.com/news/gold-retreats-from-june-highs-as-hawkish-fomc-minutes-and-us-iran-tensions-support-usd-202608200354</link>
+            <guid isPermaLink="false">6e62eb71-14f7-41b0-a33d-8d8777c024bc</guid>
+            <pubDate>Thu, 20 Aug 2026 03:54:54 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) eases from its highest level since early June, touched during the Asian session this Thursday, eroding a part of the previous day's strong gains of over 3%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen struggles amid widening Trade Deficit, escalating import costs]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-struggles-amid-widening-trade-deficit-escalating-import-costs-202608200253</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
             <description><![CDATA[The Federal Open Market Committee (FOMC) published the Minutes of the July meeting on Wednesday. "The information available at the time of the meeting indicated that inflation remained elevated.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/USD Price Forecast: Positive momentum points to further upside]]></title>
-            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-positive-momentum-points-to-further-upside-202608191819</link>
-            <guid isPermaLink="false">2fb075f3-745b-41ab-952a-2ecc8b0e847f</guid>
-            <pubDate>Wed, 19 Aug 2026 18:19:27 GMT</pubDate>
-            <description><![CDATA[AUD/USD holds firm near a two-and-a-half-month high on Wednesday, supported by broad US Dollar (USD) weakness, while technical indicators point to further upside. At the time of writing, the pair trades around 0.7118, up 0.43% on the day, after reaching an intraday high of 0.7129.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso rallies to two-year high on US Treasury buyback ]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-on-us-treasury-buyback-202608191749</link>
-            <guid isPermaLink="false">8242810c-2ed5-473d-a1f4-6c3086173641</guid>
-            <pubDate>Wed, 19 Aug 2026 17:49:35 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso (MXN) rallies to a two-year high of 16.94 on Wednesday as the US Dollar (USD) weakens amid falling US yields, which retreated after the US Treasury doubled the size of its long-duration bond buyback. The USD/MXN pair trades at 16.95, down 0.27%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil climbs as US-Iran standoff keeps Middle East supply risks elevated]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-climbs-as-us-iran-standoff-keeps-middle-east-supply-risks-elevated-202608191736</link>
-            <guid isPermaLink="false">64ab0873-ede7-4805-99bc-947793d5fea5</guid>
-            <pubDate>Wed, 19 Aug 2026 17:36:40 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) Oil holds firm on Wednesday, hovering near its highest level in more than three weeks as traders balance Middle East supply risks against rising US crude inventories. At the time of writing, the US benchmark trades around $85.20 per barrel, up nearly 1% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
