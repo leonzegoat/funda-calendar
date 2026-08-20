@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 19:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 19:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South Korean Won: Rally accelerates with foreign inflows – DBS]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-rally-accelerates-with-foreign-inflows-dbs-202608201921</link>
+            <guid isPermaLink="false">123b6ce8-1f62-477d-b1a4-a43e47f1caf0</guid>
+            <pubDate>Thu, 20 Aug 2026 19:21:00 GMT</pubDate>
+            <description><![CDATA[DBS strategist Chang Wei Liang reports that South Korean Won (KRW) strength has resumed, with USD/KRW dropping to the mid-1380s even as KOSPI fell nearly 6% on semiconductor-led losses.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar firms ahead of global flash PMIs]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-global-flash-pmis-202608201915</link>
+            <guid isPermaLink="false">a83f5bb1-8fa3-4fea-bfc2-60f08fc16f3a</guid>
+            <pubDate>Thu, 20 Aug 2026 19:15:15 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) is hovering near 98.90, still short of 100.00, but grinding higher on Thursday. Hawkish commentary from Federal Reserve Bank of St.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_PMI-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The Dollar Index takes its floor from a Fed non-voter]]></title>
             <link>https://www.fxstreet.com/news/the-dollar-index-takes-its-floor-from-a-fed-non-voter-202608201844</link>
@@ -36,7 +52,7 @@
             <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-100-day-sma-as-rally-extends-202608201812</link>
             <guid isPermaLink="false">25d387f0-858f-4452-adb7-9cbc3cc67db1</guid>
             <pubDate>Thu, 20 Aug 2026 18:12:21 GMT</pubDate>
-            <description><![CDATA[Silver price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground and then resumed their rise following the US Treasury bond buyback announcement. The XAG/USD trades at $68.18 at the time of writing.]]></description>
+            <description><![CDATA[Silver (XAG/USD) price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground following the US Treasury bond buyback announcement. The XAG/USD pair trades at $68.18 at the time of writing, its highest level since June 18.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 13:27:55 GMT</pubDate>
             <description><![CDATA[EUR/USD trims part of its earlier gains on Thursday as the US Dollar (USD) stabilises following the previous day’s sharp selloff. At the time of writing, the pair trades around 1.1686 after touching an intraday high of 1.1710, its highest level since May 14.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["More avenues opening for US Dollar weakness ahead": MUFG on why Treasury buyback could backfire]]></title>
-            <link>https://www.fxstreet.com/news/more-avenues-opening-for-us-dollar-weakness-ahead-mufg-on-why-treasury-buyback-could-backfire-202608201323</link>
-            <guid isPermaLink="false">0bdd16bd-19db-4e99-b1c6-f0d695549c21</guid>
-            <pubDate>Thu, 20 Aug 2026 13:23:10 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) has extended its decline following the US Treasury’s unexpected decision to double its long-end bond buybacks, an intervention designed to push down long-term borrowing costs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-178.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: RBI defends manageable Dollar shorts – BNY]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rbi-defends-manageable-dollar-shorts-bny-202608201320</link>
-            <guid isPermaLink="false">24204d6b-8802-4874-a87f-733f68198b02</guid>
-            <pubDate>Thu, 20 Aug 2026 13:20:30 GMT</pubDate>
-            <description><![CDATA[BNY Mellon’s Geoff Yu highlights comments from RBI Governor Sanjay Malhotra that the central bank’s net-short forward-Dollar position is still very manageable despite large bearish bets to support the Rupee.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
