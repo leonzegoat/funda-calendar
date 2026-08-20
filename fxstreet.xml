@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 21:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 22:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro fades below 1.1700 as US Dollar rebounds on yields]]></title>
+            <link>https://www.fxstreet.com/news/euro-fades-below-11700-as-us-dollar-rebounds-on-yields-202608202230</link>
+            <guid isPermaLink="false">190874df-8bad-487e-9988-ebf733f2276b</guid>
+            <pubDate>Thu, 20 Aug 2026 22:30:09 GMT</pubDate>
+            <description><![CDATA[The Euro remains steady below 1.1700 after failing to hold gains above it, despite hitting a three-month high. Broad US Dollar strength kept EUR/USD from ending Thursday’s session above the 1.1700 mark, with the pair finishing at around familiar levels, unchanged from Thursday’s opening price.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average repays the Treasury's rally with interest]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-repays-the-treasurys-rally-with-interest-202608202222</link>
+            <guid isPermaLink="false">dc1916c5-f421-4332-bd38-7539e15adba4</guid>
+            <pubDate>Thu, 20 Aug 2026 22:22:54 GMT</pubDate>
+            <description><![CDATA[Wednesday bought the bond market one session of calm and the Dow Jones Industrial Average spent Thursday paying for it with interest.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar holds early June high ]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-holds-early-june-high-202608202139</link>
@@ -24,7 +40,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Mexican Peso holds firm as Banxico minutes supports the Peso]]></title>
+            <title><![CDATA[Mexican Peso holds firm as Banxico minutes support the Peso]]></title>
             <link>https://www.fxstreet.com/news/mexican-peso-holds-firm-as-banxico-minutes-supports-the-peso-202608202014</link>
             <guid isPermaLink="false">052f18ff-d28d-4f79-8dd0-a10af28f7e0b</guid>
             <pubDate>Thu, 20 Aug 2026 20:14:02 GMT</pubDate>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 14:32:07 GMT</pubDate>
             <description><![CDATA[BNY Mellon’s Geoff Yu reports the Swedish Riksbank left its policy rate at 1.75%, judging the stance well balanced amid stronger growth and inflation but a softer labor market. Underlying inflation is near 2% and summer readings beat forecasts.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Bullish trend eyes upper 1.17s against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/euro-bullish-trend-eyes-upper-117s-against-us-dollar-scotiabank-202608201413</link>
-            <guid isPermaLink="false">585bdd41-add4-42a2-84ce-2ddbb10b4f00</guid>
-            <pubDate>Thu, 20 Aug 2026 14:13:55 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report that EUR/USD gains are being driven mainly by broad US Dollar (USD) weakness, with front-end spreads narrowing since late June and supporting Euro (EUR) fundamentals.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah: BI pause keeps tightening risk alive – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-keeps-tightening-risk-alive-commerzbank-202608201400</link>
-            <guid isPermaLink="false">1cb8e0a1-df30-47b6-84cf-fcd2c903eef1</guid>
-            <pubDate>Thu, 20 Aug 2026 14:00:26 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Moses Lim highlights that Bank Indonesia left the BI Rate at 5.75%, balancing inflation, growth and IDR stability after earlier hikes. BI has expanded hedging incentives and CNY clearing to support inflows and FX stability, while keeping SRBI yields from rising further.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesia3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
