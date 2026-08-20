@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 09:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 10:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro holds steady against British Pound as ECB, BoE rate hike bets offset each other]]></title>
+            <link>https://www.fxstreet.com/news/euro-holds-steady-against-british-pound-as-ecb-boe-rate-hike-bets-offset-each-other-202608201010</link>
+            <guid isPermaLink="false">48770049-0965-4a81-9255-c8175d32b75e</guid>
+            <pubDate>Thu, 20 Aug 2026 10:10:43 GMT</pubDate>
+            <description><![CDATA[EUR/GBP trades around 0.8580 on Thursday at the time of writing, showing little change on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: Slow growth but data understate jobs – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/united-states-slow-growth-but-data-understate-jobs-commerzbank-202608201003</link>
+            <guid isPermaLink="false">565b2c1b-aea2-4b5d-ab76-19b647fa6969</guid>
+            <pubDate>Thu, 20 Aug 2026 10:03:31 GMT</pubDate>
+            <description><![CDATA[Commerzbank economist Bernd Weidensteiner analyzes recent U.S. employment trends, noting that Nonfarm Payroll growth has slowed sharply, with average monthly gains of just 32,000 over the past year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indian Rupee: RBI minutes temper rate-cut hopes – DBS]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-rbi-minutes-temper-rate-cut-hopes-dbs-202608200938</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 07:10:42 GMT</pubDate>
             <description><![CDATA[ING’s Chris Turner notes that US Treasury buy-back operations and a drop in longer-dated yields have supported equities and weighed on the Dollar.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar holds early losses driven by weak job data]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-holds-early-losses-driven-by-weak-job-data-202608200704</link>
-            <guid isPermaLink="false">aefe3fa5-5159-42e0-ae2f-2cbc37906313</guid>
-            <pubDate>Thu, 20 Aug 2026 07:04:15 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) remains under pressure against its major currency peers during the early European trading session on Thursday. As of writing, the antipodean is down 0.17% to near 0.7110 against the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar gains traction on fading Fed rate hike bets, US-Canada tariff pause]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-gains-traction-on-fading-fed-rate-hike-bets-us-canada-tariff-pause-202608200704</link>
-            <guid isPermaLink="false">c7e63d8b-4dfe-4ac9-b10a-dfb6422ee47e</guid>
-            <pubDate>Thu, 20 Aug 2026 07:04:03 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair declines to around 1.3790 during the early European trading hours on Thursday. The US Dollar (USD) weakens against the Canadian Dollar (CAD) as cooling US inflation dampens aggressive US Federal Reserve (Fed) policy expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bullish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
