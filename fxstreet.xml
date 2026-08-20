@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 17:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 18:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen underperforms as elevated Oil prices weigh, US Dollar recovers]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-underperforms-as-elevated-oil-prices-weigh-us-dollar-recovers-202608201756</link>
+            <guid isPermaLink="false">b98b7d03-e432-4ad6-afcc-5deb2ef86c68</guid>
+            <pubDate>Thu, 20 Aug 2026 17:56:46 GMT</pubDate>
+            <description><![CDATA[USD/JPY rebounds on Thursday, recovering most of the previous day’s losses as the US Dollar (USD) stages a modest recovery after falling to a three-month low. At the time of writing, USD/JPY trades around 159.05, up roughly 0.55% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold pulls back as US yields recover after Treasury buyback]]></title>
+            <link>https://www.fxstreet.com/news/gold-pulls-back-as-us-yields-recover-after-treasury-buyback-202608201736</link>
+            <guid isPermaLink="false">eb45d667-0161-4275-a8e5-52ed436569ea</guid>
+            <pubDate>Thu, 20 Aug 2026 17:36:43 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) price retreats about 0.33% on Thursday as US Treasury yields trim some of their Wednesday losses, weighing on bullion, which is also pressured by the recovery of the US Dollar. The XAU/USD pair trades at $4,509, after hitting a daily high of $4,540.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GoldBullishChart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Banxico minutes signals long rate pause as inflation eases]]></title>
+            <link>https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736</link>
+            <guid isPermaLink="false">861910b8-3c9f-4957-b52a-5ad3cc63ec3b</guid>
+            <pubDate>Thu, 20 Aug 2026 17:36:26 GMT</pubDate>
+            <description><![CDATA[The minutes of the Bank of Mexico (Banxico) August’s August meeting revealed that the central bank is expected to hold rates steady for some time, despite the resumption of the disinflation process.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar rises as RBNZ rate hike expectations strengthen]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-rises-as-rbnz-rate-hike-expectations-strengthen-202608201705</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 12:54:02 GMT</pubDate>
             <description><![CDATA[AUD/USD declines 0.22% on Thursday and trades around 0.7110 at the time of writing.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Debt concerns shape FX outlook – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-debt-concerns-shape-fx-outlook-rabobank-202608201253</link>
-            <guid isPermaLink="false">2b2f8e42-3014-4728-8006-d3f8d83e49c4</guid>
-            <pubDate>Thu, 20 Aug 2026 12:53:11 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses USD/JPY in context of fiscal and debt dynamics in Japan and the United States (US).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Rally faces questions as buybacks reshape yields – BNY]]></title>
-            <link>https://www.fxstreet.com/news/gold-rally-faces-questions-as-buybacks-reshape-yields-bny-202608201240</link>
-            <guid isPermaLink="false">5f1aff16-53e3-4084-a0a4-7e9ee2cc3a9f</guid>
-            <pubDate>Thu, 20 Aug 2026 12:40:12 GMT</pubDate>
-            <description><![CDATA[BNY Mellon’s Geoff Yu notes Gold has surged through $4,500/oz. as investors reassess U.S. Treasury buybacks and their inflation implications. The report argues the intervention has calmed bond markets but may shift pressure into alternative stores of value like Gold and Bitcoin.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Initial Jobless Claims dropped to 206K last week]]></title>
-            <link>https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-206k-last-week-202608201238</link>
-            <guid isPermaLink="false">94c60233-394e-49fc-b681-0a8ccb17b6f1</guid>
-            <pubDate>Thu, 20 Aug 2026 12:38:19 GMT</pubDate>
-            <description><![CDATA[According to a report from the US Department of Labour (DOL) released on Thursday, the number of US citizens submitting new applications for unemployment insurance shrunk to 206K for the week ending August 15.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue_2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
