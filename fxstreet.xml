@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 16:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 17:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar rises as RBNZ rate hike expectations strengthen]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-rises-as-rbnz-rate-hike-expectations-strengthen-202608201705</link>
+            <guid isPermaLink="false">e24b1e46-3f11-492e-876b-718d0252f69d</guid>
+            <pubDate>Thu, 20 Aug 2026 17:05:03 GMT</pubDate>
+            <description><![CDATA[NZD/USD advances for the second consecutive day on Thursday, trading around 0.5940 at the time of writing, up 0.12% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar holds near highs as mixed data keeps RBA tightening bets alive]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-holds-near-highs-as-mixed-data-keeps-rba-tightening-bets-alive-202608201701</link>
+            <guid isPermaLink="false">2ea50288-43e8-4418-b04e-210bcc1e119b</guid>
+            <pubDate>Thu, 20 Aug 2026 17:01:02 GMT</pubDate>
+            <description><![CDATA[AUD/USD is trading in the 0.7100 neighborhood at the time of writing on Thursday, holding close to multi-week highs after a steady climb off its earlier lows. The pair is marginally weaker on the day as the US Dollar (USD) regains a little ground, but the broader uptrend remains intact.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average sells the best outlook since 1983]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-sells-the-best-outlook-since-1983-202608201659</link>
+            <guid isPermaLink="false">dca430f7-affa-42c5-b082-6bb44d6dd439</guid>
+            <pubDate>Thu, 20 Aug 2026 16:59:29 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average trades near 53,050, more than 400 points lower on the session, after two of the strongest American data points of the month arrived in the same 12:30 GMT block and were sold on delivery.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold reclaims $4,500 despite rebound in US Treasury yields and US Dollar]]></title>
             <link>https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 12:38:19 GMT</pubDate>
             <description><![CDATA[According to a report from the US Department of Labour (DOL) released on Thursday, the number of US citizens submitting new applications for unemployment insurance shrunk to 206K for the week ending August 15.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States: Long-end yield risks contained – ING]]></title>
-            <link>https://www.fxstreet.com/news/united-states-long-end-yield-risks-contained-ing-202608201225</link>
-            <guid isPermaLink="false">89993aff-e82b-4047-a9a8-bc6ded53e886</guid>
-            <pubDate>Thu, 20 Aug 2026 12:25:08 GMT</pubDate>
-            <description><![CDATA[ING’s Padhraic Garvey analyses how the US Treasury’s decision to double buybacks in 10-30 year maturities affects long-end US Treasuries. He stresses that while the programme is sizeable and could be expanded again, it mainly mutes, rather than reverses, upward pressure on long yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound gains as Japanese Yen struggles despite hawkish BoJ outlook]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-gains-as-japanese-yen-struggles-despite-hawkish-boj-outlook-202608201213</link>
-            <guid isPermaLink="false">0cdb1b33-63e4-4d70-8319-582de92740bc</guid>
-            <pubDate>Thu, 20 Aug 2026 12:13:57 GMT</pubDate>
-            <description><![CDATA[GBP/JPY edges higher on Thursday, reversing all the losses recorded on the previous day. The move is largely driven by broad Japanese Yen (JPY) weakness rather than any major positive development for the British Pound (GBP), with a sparse economic calendar offering little fresh impetus.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Treasury buybacks raise fiscal questions – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-treasury-buybacks-raise-fiscal-questions-bbh-202608201211</link>
-            <guid isPermaLink="false">3d389924-0105-42f1-8f60-c5b701bc42c2</guid>
-            <pubDate>Thu, 20 Aug 2026 12:11:55 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman (BBH) notes that US long-term Treasury yields have retraced most of their decline following the Treasury’s expanded buyback announcement, while the US Dollar (USD) remains under pressure.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
