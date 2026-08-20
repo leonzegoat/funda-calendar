@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 14:01:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 14:55:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/GBP eases from intraday highs as traders eye dual flash PMIs]]></title>
+            <link>https://www.fxstreet.com/news/eur-gbp-eases-from-intraday-highs-as-traders-eye-dual-flash-pmis-202608201455</link>
+            <guid isPermaLink="false">0e297711-6690-44b9-85b5-907b8ec3136f</guid>
+            <pubDate>Thu, 20 Aug 2026 14:55:28 GMT</pubDate>
+            <description><![CDATA[EUR/GBP trades near the 0.8560s zone, having drifted steadily lower from near the 0.8585 area after failing to hold its push higher. The cross is down 0.15% in Thursday's American session with traders squaring up ahead of a data-heavy Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Leads Asia FX on tech support – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-leads-asia-fx-on-tech-support-mufg-202608201446</link>
+            <guid isPermaLink="false">2fa8fa0b-14de-4b73-b7f7-59af8f877f83</guid>
+            <pubDate>Thu, 20 Aug 2026 14:46:12 GMT</pubDate>
+            <description><![CDATA[Lloyd Chan at MUFG highlights that the Korean Won has outperformed regional peers, helped by a softer Dollar and a resilient semiconductor and AI investment cycle supporting exports and inflows.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swedish Krona: Riksbank keeps hikes on table – BNY]]></title>
+            <link>https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-hikes-on-table-bny-202608201432</link>
+            <guid isPermaLink="false">dbe89deb-906f-4e4e-bf9a-61543fbf6459</guid>
+            <pubDate>Thu, 20 Aug 2026 14:32:07 GMT</pubDate>
+            <description><![CDATA[BNY Mellon’s Geoff Yu reports the Swedish Riksbank left its policy rate at 1.75%, judging the stance well balanced amid stronger growth and inflation but a softer labor market. Underlying inflation is near 2% and summer readings beat forecasts.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Bullish trend eyes upper 1.17s against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/euro-bullish-trend-eyes-upper-117s-against-us-dollar-scotiabank-202608201413</link>
+            <guid isPermaLink="false">585bdd41-add4-42a2-84ce-2ddbb10b4f00</guid>
+            <pubDate>Thu, 20 Aug 2026 14:13:55 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report that EUR/USD gains are being driven mainly by broad US Dollar (USD) weakness, with front-end spreads narrowing since late June and supporting Euro (EUR) fundamentals.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold pares gains as US Treasury yields, Dollar recover]]></title>
+            <link>https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116</link>
+            <guid isPermaLink="false">b456c169-0592-49f5-a406-9696d14b0ec6</guid>
+            <pubDate>Thu, 20 Aug 2026 11:16:10 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) remains on the back foot during American trading hours on Thursday as US Treasury yields rebound and the US Dollar stabilizes following the previous day’s sharp pullback.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Indonesian Rupiah: BI pause keeps tightening risk alive – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-keeps-tightening-risk-alive-commerzbank-202608201400</link>
@@ -94,14 +134,6 @@
             <pubDate>Thu, 20 Aug 2026 12:53:11 GMT</pubDate>
             <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses USD/JPY in context of fiscal and debt dynamics in Japan and the United States (US).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold pares gains as US Treasury yields, Dollar recover]]></title>
-            <link>https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116</link>
-            <guid isPermaLink="false">b456c169-0592-49f5-a406-9696d14b0ec6</guid>
-            <pubDate>Thu, 20 Aug 2026 11:16:10 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its intraday decline at the start of American trading hours on Thursday as US Treasury yields and the US Dollar stabilise following the previous day’s sharp pullback.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gold: Rally faces questions as buybacks reshape yields – BNY]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 10:56:15 GMT</pubDate>
             <description><![CDATA[Gold price (XAU/USD) is down 0.7% to near $4,490 in the European trading session on Thursday. The precious metal retreats from its 11-week high of $4,527 posted earlier in the day. The yellow metal comes under pressure as United States (US) Treasury Yields claw back some of Wednesday’s losses.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1.1700: Euro hits three-month highs as US Bond buyback plan crushes the US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/11700-euro-hits-three-month-highs-as-us-bond-buyback-plan-crushes-the-us-dollar-202608201051</link>
-            <guid isPermaLink="false">2710f22f-5d5b-4b38-b60c-10378c2ac89e</guid>
-            <pubDate>Thu, 20 Aug 2026 10:51:20 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) extends gains against an ailing US Dollar (USD) on Thursday, as the US Treasury’s plan to boost buybacks of long-term Government Bonds sent the Greenback tumbling across the board.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds steady against British Pound as ECB, BoE rate hike bets offset each other]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-steady-against-british-pound-as-ecb-boe-rate-hike-bets-offset-each-other-202608201010</link>
-            <guid isPermaLink="false">48770049-0965-4a81-9255-c8175d32b75e</guid>
-            <pubDate>Thu, 20 Aug 2026 10:10:43 GMT</pubDate>
-            <description><![CDATA[EUR/GBP trades around 0.8580 on Thursday at the time of writing, showing little change on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United States: Slow growth but data understate jobs – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/united-states-slow-growth-but-data-understate-jobs-commerzbank-202608201003</link>
-            <guid isPermaLink="false">565b2c1b-aea2-4b5d-ab76-19b647fa6969</guid>
-            <pubDate>Thu, 20 Aug 2026 10:03:31 GMT</pubDate>
-            <description><![CDATA[Commerzbank economist Bernd Weidensteiner analyzes recent U.S. employment trends, noting that Nonfarm Payroll growth has slowed sharply, with average monthly gains of just 32,000 over the past year.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: RBI minutes temper rate-cut hopes – DBS]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rbi-minutes-temper-rate-cut-hopes-dbs-202608200938</link>
-            <guid isPermaLink="false">036fa6c5-f83c-439a-9347-984e68e2d281</guid>
-            <pubDate>Thu, 20 Aug 2026 09:38:34 GMT</pubDate>
-            <description><![CDATA[Radhika Rao at DBS Group Research highlights that Reserve Bank of India (RBI) minutes from the early-August meeting were more cautious than Governor Sanjay Malhotra’s public messaging.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
