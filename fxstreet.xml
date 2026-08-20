@@ -4,9 +4,89 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 07:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 07:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South African Rand: inflation risks from El Niño – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/south-african-rand-inflation-risks-from-el-nino-commerzbank-202608200753</link>
+            <guid isPermaLink="false">968e6d06-d22c-4f6d-b08e-ca0a25eb4274</guid>
+            <pubDate>Thu, 20 Aug 2026 07:53:30 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Volkmar Baur notes South African inflation surprised on the downside in August, with headline Consumer Price Index (CPI) at 4.3% and core at 4.2%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/South_Africa.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Under pressure as yields capped – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-under-pressure-as-yields-capped-ocbc-202608200738</link>
+            <guid isPermaLink="false">93131f93-9824-4166-8f48-96cae109ac9e</guid>
+            <pubDate>Thu, 20 Aug 2026 07:38:41 GMT</pubDate>
+            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong say the Dollar has weakened to its lowest level since May as expanded Treasury buybacks pushed long-end US yields lower.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar advances on RBNZ hawkish outlook]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-advances-on-rbnz-hawkish-outlook-202608200735</link>
+            <guid isPermaLink="false">e1967a24-e4e2-4d39-b17d-7a33f207e33c</guid>
+            <pubDate>Thu, 20 Aug 2026 07:35:27 GMT</pubDate>
+            <description><![CDATA[NZD/USD extends its gains for the second successive day, trading around 0.5950 during the European hours on Thursday. The pair appreciates as the New Zealand Dollar (NZD) gains on expectations of another rate hike from the Reserve Bank of New Zealand (RBNZ) in September.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee: Hawkish RBI pause shifts rate outlook – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-hawkish-rbi-pause-shifts-rate-outlook-societe-generale-202608200728</link>
+            <guid isPermaLink="false">d27dec17-e34c-4128-b5f8-8cc9d3259816</guid>
+            <pubDate>Thu, 20 Aug 2026 07:28:10 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Kunal Kundu says the Reserve Bank of India's (RBI) August 2026 Monetary Policy Committee (MPC) minutes reveal a more hawkish inflation assessment than the policy statement suggested.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar struggles after Treasury boosts long-term bond purchases]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-struggles-after-treasury-boosts-long-term-bond-purchases-202608200725</link>
+            <guid isPermaLink="false">074a3bb8-927d-4994-be2a-bf5f20aef71d</guid>
+            <pubDate>Thu, 20 Aug 2026 07:25:01 GMT</pubDate>
+            <description><![CDATA[Here is what you need to know on Thursday, August 20:]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: Upside risk hinges on 0.7150 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-upside-risk-hinges-on-07150-against-us-dollar-uob-202608200719</link>
+            <guid isPermaLink="false">73921e32-a817-4d5d-b7a4-7e33e2e8dfbf</guid>
+            <pubDate>Thu, 20 Aug 2026 07:19:13 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s Quek Ser Leang and Lee Sue Ann note AUD/USD retested recent highs near 0.7130 but momentum has not strengthened markedly.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[98.75 support tested; US Dollar Index under pressure amid US debt buyback plan]]></title>
+            <link>https://www.fxstreet.com/news/9875-support-tested-us-dollar-index-under-pressure-amid-us-debt-buyback-plan-202608200718</link>
+            <guid isPermaLink="false">40b3275d-64ad-4a30-ba8b-171da67c3fb1</guid>
+            <pubDate>Thu, 20 Aug 2026 07:18:54 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) took a beating on Wednesday after US Treasury Secretary Scott Bessent announced a plan to buy back long-term government debt to ease Bond yields.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen underperforms amid rising trade concerns]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-underperforms-amid-rising-trade-concerns-202608200714</link>
+            <guid isPermaLink="false">dc13e8fe-6263-4de0-863a-eb59779c28dc</guid>
+            <pubDate>Thu, 20 Aug 2026 07:14:00 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) is down against its major currency peers on Thursday, with USD/JPY trading 0.22% higher at around 158.50 during the European trading session. The Japanese currency underperforms as the Trade Deficit widens due to elevated energy prices.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee snaps three-day losing streak as US yields plummet]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502</link>
+            <guid isPermaLink="false">8c740ec6-07c7-40f0-acb9-f5cc7daf7fbe</guid>
+            <pubDate>Thu, 20 Aug 2026 05:02:58 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) snaps three-day losing streak against the US Dollar (USD) on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Risk-on pattern with softer DXY – ING]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-risk-on-pattern-with-softer-dxy-ing-202608200710</link>
+            <guid isPermaLink="false">35bc2563-ff3e-4760-9b57-b65d6e4df623</guid>
+            <pubDate>Thu, 20 Aug 2026 07:10:42 GMT</pubDate>
+            <description><![CDATA[ING’s Chris Turner notes that US Treasury buy-back operations and a drop in longer-dated yields have supported equities and weighed on the Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar holds early losses driven by weak job data]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-holds-early-losses-driven-by-weak-job-data-202608200704</link>
@@ -128,14 +208,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-animal.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Indian Rupee rebounds after three-day losing streak against US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502</link>
-            <guid isPermaLink="false">8c740ec6-07c7-40f0-acb9-f5cc7daf7fbe</guid>
-            <pubDate>Thu, 20 Aug 2026 05:02:58 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) snaps three-day losing streak against the US Dollar (USD) on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Euro consolidates near late May highs as USD draws support from hawkish Fed, Iran risks]]></title>
             <link>https://www.fxstreet.com/news/euro-consolidates-near-late-may-highs-as-usd-draws-support-from-hawkish-fed-iran-risks-202608200442</link>
             <guid isPermaLink="false">58ac414e-6d80-4b1c-9dea-5ea049c45444</guid>
@@ -174,78 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 03:57:49 GMT</pubDate>
             <description><![CDATA[Asian equities advanced on Thursday, with South Korea's KOSPI surging nearly 6% intraday amid a more than 5% jump in SK Hynix shares following the buyback announcement.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD refreshes two-month high as US doubles bond buyback plan]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-refreshes-two-month-high-as-us-doubles-bond-buyback-plan-202608200356</link>
-            <guid isPermaLink="false">ac3646b3-0679-4e25-8ee8-c5bc60371f3e</guid>
-            <pubDate>Thu, 20 Aug 2026 03:56:31 GMT</pubDate>
-            <description><![CDATA[Silver price (XAG/USD) posts a fresh two-month high at $67.33 in the Asian trading session on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen struggles amid widening Trade Deficit, escalating import costs]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-struggles-amid-widening-trade-deficit-escalating-import-costs-202608200253</link>
-            <guid isPermaLink="false">898cf234-4c66-4c2b-93fc-60556e725468</guid>
-            <pubDate>Thu, 20 Aug 2026 02:53:54 GMT</pubDate>
-            <description><![CDATA[USD/JPY appreciates after registering modest losses in the previous day, trading around 158.50 during the Asian hours on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar gathers strength to near 0.5950 after China holds loan rates steady in August ]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-gathers-strength-to-near-05950-after-china-holds-loan-rates-steady-in-august-202608200238</link>
-            <guid isPermaLink="false">02478184-879e-4214-b057-dbe62f1fd089</guid>
-            <pubDate>Thu, 20 Aug 2026 02:38:06 GMT</pubDate>
-            <description><![CDATA[The NZD/USD pair gains momentum to near 0.5950 during the Asian trading hours on Thursday. The pair holds near a two-and-a-half-month high, bolstered by hawkish Reserve Bank of New Zealand (RBNZ) tone and softer US inflation data.  ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[China's Commerce Ministry sets anti-dumping tax rates on polyoxymethylene from US, EU, Taiwan and Japan]]></title>
-            <link>https://www.fxstreet.com/news/chinas-commerce-ministry-sets-anti-dumping-tax-rates-on-polyoxymethylene-from-us-eu-taiwan-and-japan-202608200225</link>
-            <guid isPermaLink="false">7bc48959-713f-41c1-8940-40383a81d0f2</guid>
-            <pubDate>Thu, 20 Aug 2026 02:25:36 GMT</pubDate>
-            <description><![CDATA[China's Commerce Ministry on Thursday announced a decision on corporate tax rate for enterprises related to anti-dumping measures on imported polyoxymethylene from the United States (US), the European Union (EU), Taiwan and Japan, Reuters reported.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/tariffs-004.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia’s Unemployment Rate jumps to 4.5% in July, vs 4.4% expected]]></title>
-            <link>https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-hold-at-44-in-july-202608192130</link>
-            <guid isPermaLink="false">75839f72-dad0-40b9-aec9-97662774de06</guid>
-            <pubDate>Wed, 19 Aug 2026 21:30:00 GMT</pubDate>
-            <description><![CDATA[Australia’s Unemployment Rate climbed to 4.5% in July from 4.4% in June, according to the official data released by the Australian Bureau of Statistics (ABS) on Thursday. The figure came in above the market consensus of 4.4%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar declines following weak labor data]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-declines-following-weak-labor-data-202608200155</link>
-            <guid isPermaLink="false">095be19b-d0d9-4a27-a0e4-7989b8690d5e</guid>
-            <pubDate>Thu, 20 Aug 2026 01:55:24 GMT</pubDate>
-            <description><![CDATA[AUD/USD depreciates after registering over 0.5% gains in the previous day, trading around 0.7120 during the Asian hours on Thursday. The AUD/USD pair faces downward pressure as the Australian Dollar (AUD) slips in response to a weak domestic labor market report.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-reacts-little-to-dismal-jobs-data-holds-above-weekly-low-vs-weaker-jpy-202608200152</link>
-            <guid isPermaLink="false">2c9ea116-8730-439d-9150-14753ebcec30</guid>
-            <pubDate>Thu, 20 Aug 2026 01:52:34 GMT</pubDate>
-            <description><![CDATA[The AUD/JPY cross attracts some sellers following the release of a dismal Australian jobs report, though it lacks follow-through and holds above the weekly low touched the previous day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound edges lower as USD steadies above three-month low; downside seems limited]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-edges-lower-as-usd-steadies-above-three-month-low-downside-seems-limited-202608200118</link>
-            <guid isPermaLink="false">94b1ada9-8c12-465a-a41c-ade6bfba23f3</guid>
-            <pubDate>Thu, 20 Aug 2026 01:18:48 GMT</pubDate>
-            <description><![CDATA[The GBP/USD pair edges lower during the Asian session on Thursday and retreats further from its highest level since May 11, touched the previous day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI surges above $84.50 as Strait of Hormuz standoff escalate]]></title>
-            <link>https://www.fxstreet.com/news/wti-surges-above-8450-as-strait-of-hormuz-standoff-escalate-202608200117</link>
-            <guid isPermaLink="false">17c68ead-40b2-4421-ac78-6a49aa5f0ff8</guid>
-            <pubDate>Thu, 20 Aug 2026 01:17:33 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) oil price appreciates after registering modest losses in the previous day, trading around $85.50 per barrel during the Asian hours on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
