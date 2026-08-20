@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 23:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 23:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold drifts higher above $4,500 on US Treasury buyback]]></title>
+            <link>https://www.fxstreet.com/news/gold-drifts-higher-above-4-500-on-us-treasury-buyback-202608202337</link>
+            <guid isPermaLink="false">a025686c-eaac-4e26-8abf-c7eb342f8d53</guid>
+            <pubDate>Thu, 20 Aug 2026 23:37:16 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) edges higher to around $4,530 during the early Asian session on Friday. The precious metal rebounds after earlier falling following the US President Donald Trump administration’s unexpected decision to boost repurchases of longer-dated bonds. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan’s National CPI climbs 2.0% YoY in July, Core CPI rises as expected]]></title>
+            <link>https://www.fxstreet.com/news/japans-national-cpi-climbs-20-yoy-in-july-core-cpi-rises-as-expected-202608202332</link>
+            <guid isPermaLink="false">a63ec217-1631-488a-96b4-d8ad5633aaf9</guid>
+            <pubDate>Thu, 20 Aug 2026 23:32:02 GMT</pubDate>
+            <description><![CDATA[Japan’s National Consumer Price Index (CPI) climbed by 2.0% YoY in July, compared to the previous reading of 1.7%, according to the latest data released by the Japan Statistics Bureau on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-shopping-cart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Bulls eye 217.00 as rally extends]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-eye-21700-as-rally-extends-202608202327</link>
+            <guid isPermaLink="false">d63bf5a6-d245-47e7-82a1-7df1a680cc60</guid>
+            <pubDate>Thu, 20 Aug 2026 23:27:30 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY advanced over 0.72%, refreshing a 14-day high of 216.90, with buyers eyeing a breakout above 217.00, which could open the door to a retest of the yearly highs hit in mid-July. The pair trades at 216.73 after bouncing off the daily low of 215.04.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar weakens as US yields rebound, PMIs fail to impress]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-weakens-as-us-yields-rebound-pmis-fail-to-impress-202608202315</link>
+            <guid isPermaLink="false">1411ceb9-92d5-415c-98a9-5b575bef298c</guid>
+            <pubDate>Thu, 20 Aug 2026 23:15:34 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar retreated against the Greenback on Thursday as US bond yields resumed their advance, despite the US Treasury's efforts to cap elevated yields following its announcement of a long-end bond buyback program. The AUD/USD trades at 0.7114, down 0.14%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australia's S&P Global Manufacturing PMI steadies at 52.0 in August]]></title>
             <link>https://www.fxstreet.com/news/australias-sp-global-manufacturing-pmi-steadies-at-520-in-august-202608202302</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 15:27:44 GMT</pubDate>
             <description><![CDATA[United States (US) Treasury Secretary Scott Bessent said on Thursday that the Treasury could increase bond buybacks beyond $4 billion, partly to signal that current yields do not reflect underlying economic fundamentals. He stressed that interest rates have nothing to do with the buyback decision.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/scott-bessent-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI hits three-week high as Iran deadlock supports Oil]]></title>
-            <link>https://www.fxstreet.com/news/wti-hits-three-week-high-as-iran-deadlock-supports-oil-202608201512</link>
-            <guid isPermaLink="false">cd54f3e0-841e-412b-a8cc-5fe45adff74c</guid>
-            <pubDate>Thu, 20 Aug 2026 15:12:46 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil rises 1.89% on Thursday and trades around $85.85 at the time of writing, after reaching a fresh three-week high at $87.38 earlier in the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia: Rupiah stability supports BI pause – DBS]]></title>
-            <link>https://www.fxstreet.com/news/indonesia-rupiah-stability-supports-bi-pause-dbs-202608201511</link>
-            <guid isPermaLink="false">5758f8ba-5002-4e6e-a303-f3a129f30f43</guid>
-            <pubDate>Thu, 20 Aug 2026 15:11:32 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Radhika Rao notes Bank Indonesia (BI) kept its policy rate at 5.75% with Acting Governor Destry maintaining a neutral bias while flagging global risks. A strong domestic growth print and Indonesian Rupiah (IDR) stability underpin the decision.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-flag-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar remains supported by rising Oil prices and US tariff pause]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-remains-supported-despite-modest-us-dollar-rebound-202608201502</link>
-            <guid isPermaLink="false">03c85400-38b1-4f1e-86c1-b55b6210469f</guid>
-            <pubDate>Thu, 20 Aug 2026 15:02:01 GMT</pubDate>
-            <description><![CDATA[USD/CAD remains under pressure on Thursday even as the US Dollar (USD) stages a modest recovery following the previous day’s sharp selloff. Higher Oil prices support the commodity-linked Canadian Dollar (CAD), keeping the pair near a three-month low.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Sustained break above 1.3650 may open 1.41 – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-sustained-break-above-13650-may-open-141-scotiabank-202608201459</link>
-            <guid isPermaLink="false">c8b29002-e1e5-4e5c-929d-ed98fcf73844</guid>
-            <pubDate>Thu, 20 Aug 2026 14:59:38 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that GBP/USD gains into the mid-1.36s are driven more by US Dollar (USD) weakness than intrinsic British Pound (GBP) strength, though United Kingdom (UK) survey data show improving manufacturing orders and pricing power.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
