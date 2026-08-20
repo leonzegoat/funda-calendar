@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 04:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 05:35:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold sticks to losses below $4,500 as USD firms on hawkish FOMC minutes and Iran risks]]></title>
+            <link>https://www.fxstreet.com/news/gold-retreats-from-june-highs-as-hawkish-fomc-minutes-and-us-iran-tensions-support-usd-202608200354</link>
+            <guid isPermaLink="false">6e62eb71-14f7-41b0-a33d-8d8777c024bc</guid>
+            <pubDate>Thu, 20 Aug 2026 03:54:54 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) sticks to modest intraday losses through the Asian session and currently trades below the $4,500 mark, though it remains close to the highest level since early June, set earlier this Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah strengthens as BI to focus on currency stability]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-bi-to-focus-on-currency-stability-202608200531</link>
+            <guid isPermaLink="false">d6e256ea-ae1d-4f77-a13d-d90a53264aa2</guid>
+            <pubDate>Thu, 20 Aug 2026 05:31:09 GMT</pubDate>
+            <description><![CDATA[USD/IDR extends its losses for the second successive day, trading around 17,810 during the Asian hours on Thursday. The pair depreciates as the Indonesian Rupiah (IDR) finds solid backing from Bank Indonesia's (BI) renewed commitment to currency stability.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/BNB-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Bulls seem hesitant below $85.00 and 61.8% Fibo. hurdle]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-bulls-seem-hesitant-below-8500-and-618-fibo-hurdle-202608200528</link>
+            <guid isPermaLink="false">0cd854ae-531a-4c67-9ac4-d7f31d531b42</guid>
+            <pubDate>Thu, 20 Aug 2026 05:28:57 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – extends its consolidative price move for the third straight day and trades around the $84.30 area through the Asian session on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/USD Price Forecast: Strengthens above 1.3600 as bullish trend holds above 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-strengthens-above-13600-as-bullish-trend-holds-above-100-day-sma-202608200513</link>
+            <guid isPermaLink="false">b99d89a9-2491-456b-b6c4-d30889c61f1d</guid>
+            <pubDate>Thu, 20 Aug 2026 05:13:58 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair trades in positive territory around 1.3610 during the early European trading hours on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc weakens ahead of Trade Balance data]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-weakens-ahead-of-trade-balance-data-202608200510</link>
+            <guid isPermaLink="false">faf5f5e1-1383-4d93-81f1-ee976ea07d9d</guid>
+            <pubDate>Thu, 20 Aug 2026 05:10:13 GMT</pubDate>
+            <description><![CDATA[USD/CHF gains ground after registering handsome losses in the previous day, trading around 0.8000 during the Asian hours on Thursday. The USD/CHF pair continues to hold its gains as the Swiss Franc (CHF) remains under pressure ahead of the upcoming domestic Trade Balance report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee rebounds after three-day losing streak against US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502</link>
+            <guid isPermaLink="false">8c740ec6-07c7-40f0-acb9-f5cc7daf7fbe</guid>
+            <pubDate>Thu, 20 Aug 2026 05:02:58 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) snaps three-day losing streak against the US Dollar (USD) on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Euro consolidates near late May highs as USD draws support from hawkish Fed, Iran risks]]></title>
             <link>https://www.fxstreet.com/news/euro-consolidates-near-late-may-highs-as-usd-draws-support-from-hawkish-fed-iran-risks-202608200442</link>
@@ -54,14 +102,6 @@
             <pubDate>Thu, 20 Aug 2026 03:56:31 GMT</pubDate>
             <description><![CDATA[Silver price (XAG/USD) posts a fresh two-month high at $67.33 in the Asian trading session on Thursday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold retreats from June highs as hawkish FOMC minutes and US-Iran tensions support USD]]></title>
-            <link>https://www.fxstreet.com/news/gold-retreats-from-june-highs-as-hawkish-fomc-minutes-and-us-iran-tensions-support-usd-202608200354</link>
-            <guid isPermaLink="false">6e62eb71-14f7-41b0-a33d-8d8777c024bc</guid>
-            <pubDate>Thu, 20 Aug 2026 03:54:54 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) eases from its highest level since early June, touched during the Asian session this Thursday, eroding a part of the previous day's strong gains of over 3%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Japanese Yen struggles amid widening Trade Deficit, escalating import costs]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 22:16:53 GMT</pubDate>
             <description><![CDATA[GBP/USD closed Wednesday 0.53% higher just above 1.3600, its best close in three months, and the United Kingdom inflation report that opened the session had almost nothing to do with it. Sterling spent the London morning up barely twenty pips on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar rallies as Treasury buyback drags US yields ]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-rallies-as-treasury-buyback-drags-us-yields-202608192133</link>
-            <guid isPermaLink="false">b144c3dd-f3ba-4cd7-a555-eac0a0bff6d2</guid>
-            <pubDate>Wed, 19 Aug 2026 21:33:36 GMT</pubDate>
-            <description><![CDATA[The New Zealand Dollar (NZD) rallies against the US Dollar (USD), pushing north of the 0.5930 mark. The move is driven by broad weakness in the Greenback rather than anything out of New Zealand.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dollar Index answers to the Treasury, not the Fed]]></title>
-            <link>https://www.fxstreet.com/news/the-dollar-index-answers-to-the-treasury-not-the-fed-202608192119</link>
-            <guid isPermaLink="false">c97a6457-f422-4fae-9a97-f8d7808107fa</guid>
-            <pubDate>Wed, 19 Aug 2026 21:19:31 GMT</pubDate>
-            <description><![CDATA[The Dollar Index closed Wednesday 0.86% lower just beneath 98.80, its weakest close since mid-May, and it closed on the session low. The document that did the damage was not a central bank document.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD eyes $67 as US yields slide]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-eyes-67-as-us-yields-slide-202608192054</link>
-            <guid isPermaLink="false">22dbe98d-a655-4669-bb29-a8faa8addc2e</guid>
-            <pubDate>Wed, 19 Aug 2026 20:54:21 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) price reversed course on Wednesday and soared over 5% as US Treasury yields edged lower, following the US Treasury stepping in to cap long-end US bond yields, which had reached levels last seen in 2007.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro surges as traders ignore Fed’s hawkish minutes]]></title>
-            <link>https://www.fxstreet.com/news/euro-surges-as-traders-ignore-feds-hawkish-minutes-202608192007</link>
-            <guid isPermaLink="false">2f163469-3d09-4e84-afd8-8c05025d5263</guid>
-            <pubDate>Wed, 19 Aug 2026 20:07:27 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) gains over 0.85% against the US Dollar (USD) during the North American session on Wednesday, even though the latest Federal Reserve (Fed) minutes had a hawkish tone, with some participants, along with the three dissenters, suggesting that raising rates could be necessary if the disinf]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-chart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar sinks on Treasury buyback ahead of data-heavy Thursday]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-sinks-on-treasury-buyback-ahead-of-data-heavy-thursday-202608191938</link>
-            <guid isPermaLink="false">e509e7ea-cefa-4ec8-b64e-5bb6cdf9e83a</guid>
-            <pubDate>Wed, 19 Aug 2026 19:38:14 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) sold off broadly on Wednesday, sinking below the 99.00s region and holding well under 100.00.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
