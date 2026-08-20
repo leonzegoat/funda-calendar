@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 13:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 14:01:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: BI pause keeps tightening risk alive – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-keeps-tightening-risk-alive-commerzbank-202608201400</link>
+            <guid isPermaLink="false">1cb8e0a1-df30-47b6-84cf-fcd2c903eef1</guid>
+            <pubDate>Thu, 20 Aug 2026 14:00:26 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Moses Lim highlights that Bank Indonesia left the BI Rate at 5.75%, balancing inflation, growth and IDR stability after earlier hikes. BI has expanded hedging incentives and CNY clearing to support inflows and FX stability, while keeping SRBI yields from rising further.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesia3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold: Higher range holds but next leg delayed – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/gold-higher-range-holds-but-next-leg-delayed-td-securities-202608201345</link>
+            <guid isPermaLink="false">61c943f9-c579-4f47-be7f-cdeec3a9861b</guid>
+            <pubDate>Thu, 20 Aug 2026 13:45:54 GMT</pubDate>
+            <description><![CDATA[Ryan McKay and Bart Melek at TD Securities say Gold and broader precious metals are likely to remain comfortable in a higher trading range.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Upside focus into 1.35–1.37 against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-upside-focus-into-135-137-against-us-dollar-scotiabank-202608201330</link>
+            <guid isPermaLink="false">a3b6a703-1381-457c-ab8b-a9f55f534631</guid>
+            <pubDate>Thu, 20 Aug 2026 13:30:55 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight that USD/CAD is under pressure as broad US Dollar (USD) weakness combines with tentative progress on a US-Canada trade deal.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro eases from three-month high as US Dollar stabilises, Jobless Claims beat expectations]]></title>
+            <link>https://www.fxstreet.com/news/euro-eases-from-three-month-high-as-us-dollar-stabilises-jobless-claims-beat-expectations-202608201327</link>
+            <guid isPermaLink="false">e3d0d3a3-c2b8-45ac-acd0-7cd1f1097cc8</guid>
+            <pubDate>Thu, 20 Aug 2026 13:27:55 GMT</pubDate>
+            <description><![CDATA[EUR/USD trims part of its earlier gains on Thursday as the US Dollar (USD) stabilises following the previous day’s sharp selloff. At the time of writing, the pair trades around 1.1686 after touching an intraday high of 1.1710, its highest level since May 14.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["More avenues opening for US Dollar weakness ahead": MUFG on why Treasury buyback could backfire]]></title>
+            <link>https://www.fxstreet.com/news/more-avenues-opening-for-us-dollar-weakness-ahead-mufg-on-why-treasury-buyback-could-backfire-202608201323</link>
+            <guid isPermaLink="false">0bdd16bd-19db-4e99-b1c6-f0d695549c21</guid>
+            <pubDate>Thu, 20 Aug 2026 13:23:10 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) has extended its decline following the US Treasury’s unexpected decision to double its long-end bond buybacks, an intervention designed to push down long-term borrowing costs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-178.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee: RBI defends manageable Dollar shorts – BNY]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-rbi-defends-manageable-dollar-shorts-bny-202608201320</link>
+            <guid isPermaLink="false">24204d6b-8802-4874-a87f-733f68198b02</guid>
+            <pubDate>Thu, 20 Aug 2026 13:20:30 GMT</pubDate>
+            <description><![CDATA[BNY Mellon’s Geoff Yu highlights comments from RBI Governor Sanjay Malhotra that the central bank’s net-short forward-Dollar position is still very manageable despite large bearish bets to support the Rupee.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Analysts agree: Indian Rupee should draw support from hawkish RBI, strong reserves]]></title>
             <link>https://www.fxstreet.com/news/analysts-agree-indian-rupee-should-draw-support-from-hawkish-rbi-strong-reserves-202608201308</link>
@@ -198,54 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 09:38:34 GMT</pubDate>
             <description><![CDATA[Radhika Rao at DBS Group Research highlights that Reserve Bank of India (RBI) minutes from the early-August meeting were more cautious than Governor Sanjay Malhotra’s public messaging.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608200932</link>
-            <guid isPermaLink="false">5cdd7815-8592-466b-9232-5201f397e583</guid>
-            <pubDate>Thu, 20 Aug 2026 09:32:47 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) fell on Thursday, according to FXStreet data. Silver trades at $66.71 per troy ounce, down 0.42% from the $67.00 it cost on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: AI, inflation risks and limited FX impact – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-ai-inflation-risks-and-limited-fx-impact-mufg-202608200925</link>
-            <guid isPermaLink="false">befd7751-6c9a-4456-b505-f8a1213ebdfa</guid>
-            <pubDate>Thu, 20 Aug 2026 09:25:37 GMT</pubDate>
-            <description><![CDATA[MUFG’s research team uses AI-driven textual analysis to judge the July FOMC minutes as slightly more hawkish, with broader support for a rate hike and concern over inflation expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Policy-driven yield retreat – UBS]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-policy-driven-yield-retreat-ubs-202608200916</link>
-            <guid isPermaLink="false">9e259e39-e1d9-4fb5-a449-e8ab4f7b48e5</guid>
-            <pubDate>Thu, 20 Aug 2026 09:16:24 GMT</pubDate>
-            <description><![CDATA[UBS' chief economist Paul Donovan notes that the United States (US) Treasury’s plan to at least double purchases of long-term US government bonds triggered a rally, pushing 10-year yields down to levels seen a week ago.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro weakens against Canadian Dollar amid higher oil prices]]></title>
-            <link>https://www.fxstreet.com/news/euro-weakens-against-canadian-dollar-amid-higher-oil-prices-202608200910</link>
-            <guid isPermaLink="false">cae990e9-90bb-4cda-b3d9-ec2f869a5890</guid>
-            <pubDate>Thu, 20 Aug 2026 09:10:01 GMT</pubDate>
-            <description><![CDATA[EUR/CAD halts its three-day winning streak, trading around 1.6110 during the European hours on Thursday. The currency cross faces downward pressure as the commodity-linked Canadian Dollar (CAD) gains support from rising crude oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Upside bias targets 1.1725 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/euro-upside-bias-targets-11725-against-us-dollar-uob-202608200905</link>
-            <guid isPermaLink="false">5c3d4fef-c7a6-4acf-a90d-1efa246bcd82</guid>
-            <pubDate>Thu, 20 Aug 2026 09:05:59 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s Quek Ser Leang and Lee Sue Ann highlight that EUR/USD has broken to a three‑month high near 1.1680 as Dollar weakness and strong momentum underpin the pair.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI refreshes three-week high near $86 amid US-Iran deadlock]]></title>
-            <link>https://www.fxstreet.com/news/wti-refreshes-three-week-high-near-86-amid-us-iran-deadlock-202608200855</link>
-            <guid isPermaLink="false">c65b7187-b9b2-4a34-8be7-a28393538814</guid>
-            <pubDate>Thu, 20 Aug 2026 08:55:27 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trades 2% higher at around $86.00 during the European trading session on Thursday, the highest level seen in over three weeks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
