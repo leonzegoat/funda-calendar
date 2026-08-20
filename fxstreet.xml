@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 04:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 04:54:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro consolidates near late May highs as USD draws support from hawkish Fed, Iran risks]]></title>
+            <link>https://www.fxstreet.com/news/euro-consolidates-near-late-may-highs-as-usd-draws-support-from-hawkish-fed-iran-risks-202608200442</link>
+            <guid isPermaLink="false">58ac414e-6d80-4b1c-9dea-5ea049c45444</guid>
+            <pubDate>Thu, 20 Aug 2026 04:42:45 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair enters a bullish consolidation phase after touching its highest level since late May during the Asian session on Thursday. Bulls now await a move beyond the 1.1700 mark before placing fresh bets and positioning for an extension of an over a three-week-old uptrend.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index weakens below 99.00 on Fed repricing, Treasury bond buybacks]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-weakens-below-9900-on-fed-repricing-treasury-bond-buybacks-202608200437</link>
+            <guid isPermaLink="false">282bf458-ad4b-415a-9ba7-15b6b4966bb4</guid>
+            <pubDate>Thu, 20 Aug 2026 04:37:40 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 98.80 in the early European trading hours on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608200437</link>
+            <guid isPermaLink="false">706ad793-3689-469a-83bb-3d4ed3871a14</guid>
+            <pubDate>Thu, 20 Aug 2026 04:37:12 GMT</pubDate>
+            <description><![CDATA[Gold prices fell in India on Thursday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar gains on higher oil prices, weaker US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-gains-on-higher-oil-prices-weaker-us-dollar-202608200416</link>
+            <guid isPermaLink="false">52fc823a-7b2d-4718-9a57-f2236e81f493</guid>
+            <pubDate>Thu, 20 Aug 2026 04:16:03 GMT</pubDate>
+            <description><![CDATA[USD/CAD extends its losses for the second successive day, trading around 1.3800 during the Asian hours on Thursday. The pair declines as the commodity-linked Canadian Dollar (CAD) receives support from improved oil prices.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Asian equities rally; KOSPI leads gains as US Treasury support counters Fed/Iran risks]]></title>
             <link>https://www.fxstreet.com/news/asian-equities-rally-kospi-leads-gains-as-us-treasury-support-counters-fed-iran-risks-202608200357</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 19:38:14 GMT</pubDate>
             <description><![CDATA[The US Dollar Index (DXY) sold off broadly on Wednesday, sinking below the 99.00s region and holding well under 100.00.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver surges as Treasury buyback plan sinks the US Dollar ]]></title>
-            <link>https://www.fxstreet.com/news/silver-surges-as-treasury-buyback-plan-sinks-the-us-dollar-202608191908</link>
-            <guid isPermaLink="false">4072a0d6-b51a-4002-89e5-48f1ad078923</guid>
-            <pubDate>Wed, 19 Aug 2026 19:08:29 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) trades sharply higher on Wednesday, changing hands near $65.80. The metal is riding a broad rally across precious metals with Gold (XAU/USD) soaring toward $4,500. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Franc tests 100-day SMA as US Dollar tanks]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-100-day-sma-tested-as-us-dollar-tanks-202608191854</link>
-            <guid isPermaLink="false">5ade415b-ba18-4684-97f7-4b4951fdf210</guid>
-            <pubDate>Wed, 19 Aug 2026 18:54:29 GMT</pubDate>
-            <description><![CDATA[The USD/CHF pair tumbles nearly 2% on Wednesday as a US Treasury buyback announcement sends the Greenback into a tailspin, while US Treasury yields also dive. The pair trades at 0.7979 after reaching a high of 0.8128.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold rallies as buyback sinks yields despite Fed hawkish minutes]]></title>
-            <link>https://www.fxstreet.com/news/gold-soars-toward-4-500-as-treasury-buyback-sinks-us-yields-202608191655</link>
-            <guid isPermaLink="false">6f4cf6cc-49c3-4c21-b822-d7efabcd8e85</guid>
-            <pubDate>Wed, 19 Aug 2026 16:55:54 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) rallies during Wednesday’s session after the US Federal Reserve (Fed) released the minutes of its July meeting, in which the US central bank held rates unchanged but not unanimously, with three members dissenting and calling for a rate hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: FOMC officials acknowledged inflation remained elevated]]></title>
-            <link>https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400</link>
-            <guid isPermaLink="false">91383cb8-11c5-46b6-858f-c0338ef09bcc</guid>
-            <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[The Federal Open Market Committee (FOMC) published the Minutes of the July meeting on Wednesday. "The information available at the time of the meeting indicated that inflation remained elevated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
