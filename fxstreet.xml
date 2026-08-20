@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 22:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 23:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australia's S&P Global Manufacturing PMI steadies at 52.0 in August]]></title>
+            <link>https://www.fxstreet.com/news/australias-sp-global-manufacturing-pmi-steadies-at-520-in-august-202608202302</link>
+            <guid isPermaLink="false">37b7e7fc-96f9-435a-8c18-d11b67b7176c</guid>
+            <pubDate>Thu, 20 Aug 2026 23:02:33 GMT</pubDate>
+            <description><![CDATA[The preliminary reading of Australia's S&P Global Manufacturing Purchasing Managers Index (PMI) came in at 52.0 in August versus 52.0 prior, the latest data published by S&P Global showed on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Japanese Yen is the reason for its own hike]]></title>
+            <link>https://www.fxstreet.com/news/the-japanese-yen-is-the-reason-for-its-own-hike-202608202246</link>
+            <guid isPermaLink="false">d3bcdcf0-9662-4b0e-8ab5-0ae04681e12f</guid>
+            <pubDate>Thu, 20 Aug 2026 22:46:18 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades near 159.00 late in the session, 0.5% higher on the day and a little over a point clear of a rising 200-day Exponential Moving Average (EMA) near 158.00.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-48.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The British Pound is buying an energy bill, not inflation]]></title>
+            <link>https://www.fxstreet.com/news/the-british-pound-is-buying-an-energy-bill-not-inflation-202608202245</link>
+            <guid isPermaLink="false">6e4f214c-ad92-4ba5-8d0d-b853de9889a3</guid>
+            <pubDate>Thu, 20 Aug 2026 22:45:03 GMT</pubDate>
+            <description><![CDATA[GBP/USD trades just beneath 1.3650 late in the session, 0.2% higher on the day and at its highest level in more than four months.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Euro fades below 1.1700 as US Dollar rebounds on yields]]></title>
             <link>https://www.fxstreet.com/news/euro-fades-below-11700-as-us-dollar-rebounds-on-yields-202608202230</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 14:59:38 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that GBP/USD gains into the mid-1.36s are driven more by US Dollar (USD) weakness than intrinsic British Pound (GBP) strength, though United Kingdom (UK) survey data show improving manufacturing orders and pricing power.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP eases from intraday highs as traders eye dual flash PMIs]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-eases-from-intraday-highs-as-traders-eye-dual-flash-pmis-202608201455</link>
-            <guid isPermaLink="false">0e297711-6690-44b9-85b5-907b8ec3136f</guid>
-            <pubDate>Thu, 20 Aug 2026 14:55:28 GMT</pubDate>
-            <description><![CDATA[EUR/GBP trades near the 0.8560s zone, having drifted steadily lower from near the 0.8585 area after failing to hold its push higher. The cross is down 0.15% in Thursday's American session with traders squaring up ahead of a data-heavy Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Won: Leads Asia FX on tech support – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/south-korean-won-leads-asia-fx-on-tech-support-mufg-202608201446</link>
-            <guid isPermaLink="false">2fa8fa0b-14de-4b73-b7f7-59af8f877f83</guid>
-            <pubDate>Thu, 20 Aug 2026 14:46:12 GMT</pubDate>
-            <description><![CDATA[Lloyd Chan at MUFG highlights that the Korean Won has outperformed regional peers, helped by a softer Dollar and a resilient semiconductor and AI investment cycle supporting exports and inflows.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swedish Krona: Riksbank keeps hikes on table – BNY]]></title>
-            <link>https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-hikes-on-table-bny-202608201432</link>
-            <guid isPermaLink="false">dbe89deb-906f-4e4e-bf9a-61543fbf6459</guid>
-            <pubDate>Thu, 20 Aug 2026 14:32:07 GMT</pubDate>
-            <description><![CDATA[BNY Mellon’s Geoff Yu reports the Swedish Riksbank left its policy rate at 1.75%, judging the stance well balanced amid stronger growth and inflation but a softer labor market. Underlying inflation is near 2% and summer readings beat forecasts.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
