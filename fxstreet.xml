@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 00:00:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 01:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australia’s Unemployment Rate jumps to 4.5% in July, vs 4.4% expected]]></title>
+            <link>https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-hold-at-44-in-july-202608192130</link>
+            <guid isPermaLink="false">75839f72-dad0-40b9-aec9-97662774de06</guid>
+            <pubDate>Wed, 19 Aug 2026 21:30:00 GMT</pubDate>
+            <description><![CDATA[Australia’s Unemployment Rate climbed to 4.5% in July from 4.4% in June, according to the official data released by the Australian Bureau of Statistics (ABS) on Thursday. The figure came in above the market consensus of 4.4%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound edges lower as USD steadies above three-month low; downside seems limited]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-edges-lower-as-usd-steadies-above-three-month-low-downside-seems-limited-202608200118</link>
+            <guid isPermaLink="false">94b1ada9-8c12-465a-a41c-ade6bfba23f3</guid>
+            <pubDate>Thu, 20 Aug 2026 01:18:48 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair edges lower during the Asian session on Thursday and retreats further from its highest level since May 11, touched the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI surges above $84.50 as Strait of Hormuz standoff escalate]]></title>
+            <link>https://www.fxstreet.com/news/wti-surges-above-8450-as-strait-of-hormuz-standoff-escalate-202608200117</link>
+            <guid isPermaLink="false">17c68ead-40b2-4421-ac78-6a49aa5f0ff8</guid>
+            <pubDate>Thu, 20 Aug 2026 01:17:33 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price appreciates after registering modest losses in the previous day, trading around $85.50 per barrel during the Asian hours on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7808 vs. 6.7854 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67808-vs-67854-previous-202608200115</link>
+            <guid isPermaLink="false">8710582e-412a-4812-8411-5f22afbf53f0</guid>
+            <pubDate>Thu, 20 Aug 2026 01:15:29 GMT</pubDate>
+            <description><![CDATA[The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7808 compared to the previous day's fix of 6.7854 and 6.7196 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC leaves Loan Prime Rates unchanged in August]]></title>
+            <link>https://www.fxstreet.com/news/pboc-leaves-loan-prime-rates-unchanged-in-august-202608200107</link>
+            <guid isPermaLink="false">40d7d119-b992-4a3e-a63c-e0cd3a18aca0</guid>
+            <pubDate>Thu, 20 Aug 2026 01:07:29 GMT</pubDate>
+            <description><![CDATA[The People’s Bank of China (PBOC), China's central bank, announced to leave its Loan Prime Rates (LPRs) unchanged on Thursday. The one-year and five-year LPRs were at 3.00% and 3.50%, respectively.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/BoC-rate-decision.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro edges lower below 1.1700 despite fading Fed hike odds ]]></title>
+            <link>https://www.fxstreet.com/news/euro-edges-lower-below-11700-despite-fading-fed-hike-odds-202608200103</link>
+            <guid isPermaLink="false">fd903c3a-e588-4c92-9531-365eb5d6efca</guid>
+            <pubDate>Thu, 20 Aug 2026 01:03:21 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair posts modest losses around 1.1675 during the early Asian session on Thursday. The Euro (EUR) edges lower against the US Dollar (USD) after experiencing a sharp surge in the previous session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[US Treasury Department to buy back more longer-term bonds]]></title>
             <link>https://www.fxstreet.com/news/us-treasury-department-to-buy-back-more-longer-term-bonds-202608192354</link>
@@ -70,14 +118,6 @@
             <pubDate>Wed, 19 Aug 2026 21:33:36 GMT</pubDate>
             <description><![CDATA[The New Zealand Dollar (NZD) rallies against the US Dollar (USD), pushing north of the 0.5930 mark. The move is driven by broad weakness in the Greenback rather than anything out of New Zealand.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia unemployment rate expected to hold at 4.4% in July ]]></title>
-            <link>https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-hold-at-44-in-july-202608192130</link>
-            <guid isPermaLink="false">75839f72-dad0-40b9-aec9-97662774de06</guid>
-            <pubDate>Wed, 19 Aug 2026 21:30:00 GMT</pubDate>
-            <description><![CDATA[Australia will release the July monthly employment report on Thursday at 01:30 GMT. Ahead of the announcement, analysts anticipate a modest 15K increase in job creation, while the Unemployment Rate is expected to remain steady at 4.4%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-clock-1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[The Dollar Index answers to the Treasury, not the Fed]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 15:23:31 GMT</pubDate>
             <description><![CDATA[The Pound Sterling (GBP) climbs against the US Dollar (USD) on Wednesday as the US Treasury stepped up in the markets to offer liquidity support via a buyback of longer-dated bonds, a day after the US 30-year yield hit its highest level since 2007.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US 10-year Treasury yield tumbles as Treasury steps in to calm bond market]]></title>
-            <link>https://www.fxstreet.com/news/us-10-year-treasury-yield-tumbles-as-treasury-steps-in-to-calm-bond-market-202608191517</link>
-            <guid isPermaLink="false">666390cd-ec1d-46c3-bcf6-b494a07dc101</guid>
-            <pubDate>Wed, 19 Aug 2026 15:17:04 GMT</pubDate>
-            <description><![CDATA[The US 10-year Treasury yield declines sharply on Wednesday, trading at 4.651% at the time of writing after reaching an intraday high of 4.712%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen advances as falling Treasury yields pressure US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-advances-as-falling-treasury-yields-pressure-us-dollar-202608191512</link>
-            <guid isPermaLink="false">f41ef120-5aa7-428a-9217-a5aaa03e0a40</guid>
-            <pubDate>Wed, 19 Aug 2026 15:12:05 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) extends its intraday gains on Wednesday as the US Dollar (USD) comes under fresh selling pressure following a sharp decline in longer-term US Treasury yields. At the time of writing, USD/JPY trades around 158.47, its lowest level in more than a week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Energy-driven upside risks – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-energy-driven-upside-risks-societe-generale-202608191505</link>
-            <guid isPermaLink="false">9e7dbe90-eb1d-4b98-9f9c-47f22106573a</guid>
-            <pubDate>Wed, 19 Aug 2026 15:05:08 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Sam Cartwright notes United Kingdom (UK) headline inflation rose to 2.9% year-on-year in July, driven mainly by higher household energy bills.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Thai Baht: Higher commodities threaten Baht stability – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/thai-baht-higher-commodities-threaten-baht-stability-commerzbank-202608191454</link>
-            <guid isPermaLink="false">f7adaef8-5795-4b78-ab3d-0920232bf530</guid>
-            <pubDate>Wed, 19 Aug 2026 14:54:27 GMT</pubDate>
-            <description><![CDATA[Commerzbank analysts note that the Bank of Thailand (BoT) is expected to keep its policy rate at 1.0%, seeing it as sufficiently accommodative. USD/THB has consolidated in a 32.90–33.30 range, with rising global commodity prices and foreign outflows posing downside risks for the Baht.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold approaches $4,500 as US Dollar and Treasury yields tumble, FOMC Minutes in focus]]></title>
-            <link>https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109</link>
-            <guid isPermaLink="false">cac3fdeb-6876-4e95-bfa7-1e8e2a0de71b</guid>
-            <pubDate>Wed, 19 Aug 2026 11:09:12 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) rallies on Wednesday as a softer US Dollar (USD) and a sharp pullback in long-term US Treasury yields help the metal break above its week-old trading range and climb to its highest level since June 4. At the time of writing, XAU/USD trades around $4,490, up more than 3.5% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
