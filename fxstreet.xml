@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 01:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 03:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen struggles amid widening Trade Deficit, escalating import costs]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-struggles-amid-widening-trade-deficit-escalating-import-costs-202608200253</link>
+            <guid isPermaLink="false">898cf234-4c66-4c2b-93fc-60556e725468</guid>
+            <pubDate>Thu, 20 Aug 2026 02:53:54 GMT</pubDate>
+            <description><![CDATA[USD/JPY appreciates after registering modest losses in the previous day, trading around 158.50 during the Asian hours on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar gathers strength to near 0.5950 after China holds loan rates steady in August ]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-gathers-strength-to-near-05950-after-china-holds-loan-rates-steady-in-august-202608200238</link>
+            <guid isPermaLink="false">02478184-879e-4214-b057-dbe62f1fd089</guid>
+            <pubDate>Thu, 20 Aug 2026 02:38:06 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair gains momentum to near 0.5950 during the Asian trading hours on Thursday. The pair holds near a two-and-a-half-month high, bolstered by hawkish Reserve Bank of New Zealand (RBNZ) tone and softer US inflation data.  ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[China's Commerce Ministry sets anti-dumping tax rates on polyoxymethylene from US, EU, Taiwan and Japan]]></title>
+            <link>https://www.fxstreet.com/news/chinas-commerce-ministry-sets-anti-dumping-tax-rates-on-polyoxymethylene-from-us-eu-taiwan-and-japan-202608200225</link>
+            <guid isPermaLink="false">7bc48959-713f-41c1-8940-40383a81d0f2</guid>
+            <pubDate>Thu, 20 Aug 2026 02:25:36 GMT</pubDate>
+            <description><![CDATA[China's Commerce Ministry on Thursday announced a decision on corporate tax rate for enterprises related to anti-dumping measures on imported polyoxymethylene from the United States (US), the European Union (EU), Taiwan and Japan, Reuters reported.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/tariffs-004.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australia’s Unemployment Rate jumps to 4.5% in July, vs 4.4% expected]]></title>
             <link>https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-hold-at-44-in-july-202608192130</link>
@@ -14,6 +38,22 @@
             <pubDate>Wed, 19 Aug 2026 21:30:00 GMT</pubDate>
             <description><![CDATA[Australia’s Unemployment Rate climbed to 4.5% in July from 4.4% in June, according to the official data released by the Australian Bureau of Statistics (ABS) on Thursday. The figure came in above the market consensus of 4.4%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar declines following weak labor data]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-declines-following-weak-labor-data-202608200155</link>
+            <guid isPermaLink="false">095be19b-d0d9-4a27-a0e4-7989b8690d5e</guid>
+            <pubDate>Thu, 20 Aug 2026 01:55:24 GMT</pubDate>
+            <description><![CDATA[AUD/USD depreciates after registering over 0.5% gains in the previous day, trading around 0.7120 during the Asian hours on Thursday. The AUD/USD pair faces downward pressure as the Australian Dollar (AUD) slips in response to a weak domestic labor market report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-reacts-little-to-dismal-jobs-data-holds-above-weekly-low-vs-weaker-jpy-202608200152</link>
+            <guid isPermaLink="false">2c9ea116-8730-439d-9150-14753ebcec30</guid>
+            <pubDate>Thu, 20 Aug 2026 01:52:34 GMT</pubDate>
+            <description><![CDATA[The AUD/JPY cross attracts some sellers following the release of a dismal Australian jobs report, though it lacks follow-through and holds above the weekly low touched the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[British Pound edges lower as USD steadies above three-month low; downside seems limited]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 19 Aug 2026 17:36:40 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI) Oil holds firm on Wednesday, hovering near its highest level in more than three weeks as traders balance Middle East supply risks against rising US crude inventories. At the time of writing, the US benchmark trades around $85.20 per barrel, up nearly 1% on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar jumps as falling US yields weigh on the USD]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-jumps-as-falling-us-yields-weigh-on-the-usd-202608191706</link>
-            <guid isPermaLink="false">57036d58-5b5b-47c9-95e8-823f1aee60c2</guid>
-            <pubDate>Wed, 19 Aug 2026 17:06:22 GMT</pubDate>
-            <description><![CDATA[NZD/USD rises sharply on Wednesday and trades around 0.5930 at the time of writing, up 0.96% on the day. The New Zealand Dollar (NZD) benefits primarily from broad weakness in the US Dollar (USD), as the sharp decline in US Treasury yields reduces the appeal of the Greenback.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones Industrial Average rallies on a bid nobody made]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-bid-nobody-made-202608191641</link>
-            <guid isPermaLink="false">a76d3a80-1277-4209-8150-8b02d7915f92</guid>
-            <pubDate>Wed, 19 Aug 2026 16:41:48 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades near 53,600 on Wednesday, more than 230 points and 0.44% higher, and none of that gain is about earnings, growth or the Federal Reserve (Fed).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_DJI-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP pushes toward two-week high amid cooling UK services inflation ]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-pushes-toward-two-week-high-amid-cooling-uk-services-inflation-202608191619</link>
-            <guid isPermaLink="false">79738854-5164-4b17-aced-76be667c715d</guid>
-            <pubDate>Wed, 19 Aug 2026 16:19:42 GMT</pubDate>
-            <description><![CDATA[EUR/GBP trades on the front foot on Wednesday, pushing up to the vicinity of a two-week high near the 0.8570 region as the Euro holds firm against a softer British Pound (GBP). The pair has cleared its recent range after a run of green candles on the 4-hour chart.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-dataphone-card.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah: BI holds rates to back IDR – BNY]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-holds-rates-to-back-idr-bny-202608191524</link>
-            <guid isPermaLink="false">e34283df-8290-4e29-9495-49cc627b9d9d</guid>
-            <pubDate>Wed, 19 Aug 2026 15:24:01 GMT</pubDate>
-            <description><![CDATA[Geoff Yu writes that Bank Indonesia (BI) kept its benchmark rate at 5.75% for a second month in Acting Governor Destry Damayanti’s first decision.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-idr-stock-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound jumps as Treasury buyback weakens the US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-jumps-as-treasury-buyback-weakens-the-us-dollar-202608191523</link>
-            <guid isPermaLink="false">33a828da-36c0-4f45-9eee-b7a58fbd870c</guid>
-            <pubDate>Wed, 19 Aug 2026 15:23:31 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling (GBP) climbs against the US Dollar (USD) on Wednesday as the US Treasury stepped up in the markets to offer liquidity support via a buyback of longer-dated bonds, a day after the US 30-year yield hit its highest level since 2007.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bullish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
