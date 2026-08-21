@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 11:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 11:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver climbs toward $70 as US Dollar remains under pressure]]></title>
+            <link>https://www.fxstreet.com/news/silver-climbs-toward-70-as-us-dollar-remains-under-pressure-202608211141</link>
+            <guid isPermaLink="false">94a056f3-0ecc-4071-b846-a01eed60782c</guid>
+            <pubDate>Fri, 21 Aug 2026 11:41:17 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) accelerates its advance on Friday and trades around $69.75 at the time of writing, up 2.41% on the day. The white metal reaches its highest level in two months and is on track for a weekly gain of more than 7%, mainly supported by persistent weakness in the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Set to outperform Pound, US Dollar and Yen - Nomura]]></title>
+            <link>https://www.fxstreet.com/news/euro-set-to-outperform-pound-us-dollar-and-yen-nomura-202608211136</link>
+            <guid isPermaLink="false">05ef3363-9200-40cf-90b9-276b302f486f</guid>
+            <pubDate>Fri, 21 Aug 2026 11:36:11 GMT</pubDate>
+            <description><![CDATA[Nomura strategists see greater fiscal vulnerabilities in the United Kingdom (UK) than in the Euro area. Strong foreign inflows into Euro area bonds and comparatively better debt dynamics support its view that Euro (EUR) should outperform British Pound (GBP), US Dollar (USD) and Japanese Yen (JPY).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee remains under pressure amid elevated Oil prices]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551</link>
+            <guid isPermaLink="false">54a95092-33c1-45de-9012-40db58ea6417</guid>
+            <pubDate>Fri, 21 Aug 2026 05:51:50 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) ticks lower against the US Dollar (USD) on Friday. The USD/INR edges up to near 95.72 as elevated oil prices have outweighed a weak US Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar rallies above 0.7150 as the US Dollar bleeds amid bond buybacks]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rallies-above-07150-as-the-us-dollar-bleeds-amid-bond-buybacks-202608211124</link>
+            <guid isPermaLink="false">ab330f21-705b-4094-9e37-6ab1fdbd5b07</guid>
+            <pubDate>Fri, 21 Aug 2026 11:24:05 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) accelerated its rally against the US Dollar (USD) on Friday, hitting session highs above 0.7150 for the first time since early June and drawing closer to a three-month top, in the 0.7200 area.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Experts agree: Weak Dollar backs near-term upside in EUR/USD]]></title>
+            <link>https://www.fxstreet.com/news/experts-agree-weak-dollar-backs-near-term-upside-in-eur-usd-202608211118</link>
+            <guid isPermaLink="false">f8931f4e-a3c3-4c20-86db-6e6e502aa5bc</guid>
+            <pubDate>Fri, 21 Aug 2026 11:18:57 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) trades 0.21% higher at around 1.1710 against the US Dollar (USD) during the European trading session on Friday, the highest level seen in over three months.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Yield management weighs on currency – BBH]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-yield-management-weighs-on-currency-bbh-202608211115</link>
+            <guid isPermaLink="false">3c4edf4d-fcdb-456a-aa09-c02f09e53426</guid>
+            <pubDate>Fri, 21 Aug 2026 11:15:01 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is weaker against all major currencies as longer-term US Treasury yields edge lower following buyback plans. Haddad argues expanded buybacks and fiscal messaging may cap long-end yields but at a credibility cost for the USD.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[$4,600: Gold rallies to three-month high, eyes third weekly gain]]></title>
+            <link>https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106</link>
+            <guid isPermaLink="false">92635d83-47dd-4338-aeb8-e918e33c348e</guid>
+            <pubDate>Fri, 21 Aug 2026 11:06:55 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) is heading for a third consecutive weekly gain on Friday, extending an impressive rally that has lifted the precious metal by around 13% so far this month. At the time of writing, XAU/USD trades near $4,590 after briefly climbing above $4,600, its highest level since May 15.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[US Dollar broadly consolidates as analysts cast doubts over long-term impact of US Treasury buyback]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-broadly-consolidates-as-analysts-cast-doubts-over-long-term-impact-of-us-treasury-buyback-202608211043</link>
@@ -78,14 +134,6 @@
             <pubDate>Fri, 21 Aug 2026 09:30:09 GMT</pubDate>
             <description><![CDATA[Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $69.94 per troy ounce, up 2.67% from the $68.12 it cost on Thursday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee remains under pressure amid higher oil prices]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551</link>
-            <guid isPermaLink="false">54a95092-33c1-45de-9012-40db58ea6417</guid>
-            <pubDate>Fri, 21 Aug 2026 05:51:50 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) ticks lower against the US Dollar (USD) in India's afternoon trading hours on Friday. The USD/INR edges up to near 95.72 as elevated oil prices and a sharp recovery in United States (US) Treasury yields have weighed on the Indian currency.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Swedish Krona: Riksbank keeps tightening option open – Commerzbank]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 08:19:37 GMT</pubDate>
             <description><![CDATA[MUFG’s Derek Halpenny sees a tension between aggressive Reserve Bank of New Zealand (RBNZ) tightening expectations and increasingly stretched short positioning in the New Zealand Dollar (NZD).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-nzd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar stands firm near three-month high vs weak USD ahead of data]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-stands-firm-near-three-month-high-vs-weak-usd-ahead-of-data-202608210802</link>
-            <guid isPermaLink="false">850d9559-d67c-48d2-b6ff-412790b28846</guid>
-            <pubDate>Fri, 21 Aug 2026 08:02:48 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair remains under some selling pressure for the third consecutive day and trades near a three-month low, just above mid-1.3700s during the first half of the European session on Friday.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bullish-realistic.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Eurozone flash Manufacturing PMI rises unexpectedly faster-than-estimates to 52.8 in August]]></title>
-            <link>https://www.fxstreet.com/news/eurozone-flash-manufacturing-pmi-rises-unexpectedly-faster-than-estimates-to-528-in-august-202608210802</link>
-            <guid isPermaLink="false">53d70f3a-f7f2-48dc-8800-bbd50fc7dd9c</guid>
-            <pubDate>Fri, 21 Aug 2026 08:02:18 GMT</pubDate>
-            <description><![CDATA[Preliminary HCOB Manufacturing Purchasing Managers’ Index (PMI) in the Eurozone expands surprisingly at a faster pace to 52.8 in August from 51.9 in July. Manufacturing activity was anticipated to expand at a moderate pace to 51.8. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Funding role grows as volatility stays low – ING]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-funding-role-grows-as-volatility-stays-low-ing-202608210758</link>
-            <guid isPermaLink="false">28e18f6c-24e3-4ab9-b9e1-cd4bc346bcb7</guid>
-            <pubDate>Fri, 21 Aug 2026 07:58:43 GMT</pubDate>
-            <description><![CDATA[Chris Turner at ING explains that USD/CHF’s sharp drop after the US Treasury buy-back announcement was mainly position adjustment after a hawkish Fed narrative had favoured longs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-chf-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Consolidation around 99.00 after buyback news – DBS]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-consolidation-around-9900-after-buyback-news-dbs-202608210750</link>
-            <guid isPermaLink="false">9d2b8c1c-900c-4ced-b0e0-9cf912ae1229</guid>
-            <pubDate>Fri, 21 Aug 2026 07:50:32 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Chang Wei Liang notes that the Dollar has firmed slightly as US Treasury yields recover, with DXY consolidating near 99.00 after the US Treasury expanded long-end bond buybacks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures gain as traders weigh US debt buybacks against surging oil prices]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-gain-as-traders-weigh-us-debt-buybacks-against-surging-oil-prices-202608210744</link>
-            <guid isPermaLink="false">655ec3f3-67f8-492b-a7f3-781271b3f2e6</guid>
-            <pubDate>Fri, 21 Aug 2026 07:44:51 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures gain 0.13% to trade above 52,900 during European hours on Friday. Meanwhile, S&P 500 futures remain up by 0.18%, to trade near 7,680, and Nasdaq 100 futures advance by 0.38% to trade above 29,400.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_DJI-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro remains weaker against Canadian Dollar following German PMI data]]></title>
-            <link>https://www.fxstreet.com/news/euro-remains-weaker-against-canadian-dollar-following-german-pmi-data-202608210744</link>
-            <guid isPermaLink="false">b4bed603-da8a-441b-b83d-55ae65c0b567</guid>
-            <pubDate>Fri, 21 Aug 2026 07:44:41 GMT</pubDate>
-            <description><![CDATA[EUR/CAD extends its losses for the second successive day, trading around 1.6100 during the European hours on Friday. The currency cross depreciates as the Euro (EUR) holds losses following the release of HCOB Purchasing Managers’ Index (PMI) data from Germany.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
