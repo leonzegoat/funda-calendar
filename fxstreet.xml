@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 11:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 12:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold: Safe-haven bid on US debt worries – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/gold-safe-haven-bid-on-us-debt-worries-commerzbank-202608211214</link>
+            <guid isPermaLink="false">a30429a6-7055-480f-adee-be6484ce77a1</guid>
+            <pubDate>Fri, 21 Aug 2026 12:14:30 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Carsten Fritsch notes Gold has surged, breaking above USD 4,500 per troy ounce as safe‑haven demand rises on US debt concerns and a weaker Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/GBP Price Forecast: Neutral RSI signals further consolidation]]></title>
+            <link>https://www.fxstreet.com/news/eur-gbp-price-forecast-neutral-rsi-signals-further-consolidation-202608211203</link>
+            <guid isPermaLink="false">de9d3bbf-262b-4581-981c-440bff10cd2c</guid>
+            <pubDate>Fri, 21 Aug 2026 12:03:38 GMT</pubDate>
+            <description><![CDATA[EUR/GBP remains stuck in a narrow trading range this month, stalling the rebound from near 0.8460 in mid-July as buyers struggle to clear the 50-day Simple Moving Average (SMA).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound dips hold above 216.50 Japanese Yen following mixed UK data]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-dips-hold-above-21650-japanese-yen-following-mixed-uk-data-202608211157</link>
+            <guid isPermaLink="false">2008df41-c78c-4b8b-a85a-9f97fead6fcc</guid>
+            <pubDate>Fri, 21 Aug 2026 11:57:56 GMT</pubDate>
+            <description><![CDATA[British Pound's (GBP) rally against the Japanese Yen (JPY) was capped at the 217.00 area earlier on Friday, and the pair pulled back to the 216.50 area where it found some support.]]></description>
+            <enclosure url="https://editorial.fxstreet.com/images/i/bullish-glasses.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Binary tariff risks shape near-term path – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-binary-tariff-risks-shape-near-term-path-td-securities-202608211151</link>
+            <guid isPermaLink="false">5948e67b-e9b6-423c-95b8-dda6e86b04ae</guid>
+            <pubDate>Fri, 21 Aug 2026 11:51:54 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists argue that Section 338 tariff negotiations pose a binary risk for the Canadian Dollar (CAD) and USD/CAD.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Silver climbs toward $70 as US Dollar remains under pressure]]></title>
             <link>https://www.fxstreet.com/news/silver-climbs-toward-70-as-us-dollar-remains-under-pressure-202608211141</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 08:40:12 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Tatha Ghose highlights growing challenges for Polish policymakers, citing stretched fiscal plans and accelerating underlying inflation.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom flash Services PMI expands faster to 52.8 in August, beats 51.8 estimates]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-flash-services-pmi-expands-faster-to-528-in-august-beats-518-estimates-202608210833</link>
-            <guid isPermaLink="false">87f24c34-efa5-4029-a00d-32cc67c0bca9</guid>
-            <pubDate>Fri, 21 Aug 2026 08:33:07 GMT</pubDate>
-            <description><![CDATA[The United Kingdom (UK) S&P Global Composite Purchasing Managers' Index (PMI) expanded surprisingly at a faster pace to 52.5 in August due to robust service sector activity. The Composite PMI was expected to arrive lower at 51.6 from 52.2 in July. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Range-bound with mild upside against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-range-bound-with-mild-upside-against-us-dollar-uob-202608210828</link>
-            <guid isPermaLink="false">2f445d4d-bbb3-494c-adb8-c1609948e04e</guid>
-            <pubDate>Fri, 21 Aug 2026 08:28:05 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang notes USD/JPY at 159.00 rebounded sharply from 158.00, but now looks set to trade between 158.50 and 159.35 intraday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds near three-month highs as Eurozone Flash PMIs beat expectations]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-near-three-month-highs-as-eurozone-flash-pmis-beat-expectations-202608210823</link>
-            <guid isPermaLink="false">c1db857c-aa84-41b3-a1dc-0cca0d33c27e</guid>
-            <pubDate>Fri, 21 Aug 2026 08:23:27 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) is trading a few pips below 1.1700 against a depressed US Dollar (USD) on Friday, on track for a more than 1% weekly rally, and with the three-month high of 1.1710 at a short distance.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/BullishRocket.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar: Extreme shorts face a high bar for further losses – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-extreme-shorts-face-a-high-bar-for-further-losses-mufg-202608210819</link>
-            <guid isPermaLink="false">f6353ed4-d09e-40cb-ae9d-ddb16865c6b9</guid>
-            <pubDate>Fri, 21 Aug 2026 08:19:37 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny sees a tension between aggressive Reserve Bank of New Zealand (RBNZ) tightening expectations and increasingly stretched short positioning in the New Zealand Dollar (NZD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-nzd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
