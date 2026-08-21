@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 23:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 00:01:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bessent says US unlikely to resume large-scale Iran combat, steps up economic pressure]]></title>
+            <link>https://www.fxstreet.com/news/bessent-says-us-unlikely-to-resume-large-scale-iran-combat-steps-up-economic-pressure-202608202352</link>
+            <guid isPermaLink="false">18b116d6-6887-4572-ba04-3a83354bd29e</guid>
+            <pubDate>Thu, 20 Aug 2026 23:52:36 GMT</pubDate>
+            <description><![CDATA[US Treasury Secretary Scott Bessent said that the US President Donald Trump administration’s plan to crush Iran’s economy will likely negate the need for major US military operations against the Islamic Republic, CNBC reported on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/white-house-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gold drifts higher above $4,500 on US Treasury buyback]]></title>
             <link>https://www.fxstreet.com/news/gold-drifts-higher-above-4-500-on-us-treasury-buyback-202608202337</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 15:40:03 GMT</pubDate>
             <description><![CDATA[USD/CHF regains ground on Thursday as the US Dollar (USD) stabilises following the previous day’s broad weakness, which pushed the pair below the 0.8000 psychological mark and to its lowest level since June 17, weakening the near-term bullish structure.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-realistic.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Bessent wants bigger bond buybacks, but markets barely blink]]></title>
-            <link>https://www.fxstreet.com/news/bessent-wants-bigger-bond-buybacks-but-markets-barely-blink-202608201527</link>
-            <guid isPermaLink="false">92461559-f63d-4085-aa24-ba38c2fca76d</guid>
-            <pubDate>Thu, 20 Aug 2026 15:27:44 GMT</pubDate>
-            <description><![CDATA[United States (US) Treasury Secretary Scott Bessent said on Thursday that the Treasury could increase bond buybacks beyond $4 billion, partly to signal that current yields do not reflect underlying economic fundamentals. He stressed that interest rates have nothing to do with the buyback decision.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/scott-bessent-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
