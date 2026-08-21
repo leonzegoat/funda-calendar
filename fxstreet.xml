@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 22:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 23:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-reclaim-08000-as-recovery-stalls-202608212302</link>
+            <guid isPermaLink="false">f63de75d-e4cd-46dc-8f23-4e027cc66c75</guid>
+            <pubDate>Fri, 21 Aug 2026 23:02:00 GMT</pubDate>
+            <description><![CDATA[The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.8010. During the week, the pair finished with losses of over 1.49%, triggered by a drop in US yields on Wednesday, as the US Treasury tries to cap elevated yields on the 30-year bond.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-chf-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[US Treasury yields extend rebound as Services PMI beats estimates]]></title>
             <link>https://www.fxstreet.com/news/us-treasury-yields-extend-rebound-as-services-pmi-beats-estimates-202608212238</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 14:43:09 GMT</pubDate>
             <description><![CDATA[TD Securities strategists argue that Kevin Warsh’s Jackson Hole speech will focus on structural themes such as productivity, AI-driven growth and Federal Reserve (Fed) regime change.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: PMI strength supports against US Dollar – BBH]]></title>
-            <link>https://www.fxstreet.com/news/euro-pmi-strength-supports-against-us-dollar-bbh-202608211428</link>
-            <guid isPermaLink="false">a11b499d-d4c8-4879-925b-7f2f166ca2da</guid>
-            <pubDate>Fri, 21 Aug 2026 14:28:04 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports EUR/USD is firmer on broad US Dollar (USD) weakness and stronger-than-expected Eurozone August Purchasing Managers' Index (PMI) data. Elias Haddad highlights the composite PMI at a nine-month high, driven by manufacturing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
