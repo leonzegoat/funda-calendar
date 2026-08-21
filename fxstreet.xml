@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 04:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 04:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11350-as-bullish-momentum-persists-above-100-day-sma-202608210446</link>
+            <guid isPermaLink="false">a48ad5f2-9759-42d1-a29e-7c3f08e7ff65</guid>
+            <pubDate>Fri, 21 Aug 2026 04:46:44 GMT</pubDate>
+            <description><![CDATA[The AUD/JPY cross trades in positive territory near 113.55 during the early European session on Friday. The Australian Dollar (AUD) strengthens against the Japanese Yen (JPY) despite the cooling labor market. The minutes of the Reserve Bank of Australia (RBA) meetings will be released next Tuesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs]]></title>
+            <link>https://www.fxstreet.com/news/euro-sits-near-multi-month-top-vs-weak-usd-as-bulls-await-move-beyond-11700-ahead-of-pmis-202608210439</link>
+            <guid isPermaLink="false">4f6c066d-c2e9-426f-8767-003882bc20c4</guid>
+            <pubDate>Fri, 21 Aug 2026 04:39:29 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair attracts some dip-buyers during the Asian session on Friday and climbs back closer to its highest level since May 14, set the previous day, with bulls now awaiting a move beyond the 1.1700 mark before placing fresh bets.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold rises, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608210435</link>
+            <guid isPermaLink="false">596526ff-bfa8-4384-965a-9f0f9a68014f</guid>
+            <pubDate>Fri, 21 Aug 2026 04:35:27 GMT</pubDate>
+            <description><![CDATA[Gold prices rose in India on Friday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-18600-as-bullish-bias-prevails-202608210412</link>
+            <guid isPermaLink="false">e0dd4869-f0a1-443b-aa17-dd9acaea3cb3</guid>
+            <pubDate>Fri, 21 Aug 2026 04:12:30 GMT</pubDate>
+            <description><![CDATA[EUR/JPY remains stronger for the second successive day, trading around 186.00 during the Asian hours on Friday. The technical analysis of a daily chart indicates that the spot is moving higher within the ascending channel pattern, signaling a persistent bullish bias.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: 20-day EMA remains key hurdle]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-ema-remains-key-hurdle-202608210408</link>
+            <guid isPermaLink="false">ecab6d36-8f3f-4f3f-87e8-578e2946d9d8</guid>
+            <pubDate>Fri, 21 Aug 2026 04:08:49 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) trades in a limited range at around 159.00 against the US Dollar (USD) during the Asian trading session on Friday. The pair consolidates, while both the JPY and the USD are underperforming against their other currency peers.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407</link>
+            <guid isPermaLink="false">b1b3700e-3036-4d9f-9b4e-a47add4399e7</guid>
+            <pubDate>Fri, 21 Aug 2026 04:07:20 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) hits a fresh high since early June, around the $4,544 region, during the Asian session on Friday and looks to build on the momentum above a technically significant 200-day Simple Moving Average (SMA).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Swiss Franc edges up against US Dollar amid heightened US debt concerns]]></title>
             <link>https://www.fxstreet.com/news/swiss-franc-edges-up-against-us-dollar-amid-heightened-us-debt-concerns-202608210322</link>
@@ -198,54 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 20:14:02 GMT</pubDate>
             <description><![CDATA[The Mexican Peso (MXN) holds firm versus the US Dollar (USD) on Thursday as the Bank of Mexico (Banxico) adopted a cautious stance regarding monetary policy, while jobs data in the US showed that the labor market is stable.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-scale-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Won: Rally accelerates with foreign inflows – DBS]]></title>
-            <link>https://www.fxstreet.com/news/south-korean-won-rally-accelerates-with-foreign-inflows-dbs-202608201921</link>
-            <guid isPermaLink="false">123b6ce8-1f62-477d-b1a4-a43e47f1caf0</guid>
-            <pubDate>Thu, 20 Aug 2026 19:21:00 GMT</pubDate>
-            <description><![CDATA[DBS strategist Chang Wei Liang reports that South Korean Won (KRW) strength has resumed, with USD/KRW dropping to the mid-1380s even as KOSPI fell nearly 6% on semiconductor-led losses.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar firms ahead of global flash PMIs]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-global-flash-pmis-202608201915</link>
-            <guid isPermaLink="false">a83f5bb1-8fa3-4fea-bfc2-60f08fc16f3a</guid>
-            <pubDate>Thu, 20 Aug 2026 19:15:15 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) is hovering near 98.90, still short of 100.00, but grinding higher on Thursday. Hawkish commentary from Federal Reserve Bank of St.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_PMI-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dollar Index takes its floor from a Fed non-voter]]></title>
-            <link>https://www.fxstreet.com/news/the-dollar-index-takes-its-floor-from-a-fed-non-voter-202608201844</link>
-            <guid isPermaLink="false">11ed5ea8-6391-4f5d-884d-279b2a31039c</guid>
-            <pubDate>Thu, 20 Aug 2026 18:44:47 GMT</pubDate>
-            <description><![CDATA[The Dollar Index has spent Thursday building a floor just above 98.50 and defending it with everything the calendar had to offer, and the entire effort is worth roughly a tenth of a point.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DollarIndex.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah: Softer Dollar offers limited relief – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-softer-dollar-offers-limited-relief-ocbc-202608201843</link>
-            <guid isPermaLink="false">16eaf266-9610-4044-86f9-8d1171e14c1c</guid>
-            <pubDate>Thu, 20 Aug 2026 18:43:19 GMT</pubDate>
-            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) should find some relief from a softer Dollar and lower long-end US yields, with BI keeping its policy rate at 5.75% and focusing on currency stability.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-flag-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Upside risk stays in focus against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608201833</link>
-            <guid isPermaLink="false">946dee5d-b0d3-45e5-9e52-3f991b5c457a</guid>
-            <pubDate>Thu, 20 Aug 2026 18:33:36 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s Quek Ser Leang and Lee Sue Ann note that USD/SGD extended its overnight slide as the US Dollar (USD) sell-off pushed the pair back toward the 1.27 area.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-100-day-sma-as-rally-extends-202608201812</link>
-            <guid isPermaLink="false">25d387f0-858f-4452-adb7-9cbc3cc67db1</guid>
-            <pubDate>Thu, 20 Aug 2026 18:12:21 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground following the US Treasury bond buyback announcement. The XAG/USD pair trades at $68.18 at the time of writing, its highest level since June 18.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
