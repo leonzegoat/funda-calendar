@@ -4,15 +4,31 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 18:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 19:00:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/malaysian-ringgit-supported-by-strong-fundamentals-against-us-dollar-ocbc-202608211853</link>
+            <guid isPermaLink="false">fe0e524b-02ca-4469-be06-95a1c6083d72</guid>
+            <pubDate>Fri, 21 Aug 2026 18:53:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong stress that the Malaysian Ringgit (MYR) remains relatively well supported by a softer US Dollar (USD) and robust domestic fundamentals.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/MYR2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore: inflation and production outlook – DBS]]></title>
+            <link>https://www.fxstreet.com/news/singapore-inflation-and-production-outlook-dbs-202608211824</link>
+            <guid isPermaLink="false">a0cf313f-2bbb-4791-bb89-31ab58db2120</guid>
+            <pubDate>Fri, 21 Aug 2026 18:24:00 GMT</pubDate>
+            <description><![CDATA[DBS economists Taimur Baig and Radhika Rao project Singapore’s headline and core inflation will rise in July to 2.4% and 2.3% year-on-year, respectively, driven by higher energy and food costs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Silver Price Forecast: XAG bulls test $70 as rally extends]]></title>
             <link>https://www.fxstreet.com/news/silver-price-forecast-xag-bulls-test-70-as-rally-extends-202608211805</link>
             <guid isPermaLink="false">a48afe41-9d9b-4df0-8bda-5f00523d226e</guid>
             <pubDate>Fri, 21 Aug 2026 18:05:45 GMT</pubDate>
-            <description><![CDATA[Silver prices rally for the third straight day, up more than 2% and, for the week, gains over 7.40%, as a firm US Dollar is not an excuse for precious metals buyers, who are choosing flight-to-quality over haven demand due to the difficult US fiscal stance.]]></description>
+            <description><![CDATA[Silver (XAG/USD) prices rally for the third straight day on Friday, up more than 2% and, for the week, gains over 7.40%, as a firm US Dollar (USD) is not an excuse for precious metals buyers, who are choosing flight-to-quality over haven demand due to the difficult US fiscal stance.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 13:50:36 GMT</pubDate>
             <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek note that Gold and broader precious metals are trading in a higher range that could trigger another round of CTA (Commodity Trading Advisors) buying.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Mixed data but Sterling supported – BBH]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-mixed-data-but-sterling-supported-bbh-202608211335</link>
-            <guid isPermaLink="false">ec0f96f9-08d1-4fd0-9688-7793948f905f</guid>
-            <pubDate>Fri, 21 Aug 2026 13:35:03 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad says GBP/USD is firmer on broad US Dollar (USD) weakness despite mixed United Kingdom (UK) data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiabank-202608211325</link>
-            <guid isPermaLink="false">2b5d8fa1-bb70-4f85-a399-95e393926e18</guid>
-            <pubDate>Fri, 21 Aug 2026 13:25:35 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) continues to show strength against the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
