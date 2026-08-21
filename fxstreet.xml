@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 10:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 11:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US Dollar broadly consolidates as analysts cast doubts over long-term impact of US Treasury buyback]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-broadly-consolidates-as-analysts-cast-doubts-over-long-term-impact-of-us-treasury-buyback-202608211043</link>
+            <guid isPermaLink="false">77b7e2e5-5be2-484a-8a9c-3da1ef08e16b</guid>
+            <pubDate>Fri, 21 Aug 2026 10:43:23 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) is broadly consolidating near the 99.00 level as investors process the US Treasury's expanded long-end bond buyback and a modest rebound in Treasury yields.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-181.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar climbs to highest since June as US Dollar weakens]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-climbs-to-highest-since-june-as-us-dollar-weakens-202608211020</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 07:44:41 GMT</pubDate>
             <description><![CDATA[EUR/CAD extends its losses for the second successive day, trading around 1.6100 during the European hours on Friday. The currency cross depreciates as the Euro (EUR) holds losses following the release of HCOB Purchasing Managers’ Index (PMI) data from Germany.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: September BoJ risk builds – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-september-boj-risk-builds-commerzbank-202608210741</link>
-            <guid isPermaLink="false">59ef26af-1da1-4299-bb83-78b0f65a01ed</guid>
-            <pubDate>Fri, 21 Aug 2026 07:41:01 GMT</pubDate>
-            <description><![CDATA[Volkmar Baur at Commerzbank argues that July inflation and strong Purchasing Managers' Index (PMI) data in Japan suggest price dynamics would not block a Bank of Japan (BoJ) rate hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
