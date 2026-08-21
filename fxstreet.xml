@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 04:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 05:38:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[52.9: India's HSBC Manufacturing PMI falls in August]]></title>
+            <link>https://www.fxstreet.com/news/529-indias-hsbc-manufacturing-pmi-falls-in-august-202608210503</link>
+            <guid isPermaLink="false">fd49898e-2467-4266-a76d-37f8f5c01cdb</guid>
+            <pubDate>Fri, 21 Aug 2026 05:03:15 GMT</pubDate>
+            <description><![CDATA[The preliminary reading of India’s HSBC Manufacturing Purchasing Managers Index (PMI) declined to 52.9 in August versus 53.5 prior, the latest data published by S&P Global and HSBC Bank showed on Friday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah advances despite record Current Account Deficit]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-advances-despite-record-current-account-deficit-202608210500</link>
+            <guid isPermaLink="false">ea0e0ae3-8adc-4f88-a35c-c7fc8827270f</guid>
+            <pubDate>Fri, 21 Aug 2026 05:00:25 GMT</pubDate>
+            <description><![CDATA[USD/IDR extends its losses for the third successive day, trading around 17,760 during the Asian hours on Friday. The currency pair continues to depreciate as the Indonesian Rupiah (IDR) maintains its strength, defying a sharp widening of Indonesia’s current account deficit.]]></description>
+            <enclosure url="https://editorial.fxstreet.com/images/i/BullishRocket.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA]]></title>
             <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11350-as-bullish-momentum-persists-above-100-day-sma-202608210446</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 21:39:43 GMT</pubDate>
             <description><![CDATA[The New Zealand Dollar (NZD) is holding near the top of its recent range against the US Dollar (USD), sitting in the mid-0.5900s at the time of writing after touching its best level since early June.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen slips as firmer yields lift US Dollar ahead of global PMIs]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-slips-as-firmer-yields-lift-us-dollar-ahead-of-global-pmis-202608202118</link>
-            <guid isPermaLink="false">d32a2f78-37fe-422a-8bfb-a1bcfb2b364a</guid>
-            <pubDate>Thu, 20 Aug 2026 21:18:26 GMT</pubDate>
-            <description><![CDATA[USD/JPY trades north of the 159.00 barrier at the time of writing on Thursday, higher on the day and clawing back most of the previous session's losses. The move owes more to a steadier US Dollar (USD) than to anything out of Japan, with the Greenback recovering after slipping to a three-month low.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso holds firm as Banxico minutes support the Peso]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-holds-firm-as-banxico-minutes-supports-the-peso-202608202014</link>
-            <guid isPermaLink="false">052f18ff-d28d-4f79-8dd0-a10af28f7e0b</guid>
-            <pubDate>Thu, 20 Aug 2026 20:14:02 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso (MXN) holds firm versus the US Dollar (USD) on Thursday as the Bank of Mexico (Banxico) adopted a cautious stance regarding monetary policy, while jobs data in the US showed that the labor market is stable.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-scale-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
