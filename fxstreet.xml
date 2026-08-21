@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 08:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 08:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro steadies against British Pound as strong PMIs offer support on both sides]]></title>
+            <link>https://www.fxstreet.com/news/euro-steadies-against-british-pound-as-strong-pmis-offer-support-on-both-sides-202608210857</link>
+            <guid isPermaLink="false">0ba8585c-149e-4e6d-b5eb-93115b2c3478</guid>
+            <pubDate>Fri, 21 Aug 2026 08:57:11 GMT</pubDate>
+            <description><![CDATA[EUR/GBP trades around 0.8570 on Friday at the time of writing, virtually unchanged on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen sticks to gains amid hawkish BoJ bets as USD stays weak on Fed expectations]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-sticks-to-gains-amid-hawkish-boj-bets-as-usd-stays-weak-on-fed-expectations-202608210851</link>
+            <guid isPermaLink="false">6811d8be-0c7c-4c48-b7c7-dd80be9a4e83</guid>
+            <pubDate>Fri, 21 Aug 2026 08:51:32 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair struggles to capitalize on the previous day's recovery from the 158.00 mark, or a one-and-a-half-week low, and meets with fresh supply on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal Reserve: Backstop doubts and high intervention bar – BNY]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-backstop-doubts-and-high-intervention-bar-bny-202608210851</link>
+            <guid isPermaLink="false">b8557c68-a432-4830-8d24-ffc2e94e0c24</guid>
+            <pubDate>Fri, 21 Aug 2026 08:51:21 GMT</pubDate>
+            <description><![CDATA[BNY’s David Tam stresses that while the Federal Reserve retains legal capacity to support corporate credit, the current Warsh Fed is unlikely to repeat Covid‑era interventions.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-76.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Polish Zloty: Inflation re-acceleration weighs on PLN – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/polish-zloty-inflation-re-acceleration-weighs-on-pln-commerzbank-202608210840</link>
+            <guid isPermaLink="false">6d2fd480-2e02-4586-9c53-99d3f1f52501</guid>
+            <pubDate>Fri, 21 Aug 2026 08:40:12 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Tatha Ghose highlights growing challenges for Polish policymakers, citing stretched fiscal plans and accelerating underlying inflation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom flash Services PMI expands faster to 52.8 in August, beats 51.8 estimates]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-flash-services-pmi-expands-faster-to-528-in-august-beats-518-estimates-202608210833</link>
+            <guid isPermaLink="false">87f24c34-efa5-4029-a00d-32cc67c0bca9</guid>
+            <pubDate>Fri, 21 Aug 2026 08:33:07 GMT</pubDate>
+            <description><![CDATA[The United Kingdom (UK) S&P Global Composite Purchasing Managers' Index (PMI) expanded surprisingly at a faster pace to 52.5 in August due to robust service sector activity. The Composite PMI was expected to arrive lower at 51.6 from 52.2 in July. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Range-bound with mild upside against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-range-bound-with-mild-upside-against-us-dollar-uob-202608210828</link>
+            <guid isPermaLink="false">2f445d4d-bbb3-494c-adb8-c1609948e04e</guid>
+            <pubDate>Fri, 21 Aug 2026 08:28:05 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang notes USD/JPY at 159.00 rebounded sharply from 158.00, but now looks set to trade between 158.50 and 159.35 intraday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro holds near three-month highs as Eurozone Flash PMIs beat expectations]]></title>
+            <link>https://www.fxstreet.com/news/euro-holds-near-three-month-highs-as-eurozone-flash-pmis-beat-expectations-202608210823</link>
+            <guid isPermaLink="false">c1db857c-aa84-41b3-a1dc-0cca0d33c27e</guid>
+            <pubDate>Fri, 21 Aug 2026 08:23:27 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) is trading a few pips below 1.1700 against a depressed US Dollar (USD) on Friday, on track for a more than 1% weekly rally, and with the three-month high of 1.1710 at a short distance.]]></description>
+            <enclosure url="https://editorial.fxstreet.com/images/i/BullishRocket.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar: Extreme shorts face a high bar for further losses – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-extreme-shorts-face-a-high-bar-for-further-losses-mufg-202608210819</link>
+            <guid isPermaLink="false">f6353ed4-d09e-40cb-ae9d-ddb16865c6b9</guid>
+            <pubDate>Fri, 21 Aug 2026 08:19:37 GMT</pubDate>
+            <description><![CDATA[MUFG’s Derek Halpenny sees a tension between aggressive Reserve Bank of New Zealand (RBNZ) tightening expectations and increasingly stretched short positioning in the New Zealand Dollar (NZD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-nzd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Canadian Dollar stands firm near three-month high vs weak USD ahead of data]]></title>
             <link>https://www.fxstreet.com/news/canadian-dollar-stands-firm-near-three-month-high-vs-weak-usd-ahead-of-data-202608210802</link>
@@ -20,7 +84,7 @@
             <link>https://www.fxstreet.com/news/eurozone-flash-manufacturing-pmi-rises-unexpectedly-faster-than-estimates-to-528-in-august-202608210802</link>
             <guid isPermaLink="false">53d70f3a-f7f2-48dc-8800-bbd50fc7dd9c</guid>
             <pubDate>Fri, 21 Aug 2026 08:02:18 GMT</pubDate>
-            <description><![CDATA[Preliminary HCOB Manufacturing Purchasing Managers’ Index (PMI) in the Eurozone expands at a surprisingly faster pace to 52.8 in August from 51.9 in July. Manufacturing activity was anticipated to expand but at a moderate pace to 51.8.]]></description>
+            <description><![CDATA[Preliminary HCOB Manufacturing Purchasing Managers’ Index (PMI) in the Eurozone expands surprisingly at a faster pace to 52.8 in August from 51.9 in July. Manufacturing activity was anticipated to expand at a moderate pace to 51.8. ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -182,70 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 06:28:37 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Volkmar Baur notes the US Dollar remains under pressure as EUR/USD trades around 1.17 following the US Treasury’s expansion of its Liquidity Support Buyback Operations.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asian stocks gain despite easing pressure on global bond yields]]></title>
-            <link>https://www.fxstreet.com/news/asian-stocks-gain-despite-easing-pressure-on-global-bond-yields-202608210614</link>
-            <guid isPermaLink="false">0a128572-7453-44ae-8459-89eb1323012d</guid>
-            <pubDate>Fri, 21 Aug 2026 06:14:35 GMT</pubDate>
-            <description><![CDATA[Asian share indices hold gains on Friday, though they remain on track for weekly losses as pressure on global bond yields eases. US Treasury yields resumed their upward trajectory following a brief reprieve triggered by Wednesday’s unexpected Treasury intervention.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Further upside toward 1.1725 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/euro-further-upside-toward-11725-against-us-dollar-uob-202608210610</link>
-            <guid isPermaLink="false">730c6484-1b1e-41b5-bcd2-d540e093f6a8</guid>
-            <pubDate>Fri, 21 Aug 2026 06:10:57 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang highlights EUR/USD at 1.1685 holding recent gains, with intraday trading likely between 1.1655 and 1.1715.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom Retail Sales decline 0.5% MoM in July, as expected ]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-retail-sales-decline-05-mom-in-july-as-expected-202608210601</link>
-            <guid isPermaLink="false">665f5311-85f4-4c91-9f74-e73f6a11785e</guid>
-            <pubDate>Fri, 21 Aug 2026 06:01:56 GMT</pubDate>
-            <description><![CDATA[Retail Sales, a key measure of consumer spending, in the United Kingdom (UK) declined 0.5% month-over-month (MoM) in July after rising by 0.7% in June (revised from 1.0%), the latest data published by the Office for National Statistics (ONS) showed on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Retail-sales-5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI steadies near $86.00 as Iran sanctions threat offsets US inventory build]]></title>
-            <link>https://www.fxstreet.com/news/wti-steadies-near-8600-as-iran-sanctions-threat-offsets-us-inventory-build-202608210556</link>
-            <guid isPermaLink="false">f734050a-4966-4185-8c2a-085db7fca630</guid>
-            <pubDate>Fri, 21 Aug 2026 05:56:28 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $86.00 during the early Asian trading hours on Tuesday. WTI steadies near one-month highs as traders continue to digest the Middle East developments. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[52.9: India's HSBC Manufacturing PMI falls in August]]></title>
-            <link>https://www.fxstreet.com/news/529-indias-hsbc-manufacturing-pmi-falls-in-august-202608210503</link>
-            <guid isPermaLink="false">fd49898e-2467-4266-a76d-37f8f5c01cdb</guid>
-            <pubDate>Fri, 21 Aug 2026 05:03:15 GMT</pubDate>
-            <description><![CDATA[The preliminary reading of India’s HSBC Manufacturing Purchasing Managers Index (PMI) declined to 52.9 in August versus 53.5 prior, the latest data published by S&P Global and HSBC Bank showed on Friday. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah advances despite record Current Account Deficit]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-advances-despite-record-current-account-deficit-202608210500</link>
-            <guid isPermaLink="false">ea0e0ae3-8adc-4f88-a35c-c7fc8827270f</guid>
-            <pubDate>Fri, 21 Aug 2026 05:00:25 GMT</pubDate>
-            <description><![CDATA[USD/IDR extends its losses for the third successive day, trading around 17,760 during the Asian hours on Friday. The currency pair continues to depreciate as the Indonesian Rupiah (IDR) maintains its strength, defying a sharp widening of Indonesia’s current account deficit.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/BullishRocket.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11350-as-bullish-momentum-persists-above-100-day-sma-202608210446</link>
-            <guid isPermaLink="false">a48ad5f2-9759-42d1-a29e-7c3f08e7ff65</guid>
-            <pubDate>Fri, 21 Aug 2026 04:46:44 GMT</pubDate>
-            <description><![CDATA[The AUD/JPY cross trades in positive territory near 113.55 during the early European session on Friday. The Australian Dollar (AUD) strengthens against the Japanese Yen (JPY) despite the cooling labor market. The minutes of the Reserve Bank of Australia (RBA) meetings will be released next Tuesday. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs]]></title>
-            <link>https://www.fxstreet.com/news/euro-sits-near-multi-month-top-vs-weak-usd-as-bulls-await-move-beyond-11700-ahead-of-pmis-202608210439</link>
-            <guid isPermaLink="false">4f6c066d-c2e9-426f-8767-003882bc20c4</guid>
-            <pubDate>Fri, 21 Aug 2026 04:39:29 GMT</pubDate>
-            <description><![CDATA[The EUR/USD pair attracts some dip-buyers during the Asian session on Friday and climbs back closer to its highest level since May 14, set the previous day, with bulls now awaiting a move beyond the 1.1700 mark before placing fresh bets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bullish-animal.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
