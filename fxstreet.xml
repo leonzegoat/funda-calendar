@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 14:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 15:38:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[$4,600: Gold rallies to three-month high, eyes third weekly gain]]></title>
+            <link>https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106</link>
+            <guid isPermaLink="false">92635d83-47dd-4338-aeb8-e918e33c348e</guid>
+            <pubDate>Fri, 21 Aug 2026 11:06:55 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) is heading for a third consecutive weekly gain on Friday, extending an impressive rally that has lifted the precious metal by around 13% so far this month. At the time of writing, XAU/USD trades around $4,603, its highest level since May 15.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Bulls eye 0.7200 as RSI nears overbought territory]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-as-rsi-nears-overbought-territory-202608211526</link>
+            <guid isPermaLink="false">dff7c302-300f-427f-80df-ac8e7cd89b97</guid>
+            <pubDate>Fri, 21 Aug 2026 15:26:03 GMT</pubDate>
+            <description><![CDATA[AUD/USD edges higher on Friday, climbing to its highest level since June 3 as the Australian Dollar (AUD) outperforms all its major peers.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro area: Manufacturing strengthens as services stall – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/euro-area-manufacturing-strengthens-as-services-stall-commerzbank-202608211501</link>
+            <guid isPermaLink="false">432fea05-0452-4e01-972c-f055e99be782</guid>
+            <pubDate>Fri, 21 Aug 2026 15:01:58 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Senior Economist Dr. Vincent Stamer notes that Euro area business sentiment has stabilized at a moderate level, with the composite PMI edging up from 52.0 to 52.1 in August, slightly above consensus.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[United Kingdom: Services-led growth and price risks – Nomura]]></title>
             <link>https://www.fxstreet.com/news/united-kingdom-services-led-growth-and-price-risks-nomura-202608211451</link>
@@ -46,14 +70,6 @@
             <pubDate>Fri, 21 Aug 2026 14:23:31 GMT</pubDate>
             <description><![CDATA[USD/JPY trades around 158.85 on Friday at the time of writing, edging lower after rebounding from the 158.00 level on Thursday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[$4,600: Gold rallies to three-month high, eyes third weekly gain]]></title>
-            <link>https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106</link>
-            <guid isPermaLink="false">92635d83-47dd-4338-aeb8-e918e33c348e</guid>
-            <pubDate>Fri, 21 Aug 2026 11:06:55 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) consolidates its intraday advance during American trading hours on Friday after briefly climbing above $4,600 earlier in the day, its highest level since May 15. At the time of writing, XAU/USD trades around $4,588, heading for a third consecutive weekly gain.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[European gas: Storage gap supports high prices – Commerzbank]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 05:51:50 GMT</pubDate>
             <description><![CDATA[The Indian Rupee (INR) ticks lower against the US Dollar (USD) on Friday. The USD/INR edges up to near 95.72 as elevated oil prices have outweighed a weak US Dollar.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar rallies above 0.7150 as the US Dollar bleeds amid bond buybacks]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rallies-above-07150-as-the-us-dollar-bleeds-amid-bond-buybacks-202608211124</link>
-            <guid isPermaLink="false">ab330f21-705b-4094-9e37-6ab1fdbd5b07</guid>
-            <pubDate>Fri, 21 Aug 2026 11:24:05 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) accelerated its rally against the US Dollar (USD) on Friday, hitting session highs above 0.7150 for the first time since early June and drawing closer to a three-month top, in the 0.7200 area.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Experts agree: Weak Dollar backs near-term upside in EUR/USD]]></title>
-            <link>https://www.fxstreet.com/news/experts-agree-weak-dollar-backs-near-term-upside-in-eur-usd-202608211118</link>
-            <guid isPermaLink="false">f8931f4e-a3c3-4c20-86db-6e6e502aa5bc</guid>
-            <pubDate>Fri, 21 Aug 2026 11:18:57 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) trades 0.21% higher at around 1.1710 against the US Dollar (USD) during the European trading session on Friday, the highest level seen in over three months.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
