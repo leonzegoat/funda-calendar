@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 13:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 14:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen: Soft Dollar and BoJ outlook shift near-term tone – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-soft-dollar-and-boj-outlook-shift-near-term-tone-scotiabank-202608211359</link>
+            <guid isPermaLink="false">c50edac0-1c0b-4585-873e-70a419149fe7</guid>
+            <pubDate>Fri, 21 Aug 2026 13:59:56 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret point out that Japan’s July Consumer Price Index (CPI) and stronger August Purchasing Managers' Index (PMI) data support expectations for Bank of Japan (BoJ) tightening, with about 20 bps of hikes priced in swaps.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: S&P Global Composite PMI is seen at 56 in August]]></title>
+            <link>https://www.fxstreet.com/news/sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-202608210945</link>
+            <guid isPermaLink="false">2d96b5e3-3ec2-4e0d-a4cb-ebcec7c0382e</guid>
+            <pubDate>Fri, 21 Aug 2026 09:45:00 GMT</pubDate>
+            <description><![CDATA[US business activity is predicted to have gained momentum in August, according to the flash reading of S&P Global’s Composite PMI, which ticked up to 56 from 54.5 in July.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold: Upside asymmetry into next week – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/gold-upside-asymmetry-into-next-week-td-securities-202608211350</link>
+            <guid isPermaLink="false">7130685a-1768-428e-97b4-b312ba95bba8</guid>
+            <pubDate>Fri, 21 Aug 2026 13:50:36 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek note that Gold and broader precious metals are trading in a higher range that could trigger another round of CTA (Commodity Trading Advisors) buying.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Mixed data but Sterling supported – BBH]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-mixed-data-but-sterling-supported-bbh-202608211335</link>
+            <guid isPermaLink="false">ec0f96f9-08d1-4fd0-9688-7793948f905f</guid>
+            <pubDate>Fri, 21 Aug 2026 13:35:03 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad says GBP/USD is firmer on broad US Dollar (USD) weakness despite mixed United Kingdom (UK) data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank]]></title>
             <link>https://www.fxstreet.com/news/canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiabank-202608211325</link>
@@ -30,14 +62,6 @@
             <pubDate>Fri, 21 Aug 2026 13:08:25 GMT</pubDate>
             <description><![CDATA[Nomura’s European Economics team notes that Euro area August Purchasing Managers' Index (PMI) showed resilient growth, led by a strong manufacturing rebound, while price pressures eased.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S&P Global PMIs expected to show continued strength in the US economy]]></title>
-            <link>https://www.fxstreet.com/news/sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-202608210945</link>
-            <guid isPermaLink="false">2d96b5e3-3ec2-4e0d-a4cb-ebcec7c0382e</guid>
-            <pubDate>Fri, 21 Aug 2026 09:45:00 GMT</pubDate>
-            <description><![CDATA[S&P Global will release the preliminary figures of August’s United States Purchasing Managers' Indices (PMIs), a report collecting top private sector executives' opinions about business conditions, to provide an early indication of momentum in the world’s largest economy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_PMI-5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Canadian Dollar heads for fourth weekly gain on weaker US Dollar, elevated Oil prices]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 09:32:16 GMT</pubDate>
             <description><![CDATA[The British Pound (GBP) rallied to fresh six-month highs against the US Dollar (USD) on Friday, boosted by stronger-than-expected UK business activity data, while the US Dollar remains depressed following the US Treasury’s plan to boost bond buybacks.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608210930</link>
-            <guid isPermaLink="false">20b46b48-096f-4fdc-9497-a4dd1ac19bc1</guid>
-            <pubDate>Fri, 21 Aug 2026 09:30:09 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $69.94 per troy ounce, up 2.67% from the $68.12 it cost on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swedish Krona: Riksbank keeps tightening option open – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-tightening-option-open-commerzbank-202608210923</link>
-            <guid isPermaLink="false">617958fb-00fa-4d4d-b9d0-cbeb73611b9f</guid>
-            <pubDate>Fri, 21 Aug 2026 09:23:02 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Antje Praefcke reports that the Riksbank left its policy rate at 1.75% and maintained a restrictive stance, still seeing a hike later this year as likely.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ECB’s Kazāks: Central bank is well placed to act if needed to get inflation to 2%]]></title>
-            <link>https://www.fxstreet.com/news/ecbs-kazaks-central-bank-is-well-placed-to-act-if-needed-to-get-inflation-to-2-202608210916</link>
-            <guid isPermaLink="false">5f4392a0-e6b8-4ac6-bb82-17805fd43918</guid>
-            <pubDate>Fri, 21 Aug 2026 09:16:08 GMT</pubDate>
-            <description><![CDATA[European Central Bank (ECB) Governing Council member Mārtiņš Kazāks said during the European trading session on Friday that the central bank won’t hesitate to act if needed to bring Eurozone inflationary pressures down to the 2% target.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
