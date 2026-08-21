@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 16:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 16:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iran’s President Pezeshkian urges end to war as US pressure looms – Bloomberg]]></title>
+            <link>https://www.fxstreet.com/news/irans-president-pezeshkian-urges-wars-end-as-us-pressure-looms-bbg-202608211641</link>
+            <guid isPermaLink="false">6e3348d9-3555-4ea3-bfad-c8db506d0432</guid>
+            <pubDate>Fri, 21 Aug 2026 16:41:17 GMT</pubDate>
+            <description><![CDATA[Iranian President Masoud Pezeshkian stated that “It would be better to end the war today, when we have power and dignity, and with the whole world acknowledging our victory,” according to a Bloomberg report on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of Canada: Tariff deal unlikely to accelerate hikes – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-canada-tariff-deal-unlikely-to-accelerate-hikes-td-securities-202608211638</link>
+            <guid isPermaLink="false">731a19c5-0d2a-4584-a81e-26c6f581346a</guid>
+            <pubDate>Fri, 21 Aug 2026 16:38:00 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Robert Both expects the Bank of Canada to remain cautious even if a tariff agreement is reached. The Bank wants more data on how lower tariffs affect exports and output, with key trade figures not available until November.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/BoC-rate-decision.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro treads water vs Yen as Japanese inflation, European PMIs offset each other]]></title>
+            <link>https://www.fxstreet.com/news/euro-treads-water-vs-yen-as-japanese-inflation-european-pmis-offset-each-other-202608211619</link>
+            <guid isPermaLink="false">5de7ba98-9213-42ac-bbfe-348028ea7485</guid>
+            <pubDate>Fri, 21 Aug 2026 16:19:49 GMT</pubDate>
+            <description><![CDATA[EUR/JPY trades around 185.70 on Friday at the time of writing, virtually unchanged on the day. The Japanese Yen (JPY) gains some support from firmer Japanese inflation data, but the move is offset by resilience in the Euro (EUR) following better-than-expected activity indicators in the Eurozone.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Dow Jones Industrial Average buys its own bond problem]]></title>
+            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-buys-its-own-bond-problem-202608211617</link>
+            <guid isPermaLink="false">3f52f02b-55a7-49e3-903b-887472e18428</guid>
+            <pubDate>Fri, 21 Aug 2026 16:17:45 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average trades roughly 430 points higher at just above 53,200, taking back the larger part of a Thursday decline that ran close to 690 points.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[European Central Bank: Structural LTROs could ease funding pressure - Rabobank]]></title>
             <link>https://www.fxstreet.com/news/european-central-bank-structural-ltros-could-ease-funding-pressure-rabobank-202608211551</link>
@@ -16,11 +48,11 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_3.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[British Pound eases as UK sales drop, US services beat]]></title>
+            <title><![CDATA[British Pound eases as UK sales drop, US services beat forecasts]]></title>
             <link>https://www.fxstreet.com/news/british-pound-eases-as-uk-sales-drop-us-services-beat-202608211548</link>
             <guid isPermaLink="false">15c4e9cf-0fad-42b8-a083-b69bf96efc90</guid>
             <pubDate>Fri, 21 Aug 2026 15:48:13 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling loses some ground against the US Dollar, though it remains poised to end the week with gains of over 0.60%, even as UK Retail Sales disappointed investors and US business activity improved in August. The GBP/USD trades at 1.3626, down some 0.02%.]]></description>
+            <description><![CDATA[The Pound Sterling (GBP) loses some ground against the US Dollar (USD) on Friday, though it remains poised to end the week with gains of over 0.60%, even as UK Retail Sales disappointed investors and US business activity improved in August.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 12:14:30 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Carsten Fritsch notes Gold has surged, breaking above USD 4,500 per troy ounce as safe‑haven demand rises on US debt concerns and a weaker Dollar.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP Price Forecast: Neutral RSI signals further consolidation]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-price-forecast-neutral-rsi-signals-further-consolidation-202608211203</link>
-            <guid isPermaLink="false">de9d3bbf-262b-4581-981c-440bff10cd2c</guid>
-            <pubDate>Fri, 21 Aug 2026 12:03:38 GMT</pubDate>
-            <description><![CDATA[EUR/GBP remains stuck in a narrow trading range this month, stalling the rebound from near 0.8460 in mid-July as buyers struggle to clear the 50-day Simple Moving Average (SMA).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound dips hold above 216.50 Japanese Yen following mixed UK data]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-dips-hold-above-21650-japanese-yen-following-mixed-uk-data-202608211157</link>
-            <guid isPermaLink="false">2008df41-c78c-4b8b-a85a-9f97fead6fcc</guid>
-            <pubDate>Fri, 21 Aug 2026 11:57:56 GMT</pubDate>
-            <description><![CDATA[British Pound's (GBP) rally against the Japanese Yen (JPY) was capped at the 217.00 area earlier on Friday, and the pair pulled back to the 216.50 area where it found some support.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bullish-glasses.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Binary tariff risks shape near-term path – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-binary-tariff-risks-shape-near-term-path-td-securities-202608211151</link>
-            <guid isPermaLink="false">5948e67b-e9b6-423c-95b8-dda6e86b04ae</guid>
-            <pubDate>Fri, 21 Aug 2026 11:51:54 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists argue that Section 338 tariff negotiations pose a binary risk for the Canadian Dollar (CAD) and USD/CAD.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver climbs toward $70 as US Dollar remains under pressure]]></title>
-            <link>https://www.fxstreet.com/news/silver-climbs-toward-70-as-us-dollar-remains-under-pressure-202608211141</link>
-            <guid isPermaLink="false">94a056f3-0ecc-4071-b846-a01eed60782c</guid>
-            <pubDate>Fri, 21 Aug 2026 11:41:17 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) accelerates its advance on Friday and trades around $69.75 at the time of writing, up 2.41% on the day. The white metal reaches its highest level in two months and is on track for a weekly gain of more than 7%, mainly supported by persistent weakness in the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
