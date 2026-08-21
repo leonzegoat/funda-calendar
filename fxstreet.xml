@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 05:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 06:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Asian stocks gain despite easing pressure on global bond yields]]></title>
+            <link>https://www.fxstreet.com/news/asian-stocks-gain-despite-easing-pressure-on-global-bond-yields-202608210614</link>
+            <guid isPermaLink="false">0a128572-7453-44ae-8459-89eb1323012d</guid>
+            <pubDate>Fri, 21 Aug 2026 06:14:35 GMT</pubDate>
+            <description><![CDATA[Asian share indices hold gains on Friday, though they remain on track for weekly losses as pressure on global bond yields eases. US Treasury yields resumed their upward trajectory following a brief reprieve triggered by Wednesday’s unexpected Treasury intervention.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Further upside toward 1.1725 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/euro-further-upside-toward-11725-against-us-dollar-uob-202608210610</link>
+            <guid isPermaLink="false">730c6484-1b1e-41b5-bcd2-d540e093f6a8</guid>
+            <pubDate>Fri, 21 Aug 2026 06:10:57 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang highlights EUR/USD at 1.1685 holding recent gains, with intraday trading likely between 1.1655 and 1.1715.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom Retail Sales decline 0.5% MoM in July, as expected ]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-retail-sales-decline-05-mom-in-july-as-expected-202608210601</link>
+            <guid isPermaLink="false">665f5311-85f4-4c91-9f74-e73f6a11785e</guid>
+            <pubDate>Fri, 21 Aug 2026 06:01:56 GMT</pubDate>
+            <description><![CDATA[Retail Sales, a key measure of consumer spending, in the United Kingdom (UK) declined 0.5% month-over-month (MoM) in July after rising by 0.7% in June (revised from 1.0%), the latest data published by the Office for National Statistics (ONS) showed on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Retail-sales-5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold hits fresh high since June, above $4,550 as receding Fed hike bets undermine USD]]></title>
+            <link>https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407</link>
+            <guid isPermaLink="false">b1b3700e-3036-4d9f-9b4e-a47add4399e7</guid>
+            <pubDate>Fri, 21 Aug 2026 04:07:20 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) sticks to modest gains near its highest level since early June, touched earlier this Friday, and trades just above $4,550 heading into the European session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI steadies near $86.00 as Iran sanctions threat offsets US inventory build]]></title>
+            <link>https://www.fxstreet.com/news/wti-steadies-near-8600-as-iran-sanctions-threat-offsets-us-inventory-build-202608210556</link>
+            <guid isPermaLink="false">f734050a-4966-4185-8c2a-085db7fca630</guid>
+            <pubDate>Fri, 21 Aug 2026 05:56:28 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $86.00 during the early Asian trading hours on Tuesday. WTI steadies near one-month highs as traders continue to digest the Middle East developments. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee ticks lower due to elevated oil prices, recovery in US bond yields]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551</link>
+            <guid isPermaLink="false">54a95092-33c1-45de-9012-40db58ea6417</guid>
+            <pubDate>Fri, 21 Aug 2026 05:51:50 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) edges down against the US Dollar (USD) in the opening session on Friday. The USD/INR ticks up to near 95.72 as elevated oil prices and a sharp recovery in United States (US) Treasury Yields have weighed on the Indian currency.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[52.9: India's HSBC Manufacturing PMI falls in August]]></title>
             <link>https://www.fxstreet.com/news/529-indias-hsbc-manufacturing-pmi-falls-in-august-202608210503</link>
@@ -62,14 +110,6 @@
             <pubDate>Fri, 21 Aug 2026 04:08:49 GMT</pubDate>
             <description><![CDATA[The Japanese Yen (JPY) trades in a limited range at around 159.00 against the US Dollar (USD) during the Asian trading session on Friday. The pair consolidates, while both the JPY and the USD are underperforming against their other currency peers.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets]]></title>
-            <link>https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407</link>
-            <guid isPermaLink="false">b1b3700e-3036-4d9f-9b4e-a47add4399e7</guid>
-            <pubDate>Fri, 21 Aug 2026 04:07:20 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) hits a fresh high since early June, around the $4,544 region, during the Asian session on Friday and looks to build on the momentum above a technically significant 200-day Simple Moving Average (SMA).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Swiss Franc edges up against US Dollar amid heightened US debt concerns]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 23:02:33 GMT</pubDate>
             <description><![CDATA[The preliminary reading of Australia's S&P Global Manufacturing Purchasing Managers Index (PMI) came in at 52.0 in August versus 52.0 prior, the latest data published by S&P Global showed on Friday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Japanese Yen is the reason for its own hike]]></title>
-            <link>https://www.fxstreet.com/news/the-japanese-yen-is-the-reason-for-its-own-hike-202608202246</link>
-            <guid isPermaLink="false">d3bcdcf0-9662-4b0e-8ab5-0ae04681e12f</guid>
-            <pubDate>Thu, 20 Aug 2026 22:46:18 GMT</pubDate>
-            <description><![CDATA[USD/JPY trades near 159.00 late in the session, 0.5% higher on the day and a little over a point clear of a rising 200-day Exponential Moving Average (EMA) near 158.00.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-48.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The British Pound is buying an energy bill, not inflation]]></title>
-            <link>https://www.fxstreet.com/news/the-british-pound-is-buying-an-energy-bill-not-inflation-202608202245</link>
-            <guid isPermaLink="false">6e4f214c-ad92-4ba5-8d0d-b853de9889a3</guid>
-            <pubDate>Thu, 20 Aug 2026 22:45:03 GMT</pubDate>
-            <description><![CDATA[GBP/USD trades just beneath 1.3650 late in the session, 0.2% higher on the day and at its highest level in more than four months.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro fades below 1.1700 as US Dollar rebounds on yields]]></title>
-            <link>https://www.fxstreet.com/news/euro-fades-below-11700-as-us-dollar-rebounds-on-yields-202608202230</link>
-            <guid isPermaLink="false">190874df-8bad-487e-9988-ebf733f2276b</guid>
-            <pubDate>Thu, 20 Aug 2026 22:30:09 GMT</pubDate>
-            <description><![CDATA[The Euro remains steady below 1.1700 after failing to hold gains above it, despite hitting a three-month high. Broad US Dollar strength kept EUR/USD from ending Thursday’s session above the 1.1700 mark, with the pair finishing at around familiar levels, unchanged from Thursday’s opening price.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones Industrial Average repays the Treasury's rally with interest]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-repays-the-treasurys-rally-with-interest-202608202222</link>
-            <guid isPermaLink="false">dc1916c5-f421-4332-bd38-7539e15adba4</guid>
-            <pubDate>Thu, 20 Aug 2026 22:22:54 GMT</pubDate>
-            <description><![CDATA[Wednesday bought the bond market one session of calm and the Dow Jones Industrial Average spent Thursday paying for it with interest.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar holds early June high ]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-holds-early-june-high-202608202139</link>
-            <guid isPermaLink="false">2b5cf691-ce44-4f86-9f5a-44658dbd19cd</guid>
-            <pubDate>Thu, 20 Aug 2026 21:39:43 GMT</pubDate>
-            <description><![CDATA[The New Zealand Dollar (NZD) is holding near the top of its recent range against the US Dollar (USD), sitting in the mid-0.5900s at the time of writing after touching its best level since early June.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
