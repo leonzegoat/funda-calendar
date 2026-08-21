@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 23:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 23:40:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Bulls target YTD high after breakout]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-target-ytd-high-after-breakout-202608212315</link>
+            <guid isPermaLink="false">67e7aa42-a427-40d1-83e8-41981c4a9dfe</guid>
+            <pubDate>Fri, 21 Aug 2026 23:15:29 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar finished the week with gains of over 0.82% on Friday and up more than 1.20% for the week as the US Dollar tumbled following the US Treasury Department's announcement of a bond buyback for the long end of the curve. The AUD/USD trades at 0.7170, after rebounding near 0.7067.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls]]></title>
             <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-reclaim-08000-as-recovery-stalls-202608212302</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 14:49:39 GMT</pubDate>
             <description><![CDATA[The Euro (EUR) is falling against the British Pound (GBP). EUR/GBP held the mid-0.8500s on Friday, hovering just below the 0.8570 area, even after a strong round of August flash Purchasing Managers Indexes (PMIs) on both sides of the cross.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Jackson Hole volatility over credibility – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-jackson-hole-volatility-over-credibility-td-securities-202608211443</link>
-            <guid isPermaLink="false">5cfaa17a-6283-4b12-8dda-acd184c265cf</guid>
-            <pubDate>Fri, 21 Aug 2026 14:43:09 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists argue that Kevin Warsh’s Jackson Hole speech will focus on structural themes such as productivity, AI-driven growth and Federal Reserve (Fed) regime change.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
