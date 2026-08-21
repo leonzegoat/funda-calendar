@@ -4,9 +4,89 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 12:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 13:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiabank-202608211325</link>
+            <guid isPermaLink="false">2b5d8fa1-bb70-4f85-a399-95e393926e18</guid>
+            <pubDate>Fri, 21 Aug 2026 13:25:35 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) continues to show strength against the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[$4,600: Gold rallies to three-month high, eyes third weekly gain]]></title>
+            <link>https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106</link>
+            <guid isPermaLink="false">92635d83-47dd-4338-aeb8-e918e33c348e</guid>
+            <pubDate>Fri, 21 Aug 2026 11:06:55 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) consolidates its intraday advance during American trading hours on Friday after briefly climbing above $4,600 earlier in the day, its highest level since May 15. At the time of writing, XAU/USD trades around $4,580, heading for a third consecutive weekly gain.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro area: PMIs signal resilient growth – Nomura]]></title>
+            <link>https://www.fxstreet.com/news/euro-area-pmis-signal-resilient-growth-nomura-202608211308</link>
+            <guid isPermaLink="false">b85b3629-fd57-486e-a2cc-052f6b016892</guid>
+            <pubDate>Fri, 21 Aug 2026 13:08:25 GMT</pubDate>
+            <description><![CDATA[Nomura’s European Economics team notes that Euro area August Purchasing Managers' Index (PMI) showed resilient growth, led by a strong manufacturing rebound, while price pressures eased.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[S&P Global PMIs expected to show continued strength in the US economy]]></title>
+            <link>https://www.fxstreet.com/news/sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-202608210945</link>
+            <guid isPermaLink="false">2d96b5e3-3ec2-4e0d-a4cb-ebcec7c0382e</guid>
+            <pubDate>Fri, 21 Aug 2026 09:45:00 GMT</pubDate>
+            <description><![CDATA[S&P Global will release the preliminary figures of August’s United States Purchasing Managers' Indices (PMIs), a report collecting top private sector executives' opinions about business conditions, to provide an early indication of momentum in the world’s largest economy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_PMI-5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar heads for fourth weekly gain on weaker US Dollar, elevated Oil prices]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-heads-for-fourth-weekly-gain-on-weaker-us-dollar-elevated-oil-prices-202608211259</link>
+            <guid isPermaLink="false">5aa833bc-b327-4542-aeb9-0020b44d18dc</guid>
+            <pubDate>Fri, 21 Aug 2026 12:59:08 GMT</pubDate>
+            <description><![CDATA[USD/CAD extends its decline on Friday as broad US Dollar (USD) weakness and elevated Oil prices provide a double boost to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3745, while the Loonie is on track for a fourth consecutive weekly gain.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brent: Supply risks keep prices elevated – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/brent-supply-risks-keep-prices-elevated-commerzbank-202608211255</link>
+            <guid isPermaLink="false">2f49bd62-1de0-4e57-988e-69b5ae40b049</guid>
+            <pubDate>Fri, 21 Aug 2026 12:55:18 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Barbara Lambrecht says tensions around the Strait of Hormuz and tight diesel inventories continue to support Brent. With prices near USD 94 and almost 20% above their early-August lows, Brent remains well below its April peak.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI advances as supply tensions overshadow US inventory build]]></title>
+            <link>https://www.fxstreet.com/news/wti-advances-as-supply-tensions-overshadow-us-inventory-build-202608211251</link>
+            <guid isPermaLink="false">135f1b5d-7413-437e-8906-2aaa07e5107e</guid>
+            <pubDate>Fri, 21 Aug 2026 12:51:32 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) US Oil trades around $86.50 on Friday at the time of writing, up 0.63% on the day. US Oil remains close to Thursday’s high of $87.38, its highest level in more than three weeks, as concerns about global energy supplies continue to support prices.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Bearish regime reinforced by bull flattener – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-bearish-regime-reinforced-by-bull-flattener-td-securities-202608211243</link>
+            <guid isPermaLink="false">25cfadfc-887e-454e-a240-b9583e668d22</guid>
+            <pubDate>Fri, 21 Aug 2026 12:43:13 GMT</pubDate>
+            <description><![CDATA[TD Securities strategists argue that the United States (US) Treasury buyback announcement has reinforced bearish momentum for the Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Support test as Japan data firm – BBH]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-support-test-as-japan-data-firm-bbh-202608211232</link>
+            <guid isPermaLink="false">ca599c3f-3624-4b5c-ab66-f7c417e408db</guid>
+            <pubDate>Fri, 21 Aug 2026 12:32:06 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights USD/JPY testing key support at its 200-day moving average as Japanese data firm.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia: Expansionary stance with narrowing buffer – Standard Chartered]]></title>
+            <link>https://www.fxstreet.com/news/indonesia-expansionary-stance-with-narrowing-buffer-standard-chartered-202608211223</link>
+            <guid isPermaLink="false">0df659d7-3eb8-4d84-8441-1ad6918670c8</guid>
+            <pubDate>Fri, 21 Aug 2026 12:23:29 GMT</pubDate>
+            <description><![CDATA[Standard Chartered’s Aldian Taloputra assesses Indonesia’s 2027 fiscal plans, noting a targeted deficit of 2.4% of GDP versus 2.9% in 2026. The bank maintains its own forecast of a 2.9%-of-GDP deficit, citing ambitious revenue assumptions and potential tax shortfalls.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-flag-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gold: Safe-haven bid on US debt worries – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/gold-safe-haven-bid-on-us-debt-worries-commerzbank-202608211214</link>
@@ -88,14 +168,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[$4,600: Gold rallies to three-month high, eyes third weekly gain]]></title>
-            <link>https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106</link>
-            <guid isPermaLink="false">92635d83-47dd-4338-aeb8-e918e33c348e</guid>
-            <pubDate>Fri, 21 Aug 2026 11:06:55 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) is heading for a third consecutive weekly gain on Friday, extending an impressive rally that has lifted the precious metal by around 13% so far this month. At the time of writing, XAU/USD trades near $4,590 after briefly climbing above $4,600, its highest level since May 15.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[US Dollar broadly consolidates as analysts cast doubts over long-term impact of US Treasury buyback]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-broadly-consolidates-as-analysts-cast-doubts-over-long-term-impact-of-us-treasury-buyback-202608211043</link>
             <guid isPermaLink="false">77b7e2e5-5be2-484a-8a9c-3da1ef08e16b</guid>
@@ -136,14 +208,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[S&P Global US PMIs expected to ease slightly in August, still showing solid growth]]></title>
-            <link>https://www.fxstreet.com/news/sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-202608210945</link>
-            <guid isPermaLink="false">2d96b5e3-3ec2-4e0d-a4cb-ebcec7c0382e</guid>
-            <pubDate>Fri, 21 Aug 2026 09:45:00 GMT</pubDate>
-            <description><![CDATA[S&P Global will release the preliminary figures of August’s United States Purchasing Managers' Indices (PMIs), a report collecting top private sector executives' opinions about business conditions, to provide an early indication of momentum in the world’s largest economy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_PMI-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[United States: Yields risk renewed surge – Rabobank]]></title>
             <link>https://www.fxstreet.com/news/united-states-yields-risk-renewed-surge-rabobank-202608210933</link>
             <guid isPermaLink="false">075404a8-6857-48dc-8469-926960775b58</guid>
@@ -182,70 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 09:16:08 GMT</pubDate>
             <description><![CDATA[European Central Bank (ECB) Governing Council member Mārtiņš Kazāks said during the European trading session on Friday that the central bank won’t hesitate to act if needed to bring Eurozone inflationary pressures down to the 2% target.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Weakness offsets intervention impact – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-weakness-offsets-intervention-impact-mufg-202608210912</link>
-            <guid isPermaLink="false">8aa1d233-576a-4a10-95fb-42298f60659c</guid>
-            <pubDate>Fri, 21 Aug 2026 09:12:54 GMT</pubDate>
-            <description><![CDATA[MUFG's Michael Wan notes that US longer-end yields have returned close to pre-buyback levels, with the 10-year at 4.7% and 30-year at 5.24%, weighing on risk assets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Price Forecast: Oil supply tightness supports further upside above $90]]></title>
-            <link>https://www.fxstreet.com/news/wti-price-forecast-oil-supply-tightness-supports-further-upside-above-90-202608210904</link>
-            <guid isPermaLink="false">e327e6b0-d9e9-413a-a5d9-3667ca514758</guid>
-            <pubDate>Fri, 21 Aug 2026 09:04:06 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trade flat near $86.00 during the European trading session on Friday, closer to its over three-week high of $87.38 posted the previous day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Softer bias with pro-risk flows – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-softer-bias-with-pro-risk-flows-ing-202608210901</link>
-            <guid isPermaLink="false">3bc76fcf-3055-4042-af5d-f905cdfc455a</guid>
-            <pubDate>Fri, 21 Aug 2026 09:01:49 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner, Francesco Pesole and Frantisek Taborsky argue that recent US Treasury buy-backs are primarily a signalling tool against high yields, pointing to a softer Dollar in a risk-friendly environment.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold rallies to its highest level since late May, eyes $4,600 on weak USD ahead of US PMIs]]></title>
-            <link>https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407</link>
-            <guid isPermaLink="false">b1b3700e-3036-4d9f-9b4e-a47add4399e7</guid>
-            <pubDate>Fri, 21 Aug 2026 04:07:20 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) builds on the intraday breakout momentum above a technically significant 200-day Simple Moving Average (SMA) and climbs to its highest level since late May during the first half of the European session on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro steadies against British Pound as strong PMIs offer support on both sides]]></title>
-            <link>https://www.fxstreet.com/news/euro-steadies-against-british-pound-as-strong-pmis-offer-support-on-both-sides-202608210857</link>
-            <guid isPermaLink="false">0ba8585c-149e-4e6d-b5eb-93115b2c3478</guid>
-            <pubDate>Fri, 21 Aug 2026 08:57:11 GMT</pubDate>
-            <description><![CDATA[EUR/GBP trades around 0.8570 on Friday at the time of writing, virtually unchanged on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen sticks to gains amid hawkish BoJ bets as USD stays weak on Fed expectations]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-sticks-to-gains-amid-hawkish-boj-bets-as-usd-stays-weak-on-fed-expectations-202608210851</link>
-            <guid isPermaLink="false">6811d8be-0c7c-4c48-b7c7-dd80be9a4e83</guid>
-            <pubDate>Fri, 21 Aug 2026 08:51:32 GMT</pubDate>
-            <description><![CDATA[The USD/JPY pair struggles to capitalize on the previous day's recovery from the 158.00 mark, or a one-and-a-half-week low, and meets with fresh supply on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Backstop doubts and high intervention bar – BNY]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-backstop-doubts-and-high-intervention-bar-bny-202608210851</link>
-            <guid isPermaLink="false">b8557c68-a432-4830-8d24-ffc2e94e0c24</guid>
-            <pubDate>Fri, 21 Aug 2026 08:51:21 GMT</pubDate>
-            <description><![CDATA[BNY’s David Tam stresses that while the Federal Reserve retains legal capacity to support corporate credit, the current Warsh Fed is unlikely to repeat Covid‑era interventions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-76.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Polish Zloty: Inflation re-acceleration weighs on PLN – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/polish-zloty-inflation-re-acceleration-weighs-on-pln-commerzbank-202608210840</link>
-            <guid isPermaLink="false">6d2fd480-2e02-4586-9c53-99d3f1f52501</guid>
-            <pubDate>Fri, 21 Aug 2026 08:40:12 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose highlights growing challenges for Polish policymakers, citing stretched fiscal plans and accelerating underlying inflation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
