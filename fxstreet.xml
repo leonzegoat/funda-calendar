@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 01:58:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 03:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar gains ground above 0.7100 as US debt concerns weigh on US Dollar ]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-gains-ground-above-07100-as-us-debt-concerns-weigh-on-us-dollar-202608210245</link>
+            <guid isPermaLink="false">02fe73b7-bd53-4b70-9e78-03fc73d2dc69</guid>
+            <pubDate>Fri, 21 Aug 2026 02:45:21 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair gains traction to near 0.7135 during the Asian trading hours on Friday. The US Dollar (USD) weakens against the Australian Dollar (AUD) and is set for a weekly loss as traders viewed the US Treasury's bond buyback gambit as merely a temporary fix. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD surges to near $69.00 amid heightened volatility]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-surges-to-near-6900-amid-heightened-volatility-202608210237</link>
+            <guid isPermaLink="false">405e1812-3b83-44c1-93c0-b19dc6849739</guid>
+            <pubDate>Fri, 21 Aug 2026 02:37:37 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) extends its gains for the third successive day, trading around $68.70 per troy ounce during the Asian hours on Friday. Silver prices rise as investors turn to safe-haven metals amid heightened volatility across global currency and bond markets.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index trades around 99.75-99.70, hangs near three-month low]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-trades-around-9975-9970-hangs-near-three-month-low-202608210226</link>
+            <guid isPermaLink="false">156a1dd0-31ef-4f44-92de-0907a55a0805</guid>
+            <pubDate>Fri, 21 Aug 2026 02:26:44 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, attracts fresh sellers during the Asian session on Friday, stalling the previous day's modest bounce from the vicinity of mid-98.00s, or the lowest since May 14.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[British Pound edges higher to near 1.3650, UK Retail Sales data looms]]></title>
             <link>https://www.fxstreet.com/news/british-pound-edges-higher-to-near-13650-uk-retail-sales-data-looms-202608210155</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 20 Aug 2026 17:56:46 GMT</pubDate>
             <description><![CDATA[USD/JPY rebounds on Thursday, recovering most of the previous day’s losses as the US Dollar (USD) stages a modest recovery after falling to a three-month low. At the time of writing, USD/JPY trades around 159.05, up roughly 0.55% on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold pulls back as US yields recover after Treasury buyback]]></title>
-            <link>https://www.fxstreet.com/news/gold-pulls-back-as-us-yields-recover-after-treasury-buyback-202608201736</link>
-            <guid isPermaLink="false">eb45d667-0161-4275-a8e5-52ed436569ea</guid>
-            <pubDate>Thu, 20 Aug 2026 17:36:43 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) price retreats about 0.33% on Thursday as US Treasury yields trim some of their Wednesday losses, weighing on bullion, which is also pressured by the recovery of the US Dollar. The XAU/USD pair trades at $4,509, after hitting a daily high of $4,540.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GoldBullishChart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Banxico minutes signal long rate pause as inflation eases]]></title>
-            <link>https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736</link>
-            <guid isPermaLink="false">861910b8-3c9f-4957-b52a-5ad3cc63ec3b</guid>
-            <pubDate>Thu, 20 Aug 2026 17:36:26 GMT</pubDate>
-            <description><![CDATA[The minutes of the Bank of Mexico (Banxico) August meeting showed that the central bank is expected to hold rates steady for some time, despite the resumption of the disinflation process.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar rises as RBNZ rate hike expectations strengthen]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-rises-as-rbnz-rate-hike-expectations-strengthen-202608201705</link>
-            <guid isPermaLink="false">e24b1e46-3f11-492e-876b-718d0252f69d</guid>
-            <pubDate>Thu, 20 Aug 2026 17:05:03 GMT</pubDate>
-            <description><![CDATA[NZD/USD advances for the second consecutive day on Thursday, trading around 0.5940 at the time of writing, up 0.12% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
