@@ -4,9 +4,105 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 08:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 09:47:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[United Kingdom: Burnham sentiment bounce – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-burnham-sentiment-bounce-deutsche-bank-202608210945</link>
+            <guid isPermaLink="false">b519f61b-d08f-4771-a8b7-63cb249b8490</guid>
+            <pubDate>Fri, 21 Aug 2026 09:45:59 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank strategists highlight a sharp improvement in sentiment towards Prime Minister Burnham and Labour.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[S&P Global US PMIs expected to ease slightly in August, still showing solid growth]]></title>
+            <link>https://www.fxstreet.com/news/sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-202608210945</link>
+            <guid isPermaLink="false">2d96b5e3-3ec2-4e0d-a4cb-ebcec7c0382e</guid>
+            <pubDate>Fri, 21 Aug 2026 09:45:00 GMT</pubDate>
+            <description><![CDATA[S&P Global will release the preliminary figures of August’s United States Purchasing Managers' Indices (PMIs), a report collecting top private sector executives' opinions about business conditions, to provide an early indication of momentum in the world’s largest economy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_PMI-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: Yields risk renewed surge – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/united-states-yields-risk-renewed-surge-rabobank-202608210933</link>
+            <guid isPermaLink="false">075404a8-6857-48dc-8469-926960775b58</guid>
+            <pubDate>Fri, 21 Aug 2026 09:33:19 GMT</pubDate>
+            <description><![CDATA[Rabobank's Senior US Strategist Philip Marey discusses United States (US) Treasuries, noting that the Treasury Department’s surprise move to boost buybacks of longer-term bonds has only briefly interrupted rising yields.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[1.3670: British Pound hits six-month highs as UK PMI beats expectations]]></title>
+            <link>https://www.fxstreet.com/news/13670-british-pound-hits-six-month-highs-as-uk-pmi-beats-expectations-202608210932</link>
+            <guid isPermaLink="false">c57ecfbd-6cd5-441a-b436-f03260557ef3</guid>
+            <pubDate>Fri, 21 Aug 2026 09:32:16 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) rallied to fresh six-month highs against the US Dollar (USD) on Friday, boosted by stronger-than-expected UK business activity data, while the US Dollar remains depressed following the US Treasury’s plan to boost bond buybacks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608210930</link>
+            <guid isPermaLink="false">20b46b48-096f-4fdc-9497-a4dd1ac19bc1</guid>
+            <pubDate>Fri, 21 Aug 2026 09:30:09 GMT</pubDate>
+            <description><![CDATA[Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $69.94 per troy ounce, up 2.67% from the $68.12 it cost on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee remains under pressure amid higher oil prices]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551</link>
+            <guid isPermaLink="false">54a95092-33c1-45de-9012-40db58ea6417</guid>
+            <pubDate>Fri, 21 Aug 2026 05:51:50 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) ticks lower against the US Dollar (USD) in India's afternoon trading hours on Friday. The USD/INR edges up to near 95.72 as elevated oil prices and a sharp recovery in United States (US) Treasury yields have weighed on the Indian currency.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swedish Krona: Riksbank keeps tightening option open – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-tightening-option-open-commerzbank-202608210923</link>
+            <guid isPermaLink="false">617958fb-00fa-4d4d-b9d0-cbeb73611b9f</guid>
+            <pubDate>Fri, 21 Aug 2026 09:23:02 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Antje Praefcke reports that the Riksbank left its policy rate at 1.75% and maintained a restrictive stance, still seeing a hike later this year as likely.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ECB’s Kazāks: Central bank is well placed to act if needed to get inflation to 2%]]></title>
+            <link>https://www.fxstreet.com/news/ecbs-kazaks-central-bank-is-well-placed-to-act-if-needed-to-get-inflation-to-2-202608210916</link>
+            <guid isPermaLink="false">5f4392a0-e6b8-4ac6-bb82-17805fd43918</guid>
+            <pubDate>Fri, 21 Aug 2026 09:16:08 GMT</pubDate>
+            <description><![CDATA[European Central Bank (ECB) Governing Council member Mārtiņš Kazāks said during the European trading session on Friday that the central bank won’t hesitate to act if needed to bring Eurozone inflationary pressures down to the 2% target.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Weakness offsets intervention impact – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-weakness-offsets-intervention-impact-mufg-202608210912</link>
+            <guid isPermaLink="false">8aa1d233-576a-4a10-95fb-42298f60659c</guid>
+            <pubDate>Fri, 21 Aug 2026 09:12:54 GMT</pubDate>
+            <description><![CDATA[MUFG's Michael Wan notes that US longer-end yields have returned close to pre-buyback levels, with the 10-year at 4.7% and 30-year at 5.24%, weighing on risk assets.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Oil supply tightness supports further upside above $90]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-oil-supply-tightness-supports-further-upside-above-90-202608210904</link>
+            <guid isPermaLink="false">e327e6b0-d9e9-413a-a5d9-3667ca514758</guid>
+            <pubDate>Fri, 21 Aug 2026 09:04:06 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trade flat near $86.00 during the European trading session on Friday, closer to its over three-week high of $87.38 posted the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Softer bias with pro-risk flows – ING]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-softer-bias-with-pro-risk-flows-ing-202608210901</link>
+            <guid isPermaLink="false">3bc76fcf-3055-4042-af5d-f905cdfc455a</guid>
+            <pubDate>Fri, 21 Aug 2026 09:01:49 GMT</pubDate>
+            <description><![CDATA[ING’s Chris Turner, Francesco Pesole and Frantisek Taborsky argue that recent US Treasury buy-backs are primarily a signalling tool against high yields, pointing to a softer Dollar in a risk-friendly environment.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rallies to its highest level since late May, eyes $4,600 on weak USD ahead of US PMIs]]></title>
+            <link>https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407</link>
+            <guid isPermaLink="false">b1b3700e-3036-4d9f-9b4e-a47add4399e7</guid>
+            <pubDate>Fri, 21 Aug 2026 04:07:20 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) builds on the intraday breakout momentum above a technically significant 200-day Simple Moving Average (SMA) and climbs to its highest level since late May during the first half of the European session on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Euro steadies against British Pound as strong PMIs offer support on both sides]]></title>
             <link>https://www.fxstreet.com/news/euro-steadies-against-british-pound-as-strong-pmis-offer-support-on-both-sides-202608210857</link>
@@ -104,14 +200,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gold climbs beyond $4,550, fresh high since June as USD stays weak and Fed hike bets fade]]></title>
-            <link>https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407</link>
-            <guid isPermaLink="false">b1b3700e-3036-4d9f-9b4e-a47add4399e7</guid>
-            <pubDate>Fri, 21 Aug 2026 04:07:20 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) builds on its breakout momentum above a technically significant 200-day Simple Moving Average (SMA) and climbs further beyond $4,550, hitting a fresh high since early June during the early part of the European session on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Dow Jones futures gain as traders weigh US debt buybacks against surging oil prices]]></title>
             <link>https://www.fxstreet.com/news/dow-jones-futures-gain-as-traders-weigh-us-debt-buybacks-against-surging-oil-prices-202608210744</link>
             <guid isPermaLink="false">655ec3f3-67f8-492b-a7f3-781271b3f2e6</guid>
@@ -152,100 +240,12 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Indian Rupee edges down amid elevated oil prices, recovery in US yields]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551</link>
-            <guid isPermaLink="false">54a95092-33c1-45de-9012-40db58ea6417</guid>
-            <pubDate>Fri, 21 Aug 2026 05:51:50 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) ticks lower against the US Dollar (USD) in India's afternoon trading hours on Friday. The USD/INR edges up to near 95.72 as elevated oil prices and a sharp recovery in United States (US) Treasury yields have weighed on the Indian currency.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Euro: Gentle upside against US Dollar as greenback softens - ING]]></title>
             <link>https://www.fxstreet.com/news/euro-gentle-upside-against-us-dollar-as-greenback-softens-ing-202608210723</link>
             <guid isPermaLink="false">c70df70d-b7ef-4f53-b50a-406219891a2b</guid>
             <pubDate>Fri, 21 Aug 2026 07:23:04 GMT</pubDate>
             <description><![CDATA[ING’s Chris Turner says EUR/USD remains well supported by broad Dollar softness. Expected mild eurozone growth in the August PMIs and elevated inflation expectations keep the case for another European Central Bank (ECB) hike alive.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound trades firmly against Japanese Yen ahead of UK flash PMI data]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-trades-firmly-against-japanese-yen-ahead-of-uk-flash-pmi-data-202608210721</link>
-            <guid isPermaLink="false">7fe59e92-a97f-4ed7-b7a6-792154efc549</guid>
-            <pubDate>Fri, 21 Aug 2026 07:21:11 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) holds onto Thursday’s gains at around 217.00 against the Japanese Yen (JPY) during the European trading session on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/USD Price Forecast: Hits fresh high since June as bulls eye gains beyond 0.7150]]></title>
-            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-hits-fresh-high-since-june-as-bulls-eye-gains-beyond-07150-202608210717</link>
-            <guid isPermaLink="false">3ec8c1d0-ec6e-4a6a-aa5d-1ed27c63f2b2</guid>
-            <pubDate>Fri, 21 Aug 2026 07:17:13 GMT</pubDate>
-            <description><![CDATA[The AUD/USD pair regains positive traction following the previous day's dismal Aussie jobs data-led modest fall and climbs to a fresh high since early June during the first half of the European session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecasts: XAG/USD hits highs past $69.00 amid US Dollar weakness]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-hits-highs-past-6900-amid-us-dollar-weakness-202608210713</link>
-            <guid isPermaLink="false">107db4fd-c231-4781-9e84-3cd5c57fbcae</guid>
-            <pubDate>Fri, 21 Aug 2026 07:13:58 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) rallies for the third consecutive day on Friday, hitting fresh two-month highs above $69.00 in the early European session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: Higher profile after hawkish RBI – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-higher-profile-after-hawkish-rbi-mufg-202608210700</link>
-            <guid isPermaLink="false">07f5d287-518d-44f8-86fb-b1c034790359</guid>
-            <pubDate>Fri, 21 Aug 2026 07:00:08 GMT</pubDate>
-            <description><![CDATA[MUFG’s Michael Wan highlights that FX measures to attract US Dollar (USD) inflows into India have significantly lowered Indian Rupee (INR) rates via added liquidity, with limited impact on USD/INR.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds gains against British Pound after weaker UK Retail Sales data]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-gains-against-british-pound-after-weaker-uk-retail-sales-data-202608210655</link>
-            <guid isPermaLink="false">fe3ef0b0-7c03-47c8-8dbe-fae3c7314449</guid>
-            <pubDate>Fri, 21 Aug 2026 06:55:14 GMT</pubDate>
-            <description><![CDATA[The EUR/GBP cross posts modest gains to around 0.8570 during the early European session on Friday. The British Pound (GBP) edges slightly lower against the Euro (EUR) following disappointing UK economic data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index remains below 99.00 as 10-year US yield steadies]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-remains-below-9900-as-10-year-us-yield-steadies-202608210652</link>
-            <guid isPermaLink="false">5e0222c3-7a6b-4e81-adbe-c4f58d8b08e4</guid>
-            <pubDate>Fri, 21 Aug 2026 06:52:06 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is holding losses after registering minor gains in the previous day and trading around 98.80 during the early European hours on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: Mixed recovery after US selloff – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-mixed-recovery-after-us-selloff-deutsche-bank-202608210644</link>
-            <guid isPermaLink="false">2d90982e-e437-46ca-b045-f498c3402eaf</guid>
-            <pubDate>Fri, 21 Aug 2026 06:44:27 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists note that United States (US) equities fell sharply as earlier gains in fixed income reversed, with losses across the S&P 500, Nasdaq and Magnificent Seven. Weak Walmart earnings and slower US sales growth added to concerns about consumer resilience.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar stays near multi-month lows ahead of key PMI data]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-stays-near-multi-month-lows-ahead-of-key-pmi-data-202608210644</link>
-            <guid isPermaLink="false">832396e8-53ef-4959-b6d4-328cb625ad85</guid>
-            <pubDate>Fri, 21 Aug 2026 06:44:11 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Friday, August 21:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-usd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound holds gains against a weak US Dollar despite downbeat UK Retail Sales]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-holds-gains-against-a-weak-us-dollar-despite-downbeat-uk-retail-sales-202608210636</link>
-            <guid isPermaLink="false">fe1fc94d-8f78-4da7-ab84-878073ea19ca</guid>
-            <pubDate>Fri, 21 Aug 2026 06:36:26 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) trades firm against the US Dollar (USD) on Friday, with the GBP/USD pair pushing against six-month highs in the 1.3660 area at the time of writing, on track for a 0.8% weekly rally.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Treasury twist signals structural risks – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-treasury-twist-signals-structural-risks-commerzbank-202608210628</link>
-            <guid isPermaLink="false">fce9bf67-9e62-4f3b-850c-7f265e0097e7</guid>
-            <pubDate>Fri, 21 Aug 2026 06:28:37 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Volkmar Baur notes the US Dollar remains under pressure as EUR/USD trades around 1.17 following the US Treasury’s expansion of its Liquidity Support Buyback Operations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
