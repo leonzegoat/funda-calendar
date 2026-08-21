@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 15:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 16:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[European Central Bank: Structural LTROs could ease funding pressure - Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/european-central-bank-structural-ltros-could-ease-funding-pressure-rabobank-202608211551</link>
+            <guid isPermaLink="false">d300c6c5-87c7-4046-8405-fcb7b2b32096</guid>
+            <pubDate>Fri, 21 Aug 2026 15:51:00 GMT</pubDate>
+            <description><![CDATA[Rabobank's Bas van Geffen, analyses how forthcoming structural Longer-term Refinancing Operations (LTROs) could complement the European Central Bank's (ECB) standard refinancing operations as excess liquidity declines.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound eases as UK sales drop, US services beat]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-eases-as-uk-sales-drop-us-services-beat-202608211548</link>
+            <guid isPermaLink="false">15c4e9cf-0fad-42b8-a083-b69bf96efc90</guid>
+            <pubDate>Fri, 21 Aug 2026 15:48:13 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling loses some ground against the US Dollar, though it remains poised to end the week with gains of over 0.60%, even as UK Retail Sales disappointed investors and US business activity improved in August. The GBP/USD trades at 1.3626, down some 0.02%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[$4,600: Gold rallies to three-month high, eyes third weekly gain]]></title>
             <link>https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 11:41:17 GMT</pubDate>
             <description><![CDATA[Silver (XAG/USD) accelerates its advance on Friday and trades around $69.75 at the time of writing, up 2.41% on the day. The white metal reaches its highest level in two months and is on track for a weekly gain of more than 7%, mainly supported by persistent weakness in the US Dollar (USD).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Set to outperform Pound, US Dollar and Yen - Nomura]]></title>
-            <link>https://www.fxstreet.com/news/euro-set-to-outperform-pound-us-dollar-and-yen-nomura-202608211136</link>
-            <guid isPermaLink="false">05ef3363-9200-40cf-90b9-276b302f486f</guid>
-            <pubDate>Fri, 21 Aug 2026 11:36:11 GMT</pubDate>
-            <description><![CDATA[Nomura strategists see greater fiscal vulnerabilities in the United Kingdom (UK) than in the Euro area. Strong foreign inflows into Euro area bonds and comparatively better debt dynamics support its view that Euro (EUR) should outperform British Pound (GBP), US Dollar (USD) and Japanese Yen (JPY).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee remains under pressure amid elevated Oil prices]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551</link>
-            <guid isPermaLink="false">54a95092-33c1-45de-9012-40db58ea6417</guid>
-            <pubDate>Fri, 21 Aug 2026 05:51:50 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) ticks lower against the US Dollar (USD) on Friday. The USD/INR edges up to near 95.72 as elevated oil prices have outweighed a weak US Dollar.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
