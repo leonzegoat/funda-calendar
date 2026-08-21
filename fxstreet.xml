@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 17:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 18:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG bulls test $70 as rally extends]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-bulls-test-70-as-rally-extends-202608211805</link>
+            <guid isPermaLink="false">a48afe41-9d9b-4df0-8bda-5f00523d226e</guid>
+            <pubDate>Fri, 21 Aug 2026 18:05:45 GMT</pubDate>
+            <description><![CDATA[Silver prices rally for the third straight day, up more than 2% and, for the week, gains over 7.40%, as a firm US Dollar is not an excuse for precious metals buyers, who are choosing flight-to-quality over haven demand due to the difficult US fiscal stance.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold hits three-month peak above $4,600 as Middle East risks fuel rally]]></title>
+            <link>https://www.fxstreet.com/news/gold-hits-three-month-peak-above-4-600-as-middle-east-risks-fuel-rally-202608211756</link>
+            <guid isPermaLink="false">f0227761-e119-4ec4-891e-2483cec42350</guid>
+            <pubDate>Fri, 21 Aug 2026 17:56:27 GMT</pubDate>
+            <description><![CDATA[Gold price hits a three-month high and is poised to end the week with gains of over 5.6%, even though business activity in the services sector in the US was solid. Recent developments in the Middle East and a softer US Dollar underpin the yellow metal, which has surpassed the $4,600 threshold.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-bulls-test-11700-as-rsi-turns-overbought-202608211752</link>
+            <guid isPermaLink="false">2c41ab86-0ec5-4468-9c8c-abf718ef4aab</guid>
+            <pubDate>Fri, 21 Aug 2026 17:52:54 GMT</pubDate>
+            <description><![CDATA[EUR/USD heads for a fourth consecutive weekly gain on Friday, although it has erased its earlier intraday advance. At the time of writing, the pair trades around 1.1682 after briefly rising above 1.1700, its highest level since May 14.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany: Ifo sentiment seen weakening on Iran war – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/germany-ifo-sentiment-seen-weakening-on-iran-war-commerzbank-202608211747</link>
+            <guid isPermaLink="false">9b850c79-e260-4414-adc0-c77ca59fa09b</guid>
+            <pubDate>Fri, 21 Aug 2026 17:47:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank economists Christoph Balz and Ralph Solveen expect the Ifo Business Climate Index to slip from 86.6 to 86.0 in August as renewed Iran war concerns and higher energy prices weigh on expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Germany.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Higher yields stop paying the Dollar Index]]></title>
             <link>https://www.fxstreet.com/news/higher-yields-stop-paying-the-dollar-index-202608211733</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 13:25:35 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) continues to show strength against the US Dollar (USD).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro area: PMIs signal resilient growth – Nomura]]></title>
-            <link>https://www.fxstreet.com/news/euro-area-pmis-signal-resilient-growth-nomura-202608211308</link>
-            <guid isPermaLink="false">b85b3629-fd57-486e-a2cc-052f6b016892</guid>
-            <pubDate>Fri, 21 Aug 2026 13:08:25 GMT</pubDate>
-            <description><![CDATA[Nomura’s European Economics team notes that Euro area August Purchasing Managers' Index (PMI) showed resilient growth, led by a strong manufacturing rebound, while price pressures eased.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar heads for fourth weekly gain on weaker US Dollar, elevated Oil prices]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-heads-for-fourth-weekly-gain-on-weaker-us-dollar-elevated-oil-prices-202608211259</link>
-            <guid isPermaLink="false">5aa833bc-b327-4542-aeb9-0020b44d18dc</guid>
-            <pubDate>Fri, 21 Aug 2026 12:59:08 GMT</pubDate>
-            <description><![CDATA[USD/CAD extends its decline on Friday as broad US Dollar (USD) weakness and elevated Oil prices provide a double boost to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3745, while the Loonie is on track for a fourth consecutive weekly gain.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Supply risks keep prices elevated – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/brent-supply-risks-keep-prices-elevated-commerzbank-202608211255</link>
-            <guid isPermaLink="false">2f49bd62-1de0-4e57-988e-69b5ae40b049</guid>
-            <pubDate>Fri, 21 Aug 2026 12:55:18 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Barbara Lambrecht says tensions around the Strait of Hormuz and tight diesel inventories continue to support Brent. With prices near USD 94 and almost 20% above their early-August lows, Brent remains well below its April peak.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI advances as supply tensions overshadow US inventory build]]></title>
-            <link>https://www.fxstreet.com/news/wti-advances-as-supply-tensions-overshadow-us-inventory-build-202608211251</link>
-            <guid isPermaLink="false">135f1b5d-7413-437e-8906-2aaa07e5107e</guid>
-            <pubDate>Fri, 21 Aug 2026 12:51:32 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil trades around $86.50 on Friday at the time of writing, up 0.63% on the day. US Oil remains close to Thursday’s high of $87.38, its highest level in more than three weeks, as concerns about global energy supplies continue to support prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
