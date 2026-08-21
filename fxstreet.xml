@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 20:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 21:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South Korean Won: Cautious tightening path expected from BoK – DBS]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-cautious-tightening-path-expected-from-bok-dbs-202608212058</link>
+            <guid isPermaLink="false">6a4f68e6-8dd2-48b1-9d2a-2fff798053d5</guid>
+            <pubDate>Fri, 21 Aug 2026 20:58:00 GMT</pubDate>
+            <description><![CDATA[DBS economists Taimur Baig and Radhika Rao expect the Bank of Korea (BoK) to raise its base rate by 25bps to 3.00% at the August meeting, alongside upgraded Gross Domestic Product (GDP) and Consumer Price Index (CPI) forecasts.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Malaysian Ringgit: Robust trade supports MYR – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/malaysian-ringgit-robust-trade-supports-myr-commerzbank-202608212024</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 14:19:27 GMT</pubDate>
             <description><![CDATA[Norman Liebke at Commerzbank warns that low European gas storage, suspended LNG exports from Qatar and the end of the refilling phase are keeping European gas prices elevated.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: Q2 GDP rebound faces future headwinds – RBC]]></title>
-            <link>https://www.fxstreet.com/news/canada-q2-gdp-rebound-faces-future-headwinds-rbc-202608211409</link>
-            <guid isPermaLink="false">74a07345-ba9a-4176-a309-880b1ae26def</guid>
-            <pubDate>Fri, 21 Aug 2026 14:09:54 GMT</pubDate>
-            <description><![CDATA[Royal Bank of Canada economists Nathan Janzen and Abbey Xu expect Canadian gross domestic product data for June and Q2 to confirm a strong rebound after winter stagnation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
