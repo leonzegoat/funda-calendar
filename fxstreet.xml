@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 23 Aug 2026 23:30:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 23:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar edges lower below 0.6000 after weaker Retail Sales data   ]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-06000-after-weaker-retail-sales-data-202608232339</link>
+            <guid isPermaLink="false">72c98468-502c-4e4d-a522-769055545e77</guid>
+            <pubDate>Sun, 23 Aug 2026 23:39:41 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair declines to around 0.5970 during the early Asian session on Monday. The New Zealand Dollar (NZD) weakens against the US Dollar (USD) following New Zealand's downbeat economic data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bearish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Iran’s Araghchi says new sanctions threatened by 'desperate' US will fail]]></title>
             <link>https://www.fxstreet.com/news/irans-araghchi-says-new-sanctions-threatened-by-desperate-us-will-fail-202608232310</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 15:26:03 GMT</pubDate>
             <description><![CDATA[AUD/USD edges higher on Friday, climbing to its highest level since June 3 as the Australian Dollar (AUD) outperforms all its major peers.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro area: Manufacturing strengthens as services stall – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/euro-area-manufacturing-strengthens-as-services-stall-commerzbank-202608211501</link>
-            <guid isPermaLink="false">432fea05-0452-4e01-972c-f055e99be782</guid>
-            <pubDate>Fri, 21 Aug 2026 15:01:58 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Senior Economist Dr. Vincent Stamer notes that Euro area business sentiment has stabilized at a moderate level, with the composite PMI edging up from 52.0 to 52.1 in August, slightly above consensus.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
