@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 23 Aug 2026 22:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 22:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Retail Sales fall 0.5% QoQ in Q2, vs 0.1 expected]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-retail-sales-fall-05-qoq-in-q2-vs-01-expected-202608232249</link>
+            <guid isPermaLink="false">94e06019-7719-421c-a807-fac5b4c04036</guid>
+            <pubDate>Sun, 23 Aug 2026 22:49:41 GMT</pubDate>
+            <description><![CDATA[Retail Sales,a measures of the volume of sales of goods by retailers in New Zealand, fell 0.1% QoQ in the second quarter (Q2) of 2026 after rising 1.0% in Q1 (revised from 0.9%), the latest data published by the Statistics New Zealand showed on Monday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Retail-sales-2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AUD/USD Price Forecast: Bulls target YTD high after breakout]]></title>
             <link>https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-target-ytd-high-after-breakout-202608212315</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 14:51:34 GMT</pubDate>
             <description><![CDATA[Nomura’s European Economics team highlights that UK composite output PMI rose to 52.5 in August, with services offsetting weaker manufacturing. GfK consumer confidence improved to its highest level in two years, supporting activity.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP slips as strong PMIs cancel out and Iran signals de-escalation]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-slips-as-strong-pmis-cancel-out-and-iran-signals-de-escalation-202608211449</link>
-            <guid isPermaLink="false">ec482a79-50da-4aaf-84bf-bdb2f29cbf4c</guid>
-            <pubDate>Fri, 21 Aug 2026 14:49:39 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) is falling against the British Pound (GBP). EUR/GBP held the mid-0.8500s on Friday, hovering just below the 0.8570 area, even after a strong round of August flash Purchasing Managers Indexes (PMIs) on both sides of the cross.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
