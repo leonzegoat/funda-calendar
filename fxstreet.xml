@@ -4,15 +4,23 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 23 Aug 2026 22:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 23:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iran’s Araghchi says new sanctions threatened by 'desperate' US will fail]]></title>
+            <link>https://www.fxstreet.com/news/irans-araghchi-says-new-sanctions-threatened-by-desperate-us-will-fail-202608232310</link>
+            <guid isPermaLink="false">bb5c37f3-480b-4971-a0a4-c3f354fed1b1</guid>
+            <pubDate>Sun, 23 Aug 2026 23:10:17 GMT</pubDate>
+            <description><![CDATA[Iran's Foreign Minister Abbas Araghchi dismissed the threat of a fresh round of US economic sanctions as a “desperate” ploy and said the expected new measures would fail to defeat Tehran, Reuters reported on Sunday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Iran.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Retail Sales fall 0.5% QoQ in Q2, vs 0.1 expected]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-retail-sales-fall-05-qoq-in-q2-vs-01-expected-202608232249</link>
             <guid isPermaLink="false">94e06019-7719-421c-a807-fac5b4c04036</guid>
             <pubDate>Sun, 23 Aug 2026 22:49:41 GMT</pubDate>
-            <description><![CDATA[Retail Sales,a measures of the volume of sales of goods by retailers in New Zealand, fell 0.1% QoQ in the second quarter (Q2) of 2026 after rising 1.0% in Q1 (revised from 0.9%), the latest data published by the Statistics New Zealand showed on Monday. ]]></description>
+            <description><![CDATA[Retail Sales,a measures of the volume of sales of goods by retailers in New Zealand, fell 0.5% QoQ in the second quarter (Q2) of 2026 after rising 1.0% in Q1 (revised from 0.9%), the latest data published by the Statistics New Zealand showed on Monday. ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Retail-sales-2.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 15:01:58 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Senior Economist Dr. Vincent Stamer notes that Euro area business sentiment has stabilized at a moderate level, with the composite PMI edging up from 52.0 to 52.1 in August, slightly above consensus.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Services-led growth and price risks – Nomura]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-services-led-growth-and-price-risks-nomura-202608211451</link>
-            <guid isPermaLink="false">42029262-a7e9-4338-9505-8aa7965d99c1</guid>
-            <pubDate>Fri, 21 Aug 2026 14:51:34 GMT</pubDate>
-            <description><![CDATA[Nomura’s European Economics team highlights that UK composite output PMI rose to 52.5 in August, with services offsetting weaker manufacturing. GfK consumer confidence improved to its highest level in two years, supporting activity.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
