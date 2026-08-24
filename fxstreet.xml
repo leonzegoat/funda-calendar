@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 15:57:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 16:47:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Dollar Index takes its orders from the Treasury]]></title>
+            <link>https://www.fxstreet.com/news/the-dollar-index-takes-its-orders-from-the-treasury-202608241647</link>
+            <guid isPermaLink="false">cc1151a0-1674-496f-a4cf-d6f2fcb24494</guid>
+            <pubDate>Mon, 24 Aug 2026 16:47:19 GMT</pubDate>
+            <description><![CDATA[A currency whose central bank has held five times, prices no cut this year and still carries an increase by December should not be sitting at the bottom of its three-month range.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Treasury bids and offers the Dow Jones Industrial Average]]></title>
+            <link>https://www.fxstreet.com/news/the-treasury-bids-and-offers-the-dow-jones-industrial-average-202608241614</link>
+            <guid isPermaLink="false">2a1eab1e-3fbc-4443-9b97-84a8df3ba98c</guid>
+            <pubDate>Mon, 24 Aug 2026 16:14:16 GMT</pubDate>
+            <description><![CDATA[The same department that spent the morning telling the bond market it has roughly 950 billion Dollars available to hold long yields down will spend the afternoon announcing sanctions designed to tighten the oil chokepoint that drove those yields up.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/stock-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound holds firm as US sanctions on Iran loom]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-holds-firm-as-the-us-sanctions-on-iran-loom-202608241613</link>
+            <guid isPermaLink="false">cb75c8f7-6f1e-4d0a-a860-7a43e06e7425</guid>
+            <pubDate>Mon, 24 Aug 2026 16:13:06 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) holds firm against the US Dollar (USD) at around 1.3640 on Monday, with traders eyeing speeches by US Treasury Secretary Scott Bessent on Iran’s sanctions later in the day and by Federal Reserve (Fed) Chair Kevin Warsh at the Kansas City Fed Jackson Hole Symposium on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada: Growth rebound overshadowed by trade war – BBH]]></title>
+            <link>https://www.fxstreet.com/news/canada-growth-rebound-overshadowed-by-trade-war-bbh-202608241611</link>
+            <guid isPermaLink="false">8df0664e-8eec-4f12-b364-0170b1252040</guid>
+            <pubDate>Mon, 24 Aug 2026 16:11:00 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects Canada’s Q2 Real GDP to rebound strongly, outpacing the Bank of Canada’s (BoC) projection, with domestic demand and exports driving gains.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar retreats from recent highs on weak Retail Sales]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-retreats-from-recent-highs-on-weak-retail-sales-202608241552</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 12:12:30 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Tatha Ghose reviews recent CEE FX performance, noting that the euro’s strength above 1.17 has supported high-beta PLN and HUF, while the Czech koruna has also gained despite its lower beta profile.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/CEE3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: Buyers stall near $70 after strong rally]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-buyers-stall-near-70-after-strong-rally-202608241209</link>
-            <guid isPermaLink="false">ba896aae-7253-41ff-97ef-d9cc67b2c29b</guid>
-            <pubDate>Mon, 24 Aug 2026 12:09:33 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) is little changed on Monday, fluctuating between modest gains and losses near its highest level since mid-June, with buyers struggling to clear the $70 psychological mark. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungarian Forint: MNB easing and HUF carry prospects – BNY]]></title>
-            <link>https://www.fxstreet.com/news/hungarian-forint-mnb-easing-and-huf-carry-prospects-bny-202608241201</link>
-            <guid isPermaLink="false">de0be6ad-e564-4194-9c03-0c268d9b9dbd</guid>
-            <pubDate>Mon, 24 Aug 2026 12:01:15 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu describes Hungary as a constructive story within EMEA, with post-election re-rating and scope for continued MNB easing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: GDP rebound supports Loonie – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-gdp-rebound-supports-loonie-td-securities-202608241151</link>
-            <guid isPermaLink="false">02333c32-c1a3-4746-8cb2-3dd1ee80c247</guid>
-            <pubDate>Mon, 24 Aug 2026 11:51:14 GMT</pubDate>
-            <description><![CDATA[TD Securities economists Robert Both and Emma Lawrence expect Canada’s Q2 National Accounts to show a sharp rebound in Gross Domestic Product (GDP) growth, driven by stronger exports and solid services activity.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Debasement narrative caps upside – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-debasement-narrative-caps-upside-ocbc-202608241139</link>
-            <guid isPermaLink="false">a7539d9c-f03f-42a8-9c4f-9611d4f25a0d</guid>
-            <pubDate>Mon, 24 Aug 2026 11:39:59 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that the US Treasury’s expanded long-end buyback programme has revived market fears of Dollar debasement, driving a weaker USD, stronger Gold and higher breakevens.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
