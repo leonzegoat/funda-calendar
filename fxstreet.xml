@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 01:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 03:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD holds bullish below $70.00/two-month high set on Friday]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-bullish-below-7000-two-month-high-set-on-friday-202608240254</link>
+            <guid isPermaLink="false">68226af9-449d-449c-a874-707b00503a38</guid>
+            <pubDate>Mon, 24 Aug 2026 02:54:03 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) seesaws between tepid gains and minor losses around the $69.00 mark through the Asian session on Monday. The white metal, however, remains within striking distance of a two-month high, around the $70.00 psychological mark touched on Friday, and seems poised to appreciate further.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index softens below 99.00 on US fiscal concerns  ]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-softens-below-9900-on-us-fiscal-concerns-202608240248</link>
+            <guid isPermaLink="false">93afd2eb-a383-40ff-abeb-50292d1d2cfa</guid>
+            <pubDate>Mon, 24 Aug 2026 02:48:38 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 98.80 in the Asian trading hours on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen advances on BoJ rate hike bets, subdued US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-advances-on-boj-rate-hike-bets-subdued-us-dollar-202608240228</link>
+            <guid isPermaLink="false">e7ee865c-bc28-40db-8674-b995d746e123</guid>
+            <pubDate>Mon, 24 Aug 2026 02:28:14 GMT</pubDate>
+            <description><![CDATA[USD/JPY extended its losses for the second straight day after intraday volatility, trading around 158.80 during Asian hours on Monday. The pair declines as the Japanese Yen (JPY) gains ground on stronger-than-expected inflation data, which accelerated for a second straight month.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar bears seem hesitant as weak USD counters US-Canada trade war]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-bears-seem-hesitant-as-weak-usd-counters-us-canada-trade-war-202608240203</link>
+            <guid isPermaLink="false">cef72ccd-ce4d-443e-b8d0-61aaef7afc72</guid>
+            <pubDate>Mon, 24 Aug 2026 02:03:55 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair struggles to capitalize on a bullish gap opening on Monday, though it retains an intraday positive bias amid concerns about a deepening US-Canada trade war.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gold gains momentum above $4,600 on US Treasury buyback plans  ]]></title>
             <link>https://www.fxstreet.com/news/gold-gains-momentum-above-4-600-on-us-treasury-buyback-plans-202608240140</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 17:33:59 GMT</pubDate>
             <description><![CDATA[The Dollar Index trades just beneath 99.00 and unchanged on the session, with the entire day fitting inside 35 pips between the 98.50 area and a high that stopped a shade short of the handle.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc struggles as US Dollar steadies, SNB keeps negative rates on table ]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-struggles-as-us-dollar-steadies-snb-keeps-negative-rates-on-table-202608211726</link>
-            <guid isPermaLink="false">26fdd20c-b7b1-4722-9ae3-596a9cbdd015</guid>
-            <pubDate>Fri, 21 Aug 2026 17:26:39 GMT</pubDate>
-            <description><![CDATA[USD/CHF holds firm on Friday as the US Dollar (USD) trims its intraday losses. At the time of writing, the pair trades around 0.8013 after slipping to 0.7949 on the previous day, its lowest level since June 17.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-chf-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Resilient growth outlook – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-resilient-growth-outlook-deutsche-bank-202608211708</link>
-            <guid isPermaLink="false">46c4d8cb-fda8-4d39-b62a-74196f771132</guid>
-            <pubDate>Fri, 21 Aug 2026 17:08:57 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank Research, led by Sanjay Raja and Maui Brennan, highlights the United Kingdom (UK) economy’s surprising resilience to the Iran-related energy shock in 2026. Gross Domestic Product (GDP) grew 0.6% q-o-q in Q1 and 0.4% in Q2, making the UK the fastest-growing G7 economy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar extends rally as fading Fed-hike bets soften US Dollar ]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-extends-rally-as-fading-fed-hike-bets-soften-us-dollar-202608211708</link>
-            <guid isPermaLink="false">bd9ca0dc-37ab-4832-bd9f-6374b71ae2bb</guid>
-            <pubDate>Fri, 21 Aug 2026 17:08:00 GMT</pubDate>
-            <description><![CDATA[The New Zealand Dollar (NZD) extends its rally against the US Dollar (USD) on Friday,  trading near 0.6000 and close to its highest level since end-May.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s President Pezeshkian urges end to war as US pressure looms – Bloomberg]]></title>
-            <link>https://www.fxstreet.com/news/irans-president-pezeshkian-urges-wars-end-as-us-pressure-looms-bbg-202608211641</link>
-            <guid isPermaLink="false">6e3348d9-3555-4ea3-bfad-c8db506d0432</guid>
-            <pubDate>Fri, 21 Aug 2026 16:41:17 GMT</pubDate>
-            <description><![CDATA[Iranian President Masoud Pezeshkian stated that “It would be better to end the war today, when we have power and dignity, and with the whole world acknowledging our victory,” according to a Bloomberg report on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
