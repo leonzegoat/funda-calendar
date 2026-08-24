@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 14:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 15:01:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Copper: AI-driven demand reshapes pricing – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/copper-ai-driven-demand-reshapes-pricing-societe-generale-202608241457</link>
+            <guid isPermaLink="false">317cdbac-4f6a-4a85-b8a9-05085e4dcaab</guid>
+            <pubDate>Mon, 24 Aug 2026 14:57:23 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Commodity Compass Analytics team, led by Michael Haigh and Jeremy Sellem, argues that Copper has been increasingly driven by AI-related demand, arbitrage flows and US trade policy since February 2025.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen slips as US Dollar stabilizes, US PCE in focus]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-slips-as-us-dollar-stabilizes-us-pce-in-focus-202608241451</link>
+            <guid isPermaLink="false">44b8d500-53d8-4dc9-9a0e-768eddc797c8</guid>
+            <pubDate>Mon, 24 Aug 2026 14:51:35 GMT</pubDate>
+            <description><![CDATA[USD/JPY edges higher on Monday as the US Dollar (USD) finds some stability following last week’s sharp volatility, with geopolitical developments back in focus as the United States prepares to widen secondary sanctions against Iran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-96.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Trade shock weighs against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-trade-shock-weighs-against-us-dollar-scotiabank-202608241444</link>
+            <guid isPermaLink="false">df8dee3a-f6aa-4d0f-833f-bb37e77fcdee</guid>
+            <pubDate>Mon, 24 Aug 2026 14:44:33 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) is the main G10 underperformer after US/Canada trade talks collapsed. Ottawa’s pledge to respond to tariffs and provide domestic aid raises uncertainty for Canadian businesses.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal Reserve: Jackson Hole communication focus – Wells Fargo]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-jackson-hole-communication-focus-wells-fargo-202608241433</link>
+            <guid isPermaLink="false">3fb726b2-d112-4f26-b7d8-d114ff00ed1a</guid>
+            <pubDate>Mon, 24 Aug 2026 14:33:13 GMT</pubDate>
+            <description><![CDATA[Wells Fargo Economics argues that Jackson Hole is often overhyped, with only a couple of truly consequential speeches in the past 14 years.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Kevin-Warsh-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of Canada: Rates seen on hold then higher – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-canada-rates-seen-on-hold-then-higher-td-securities-202608241421</link>
+            <guid isPermaLink="false">49e7cc19-417b-4f4b-87c2-cf3b7d803a86</guid>
+            <pubDate>Mon, 24 Aug 2026 14:21:43 GMT</pubDate>
+            <description><![CDATA[TD Securities expects the Bank of Canada to maintain the Overnight Rate at 2.25% through 2026, despite headline CPI near the top of its target range.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/BoC-rate-decision.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Trump announces tariffs on Canadian autos, trucks and steel]]></title>
+            <link>https://www.fxstreet.com/news/us-president-trump-announces-tariffs-on-canadian-autos-trucks-and-steel-202608241413</link>
+            <guid isPermaLink="false">670985c5-1c84-4744-8d41-fdf05b793b0e</guid>
+            <pubDate>Mon, 24 Aug 2026 14:13:48 GMT</pubDate>
+            <description><![CDATA[United States (US) President Donald Trump has announced a sharp escalation in the trade fight with Canada, declaring that beginning January 1, 2027, the United States will raise tariffs to 50% on all cars, trucks, automotive parts, and steel imported from its northern neighbor.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Weakness may stabilize as US growth advantage persists - BBH]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-weakness-may-stabilize-as-us-growth-advantage-persists-bbh-202608241411</link>
+            <guid isPermaLink="false">9310eb72-da94-4763-b4dc-3545db40723c</guid>
+            <pubDate>Mon, 24 Aug 2026 14:11:49 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that the Treasury’s buyback announcement initially pushed longer-term Treasuries lower, weakened the Dollar and boosted Gold. He argues the USD slump should stabilize this week, with the US growth advantage offsetting fiscal concerns.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Canadian Dollar slides as Trump escalates trade war with Canada]]></title>
             <link>https://www.fxstreet.com/news/canadian-dollar-slides-as-trump-escalates-trade-war-with-canada-202608241403</link>
@@ -190,62 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 10:49:45 GMT</pubDate>
             <description><![CDATA[The Australian Dollar (AUD) ticks lower against the US Dollar (USD) on Monday, but maintains its broader bullish tone, with the AUD/USD pair trading at 0.7164, a few pips shy of the 12-week high of 0.7180 hit last Friday.]]></description>
             <enclosure url="https://editorial.fxstreet.com/images/i/BullishChart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD pushes higher, but overbought RSI warns bulls]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-pushes-higher-but-overbought-rsi-warns-bulls-202608241026</link>
-            <guid isPermaLink="false">f0c405d7-61e9-4e8b-84b7-61923a59600f</guid>
-            <pubDate>Mon, 24 Aug 2026 10:26:24 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) maintains a bullish bias on Monday and trades near its highest levels since mid-May.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar edges down from highs amid soft retail consumption data]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-edges-down-from-highs-amid-soft-retail-consumption-data-202608241002</link>
-            <guid isPermaLink="false">d5d8cccc-0b4c-4d7b-a4f1-fe08829225a4</guid>
-            <pubDate>Mon, 24 Aug 2026 10:02:18 GMT</pubDate>
-            <description><![CDATA[The New Zealand Dollar ticks down against the US Dollar on Monday, weighed by an unexpected decline in New Zealand’s Retail Sales in the second quarter of the year.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro steadies against Japanese Yen as markets weigh ECB, BoJ rate hikes]]></title>
-            <link>https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-markets-weigh-ecb-boj-rate-hikes-202608240958</link>
-            <guid isPermaLink="false">303540c7-8feb-462e-a369-d0cffd122f52</guid>
-            <pubDate>Mon, 24 Aug 2026 09:58:53 GMT</pubDate>
-            <description><![CDATA[EUR/JPY trades around 185.70 on Monday at the time of writing, virtually unchanged on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Event-driven risks shape debasement narrative – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-event-driven-risks-shape-debasement-narrative-mufg-202608240958</link>
-            <guid isPermaLink="false">1a48d208-1ce1-4520-833d-be3ed20cf567</guid>
-            <pubDate>Mon, 24 Aug 2026 09:58:53 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny notes the US Dollar is broadly stable as investors focus on US Treasury actions to contain long-term yields and renewed talk of Dollar debasement.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Momentum builds toward 0.7200 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-momentum-builds-toward-07200-against-us-dollar-uob-202608240948</link>
-            <guid isPermaLink="false">ccd7d0e2-320d-4c28-8343-39c4635121c8</guid>
-            <pubDate>Mon, 24 Aug 2026 09:48:52 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight AUD/USD’s sharp rally to 0.7180 and close near 0.7170, noting the move looks stretched but still lacks signs of a pause.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Trade tensions threaten recovery against US Dollar - OCBC]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-trade-tensions-threaten-recovery-against-us-dollar-ocbc-202608240939</link>
-            <guid isPermaLink="false">3fcb586d-5fd9-429a-8fd8-23cd6e3425be</guid>
-            <pubDate>Mon, 24 Aug 2026 09:39:01 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong warn that renewed US-Canada trade tensions could undermine the Canadian Dollar’s (CAD) recent recovery.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608240931</link>
-            <guid isPermaLink="false">a2318742-70c7-49aa-8bee-db3ae2f9de6d</guid>
-            <pubDate>Mon, 24 Aug 2026 09:31:38 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) fell on Monday, according to FXStreet data. Silver trades at $68.80 per troy ounce, down 0.25% from the $68.98 it cost on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
