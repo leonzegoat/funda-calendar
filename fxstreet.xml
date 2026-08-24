@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 22:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 23:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar falls as Iran sanctions sour risk appetite, RBA minutes eyed]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-falls-as-iran-sanctions-sour-risk-appetite-rba-minutes-eyed-202608242258</link>
+            <guid isPermaLink="false">e570f67b-058a-47df-869e-5372c16776ef</guid>
+            <pubDate>Mon, 24 Aug 2026 22:58:23 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar began the week on a lower note, trading with a 0.28% loss against the Greenback as risk appetite soured after the US Department of the Treasury imposed sanctions on Iran-linked entities. At the time of writing, the pair trades at 0.7159]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Targeting 6.7200 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-targeting-67200-against-us-dollar-uob-202608242233</link>
+            <guid isPermaLink="false">ba4d2fed-7c2f-40ba-8e25-18b59e959b32</guid>
+            <pubDate>Mon, 24 Aug 2026 22:33:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann keep a downside bias on USD/CNH after the pair dipped to 6.7180 and closed near 6.7210.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears]]></title>
             <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-bulls-struggle-at-187-amid-intervention-fears-202608242229</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 11:07:10 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) remains firmly bid on Monday after last week’s rally sparked by the US Treasury’s buyback announcement. However, buyers appear hesitant to push prices much higher as traders await key risk events later this week.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar pulls back near multi-month highs as traders await RBA Minutes]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-pulls-back-near-multi-month-highs-as-traders-await-rba-minutes-202608241543</link>
-            <guid isPermaLink="false">c4e5964b-f8e5-49a5-b4ee-aefcb3f47902</guid>
-            <pubDate>Mon, 24 Aug 2026 15:43:58 GMT</pubDate>
-            <description><![CDATA[AUD/USD is pulling back to the 0.7150 region, consolidating just below its recent multi-month highs. Traders are largely focused on the Reserve Bank of Australia (RBA) Minutes due later in the Asian session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Price Forecast: 100-day SMA caps upside near $85]]></title>
-            <link>https://www.fxstreet.com/news/wti-price-forecast-100-day-sma-caps-upside-near-85-202608241541</link>
-            <guid isPermaLink="false">4fe7d1f8-deab-45c2-bc5f-a74c85171241</guid>
-            <pubDate>Mon, 24 Aug 2026 15:41:44 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) Oil trades on the back foot on Monday after gaining more than 5% last week. The pullback comes even as the broader backdrop remains largely unchanged, with Middle East tensions elevated and shipping through the Strait of Hormuz still heavily restricted.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
