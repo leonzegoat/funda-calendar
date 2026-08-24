@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 10:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 10:54:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Aussie eases from 12-week highs with bulls still in command]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-aussie-eases-from-12-week-highs-with-bulls-still-in-command-202608241049</link>
+            <guid isPermaLink="false">a65a1eb7-48ee-4143-a6d3-820c693c6adc</guid>
+            <pubDate>Mon, 24 Aug 2026 10:49:45 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) ticks lower against the US Dollar (USD) on Monday, but maintains its broader bullish tone, with the AUD/USD pair trading at 0.7164, a few pips shy of the 12-week high of 0.7180 hit last Friday.]]></description>
+            <enclosure url="https://editorial.fxstreet.com/images/i/BullishChart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold Price Forecast: XAU/USD pushes higher, but overbought RSI warns bulls]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-pushes-higher-but-overbought-rsi-warns-bulls-202608241026</link>
+            <guid isPermaLink="false">f0c405d7-61e9-4e8b-84b7-61923a59600f</guid>
+            <pubDate>Mon, 24 Aug 2026 10:26:24 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) maintains a bullish bias on Monday and trades near its highest levels since mid-May.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar edges down from highs amid soft retail consumption data]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-edges-down-from-highs-amid-soft-retail-consumption-data-202608241002</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 07:20:44 GMT</pubDate>
             <description><![CDATA[The AUD/USD pair extends the sideways consolidative price move near its highest level since early June, touched on Friday, and holds steady above mid-0.7100s through the early European session.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ECB's Cipollone: Risk of economic stagnation and sharp inflation rise is rather remote]]></title>
-            <link>https://www.fxstreet.com/news/ecbs-cipollone-risk-of-economic-stagnation-and-sharp-inflation-rise-is-rather-remote-202608240709</link>
-            <guid isPermaLink="false">b2e25292-27be-4fc6-b86f-15c1bda0203e</guid>
-            <pubDate>Mon, 24 Aug 2026 07:09:21 GMT</pubDate>
-            <description><![CDATA[European Central Bank (ECB) Executive Board member Piero Cipollone said that ‌the risk of economic stagnation and a sharp increase in inflation due to the crisis in the Strait of Hormuz is rather remote, Reuters reported on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar declines as US-Canada trade talks collapse]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-declines-as-us-canada-trade-talks-collapse-202608240702</link>
-            <guid isPermaLink="false">adb92089-83ae-4848-a611-60c13e8b7f3d</guid>
-            <pubDate>Mon, 24 Aug 2026 07:02:21 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair recovers some lost ground to near 1.3820 during the early European session on Monday. The Canadian Dollar (CAD) weakens against the US Dollar (USD) after US-Canada talks collapse into a trade war. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bearish-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
