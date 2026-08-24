@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 17:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 18:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro stalls below recent highs against Pound Sterling as German surveys take center stage]]></title>
+            <link>https://www.fxstreet.com/news/euro-stalls-below-recent-highs-against-pound-sterling-as-german-surveys-take-center-stage-202608241807</link>
+            <guid isPermaLink="false">bffb7572-38fb-463a-b233-49fa6ea30d3b</guid>
+            <pubDate>Mon, 24 Aug 2026 18:07:30 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) treads water against the Pound Sterling (GBP) on Monday, holding in the mid-0.8500s after struggling to sustain its push toward 0.8580 last week. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Treasury Bessent: US is launching an "economic onslaught" against Iran's financial connection]]></title>
+            <link>https://www.fxstreet.com/news/treasury-bessent-us-is-launching-an-economic-onslaught-against-irans-financial-connection-202608241751</link>
+            <guid isPermaLink="false">5e7d17d6-a2d1-4faa-88fc-e8271fde993a</guid>
+            <pubDate>Mon, 24 Aug 2026 17:51:18 GMT</pubDate>
+            <description><![CDATA[United States (US) Treasury Secretary Scotts said on Monday the US is launching "an economic onslaught against Iran's financial connections around the globe".]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Focus shifts to BoJ path – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-focus-shifts-to-boj-path-scotiabank-202608241747</link>
+            <guid isPermaLink="false">06b85883-d459-48e1-82c3-4cacdf80d32a</guid>
+            <pubDate>Mon, 24 Aug 2026 17:47:26 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that the Japanese Yen (JPY) is slightly softer versus the US Dollar (USD), with USD/JPY trading between 158.00 support and resistance in the upper‑159s.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Dollar Index takes its orders from the Treasury]]></title>
             <link>https://www.fxstreet.com/news/the-dollar-index-takes-its-orders-from-the-treasury-202608241647</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 12:33:56 GMT</pubDate>
             <description><![CDATA[ING’s Chris Turner, Francesco Pesole and Frantisek Taborsky note the Dollar starts the week soft as markets await US policy signals from the White House.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Cooling inflation but carry remains supportive – BBH]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-cooling-inflation-but-carry-remains-supportive-bbh-202608241223</link>
-            <guid isPermaLink="false">9ff343ac-b076-458d-bf4b-705359ca4a1f</guid>
-            <pubDate>Mon, 24 Aug 2026 12:23:56 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects Australia’s July Consumer Price Index (CPI) to ease, with headline and trimmed mean inflation drifting lower, in line with softer labor conditions and wage growth.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil retreats toward $85 ahead of US economic offensive against Iran]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-retreats-toward-85-ahead-of-us-economic-offensive-against-iran-202608241217</link>
-            <guid isPermaLink="false">14f87265-278d-4c59-8ce0-a727adbda41c</guid>
-            <pubDate>Mon, 24 Aug 2026 12:17:26 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil falls 1.55% on Monday and trades around $85.00 at the time of writing, giving back some of its recent gains as investors take profits ahead of the announcement of new US sanctions against Iran.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CEE FX: Koruna leads as policy diverges – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/cee-fx-koruna-leads-as-policy-diverges-commerzbank-202608241212</link>
-            <guid isPermaLink="false">6b2eed84-85c0-43a2-9301-63ce096afc16</guid>
-            <pubDate>Mon, 24 Aug 2026 12:12:30 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose reviews recent CEE FX performance, noting that the euro’s strength above 1.17 has supported high-beta PLN and HUF, while the Czech koruna has also gained despite its lower beta profile.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CEE3-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
