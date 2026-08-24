@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 19:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 20:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Asia FX: Mixed central bank paths shape THB, KRW, PHP – BBH]]></title>
+            <link>https://www.fxstreet.com/news/asia-fx-mixed-central-bank-paths-shape-thb-krw-php-bbh-202608242033</link>
+            <guid isPermaLink="false">600c37ec-7fde-4880-af43-e375699d8a72</guid>
+            <pubDate>Mon, 24 Aug 2026 20:33:00 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects the Bank of Thailand (BoT) to hold rates at 1.00%, leaving negative real yields that keep Thai Baht (THB) lagging. The Bank of Korea (BoK) is seen hiking again to 3.00%, supporting South Korean Won (KRW) as growth and inflation exceed targets.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso weakens as Iran sanctions offset Mexico’s inflation data]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-weakens-as-iran-sanctions-offset-mexicos-inflation-data-202608242013</link>
+            <guid isPermaLink="false">86825cbd-5a23-4091-a318-7279eb49ea55</guid>
+            <pubDate>Mon, 24 Aug 2026 20:13:47 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso lost ground against the Greenback on Monday, even though economic data showed that inflation accelerated in the first half of August, while economic growth was softer than expected. Consequently, the USD/MXN exotic pair trades with gains of over 0.25%, at 16.96.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar firms on safe-haven demand ahead of data-heavy Tuesday]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-on-safe-haven-demand-ahead-of-data-heavy-tuesday-202608242013</link>
+            <guid isPermaLink="false">8830d3a5-b00c-476c-a464-79e220000c6e</guid>
+            <pubDate>Mon, 24 Aug 2026 20:13:42 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) reclaimed the 99.00 mark for the first time since last Wednesday's plunge.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-76.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Consolidation zone eyed against US Dollar – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-consolidation-zone-eyed-against-us-dollar-commerzbank-202608241951</link>
+            <guid isPermaLink="false">55bb5e64-24da-4eff-b59c-9d76a80d35d1</guid>
+            <pubDate>Mon, 24 Aug 2026 19:51:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Charlie Lay and Dr. Henry Hao highlight South Korea’s strong export-led growth and large current-account surplus as key drivers of Korean Won strength against the Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[US Dollar Index: Cautious rebound capped near 100 – Scotiabank]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-index-cautious-rebound-capped-near-100-scotiabank-202608241936</link>
@@ -28,7 +60,7 @@
             <link>https://www.fxstreet.com/news/silver-price-forecast-xag-pullback-tests-100-day-sma-202608241852</link>
             <guid isPermaLink="false">38b4cce4-ee57-4e04-9749-82099499c330</guid>
             <pubDate>Mon, 24 Aug 2026 18:52:11 GMT</pubDate>
-            <description><![CDATA[Silver price reverses course on Monday, down 0.59% as buyers failed to push the white metal past the $70.00, which exacerbated a reversal, to the first support level seen at the 100-day Simple Moving Average (SMA) at $68.42. At the time of writing, XAG/USD trades at $68.52, afer peaking at $69.92.]]></description>
+            <description><![CDATA[Silver (XAG/USD) price reverses course on Monday, down 0.59% as buyers failed to push the white metal past $70.00, which exacerbated a reversal to the first support level at the 100-day Simple Moving Average (SMA) at $68.42. At the time of writing, XAG/USD trades at $68.52, after peaking at $69.92.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 14:11:49 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that the Treasury’s buyback announcement initially pushed longer-term Treasuries lower, weakened the Dollar and boosted Gold. He argues the USD slump should stabilize this week, with the US growth advantage offsetting fiscal concerns.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar slides as Trump escalates trade war with Canada]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-slides-as-trump-escalates-trade-war-with-canada-202608241403</link>
-            <guid isPermaLink="false">0e21a4af-20af-42ca-b597-ecf8589ca983</guid>
-            <pubDate>Mon, 24 Aug 2026 14:03:36 GMT</pubDate>
-            <description><![CDATA[USD/CAD extends its advance on Monday, trading around 1.3830 at the time of writing, up 0.52% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Rally vulnerable to reversal against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/euro-rally-vulnerable-to-reversal-against-us-dollar-scotiabank-202608241355</link>
-            <guid isPermaLink="false">3aa28125-eedb-46d4-bb67-3671056bc5b0</guid>
-            <pubDate>Mon, 24 Aug 2026 13:55:57 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Euro (EUR) is softer against the Dollar (USD) after an almost 3% rally from late July, with price action turning defensive.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: Tariffs reshape outlook – RBC]]></title>
-            <link>https://www.fxstreet.com/news/canada-tariffs-reshape-outlook-rbc-202608241334</link>
-            <guid isPermaLink="false">c7e34f76-ddda-4ad8-9c30-6259e3ad80a3</guid>
-            <pubDate>Mon, 24 Aug 2026 13:34:51 GMT</pubDate>
-            <description><![CDATA[Royal Bank of Canada (RBC) analyzes new Section 338 U.S. tariffs on Canadian exports, noting a 50% rate on goods representing about 5% of Canada’s exports to the United States.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds ground as US Dollar steadies, markets brace for Iran sanctions]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-ground-as-us-dollar-steadies-and-markets-brace-for-iran-sanctions-202608241330</link>
-            <guid isPermaLink="false">d23307cc-bb0c-4166-b587-2a5aba4a1de4</guid>
-            <pubDate>Mon, 24 Aug 2026 13:30:14 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades flat on Monday as the US Dollar (USD) steadies and markets settle into a calmer tone following the sharp volatility triggered by the US Treasury’s surprise buyback announcement last week. At the time of writing, the pair trades around 1.1670, hovering near levels last seen in mid-May.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
