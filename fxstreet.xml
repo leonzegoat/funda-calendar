@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 21:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 22:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-bulls-struggle-at-187-amid-intervention-fears-202608242229</link>
+            <guid isPermaLink="false">02992f03-37ae-44a5-91f3-a9a316735e69</guid>
+            <pubDate>Mon, 24 Aug 2026 22:29:18 GMT</pubDate>
+            <description><![CDATA[The EUR/JPY trades horizontally on Monday as market participants remain reluctant to push the cross higher amid fears of potential intervention by Japanese authorities, even though they have remained shut following the coordinated action by the US and Japan.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: 217.00 caps bulls as RSI stalls]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-21700-caps-bulls-as-rsi-stalls-202608242207</link>
+            <guid isPermaLink="false">f4054eff-1809-4c3f-a30f-fc8a124ba33b</guid>
+            <pubDate>Mon, 24 Aug 2026 22:07:52 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY consolidates near familiar levels around 217.00 on Monday, as risk aversion dominates markets, with flows moving into haven assets like the US Dollar and Gold amid uncertainty over the Middle East conflict.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Rally faces consolidation risk on policy week – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-rally-faces-consolidation-risk-on-policy-week-ocbc-202608242151</link>
+            <guid isPermaLink="false">48020ead-131a-4e78-b001-55fe22d3176e</guid>
+            <pubDate>Mon, 24 Aug 2026 21:51:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that South Korean Won (KRW) has extended its rally, with USD/KRW briefly touching 1380 on exporter and corporate US Dollar (USD) selling and a softer USD backdrop.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Record intervention bought the Japanese Yen three weeks]]></title>
+            <link>https://www.fxstreet.com/news/record-intervention-bought-the-japanese-yen-three-weeks-202608242148</link>
+            <guid isPermaLink="false">eb83a16f-5aae-4f4c-8c1c-9be04fa76425</guid>
+            <pubDate>Mon, 24 Aug 2026 21:48:52 GMT</pubDate>
+            <description><![CDATA[Dollar-Yen holds near 159.00 into the North American afternoon, marginally higher on the day inside a range of roughly three quarters of a Yen between the 158.50 area and a high short of 159.50.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: 1.1700 caps bulls as RSI overheats]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-11700-caps-bulls-as-rsi-overheats-202608242146</link>
+            <guid isPermaLink="false">8e77fc42-584f-496c-9f54-d03d6a81e65f</guid>
+            <pubDate>Mon, 24 Aug 2026 21:46:34 GMT</pubDate>
+            <description><![CDATA[The shared currency registers minimal losses of 0.13% versus the US Dollar as EUR/USD fails to surpass 1.1700, exacerbating the drop towards the 1.1660 area, despite retaining its current neutral-to-upward bias.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar muted near multi-month highs as it outweighs soft retail sales]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-muted-near-multi-month-highs-as-it-outweighs-soft-retail-sales-202608242141</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 15:41:44 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI) Oil trades on the back foot on Monday after gaining more than 5% last week. The pullback comes even as the broader backdrop remains largely unchanged, with Middle East tensions elevated and shipping through the Strait of Hormuz still heavily restricted.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Sentiment supports further gains against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-sentiment-supports-further-gains-against-us-dollar-scotiabank-202608241529</link>
-            <guid isPermaLink="false">ca28d17d-3160-4767-b27d-d91c9142a4cc</guid>
-            <pubDate>Mon, 24 Aug 2026 15:29:00 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report that the British Pound (GBP) is flat versus the Dollar but outperforming G10 peers despite broad USD strength. With data light, attention turns to PM Burnham’s visit to Kiev and the October 28 budget.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States: Spending and inflation outlook – Wells Fargo]]></title>
-            <link>https://www.fxstreet.com/news/united-states-spending-and-inflation-outlook-wells-fargo-202608241506</link>
-            <guid isPermaLink="false">e1be420f-5dfc-467b-9a1e-0098dbc2ae8a</guid>
-            <pubDate>Mon, 24 Aug 2026 15:06:39 GMT</pubDate>
-            <description><![CDATA[Wells Fargo Economics, led by Tom Porcelli and colleagues, expects July consumer spending to rise modestly, with nominal Personal Income up 0.3% and spending up 0.2%. They highlight fading support from tax refunds, leaving demand more reliant on income growth.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: AI-driven demand reshapes pricing – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/copper-ai-driven-demand-reshapes-pricing-societe-generale-202608241457</link>
-            <guid isPermaLink="false">317cdbac-4f6a-4a85-b8a9-05085e4dcaab</guid>
-            <pubDate>Mon, 24 Aug 2026 14:57:23 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Commodity Compass Analytics team, led by Michael Haigh and Jeremy Sellem, argues that Copper has been increasingly driven by AI-related demand, arbitrage flows and US trade policy since February 2025.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen slips as US Dollar stabilizes, US PCE in focus]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-slips-as-us-dollar-stabilizes-us-pce-in-focus-202608241451</link>
-            <guid isPermaLink="false">44b8d500-53d8-4dc9-9a0e-768eddc797c8</guid>
-            <pubDate>Mon, 24 Aug 2026 14:51:35 GMT</pubDate>
-            <description><![CDATA[USD/JPY edges higher on Monday as the US Dollar (USD) finds some stability following last week’s sharp volatility, with geopolitical developments back in focus as the United States prepares to widen secondary sanctions against Iran.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-96.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Trade shock weighs against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-trade-shock-weighs-against-us-dollar-scotiabank-202608241444</link>
-            <guid isPermaLink="false">df8dee3a-f6aa-4d0f-833f-bb37e77fcdee</guid>
-            <pubDate>Mon, 24 Aug 2026 14:44:33 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) is the main G10 underperformer after US/Canada trade talks collapsed. Ottawa’s pledge to respond to tariffs and provide domestic aid raises uncertainty for Canadian businesses.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
