@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 04:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 05:02:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Swiss Franc advances as Dollar slides on US bond buyback surge]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-advances-as-dollar-slides-on-us-bond-buyback-surge-202608240445</link>
+            <guid isPermaLink="false">e6a2997a-0121-4d16-a8df-f199e7baac79</guid>
+            <pubDate>Mon, 24 Aug 2026 04:45:53 GMT</pubDate>
+            <description><![CDATA[USD/CHF depreciates after two days of gains, trading around 0.8000 during the Asian hours on Monday. The currency pair depreciates as the US Dollar (USD) struggles under pressure from newly announced fiscal measures in Washington.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-softens-to-near-18550-but-maintaining-constructive-bias-above-100-day-sma-202608240445</link>
+            <guid isPermaLink="false">1d95f796-f70c-4132-a40d-7cfc7c77f4a2</guid>
+            <pubDate>Mon, 24 Aug 2026 04:45:43 GMT</pubDate>
+            <description><![CDATA[The EUR/JPY cross trades with mild losses near 185.60 during the early European session on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD]]></title>
+            <link>https://www.fxstreet.com/news/gold-hits-fresh-high-since-mid-may-as-lower-bond-yields-and-fading-fed-bets-undermine-usd-202608240444</link>
+            <guid isPermaLink="false">5b7ebb60-d8a3-476a-95b9-888a730e70ea</guid>
+            <pubDate>Mon, 24 Aug 2026 04:44:26 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) builds on last week's breakout momentum above a technically significant 200-day Simple Moving Average (SMA) and climbs above $4,650 during the Asian session on Monday, hitting a fresh high since mid-May.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-04.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold rises, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608240436</link>
+            <guid isPermaLink="false">e5af47dd-81ce-49d9-ba0f-571d53c54d5a</guid>
+            <pubDate>Mon, 24 Aug 2026 04:36:17 GMT</pubDate>
+            <description><![CDATA[Gold prices rose in India on Monday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee strengthens due to strong capital inflows, RBI support]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-strengthens-due-to-strong-capital-inflows-rbi-support-202608240412</link>
+            <guid isPermaLink="false">d0e07b05-1512-41d7-a92b-221d61c88f88</guid>
+            <pubDate>Mon, 24 Aug 2026 04:12:40 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) inches higher against the US Dollar (USD) for the second consecutive day on Monday, positioning itself for a quiet start to the week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Silver Price Forecast: XAG/USD holds bullish below $70.00/two-month high set on Friday]]></title>
             <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-bullish-below-7000-two-month-high-set-on-friday-202608240254</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 18:24:00 GMT</pubDate>
             <description><![CDATA[DBS economists Taimur Baig and Radhika Rao project Singapore’s headline and core inflation will rise in July to 2.4% and 2.3% year-on-year, respectively, driven by higher energy and food costs.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG bulls test $70 as rally extends]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-bulls-test-70-as-rally-extends-202608211805</link>
-            <guid isPermaLink="false">a48afe41-9d9b-4df0-8bda-5f00523d226e</guid>
-            <pubDate>Fri, 21 Aug 2026 18:05:45 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) prices rally for the third straight day on Friday, up more than 2% and, for the week, gains over 7.40%, as a firm US Dollar (USD) is not an excuse for precious metals buyers, who are choosing flight-to-quality over haven demand due to the difficult US fiscal stance.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold hits three-month peak above $4,600 as Middle East risks fuel rally]]></title>
-            <link>https://www.fxstreet.com/news/gold-hits-three-month-peak-above-4-600-as-middle-east-risks-fuel-rally-202608211756</link>
-            <guid isPermaLink="false">f0227761-e119-4ec4-891e-2483cec42350</guid>
-            <pubDate>Fri, 21 Aug 2026 17:56:27 GMT</pubDate>
-            <description><![CDATA[Gold price hits a three-month high and is poised to end the week with gains of over 5.6%, even though business activity in the services sector in the US was solid. Recent developments in the Middle East and a softer US Dollar underpin the yellow metal, which has surpassed the $4,600 threshold.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-bulls-test-11700-as-rsi-turns-overbought-202608211752</link>
-            <guid isPermaLink="false">2c41ab86-0ec5-4468-9c8c-abf718ef4aab</guid>
-            <pubDate>Fri, 21 Aug 2026 17:52:54 GMT</pubDate>
-            <description><![CDATA[EUR/USD heads for a fourth consecutive weekly gain on Friday, although it has erased its earlier intraday advance. At the time of writing, the pair trades around 1.1682 after briefly rising above 1.1700, its highest level since May 14.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-chart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany: Ifo sentiment seen weakening on Iran war – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/germany-ifo-sentiment-seen-weakening-on-iran-war-commerzbank-202608211747</link>
-            <guid isPermaLink="false">9b850c79-e260-4414-adc0-c77ca59fa09b</guid>
-            <pubDate>Fri, 21 Aug 2026 17:47:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank economists Christoph Balz and Ralph Solveen expect the Ifo Business Climate Index to slip from 86.6 to 86.0 in August as renewed Iran war concerns and higher energy prices weigh on expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Germany.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Higher yields stop paying the Dollar Index]]></title>
-            <link>https://www.fxstreet.com/news/higher-yields-stop-paying-the-dollar-index-202608211733</link>
-            <guid isPermaLink="false">418eaa51-3697-4e81-ab17-3c214ed107fd</guid>
-            <pubDate>Fri, 21 Aug 2026 17:33:59 GMT</pubDate>
-            <description><![CDATA[The Dollar Index trades just beneath 99.00 and unchanged on the session, with the entire day fitting inside 35 pips between the 98.50 area and a high that stopped a shade short of the handle.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
