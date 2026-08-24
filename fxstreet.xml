@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 21:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 21:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar muted near multi-month highs as it outweighs soft retail sales]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-muted-near-multi-month-highs-as-it-outweighs-soft-retail-sales-202608242141</link>
+            <guid isPermaLink="false">68d4b9e2-c181-40da-b7e4-ea8d777d8ba7</guid>
+            <pubDate>Mon, 24 Aug 2026 21:41:04 GMT</pubDate>
+            <description><![CDATA[The New Zealand Dollar (NZD) is holding firm against the US Dollar (USD) at the time of writing, with NZD/USD consolidating near its recent multi-month highs, just south of the 0.6000 handle.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/christian-hawkesby-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound Sterling climbs on a problem it has worse]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sterling-climbs-on-a-problem-it-has-worse-202608242124</link>
+            <guid isPermaLink="false">3f038110-0d7d-47ac-968c-733d43628d08</guid>
+            <pubDate>Mon, 24 Aug 2026 21:24:57 GMT</pubDate>
+            <description><![CDATA[Sterling holds just above 1.3600 into the North American afternoon, marginally lower on the day and inside a range of barely 35 pips, having printed a five-month high short of 1.3700 late last week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen lower as US Dollar firms on heavier Iran sanctions]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-lower-as-us-dollar-firms-on-heavier-iran-sanctions-202608242115</link>
+            <guid isPermaLink="false">a1e3664a-2e38-4aad-97eb-2db04cb59f6a</guid>
+            <pubDate>Mon, 24 Aug 2026 21:15:33 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) is grinding higher against the Japanese Yen (JPY) at the time of writing, with USD/JPY holding north of the 159.00 mark.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore: National Day Rally focus – DBS]]></title>
+            <link>https://www.fxstreet.com/news/singapore-national-day-rally-focus-dbs-202608242114</link>
+            <guid isPermaLink="false">6e479cf5-cb26-40ac-b417-d32f0f8b2797</guid>
+            <pubDate>Mon, 24 Aug 2026 21:14:00 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economist Chua Han Teng reviews Prime Minister Lawrence Wong’s National Day Rally 2026, highlighting policy themes rather than markets.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Asia FX: Mixed central bank paths shape THB, KRW, PHP – BBH]]></title>
             <link>https://www.fxstreet.com/news/asia-fx-mixed-central-bank-paths-shape-thb-krw-php-bbh-202608242033</link>
@@ -20,7 +52,7 @@
             <link>https://www.fxstreet.com/news/mexican-peso-weakens-as-iran-sanctions-offset-mexicos-inflation-data-202608242013</link>
             <guid isPermaLink="false">86825cbd-5a23-4091-a318-7279eb49ea55</guid>
             <pubDate>Mon, 24 Aug 2026 20:13:47 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso lost ground against the Greenback on Monday, even though economic data showed that inflation accelerated in the first half of August, while economic growth was softer than expected. Consequently, the USD/MXN exotic pair trades with gains of over 0.25%, at 16.96.]]></description>
+            <description><![CDATA[The Mexican Peso (MXN) loses ground against the Greenback on Monday, even though economic data showed that inflation accelerated in the first half of August, while economic growth was softer than expected. Consequently, the USD/MXN pair trades with gains of over 0.25% to 16.96.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 14:44:33 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) is the main G10 underperformer after US/Canada trade talks collapsed. Ottawa’s pledge to respond to tariffs and provide domestic aid raises uncertainty for Canadian businesses.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Jackson Hole communication focus – Wells Fargo]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-jackson-hole-communication-focus-wells-fargo-202608241433</link>
-            <guid isPermaLink="false">3fb726b2-d112-4f26-b7d8-d114ff00ed1a</guid>
-            <pubDate>Mon, 24 Aug 2026 14:33:13 GMT</pubDate>
-            <description><![CDATA[Wells Fargo Economics argues that Jackson Hole is often overhyped, with only a couple of truly consequential speeches in the past 14 years.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Kevin-Warsh-2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of Canada: Rates seen on hold then higher – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-canada-rates-seen-on-hold-then-higher-td-securities-202608241421</link>
-            <guid isPermaLink="false">49e7cc19-417b-4f4b-87c2-cf3b7d803a86</guid>
-            <pubDate>Mon, 24 Aug 2026 14:21:43 GMT</pubDate>
-            <description><![CDATA[TD Securities expects the Bank of Canada to maintain the Overnight Rate at 2.25% through 2026, despite headline CPI near the top of its target range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoC-rate-decision.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US President Trump announces tariffs on Canadian autos, trucks and steel]]></title>
-            <link>https://www.fxstreet.com/news/us-president-trump-announces-tariffs-on-canadian-autos-trucks-and-steel-202608241413</link>
-            <guid isPermaLink="false">670985c5-1c84-4744-8d41-fdf05b793b0e</guid>
-            <pubDate>Mon, 24 Aug 2026 14:13:48 GMT</pubDate>
-            <description><![CDATA[United States (US) President Donald Trump has announced a sharp escalation in the trade fight with Canada, declaring that beginning January 1, 2027, the United States will raise tariffs to 50% on all cars, trucks, automotive parts, and steel imported from its northern neighbor.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Weakness may stabilize as US growth advantage persists - BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-weakness-may-stabilize-as-us-growth-advantage-persists-bbh-202608241411</link>
-            <guid isPermaLink="false">9310eb72-da94-4763-b4dc-3545db40723c</guid>
-            <pubDate>Mon, 24 Aug 2026 14:11:49 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that the Treasury’s buyback announcement initially pushed longer-term Treasuries lower, weakened the Dollar and boosted Gold. He argues the USD slump should stabilize this week, with the US growth advantage offsetting fiscal concerns.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
