@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 11:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 12:02:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hungarian Forint: MNB easing and HUF carry prospects – BNY]]></title>
+            <link>https://www.fxstreet.com/news/hungarian-forint-mnb-easing-and-huf-carry-prospects-bny-202608241201</link>
+            <guid isPermaLink="false">de0be6ad-e564-4194-9c03-0c268d9b9dbd</guid>
+            <pubDate>Mon, 24 Aug 2026 12:01:15 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu describes Hungary as a constructive story within EMEA, with post-election re-rating and scope for continued MNB easing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: GDP rebound supports Loonie – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-gdp-rebound-supports-loonie-td-securities-202608241151</link>
+            <guid isPermaLink="false">02333c32-c1a3-4746-8cb2-3dd1ee80c247</guid>
+            <pubDate>Mon, 24 Aug 2026 11:51:14 GMT</pubDate>
+            <description><![CDATA[TD Securities economists Robert Both and Emma Lawrence expect Canada’s Q2 National Accounts to show a sharp rebound in Gross Domestic Product (GDP) growth, driven by stronger exports and solid services activity.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Debasement narrative caps upside – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-debasement-narrative-caps-upside-ocbc-202608241139</link>
+            <guid isPermaLink="false">a7539d9c-f03f-42a8-9c4f-9611d4f25a0d</guid>
+            <pubDate>Mon, 24 Aug 2026 11:39:59 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that the US Treasury’s expanded long-end buyback programme has revived market fears of Dollar debasement, driving a weaker USD, stronger Gold and higher breakevens.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Experts agree: Japanese Yen needs more than intervention to take off from lows]]></title>
+            <link>https://www.fxstreet.com/news/experts-agree-japanese-yen-needs-more-than-intervention-to-take-off-from-lows-202608241139</link>
+            <guid isPermaLink="false">23710d48-87bc-4324-853c-45a9befc0ed9</guid>
+            <pubDate>Mon, 24 Aug 2026 11:39:51 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) extends losses against the US Dollar (USD) in a calm trading session on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold: Breakout sustains upward momentum – Societe Generale]]></title>
             <link>https://www.fxstreet.com/news/gold-breakout-sustains-upward-momentum-societe-generale-202608241126</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 08:08:53 GMT</pubDate>
             <description><![CDATA[The GBP/JPY cross attracts some dip-buyers near the 216.20 area and touches a fresh monthly high during the early part of the European session on Monday. Spot prices currently trade just above the 217.00 mark and seem poised to appreciate further amid a broadly weaker Japanese Yen (JPY).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD steadies around $69.00 amid US bond buybacks]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-steadies-around-6900-amid-us-bond-buybacks-202608240801</link>
-            <guid isPermaLink="false">3fdf1377-8b86-419a-84fa-e4bef6d990a8</guid>
-            <pubDate>Mon, 24 Aug 2026 08:01:32 GMT</pubDate>
-            <description><![CDATA[Silver price (XAG/USD) remains stronger for the fourth successive day, trading around $69.00 per troy ounce during the European hours on Monday. Silver price rises as concerns over United States (US) debt management and fiscal sustainability persist.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: Majors stay quiet as investors await US' 'economic D-Day' sanctions]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-majors-stay-quiet-as-investors-await-us-economic-d-day-sanctions-202608240800</link>
-            <guid isPermaLink="false">27f5e2ad-4a29-4528-8aa9-6154e69a9e69</guid>
-            <pubDate>Mon, 24 Aug 2026 08:00:45 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Monday, August 24:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/risk-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Momentum fades as yields stay high – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-momentum-fades-as-yields-stay-high-mufg-202608240756</link>
-            <guid isPermaLink="false">651de896-7bd1-414d-990c-b655b424f698</guid>
-            <pubDate>Mon, 24 Aug 2026 07:56:53 GMT</pubDate>
-            <description><![CDATA[MUFG’s Lloyd Chan notes that the Dollar has extended its recent soft patch even as US Q3 GDP forecasts are upgraded to 2.5% annualized from 2.0%. Elevated fiscal deficits and long-end Treasury yields are weighing on sentiment.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: ECB patience with inflation and growth tension – BNY]]></title>
-            <link>https://www.fxstreet.com/news/euro-ecb-patience-with-inflation-and-growth-tension-bny-202608240746</link>
-            <guid isPermaLink="false">15ed2865-71b7-47ee-bf5d-ac9f05d2d628</guid>
-            <pubDate>Mon, 24 Aug 2026 07:46:41 GMT</pubDate>
-            <description><![CDATA[Geoff Yu at BNY notes that Europe is seeking a Goldilocks mix of improving activity without reigniting inflation, with Euro strength already tightening conditions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
