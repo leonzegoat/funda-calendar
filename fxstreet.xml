@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 18:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 19:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG pullback tests 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-pullback-tests-100-day-sma-202608241852</link>
+            <guid isPermaLink="false">38b4cce4-ee57-4e04-9749-82099499c330</guid>
+            <pubDate>Mon, 24 Aug 2026 18:52:11 GMT</pubDate>
+            <description><![CDATA[Silver price reverses course on Monday, down 0.59% as buyers failed to push the white metal past the $70.00, which exacerbated a reversal, to the first support level seen at the 100-day Simple Moving Average (SMA) at $68.42. At the time of writing, XAG/USD trades at $68.52, afer peaking at $69.92.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Upside risk stays intact against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-intact-against-us-dollar-uob-202608241841</link>
+            <guid isPermaLink="false">389bd1cc-8eea-49c9-b69a-2bececf3aa52</guid>
+            <pubDate>Mon, 24 Aug 2026 18:41:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann maintain a cautious stance on USD/SGD after Friday’s drop to 1.2682 and close near 1.2700.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/SGD2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rallies as Iran sanctions stoke haven demand]]></title>
+            <link>https://www.fxstreet.com/news/gold-rallies-as-iran-sanctions-stoke-haven-demand-202608241820</link>
+            <guid isPermaLink="false">69425107-acbf-493a-840e-c65e4d27be9a</guid>
+            <pubDate>Mon, 24 Aug 2026 18:20:57 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) price resumes its advance on Monday and refreshes three-month highs at $4,681 as US Treasury Secretary Scott Bessent crosses the wires to reveal sanctions on Iran-linked entities, while investors await a speech by new Fed Chair Kevin Warsh at the Jackson Hole symposium on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc eases as US Dollar stabilizes after last week’s sell-off]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-eases-as-us-dollar-stabilizes-after-last-weeks-sell-off-202608241814</link>
+            <guid isPermaLink="false">745d1117-b445-480d-8d57-c76b61f20752</guid>
+            <pubDate>Mon, 24 Aug 2026 18:14:12 GMT</pubDate>
+            <description><![CDATA[USD/CHF edges higher on Monday as the US Dollar (USD) steadies after last week’s sell-off sparked by the US Treasury’s announcement to increase longer-dated bond buybacks. Market attention has now shifted back to US-Iran tensions after Washington unveiled a fresh sanctions campaign against Tehran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Euro stalls below recent highs against Pound Sterling as German surveys take center stage]]></title>
             <link>https://www.fxstreet.com/news/euro-stalls-below-recent-highs-against-pound-sterling-as-german-surveys-take-center-stage-202608241807</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 13:14:58 GMT</pubDate>
             <description><![CDATA[The United States (US) Treasury is expected to broaden the scope of secondary sanctions it can impose on entities and countries that maintain business ties with Iran, reports Reuters.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usa-capitol.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States: Sideways growth with stagflation risks – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/united-states-sideways-growth-with-stagflation-risks-td-securities-202608241308</link>
-            <guid isPermaLink="false">871e45a6-3c9f-40fa-b53f-33b55ccf50f4</guid>
-            <pubDate>Mon, 24 Aug 2026 13:08:24 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists expect United States (US) output growth to move sideways in 2026, with their Gross Domestic Product (GDP) tracker at 2.5% quarter-on-quarter annualized and full-year growth slightly below trend at 2.1% Q4/Q4.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Trade war escalation threatens recent strength – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-trade-war-escalation-threatens-recent-strength-mufg-202608241257</link>
-            <guid isPermaLink="false">e536546d-a3a1-4ec1-8125-11dc4208fd4b</guid>
-            <pubDate>Mon, 24 Aug 2026 12:57:20 GMT</pubDate>
-            <description><![CDATA[MUFG's Derek Halpenny argues the Canadian Dollar’s (CAD) reaction to the new US tariffs on USD 20bn of Canadian exports will hinge on escalation risks rather than the initial measures.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-cad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Range consolidation against US Dollar as growth gap narrows – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/euro-range-consolidation-against-us-dollar-as-growth-gap-narrows-societe-generale-202608241246</link>
-            <guid isPermaLink="false">d19e567d-7a01-42c3-9e25-b30199a38609</guid>
-            <pubDate>Mon, 24 Aug 2026 12:46:46 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Kit Juckes notes EUR/USD has retraced half of its drop from above 1.20 to 1.1325 and is now stuck in a range as markets await fresh US data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Policy risks keep downside bias – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-policy-risks-keep-downside-bias-ing-202608241233</link>
-            <guid isPermaLink="false">77783c8e-aada-4a22-9e6b-c584a7107e3d</guid>
-            <pubDate>Mon, 24 Aug 2026 12:33:56 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner, Francesco Pesole and Frantisek Taborsky note the Dollar starts the week soft as markets await US policy signals from the White House.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
