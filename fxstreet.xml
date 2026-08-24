@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 23 Aug 2026 23:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 01:52:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold gains momentum above $4,600 on US Treasury buyback plans  ]]></title>
+            <link>https://www.fxstreet.com/news/gold-gains-momentum-above-4-600-on-us-treasury-buyback-plans-202608240140</link>
+            <guid isPermaLink="false">ec5e6a16-9fd8-4ed0-9476-d0877e00d707</guid>
+            <pubDate>Mon, 24 Aug 2026 01:40:30 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) gains traction to around $4,625 during the early Asian trading hours on Monday. The precious metal climbs to the highest since May 15 as the US Treasury's buyback support plan weighs on the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI slips below $85.00 as traders take profits before new US sanctions on Iran]]></title>
+            <link>https://www.fxstreet.com/news/wti-slips-below-8500-as-traders-take-profits-before-new-us-sanctions-on-iran-202608240130</link>
+            <guid isPermaLink="false">120797df-0aee-45b0-b111-f0827a114c29</guid>
+            <pubDate>Mon, 24 Aug 2026 01:30:59 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price depreciates after two days of gains, trading around $84.80 per barrel during the Asian hours on Monday. Crude oil prices decline as investors took profits ahead of an expected US announcement regarding stricter sanctions against Iran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound holds near Feb. 11 highs vs weak USD as bulls await breakout above 1.3660]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-holds-near-feb-11-highs-vs-weak-usd-as-bulls-await-breakout-above-13660-202608240116</link>
+            <guid isPermaLink="false">07374491-a3a4-4052-9147-599b5b39aa3d</guid>
+            <pubDate>Mon, 24 Aug 2026 01:16:31 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair trades with a positive bias around mid-1.3600s at the start of a new week and remains well within striking distance of its highest level since February 11, touched on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7841 vs. 6.7817 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67841-vs-67817-previous-202608240115</link>
+            <guid isPermaLink="false">2e0e203a-0b38-45b1-93f2-87e1a79c4c03</guid>
+            <pubDate>Mon, 24 Aug 2026 01:15:38 GMT</pubDate>
+            <description><![CDATA[On Monday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7841 compared to Friday's fix of 6.7817 and 6.7248 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxstreet.com/images/i/NeutralScale.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro holds steady against US Dollar amid US debt strategy]]></title>
+            <link>https://www.fxstreet.com/news/euro-holds-steady-against-us-dollar-amid-us-debt-strategy-202608240055</link>
+            <guid isPermaLink="false">3863f9a6-243d-4f1e-8bbc-ccb3493ff56f</guid>
+            <pubDate>Mon, 24 Aug 2026 00:55:49 GMT</pubDate>
+            <description><![CDATA[EUR/USD remains stronger for the fourth successive trading day, hovering around 1.1680 during the Asian hours on Monday. The currency pair holds its ground as the US Dollar (USD) struggles under pressure from newly announced United States (US) fiscal moves.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada’s Carney: Retaliatory tariffs will start September 8]]></title>
+            <link>https://www.fxstreet.com/news/canadas-carney-retaliatory-tariffs-will-start-september-8-202608240047</link>
+            <guid isPermaLink="false">ceff6239-01eb-43bc-8c16-ec606e2135a6</guid>
+            <pubDate>Mon, 24 Aug 2026 00:47:43 GMT</pubDate>
+            <description><![CDATA[The United States (US) imposed 50% tariffs on some Canadian products on Saturday after trade talks between the two countries fell apart on Friday. In response, Canadian Prime Minister Mark Carney said that the country would impose its own retaliatory tariffs beginning on September 8, CNBC reported.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar posts modest gains above 0.7150 on US Treasury buyback worries  ]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-posts-modest-gains-above-07150-on-us-treasury-buyback-worries-202608240039</link>
+            <guid isPermaLink="false">597be5c8-455c-47b5-b0bd-3e9ed7b654bc</guid>
+            <pubDate>Mon, 24 Aug 2026 00:39:26 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair trades with mild gains around 0.7175 during the early Asian session on Monday. The US Dollar (USD) edges lower against the Australian Dollar (AUD) amid concerns over the US Treasury's plan to expand buybacks of longer-dated government debt.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar edges lower below 0.6000 after weaker Retail Sales data   ]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-06000-after-weaker-retail-sales-data-202608232339</link>
@@ -190,62 +246,6 @@
             <pubDate>Fri, 21 Aug 2026 16:41:17 GMT</pubDate>
             <description><![CDATA[Iranian President Masoud Pezeshkian stated that “It would be better to end the war today, when we have power and dignity, and with the whole world acknowledging our victory,” according to a Bloomberg report on Friday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of Canada: Tariff deal unlikely to accelerate hikes – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-canada-tariff-deal-unlikely-to-accelerate-hikes-td-securities-202608211638</link>
-            <guid isPermaLink="false">731a19c5-0d2a-4584-a81e-26c6f581346a</guid>
-            <pubDate>Fri, 21 Aug 2026 16:38:00 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Robert Both expects the Bank of Canada to remain cautious even if a tariff agreement is reached. The Bank wants more data on how lower tariffs affect exports and output, with key trade figures not available until November.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoC-rate-decision.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro treads water vs Yen as Japanese inflation, European PMIs offset each other]]></title>
-            <link>https://www.fxstreet.com/news/euro-treads-water-vs-yen-as-japanese-inflation-european-pmis-offset-each-other-202608211619</link>
-            <guid isPermaLink="false">5de7ba98-9213-42ac-bbfe-348028ea7485</guid>
-            <pubDate>Fri, 21 Aug 2026 16:19:49 GMT</pubDate>
-            <description><![CDATA[EUR/JPY trades around 185.70 on Friday at the time of writing, virtually unchanged on the day. The Japanese Yen (JPY) gains some support from firmer Japanese inflation data, but the move is offset by resilience in the Euro (EUR) following better-than-expected activity indicators in the Eurozone.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dow Jones Industrial Average buys its own bond problem]]></title>
-            <link>https://www.fxstreet.com/news/the-dow-jones-industrial-average-buys-its-own-bond-problem-202608211617</link>
-            <guid isPermaLink="false">3f52f02b-55a7-49e3-903b-887472e18428</guid>
-            <pubDate>Fri, 21 Aug 2026 16:17:45 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average trades roughly 430 points higher at just above 53,200, taking back the larger part of a Thursday decline that ran close to 690 points.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: Structural LTROs could ease funding pressure - Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-structural-ltros-could-ease-funding-pressure-rabobank-202608211551</link>
-            <guid isPermaLink="false">d300c6c5-87c7-4046-8405-fcb7b2b32096</guid>
-            <pubDate>Fri, 21 Aug 2026 15:51:00 GMT</pubDate>
-            <description><![CDATA[Rabobank's Bas van Geffen, analyses how forthcoming structural Longer-term Refinancing Operations (LTROs) could complement the European Central Bank's (ECB) standard refinancing operations as excess liquidity declines.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound eases as UK sales drop, US services beat forecasts]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-eases-as-uk-sales-drop-us-services-beat-202608211548</link>
-            <guid isPermaLink="false">15c4e9cf-0fad-42b8-a083-b69bf96efc90</guid>
-            <pubDate>Fri, 21 Aug 2026 15:48:13 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling (GBP) loses some ground against the US Dollar (USD) on Friday, though it remains poised to end the week with gains of over 0.60%, even as UK Retail Sales disappointed investors and US business activity improved in August.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[$4,600: Gold rallies to three-month high, eyes third weekly gain]]></title>
-            <link>https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106</link>
-            <guid isPermaLink="false">92635d83-47dd-4338-aeb8-e918e33c348e</guid>
-            <pubDate>Fri, 21 Aug 2026 11:06:55 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) is heading for a third consecutive weekly gain on Friday, extending an impressive rally that has lifted the precious metal by around 13% so far this month. At the time of writing, XAU/USD trades around $4,603, its highest level since May 15.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/USD Price Forecast: Bulls eye 0.7200 as RSI nears overbought territory]]></title>
-            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-as-rsi-nears-overbought-territory-202608211526</link>
-            <guid isPermaLink="false">dff7c302-300f-427f-80df-ac8e7cd89b97</guid>
-            <pubDate>Fri, 21 Aug 2026 15:26:03 GMT</pubDate>
-            <description><![CDATA[AUD/USD edges higher on Friday, climbing to its highest level since June 3 as the Australian Dollar (AUD) outperforms all its major peers.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
