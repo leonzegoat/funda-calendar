@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 13:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 14:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Canadian Dollar slides as Trump escalates trade war with Canada]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-slides-as-trump-escalates-trade-war-with-canada-202608241403</link>
+            <guid isPermaLink="false">0e21a4af-20af-42ca-b597-ecf8589ca983</guid>
+            <pubDate>Mon, 24 Aug 2026 14:03:36 GMT</pubDate>
+            <description><![CDATA[USD/CAD extends its advance on Monday, trading around 1.3830 at the time of writing, up 0.52% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Rally vulnerable to reversal against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/euro-rally-vulnerable-to-reversal-against-us-dollar-scotiabank-202608241355</link>
+            <guid isPermaLink="false">3aa28125-eedb-46d4-bb67-3671056bc5b0</guid>
+            <pubDate>Mon, 24 Aug 2026 13:55:57 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Euro (EUR) is softer against the Dollar (USD) after an almost 3% rally from late July, with price action turning defensive.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold extends gains as US Treasury buyback fallout keeps buyers in control]]></title>
+            <link>https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107</link>
+            <guid isPermaLink="false">29625003-e588-43f4-9541-0f0c14572ca1</guid>
+            <pubDate>Mon, 24 Aug 2026 11:07:10 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD)extends its intraday advance on Monday, building on the strong rally seen last week following the US Treasury’s buyback announcement. At the time of writing, XAU/USD trades around $4,674, up nearly 1.5% on the day at levels last seen on May 14.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada: Tariffs reshape outlook – RBC]]></title>
+            <link>https://www.fxstreet.com/news/canada-tariffs-reshape-outlook-rbc-202608241334</link>
+            <guid isPermaLink="false">c7e34f76-ddda-4ad8-9c30-6259e3ad80a3</guid>
+            <pubDate>Mon, 24 Aug 2026 13:34:51 GMT</pubDate>
+            <description><![CDATA[Royal Bank of Canada (RBC) analyzes new Section 338 U.S. tariffs on Canadian exports, noting a 50% rate on goods representing about 5% of Canada’s exports to the United States.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro holds ground as US Dollar steadies, markets brace for Iran sanctions]]></title>
+            <link>https://www.fxstreet.com/news/euro-holds-ground-as-us-dollar-steadies-and-markets-brace-for-iran-sanctions-202608241330</link>
+            <guid isPermaLink="false">d23307cc-bb0c-4166-b587-2a5aba4a1de4</guid>
+            <pubDate>Mon, 24 Aug 2026 13:30:14 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades flat on Monday as the US Dollar (USD) steadies and markets settle into a calmer tone following the sharp volatility triggered by the US Treasury’s surprise buyback announcement last week. At the time of writing, the pair trades around 1.1670, hovering near levels last seen in mid-May.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal Reserve: Warsh faces a communication test – DBS]]></title>
+            <link>https://www.fxstreet.com/news/federal-reserve-warsh-faces-a-communication-test-dbs-202608241319</link>
+            <guid isPermaLink="false">070e819e-cef8-4300-94ad-032137f08c30</guid>
+            <pubDate>Mon, 24 Aug 2026 13:19:36 GMT</pubDate>
+            <description><![CDATA[DBS Bank strategist Philip Wee argues that Fed Chairman Kevin Warsh’s rejection of forward guidance is amplifying market volatility and complicating the policy mix with the Treasury.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-76.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Reuters: US Treasury's Scott Bessent to announce more sanctions on Iran]]></title>
+            <link>https://www.fxstreet.com/news/reuters-us-treasurys-scott-bessent-to-announce-more-sanctions-on-iran-202608241314</link>
+            <guid isPermaLink="false">1a222ee8-dca7-4d3c-992f-8e546a8d8e1c</guid>
+            <pubDate>Mon, 24 Aug 2026 13:14:58 GMT</pubDate>
+            <description><![CDATA[The United States (US) Treasury is expected to broaden the scope of secondary sanctions it can impose on entities and countries that maintain business ties with Iran, reports Reuters.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-capitol.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[United States: Sideways growth with stagflation risks – TD Securities]]></title>
             <link>https://www.fxstreet.com/news/united-states-sideways-growth-with-stagflation-risks-td-securities-202608241308</link>
@@ -38,14 +94,6 @@
             <pubDate>Mon, 24 Aug 2026 12:33:56 GMT</pubDate>
             <description><![CDATA[ING’s Chris Turner, Francesco Pesole and Frantisek Taborsky note the Dollar starts the week soft as markets await US policy signals from the White House.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold extends rally as markets await US PCE and Warsh’s Jackson Hole speech]]></title>
-            <link>https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107</link>
-            <guid isPermaLink="false">29625003-e588-43f4-9541-0f0c14572ca1</guid>
-            <pubDate>Mon, 24 Aug 2026 11:07:10 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) holds intraday gains at the start of American trading hours on Monday, building on the strong rally seen last week following the US Treasury’s buyback announcement. At the time of writing, XAU/USD trades around $4,658, up nearly 1.2% on the day at levels last seen on May 15.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Australian Dollar: Cooling inflation but carry remains supportive – BBH]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 09:31:38 GMT</pubDate>
             <description><![CDATA[Silver prices (XAG/USD) fell on Monday, according to FXStreet data. Silver trades at $68.80 per troy ounce, down 0.25% from the $68.98 it cost on Friday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Polish Zloty: Budget risks point to further weakness versus Euro - Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/polish-zloty-budget-risks-point-to-further-weakness-versus-euro-societe-generale-202608240927</link>
-            <guid isPermaLink="false">f8e91835-07ca-443a-b3c1-dcd07288860f</guid>
-            <pubDate>Mon, 24 Aug 2026 09:27:35 GMT</pubDate>
-            <description><![CDATA[Societe Generale says Poland’s elevated fiscal deficit and rapidly rising public debt could keep pressure on the zloty, with the draft 2027 budget set to provide the next key test for investor appetite.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungarian Forint: Rate path extends beyond summer – ING]]></title>
-            <link>https://www.fxstreet.com/news/hungarian-forint-rate-path-extends-beyond-summer-ing-202608240916</link>
-            <guid isPermaLink="false">b9e55804-3e11-4874-9267-a06454623915</guid>
-            <pubDate>Mon, 24 Aug 2026 09:16:49 GMT</pubDate>
-            <description><![CDATA[ING strategists see Tuesday’s National Bank of Hungary (NBH) decision as the final step in a summer mini rate-cut cycle, but expect easing to continue.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds near three-month highs as investors await US sanctions to Iran]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-near-three-month-highs-as-investors-await-us-sanctions-to-iran-202608240915</link>
-            <guid isPermaLink="false">5eb246aa-e987-4e18-9bac-094a7b54e8e1</guid>
-            <pubDate>Mon, 24 Aug 2026 09:15:23 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) nurses minor losses against the US Dollar (USD) on Monday but holds most of the gains taken last week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen weakens against recovering USD; seems vulnerable amid US-Japan rate gap]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-weakens-against-recovering-usd-seems-vulnerable-amid-us-japan-rate-gap-202608240909</link>
-            <guid isPermaLink="false">b35e18d8-d19d-456a-9a33-97dae52909d6</guid>
-            <pubDate>Mon, 24 Aug 2026 09:09:12 GMT</pubDate>
-            <description><![CDATA[The USD/JPY pair rallies over 75 pips following an intraday slide to mid-158.00s and climbs to a fresh daily high during the first half of the European session on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-96.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Warsh speech shapes Dollar and Treasuries – BNY]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-warsh-speech-shapes-dollar-and-treasuries-bny-202608240907</link>
-            <guid isPermaLink="false">f56f5943-c717-43f2-bb00-dbbbe37c0208</guid>
-            <pubDate>Mon, 24 Aug 2026 09:07:34 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu highlights that markets will focus on Kevin Warsh’s first Jackson Hole appearance, with July PCE data seen as a precursor for U.S. rates and Dollar moves.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures slip as US Treasury pledges buybacks, Middle East tensions persist]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-slip-as-us-treasury-pledges-buybacks-middle-east-tensions-persist-202608240859</link>
-            <guid isPermaLink="false">aafbe4e7-6094-4699-b950-aa1dc5a72e5d</guid>
-            <pubDate>Mon, 24 Aug 2026 08:59:45 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures remain subdued around 53,350 during European hours on Monday. Meanwhile, S&P 500 futures decline by 0.17%, to trade near 7,680, and Nasdaq 100 futures fall by 0.65% to trade around 29,200.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_Nasdaq-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
