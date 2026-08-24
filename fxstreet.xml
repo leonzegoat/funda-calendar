@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 15:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 15:57:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar retreats from recent highs on weak Retail Sales]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-retreats-from-recent-highs-on-weak-retail-sales-202608241552</link>
+            <guid isPermaLink="false">bf9ef0c5-e240-48c5-8cf3-194655349303</guid>
+            <pubDate>Mon, 24 Aug 2026 15:52:49 GMT</pubDate>
+            <description><![CDATA[NZD/USD retreats to around 0.5960 on Monday at the time of writing, down 0.25% on the day, after approaching the 0.6000 level on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold extends gains as US Treasury buyback fallout keeps buyers in control]]></title>
+            <link>https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107</link>
+            <guid isPermaLink="false">29625003-e588-43f4-9541-0f0c14572ca1</guid>
+            <pubDate>Mon, 24 Aug 2026 11:07:10 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) remains firmly bid on Monday after last week’s rally sparked by the US Treasury’s buyback announcement. However, buyers appear hesitant to push prices much higher as traders await key risk events later this week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar pulls back near multi-month highs as traders await RBA Minutes]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-pulls-back-near-multi-month-highs-as-traders-await-rba-minutes-202608241543</link>
+            <guid isPermaLink="false">c4e5964b-f8e5-49a5-b4ee-aefcb3f47902</guid>
+            <pubDate>Mon, 24 Aug 2026 15:43:58 GMT</pubDate>
+            <description><![CDATA[AUD/USD is pulling back to the 0.7150 region, consolidating just below its recent multi-month highs. Traders are largely focused on the Reserve Bank of Australia (RBA) Minutes due later in the Asian session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: 100-day SMA caps upside near $85]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-100-day-sma-caps-upside-near-85-202608241541</link>
+            <guid isPermaLink="false">4fe7d1f8-deab-45c2-bc5f-a74c85171241</guid>
+            <pubDate>Mon, 24 Aug 2026 15:41:44 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) Oil trades on the back foot on Monday after gaining more than 5% last week. The pullback comes even as the broader backdrop remains largely unchanged, with Middle East tensions elevated and shipping through the Strait of Hormuz still heavily restricted.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Sentiment supports further gains against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sentiment-supports-further-gains-against-us-dollar-scotiabank-202608241529</link>
+            <guid isPermaLink="false">ca28d17d-3160-4767-b27d-d91c9142a4cc</guid>
+            <pubDate>Mon, 24 Aug 2026 15:29:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report that the British Pound (GBP) is flat versus the Dollar but outperforming G10 peers despite broad USD strength. With data light, attention turns to PM Burnham’s visit to Kiev and the October 28 budget.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: Spending and inflation outlook – Wells Fargo]]></title>
+            <link>https://www.fxstreet.com/news/united-states-spending-and-inflation-outlook-wells-fargo-202608241506</link>
+            <guid isPermaLink="false">e1be420f-5dfc-467b-9a1e-0098dbc2ae8a</guid>
+            <pubDate>Mon, 24 Aug 2026 15:06:39 GMT</pubDate>
+            <description><![CDATA[Wells Fargo Economics, led by Tom Porcelli and colleagues, expects July consumer spending to rise modestly, with nominal Personal Income up 0.3% and spending up 0.2%. They highlight fading support from tax refunds, leaving demand more reliant on income growth.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Copper: AI-driven demand reshapes pricing – Societe Generale]]></title>
             <link>https://www.fxstreet.com/news/copper-ai-driven-demand-reshapes-pricing-societe-generale-202608241457</link>
@@ -78,14 +126,6 @@
             <pubDate>Mon, 24 Aug 2026 13:55:57 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Euro (EUR) is softer against the Dollar (USD) after an almost 3% rally from late July, with price action turning defensive.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold extends gains as US Treasury buyback fallout keeps buyers in control]]></title>
-            <link>https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107</link>
-            <guid isPermaLink="false">29625003-e588-43f4-9541-0f0c14572ca1</guid>
-            <pubDate>Mon, 24 Aug 2026 11:07:10 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD)extends its intraday advance on Monday, building on the strong rally seen last week following the US Treasury’s buyback announcement. At the time of writing, XAU/USD trades around $4,674, up nearly 1.5% on the day at levels last seen on May 14.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Canada: Tariffs reshape outlook – RBC]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 11:39:59 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that the US Treasury’s expanded long-end buyback programme has revived market fears of Dollar debasement, driving a weaker USD, stronger Gold and higher breakevens.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Experts agree: Japanese Yen needs more than intervention to take off from lows]]></title>
-            <link>https://www.fxstreet.com/news/experts-agree-japanese-yen-needs-more-than-intervention-to-take-off-from-lows-202608241139</link>
-            <guid isPermaLink="false">23710d48-87bc-4324-853c-45a9befc0ed9</guid>
-            <pubDate>Mon, 24 Aug 2026 11:39:51 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) extends losses against the US Dollar (USD) in a calm trading session on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Breakout sustains upward momentum – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/gold-breakout-sustains-upward-momentum-societe-generale-202608241126</link>
-            <guid isPermaLink="false">a6631e23-20d5-41a4-9985-3f348b2a0e11</guid>
-            <pubDate>Mon, 24 Aug 2026 11:26:06 GMT</pubDate>
-            <description><![CDATA[Societe Generale analysts highlight that Gold has broken out of a small base formation, reclaimed its 200‑DMA and is enjoying an extended rebound. The move is framed within broader Dollar debasement concerns and rising term premium.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Positioning supports gradual gains against US Dollar – ING]]></title>
-            <link>https://www.fxstreet.com/news/euro-positioning-supports-gradual-gains-against-us-dollar-ing-202608241117</link>
-            <guid isPermaLink="false">030b9fdf-4754-4a31-92cf-f70e62b8a0a9</guid>
-            <pubDate>Mon, 24 Aug 2026 11:17:14 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner highlights futures data showing asset managers and leveraged funds adding Euro exposure, leaving speculators underweight. He notes recovering German IFO and Eurozone PMIs, and sees limited need for EUR/USD to drop sharply below 1.1660/70 unless risk assets suffer.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar: Retail slump yet hikes priced – BBH]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-retail-slump-yet-hikes-priced-bbh-202608241106</link>
-            <guid isPermaLink="false">8ea86338-c4e5-45bd-9af7-1be9e8dac0ac</guid>
-            <pubDate>Mon, 24 Aug 2026 11:06:44 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights that New Zealand retail sales volumes unexpectedly fell in Q2, driven by fuel and motor-related categories, while core sales still rose, showing resilient domestic demand.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-nzd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/USD Price Forecast: Aussie eases from 12-week highs with bulls still in command]]></title>
-            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-aussie-eases-from-12-week-highs-with-bulls-still-in-command-202608241049</link>
-            <guid isPermaLink="false">a65a1eb7-48ee-4143-a6d3-820c693c6adc</guid>
-            <pubDate>Mon, 24 Aug 2026 10:49:45 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) ticks lower against the US Dollar (USD) on Monday, but maintains its broader bullish tone, with the AUD/USD pair trading at 0.7164, a few pips shy of the 12-week high of 0.7180 hit last Friday.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/BullishChart.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
