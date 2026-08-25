@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 15:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 16:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average round-trips between Ottawa and the Treasury]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-between-ottawa-and-the-treasury-202608251636</link>
+            <guid isPermaLink="false">2a239827-e2eb-43c3-a2ff-26802d616b74</guid>
+            <pubDate>Tue, 25 Aug 2026 16:36:36 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average has built a 300-point advance and handed every point of it back inside a single vertical break, and it trades just beneath 53,500 for a gain of roughly a tenth of a percent. The session range runs better than 320 points against a net of 67.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Resilient growth versus fiscal strain – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-resilient-growth-versus-fiscal-strain-rabobank-202608251634</link>
+            <guid isPermaLink="false">10cebb76-68b7-4a71-964a-df820a6e908b</guid>
+            <pubDate>Tue, 25 Aug 2026 16:34:00 GMT</pubDate>
+            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley highlights that recent UK data, including Q2 Gross Domestic Product (GDP), real output per head and the August composite Purchasing Managers' Index (PMI), point to resilient growth and improved consumer confidence.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar faces double trouble from Oil slump, US tariffs]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-faces-double-trouble-from-oil-slump-us-tariffs-202608251622</link>
+            <guid isPermaLink="false">9472f749-f4cc-47e1-9579-adc85b7af1b6</guid>
+            <pubDate>Tue, 25 Aug 2026 16:22:07 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades around 1.3835 on Tuesday at the time of writing, down a modest 0.07% on the day. The pair lacks a clear direction as both the US Dollar (USD) and the Canadian Dollar (CAD) face headwinds.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany: Business climate brightens – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/germany-business-climate-brightens-commerzbank-202608251618</link>
+            <guid isPermaLink="false">82e41d8b-fddf-4e40-9765-dd3b72f4dc15</guid>
+            <pubDate>Tue, 25 Aug 2026 16:18:22 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Dr. Ralph Solveen notes that the German Ifo Business Climate Index rose from 86.7 to 88.8 in August, with both current conditions and expectations improving. He highlights stronger foreign demand, rising government spending and better sentiment as factors supporting growth.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dax-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound holds near six-month high as Hormuz hopes lift sentiment]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-holds-near-six-month-high-as-hormuz-hopes-lift-sentiment-202608251605</link>
+            <guid isPermaLink="false">46ea3363-841e-4ede-bb07-85d73ef354f4</guid>
+            <pubDate>Tue, 25 Aug 2026 16:05:02 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) consolidates near a six-month high of 1.3675 on Tuesday as Middle East headlines improve risk appetite, while investors await the release of key US economic data and the speech by Federal Reserve (Fed) Chair Kevin Warsh at Jackson Hole.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Eurozone: AfD surge raises policy uncertainty – ING]]></title>
             <link>https://www.fxstreet.com/news/eurozone-afd-surge-raises-policy-uncertainty-ing-202608251522</link>
@@ -16,7 +56,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Australian Dollar steadies after hawkish RBA Minutes as soft US Dollar lends support]]></title>
+            <title><![CDATA[Australian Dollar up modestly on RBA, weak USD]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-steadies-after-hawkish-rba-minutes-as-soft-us-dollar-lends-support-202608251520</link>
             <guid isPermaLink="false">9a32c85e-06ad-4c91-a4af-3194cc946037</guid>
             <pubDate>Tue, 25 Aug 2026 15:20:36 GMT</pubDate>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 11:57:00 GMT</pubDate>
             <description><![CDATA[GBP/JPY extends its steady recovery on Tuesday and has now recouped almost all the losses triggered by the joint US-Japan intervention in late July. The intervention was aimed at curbing excessive weakness in the Japanese Yen (JPY) after USD/JPY climbed above 160 to a forty-year high.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Trade conflict keeps downside risks alive against US Dollar - ING]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-trade-conflict-keeps-downside-risks-alive-against-us-dollar-ing-202608251154</link>
-            <guid isPermaLink="false">db890863-5c7b-400d-bb57-efd312afcf0d</guid>
-            <pubDate>Tue, 25 Aug 2026 11:54:47 GMT</pubDate>
-            <description><![CDATA[ING’s Francesco Pesole highlights escalating US-Canada trade tensions, with new US tariffs on Canadian autos and parts announced for early next year.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen under pressure as geopolitical risks support the US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-under-pressure-as-geopolitical-risks-support-the-us-dollar-202608251150</link>
-            <guid isPermaLink="false">c6d38b2d-1c85-4b8d-8aaa-ae159fe1c425</guid>
-            <pubDate>Tue, 25 Aug 2026 11:50:58 GMT</pubDate>
-            <description><![CDATA[USD/JPY trades around 159.30 on Tuesday at the time of writing, up 0.15% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Chinese demand peak shifts market balance – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/oil-chinese-demand-peak-shifts-market-balance-commerzbank-202608251145</link>
-            <guid isPermaLink="false">78a5fe9b-ef19-4fd7-9869-24a01b91f189</guid>
-            <pubDate>Tue, 25 Aug 2026 11:45:47 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Carsten Fritsch notes that softer-than-expected US sanctions on Iran have added to downward pressure on Oil prices despite severe disruptions to tanker traffic through the Strait of Hormuz.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI plummets to near $82 as US economic pressure on Iran seems less risky]]></title>
-            <link>https://www.fxstreet.com/news/wti-plummets-to-near-82-as-us-economic-pressure-on-iran-seems-less-risky-202608251136</link>
-            <guid isPermaLink="false">9ffd0806-b46c-41a3-b20a-282af58a7a5a</guid>
-            <pubDate>Tue, 25 Aug 2026 11:36:00 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trade 3% lower at around $82.00 during the European trading session on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound hovers near six-month highs with investors awaiting key US events]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-hovers-near-six-month-highs-with-investors-awaiting-key-us-events-202608251135</link>
-            <guid isPermaLink="false">2e568d5f-675a-481a-bea2-97b887512854</guid>
-            <pubDate>Tue, 25 Aug 2026 11:35:13 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) remains practically flat for the second consecutive day against the US Dollar (USD), with markets on a “wait-and-see” stance, awaiting key US Inflation data on Wednesday and the Jackson Hole central bankers’ summit on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
