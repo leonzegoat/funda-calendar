@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 12:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 13:57:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Copper: Supply setbacks push market into deficit – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/copper-supply-setbacks-push-market-into-deficit-commerzbank-202608251345</link>
+            <guid isPermaLink="false">7ca5cede-4fb8-4495-85f3-7146bd30a4e3</guid>
+            <pubDate>Tue, 25 Aug 2026 13:45:06 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Barbara Lambrecht notes Copper prices are rising again as ICSG data show a significant June deficit and a sharply reduced year‑to‑date surplus.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro stays near three-month high as US Dollar remains subdued]]></title>
+            <link>https://www.fxstreet.com/news/euro-stays-near-three-month-high-as-us-dollar-remains-subdued-202608251335</link>
+            <guid isPermaLink="false">b015ce4a-3f07-4220-97c9-6a0885af656a</guid>
+            <pubDate>Tue, 25 Aug 2026 13:35:23 GMT</pubDate>
+            <description><![CDATA[EUR/USD holds modest gains on Tuesday as the latest Middle East developments fail to trigger a strong market reaction, while the US Dollar (USD) struggles to recover from last week’s sell-off sparked by the US Treasury’s decision to increase buybacks of longer-dated government securities.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Trading near fair value against US Dollar - Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-trading-near-fair-value-against-us-dollar-scotiabank-202608251334</link>
+            <guid isPermaLink="false">beea4e9c-3f49-4be6-b2e0-aa4d067cea44</guid>
+            <pubDate>Tue, 25 Aug 2026 13:34:15 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret describe USD/CAD trading close to their fair value estimate around 1.3842 as the Canadian Dollar (CAD) reacts to trade headlines and weaker Oil prices.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Bond market supports cautious consolidation – ING]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-bond-market-supports-cautious-consolidation-ing-202608251314</link>
+            <guid isPermaLink="false">248aed77-ba5d-44d8-a230-87007fb25529</guid>
+            <pubDate>Tue, 25 Aug 2026 13:14:32 GMT</pubDate>
+            <description><![CDATA[ING’s Francesco Pesole notes the Dollar is drawing support from the US bond market as long-dated yields stabilise, while US-Canada trade tensions and Iran-related sanctions risks complicate the outlook.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gold: Tariff conflict fuels safe haven bid – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/gold-tariff-conflict-fuels-safe-haven-bid-commerzbank-202608251250</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 09:04:21 GMT</pubDate>
             <description><![CDATA[Silver (XAG/USD) continues its struggle to make it through the $70.00 psychological mark and turns lower for the second straight day on Tuesday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: Range holds against US Dollar as inflows offset trade drag – DBS]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-range-holds-against-us-dollar-as-inflows-offset-trade-drag-dbs-202608250902</link>
-            <guid isPermaLink="false">34152fb7-f431-454b-9ba2-b12a9e1fc3f6</guid>
-            <pubDate>Tue, 25 Aug 2026 09:02:47 GMT</pubDate>
-            <description><![CDATA[DBS economist Radhika Rao observes that strong FCNR (B) swap inflows and higher FX reserves have not translated into significant Rupee gains, with USD/INR staying in a tight 95.50–96.00 range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures advance as tech stocks rebound ahead of looming Nvidia earnings]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-advance-as-tech-stocks-rebound-ahead-of-looming-nvidia-earnings-202608250856</link>
-            <guid isPermaLink="false">ad4c8a21-7fbb-428a-a241-e805e213604a</guid>
-            <pubDate>Tue, 25 Aug 2026 08:56:46 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures gain by 0.18%, trading around 53,590 during European hours on Tuesday. Meanwhile, S&P 500 futures advance by 0.28%, to trade near 7,690, and Nasdaq 100 futures rise by 0.58% to trade around 29,270.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: CPI keeps RBA on hold bias – ING]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-cpi-keeps-rba-on-hold-bias-ing-202608250848</link>
-            <guid isPermaLink="false">c14763e4-af22-4f09-b516-29466f87d07f</guid>
-            <pubDate>Tue, 25 Aug 2026 08:48:22 GMT</pubDate>
-            <description><![CDATA[ING’s Francesco Pesole expects Australia’s July inflation data to show further moderation, consistent with no additional Reserve Bank of Australia hikes this year. He argues Governor Bullock is likely to stay hawkish, and even a small inflation surprise could lift AUD.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-70.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungarian Forint: MNB tone shift watched – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/hungarian-forint-mnb-tone-shift-watched-commerzbank-202608250838</link>
-            <guid isPermaLink="false">90e32e96-0921-4d0f-a1fa-2e23774cbcb7</guid>
-            <pubDate>Tue, 25 Aug 2026 08:38:03 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose expects Hungary's central bank, Magyar Nemzeti Bank (MNB), to cut its base rate by 25bp to 5.50%, but stresses that guidance will matter more for the Forint. While headline inflation has surprised on the downside, core and services pressures and energy risks persist.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
