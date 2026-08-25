@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 17:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 18:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar stays on the back foot ahead of PCE]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-stays-on-the-back-foot-ahead-of-pce-202608251843</link>
+            <guid isPermaLink="false">99181d38-ed0e-4fac-b615-d53be58d058d</guid>
+            <pubDate>Tue, 25 Aug 2026 18:43:32 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) is hovering below the 99.00 mark as traders squared positions ahead of a heavy Wednesday data slate and Federal Reserve (Fed) Chair Kevin Warsh's Jackson Hole address on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Upside momentum eases against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-upside-momentum-eases-against-us-dollar-uob-202608251839</link>
+            <guid isPermaLink="false">d98a9638-b3d2-49c6-a4a0-73690ff1961a</guid>
+            <pubDate>Tue, 25 Aug 2026 18:39:11 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD remains under mild downward pressure but short-term momentum is flat, keeping the pair in a tight intraday band around 1.2700.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD reclaims 100-day SMA, eyes $70]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-100-day-sma-eyes-70-202608251831</link>
+            <guid isPermaLink="false">3b9d2674-0efc-4c4c-b75b-f5227d45fa3a</guid>
+            <pubDate>Tue, 25 Aug 2026 18:31:57 GMT</pubDate>
+            <description><![CDATA[Silver price registers modest gains on Tuesday, after briefly breaching the 100-day Simple Moving Average (SMA) at $68.38, pushing the white metal to a three-day low of $67.43 before making a U-turn and turning bullish. The XAG/USD trades at $68.86, up 0.55%,]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold pulls back from $4,700 as Hormuz hopes cool haven demand]]></title>
+            <link>https://www.fxstreet.com/news/gold-pulls-back-from-4-700-as-hormuz-hopes-cool-haven-demand-202608251814</link>
+            <guid isPermaLink="false">93ee169c-0d42-4887-b7c6-2408aee40637</guid>
+            <pubDate>Tue, 25 Aug 2026 18:14:14 GMT</pubDate>
+            <description><![CDATA[Gold price holds firm during the North American session as buyers fail to surpass the $4,700 level, exacerbating a retracement below a key psychological level, amid mixed US data and rising hopes for an end to the US-Iran conflict. XAU/USD traded at $4,641, down 0.2%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[USD/CAD Price Forecast: Bearish indicators keep the path tilted lower]]></title>
             <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-indicators-keep-the-path-tilted-lower-202608251756</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 13:35:23 GMT</pubDate>
             <description><![CDATA[EUR/USD holds modest gains on Tuesday as the latest Middle East developments fail to trigger a strong market reaction, while the US Dollar (USD) struggles to recover from last week’s sell-off sparked by the US Treasury’s decision to increase buybacks of longer-dated government securities.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-chart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Trading near fair value against US Dollar - Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-trading-near-fair-value-against-us-dollar-scotiabank-202608251334</link>
-            <guid isPermaLink="false">beea4e9c-3f49-4be6-b2e0-aa4d067cea44</guid>
-            <pubDate>Tue, 25 Aug 2026 13:34:15 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret describe USD/CAD trading close to their fair value estimate around 1.3842 as the Canadian Dollar (CAD) reacts to trade headlines and weaker Oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Bond market supports cautious consolidation – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-bond-market-supports-cautious-consolidation-ing-202608251314</link>
-            <guid isPermaLink="false">248aed77-ba5d-44d8-a230-87007fb25529</guid>
-            <pubDate>Tue, 25 Aug 2026 13:14:32 GMT</pubDate>
-            <description><![CDATA[ING’s Francesco Pesole notes the Dollar is drawing support from the US bond market as long-dated yields stabilise, while US-Canada trade tensions and Iran-related sanctions risks complicate the outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Tariff conflict fuels safe haven bid – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/gold-tariff-conflict-fuels-safe-haven-bid-commerzbank-202608251250</link>
-            <guid isPermaLink="false">fa18b745-b461-4bb9-ade2-7f9aef9df36b</guid>
-            <pubDate>Tue, 25 Aug 2026 12:50:27 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Carsten Fritsch reports that Gold has surged to a three‑month high near USD 4,700 per ounce as US–Canada tariff tensions escalate and concerns over US debt intensify. Silver and Platinum have also rallied.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar defies stronger US Dollar as RBNZ rate hike bets offer support]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-defies-stronger-us-dollar-as-rbnz-rate-hike-bets-offer-support-202608251241</link>
-            <guid isPermaLink="false">821ae3cf-ebf7-4f6b-a586-88fa44875b15</guid>
-            <pubDate>Tue, 25 Aug 2026 12:41:12 GMT</pubDate>
-            <description><![CDATA[NZD/USD edges slightly higher on Tuesday and trades around 0.5965 at the time of writing, up 0.08% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
