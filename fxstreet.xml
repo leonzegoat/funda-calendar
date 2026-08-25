@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 05:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 06:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro: Further gains eyed toward 1.1800 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/euro-further-gains-eyed-toward-11800-against-us-dollar-uob-202608250608</link>
+            <guid isPermaLink="false">2cb445d9-02cd-47b2-916c-af5c61422929</guid>
+            <pubDate>Tue, 25 Aug 2026 06:08:53 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann keep a constructive stance on EUR/USD despite recent consolidation around 1.1660. They still see room for upside toward 1.1725 in the coming weeks as long as support at 1.1630 holds.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold sticks to modest losses below $4,650 as Fed risks and Middle East tensions lift USD]]></title>
+            <link>https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254</link>
+            <guid isPermaLink="false">9886f006-59a8-486b-910f-55f562944438</guid>
+            <pubDate>Tue, 25 Aug 2026 02:54:12 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) stabilizes below $4,650 heading into the European session, stalling its intraday retracement slide from the $4,700 neighborhood, or the highest since May 14, touched earlier this Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Corrects further as US Dollar extends recovery]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-corrects-further-as-us-dollar-extends-recovery-202608250558</link>
+            <guid isPermaLink="false">31310e1a-6983-4f7c-b632-e4895445249c</guid>
+            <pubDate>Tue, 25 Aug 2026 05:58:30 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) trades marginally lower against the US Dollar (USD) on Tuesday, extending its corrective move from the four-day high of 1.1711 to near 1.1655 during the European trading session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee ticks up against US Dollar on RBI’s likely intervention]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537</link>
+            <guid isPermaLink="false">57866ebb-bf8c-46e2-8a0f-b59a863a1f0b</guid>
+            <pubDate>Tue, 25 Aug 2026 05:37:39 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) in the opening session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indonesian Rupiah struggles amid record deficit, external pressures]]></title>
             <link>https://www.fxstreet.com/news/indonesian-rupiah-struggles-amid-record-deficit-external-pressures-202608250527</link>
@@ -14,14 +46,6 @@
             <pubDate>Tue, 25 Aug 2026 05:27:23 GMT</pubDate>
             <description><![CDATA[USD/IDR halts its three-day losing streak, trading around 17,770 during the Asian hours on Tuesday. The pair appreciates as the Indonesian Rupiah (IDR) struggles under the weight of cautious market sentiment driven by persistent external pressures.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold moves away from multi‑month top as Fed rate fears and Middle East jitters support USD]]></title>
-            <link>https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254</link>
-            <guid isPermaLink="false">9886f006-59a8-486b-910f-55f562944438</guid>
-            <pubDate>Tue, 25 Aug 2026 02:54:12 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) faces rejection ahead of the $4,700 mark on Tuesday and witnessed an intraday turnaround from its highest level since May 14, touched during the Asian session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[India Gold price today: Gold falls, according to FXStreet data]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 21:24:57 GMT</pubDate>
             <description><![CDATA[Sterling holds just above 1.3600 into the North American afternoon, marginally lower on the day and inside a range of barely 35 pips, having printed a five-month high short of 1.3700 late last week.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen lower as US Dollar firms on heavier Iran sanctions]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-lower-as-us-dollar-firms-on-heavier-iran-sanctions-202608242115</link>
-            <guid isPermaLink="false">a1e3664a-2e38-4aad-97eb-2db04cb59f6a</guid>
-            <pubDate>Mon, 24 Aug 2026 21:15:33 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) is grinding higher against the Japanese Yen (JPY) at the time of writing, with USD/JPY holding north of the 159.00 mark.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore: National Day Rally focus – DBS]]></title>
-            <link>https://www.fxstreet.com/news/singapore-national-day-rally-focus-dbs-202608242114</link>
-            <guid isPermaLink="false">6e479cf5-cb26-40ac-b417-d32f0f8b2797</guid>
-            <pubDate>Mon, 24 Aug 2026 21:14:00 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Chua Han Teng reviews Prime Minister Lawrence Wong’s National Day Rally 2026, highlighting policy themes rather than markets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Asia FX: Mixed central bank paths shape THB, KRW, PHP – BBH]]></title>
-            <link>https://www.fxstreet.com/news/asia-fx-mixed-central-bank-paths-shape-thb-krw-php-bbh-202608242033</link>
-            <guid isPermaLink="false">600c37ec-7fde-4880-af43-e375699d8a72</guid>
-            <pubDate>Mon, 24 Aug 2026 20:33:00 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects the Bank of Thailand (BoT) to hold rates at 1.00%, leaving negative real yields that keep Thai Baht (THB) lagging. The Bank of Korea (BoK) is seen hiking again to 3.00%, supporting South Korean Won (KRW) as growth and inflation exceed targets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
