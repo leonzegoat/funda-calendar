@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 09:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 10:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro stands above 1.1650, supported by upbeat German macroeconomic data]]></title>
+            <link>https://www.fxstreet.com/news/euro-stands-above-11650-supported-by-upbeat-german-macroeconomic-data-202608251035</link>
+            <guid isPermaLink="false">efaba539-e2ab-47de-809a-54f36cd7170c</guid>
+            <pubDate>Tue, 25 Aug 2026 10:35:00 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) remains practically flat against the  US Dollar (USD) on Tuesday, trading above 1.1650, at a relatively short distance from the three-month highs, at 1.1710 hit last week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold Price Forecast: XAU/USD holds onto early losses near $4,630, US Yields plunge]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-onto-early-losses-near-4-630-us-yields-plunge-202608251022</link>
+            <guid isPermaLink="false">6015fab0-e317-4a53-99ab-637ed5abd799</guid>
+            <pubDate>Tue, 25 Aug 2026 10:22:26 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) is down 0.4% to near $4,630 during the European trading session on Tuesday. The precious metal corrects after failing to extend the rally above $4,700 earlier in the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Dovish repricing points to weakness against Euro – ING]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-dovish-repricing-points-to-weakness-against-euro-ing-202608251003</link>
+            <guid isPermaLink="false">ad953d72-7933-45eb-b66a-be957d442c33</guid>
+            <pubDate>Tue, 25 Aug 2026 10:03:27 GMT</pubDate>
+            <description><![CDATA[ING’s Francesco Pesole observes EUR/GBP has slipped back to the 0.8550-0.8560 area as the earlier Euro premium fades and bond market calm returns.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro advances against Japanese Yen as German business sentiment improves]]></title>
+            <link>https://www.fxstreet.com/news/euro-advances-against-japanese-yen-as-german-business-sentiment-improves-202608250954</link>
+            <guid isPermaLink="false">059e2551-d59f-4bb1-80ea-c44ee94d50c0</guid>
+            <pubDate>Tue, 25 Aug 2026 09:54:53 GMT</pubDate>
+            <description><![CDATA[EUR/JPY advances to around 185.85 on Tuesday at the time of writing, gaining 0.15% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-chart.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Hungarian Forint: Holding firm against Euro below key resistance - Societe Generale]]></title>
             <link>https://www.fxstreet.com/news/hungarian-forint-holding-firm-against-euro-below-key-resistance-societe-generale-202608250948</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 07:10:07 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Michael Pfister analyses how the strong Swiss Franc (CHF) and an undervalued Chinese Yuan (CNY) are weighing on Switzerland’s export competitiveness.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-chf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI slides below $84.00 on firmer USD but US-Iran tensions limit deeper losses]]></title>
-            <link>https://www.fxstreet.com/news/wti-slides-below-8400-on-firmer-usd-but-us-iran-tensions-limit-deeper-losses-202608250647</link>
-            <guid isPermaLink="false">68323158-0651-496c-94bd-1a7c3f28cc12</guid>
-            <pubDate>Tue, 25 Aug 2026 06:47:29 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – attracts fresh sellers following an intraday uptick to the $85.35 region and turns lower for the second straight day. The commodity slides below $84.00 during the early European session, though the downside potential seems limited.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar edges up as RBA keeps rate hike option quite possible]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-edges-up-as-rba-keeps-rate-hike-option-quite-possible-202608250644</link>
-            <guid isPermaLink="false">80a93677-b16b-4491-bf31-677415921fad</guid>
-            <pubDate>Tue, 25 Aug 2026 06:44:36 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) trades slightly higher against its major currency peers, except the US Dollar (USD), on Tuesday. In the European session, the Aussie pair is slightly down to near 0.7147.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: Semiconductor selloff pressures Wall Street - Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-semiconductor-selloff-pressures-wall-street-deutsche-bank-202608250638</link>
-            <guid isPermaLink="false">29498eb3-0cff-4004-a2b1-514eb8594eca</guid>
-            <pubDate>Tue, 25 Aug 2026 06:38:56 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank strategists describe a cautious session for United States (US) equities, with the S&P 500 slipping as AI‑chip names sold off ahead of Nvidia’s earnings. While the equal‑weighted S&P approached record highs, headline indices were dragged lower by semiconductor weakness.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/JPY Price Forecast: US Dollar keeps crawling towards the key 160.00 area]]></title>
-            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-us-dollar-keeps-crawling-towards-the-key-16000-area-202608250631</link>
-            <guid isPermaLink="false">62458b1c-e8b2-44f0-9608-26c7b3cfe9fb</guid>
-            <pubDate>Tue, 25 Aug 2026 06:31:14 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) remains on the defensive against the US Dollar (USD) on Tuesday, in a low-volatility market, as investors await key data releases and the Jackson Hole symposium, due in the second half of the week, to make decisions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-96.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
