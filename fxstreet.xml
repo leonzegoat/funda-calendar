@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 07:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 08:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Germany’s IFO Business Climate Index improves again, arriving at 88.8 vs. 87.2 estimates]]></title>
+            <link>https://www.fxstreet.com/news/germanys-ifo-business-climate-index-improves-again-arriving-at-888-vs-872-estimates-202608250802</link>
+            <guid isPermaLink="false">297eb78e-0ee2-41a0-9381-a6d5bc4ab3e3</guid>
+            <pubDate>Tue, 25 Aug 2026 08:02:48 GMT</pubDate>
+            <description><![CDATA[The German IFO Institute Business Climate Index improves again. The sentiment data arrives higher at 88.8 in August from 86.6 in July. The data also beats estimates of 87.2.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/german-bank-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/USD Price Forecast: Rally pauses below 1.3700]]></title>
+            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-rally-pauses-below-13700-202608250757</link>
+            <guid isPermaLink="false">d3da89ba-91a4-4d3d-9aa7-b3f26af4d426</guid>
+            <pubDate>Tue, 25 Aug 2026 07:57:55 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) trades marginally higher against the US Dollar (USD) at around 1.3640 during the European trading session on Tuesday, even as the US Dollar Index (DXY) edges up, indicating strength in the British currency.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold: Path depends on yield regime shift – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/gold-path-depends-on-yield-regime-shift-mufg-202608250748</link>
+            <guid isPermaLink="false">7f5c8ad1-c5b3-480c-8cc4-9a30e50d07e0</guid>
+            <pubDate>Tue, 25 Aug 2026 07:48:49 GMT</pubDate>
+            <description><![CDATA[MUFG’s Derek Halpenny and Abdul-Ahad Lockhart highlight that Gold’s recent strength alongside USD weakness and higher US yields has not historically confirmed a debasement story.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CAD Price Forecast: Could surpass 1.3900 as break above 38.2% Fibo. comes into play]]></title>
+            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-could-surpass-13900-as-break-above-382-fibo-comes-into-play-202608250748</link>
+            <guid isPermaLink="false">833b8760-348b-4f64-841d-13704958a51d</guid>
+            <pubDate>Tue, 25 Aug 2026 07:48:11 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair is seen building on its recovery move from the 1.3730 region, or a three-month low touched last week, and gaining positive traction for the second straight day on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar falls as US Dollar gains on safe-haven demand]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-falls-as-us-dollar-gains-on-safe-haven-demand-202608250748</link>
+            <guid isPermaLink="false">a2fb363c-a291-4e18-9ae7-f0c92e76577a</guid>
+            <pubDate>Tue, 25 Aug 2026 07:48:10 GMT</pubDate>
+            <description><![CDATA[NZD/USD extends its losses for the second successive day, trading around 0.5950 during the European hours on Tuesday. The currency pair faces downward pressure as the US Dollar (USD) gains strength from safe-haven demand driven by rising geopolitical tensions.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD slips below $68.50 despite revived debasement trading]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6850-despite-revived-debasement-trading-202608250732</link>
+            <guid isPermaLink="false">4fe5f5fd-d490-470a-8744-ff581555fe9b</guid>
+            <pubDate>Tue, 25 Aug 2026 07:32:54 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) extends its losses for the second successive day, trading around $68.40 per troy ounce during the European hours on Tuesday. However, Silver may regain ground as US government interventions in the bond market revive the debasement trade.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China says its cooperation with Iran should not be disrupted - Reuters]]></title>
+            <link>https://www.fxstreet.com/news/china-says-its-cooperation-with-iran-should-not-be-disrupted-reuters-202608250732</link>
+            <guid isPermaLink="false">d44fe261-3365-49ad-be18-877004b45dd5</guid>
+            <pubDate>Tue, 25 Aug 2026 07:32:41 GMT</pubDate>
+            <description><![CDATA[In a Reuters report on Tuesday, a Chinese Foreign Ministry spokesperson, Lin Jian, said that its cooperation with Iran is conducted within the framework of international law and should not be interfered with or disrupted when asked about new United States (US) sanctions related to Iran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold remains depressed below $4,650 on firmer USD, Fed risks, Middle East tensions]]></title>
+            <link>https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254</link>
+            <guid isPermaLink="false">9886f006-59a8-486b-910f-55f562944438</guid>
+            <pubDate>Tue, 25 Aug 2026 02:54:12 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) remains on the back foot below $4,650 through the first half of the European session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Copper: Tight inventories sustain price support – ING]]></title>
+            <link>https://www.fxstreet.com/news/copper-tight-inventories-sustain-price-support-ing-202608250725</link>
+            <guid isPermaLink="false">53560f09-a9f8-468b-99d4-8e778ac0d7c8</guid>
+            <pubDate>Tue, 25 Aug 2026 07:25:43 GMT</pubDate>
+            <description><![CDATA[ING analysts Warren Patterson and Ewa Manthey say Copper remains underpinned by tight LME inventories and strong US-bound flows.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Forex Today: US Dollar recovers modestly as markets assess developments in Mideast]]></title>
             <link>https://www.fxstreet.com/news/forex-today-us-dollar-recovers-modestly-as-markets-assess-developments-in-mideast-202608250723</link>
@@ -86,14 +158,6 @@
             <pubDate>Tue, 25 Aug 2026 06:08:53 GMT</pubDate>
             <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann keep a constructive stance on EUR/USD despite recent consolidation around 1.1660. They still see room for upside toward 1.1725 in the coming weeks as long as support at 1.1630 holds.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold sticks to modest losses below $4,650 as Fed risks and Middle East tensions lift USD]]></title>
-            <link>https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254</link>
-            <guid isPermaLink="false">9886f006-59a8-486b-910f-55f562944438</guid>
-            <pubDate>Tue, 25 Aug 2026 02:54:12 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) stabilizes below $4,650 heading into the European session, stalling its intraday retracement slide from the $4,700 neighborhood, or the highest since May 14, touched earlier this Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[EUR/USD Price Forecast: Corrects further as US Dollar extends recovery]]></title>
@@ -182,70 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 02:41:27 GMT</pubDate>
             <description><![CDATA[Japan Finance Minister (FM) Satsuki Katayama said in the Asian trading session on Tuesday that the government aims to balance fiscal sustainability and economic growth and communicate with markets on this stance.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar remains steady following RBA Meeting Minutes]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-remains-steady-following-rba-meeting-minutes-202608250205</link>
-            <guid isPermaLink="false">75929d0d-117d-4764-b2d3-b5efde9dfc48</guid>
-            <pubDate>Tue, 25 Aug 2026 02:05:19 GMT</pubDate>
-            <description><![CDATA[AUD/USD gains ground after registering modest losses in the previous day, trading around 0.7150 during the Asian hours on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI holds ground above $84.50 as escalating concerns over US sanctions on Iran]]></title>
-            <link>https://www.fxstreet.com/news/wti-holds-ground-above-8450-as-escalating-concerns-over-us-sanctions-on-iran-202608250135</link>
-            <guid isPermaLink="false">b8ae373c-00d6-42e1-ad4e-b2e0125fc652</guid>
-            <pubDate>Tue, 25 Aug 2026 01:35:23 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) oil price appreciates after registering over 2% losses in the previous day, trading around $84.70 per barrel during the Asian hours on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[RBA Minutes: Board ready to raise rates if upside risks materialise]]></title>
-            <link>https://www.fxstreet.com/news/rba-minutes-board-ready-to-raise-rates-if-upside-risks-materialise-202608250132</link>
-            <guid isPermaLink="false">ad58018c-787c-4515-8ecc-6718057fff2e</guid>
-            <pubDate>Tue, 25 Aug 2026 01:32:40 GMT</pubDate>
-            <description><![CDATA[Reserve Bank of Australia (RBA) published the Minutes of its July monetary policy meeting on Tuesday, with the key takeaways noted below.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-67.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s Economy Minister Madanizadeh: Enemies should wait for an attack]]></title>
-            <link>https://www.fxstreet.com/news/irans-economy-minister-madanizadeh-enemies-should-wait-for-an-attack-202608250128</link>
-            <guid isPermaLink="false">80f7050e-e788-4fa2-bf0a-99c11916eefc</guid>
-            <pubDate>Tue, 25 Aug 2026 01:28:09 GMT</pubDate>
-            <description><![CDATA[Iranian Economy Minister Ali Madanizadeh said on Tuesday, "We are fully prepared for the US sanctions."]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Iran_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen consolidates around 159.00 vs USD as bearish potential remains intact]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-consolidates-around-15900-vs-usd-as-bearish-potential-remains-intact-202608250116</link>
-            <guid isPermaLink="false">cb2d48af-2aaf-48ca-b91d-5ea1907d6aaf</guid>
-            <pubDate>Tue, 25 Aug 2026 01:16:36 GMT</pubDate>
-            <description><![CDATA[The USD/JPY pair is seen oscillating in a narrow band just above the 159.00 mark during the Asian session on Tuesday, awaiting a fresh catalyst before the next leg of a directional move.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7852 vs. 6.7841 previous]]></title>
-            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67852-vs-67841-previous-202608250115</link>
-            <guid isPermaLink="false">8584c76f-1c85-4386-9c99-2626853b4174</guid>
-            <pubDate>Tue, 25 Aug 2026 01:15:52 GMT</pubDate>
-            <description><![CDATA[The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7852 compared to the previous day's fix of 6.7841 and 6.7219 Reuters estimate.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro gains support amid hawkish ECB expectations, subdued US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/euro-gains-support-amid-hawkish-ecb-expectations-subdued-us-dollar-202608250108</link>
-            <guid isPermaLink="false">9be6084d-6ee1-4bcf-a41e-473abf1391d6</guid>
-            <pubDate>Tue, 25 Aug 2026 01:08:50 GMT</pubDate>
-            <description><![CDATA[EUR/USD inches higher after posting minor losses in the previous day, trading around 1.1670 during the Asian hours on Tuesday. The pair finds support as rising oil prices, elevated bond yields, and escalating Middle East tensions drive Eurozone inflation concerns.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar falls as Iran sanctions sour risk appetite, RBA minutes eyed]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-falls-as-iran-sanctions-sour-risk-appetite-rba-minutes-eyed-202608242258</link>
-            <guid isPermaLink="false">e570f67b-058a-47df-869e-5372c16776ef</guid>
-            <pubDate>Mon, 24 Aug 2026 22:58:23 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar began the week on a lower note, trading with a 0.28% loss against the Greenback as risk appetite soured after the US Department of the Treasury imposed sanctions on Iran-linked entities. At the time of writing, the pair trades at 0.7159]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
