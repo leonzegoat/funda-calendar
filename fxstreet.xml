@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 23:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 23:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iran and Oman push talks for ‘interim’ reopening of Hormuz — Bloomberg]]></title>
+            <link>https://www.fxstreet.com/news/iran-and-oman-push-talks-for-interim-reopening-of-hormuz-202608252343</link>
+            <guid isPermaLink="false">32329aed-d9f8-4e99-9652-69e697f2570b</guid>
+            <pubDate>Tue, 25 Aug 2026 23:43:09 GMT</pubDate>
+            <description><![CDATA[Iranian Foreign Minister Abbas Araghchi and his Omani counterpart Badr Albusaidi discussed an “interim framework” aimed at resuming shipping through the Strait of Hormuz, Bloomberg reported on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Iran.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold advances above $4,650 on US Dollar weakness, Treasury bond buyback plans]]></title>
             <link>https://www.fxstreet.com/news/gold-advances-above-4-650-on-us-dollar-weakness-treasury-bond-buyback-plans-202608252327</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 16:22:07 GMT</pubDate>
             <description><![CDATA[USD/CAD trades around 1.3835 on Tuesday at the time of writing, down a modest 0.07% on the day. The pair lacks a clear direction as both the US Dollar (USD) and the Canadian Dollar (CAD) face headwinds.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany: Business climate brightens – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/germany-business-climate-brightens-commerzbank-202608251618</link>
-            <guid isPermaLink="false">82e41d8b-fddf-4e40-9765-dd3b72f4dc15</guid>
-            <pubDate>Tue, 25 Aug 2026 16:18:22 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Dr. Ralph Solveen notes that the German Ifo Business Climate Index rose from 86.7 to 88.8 in August, with both current conditions and expectations improving. He highlights stronger foreign demand, rising government spending and better sentiment as factors supporting growth.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dax-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
