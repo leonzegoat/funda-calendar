@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 10:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 11:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold pauses near three-month high after sharp rally]]></title>
+            <link>https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109</link>
+            <guid isPermaLink="false">b3319664-f07f-40db-ad3e-ced7c884b954</guid>
+            <pubDate>Tue, 25 Aug 2026 11:09:01 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) loses ground on Tuesday after setting a fresh three-month high of $4,697 earlier in the Asian session. Traders appear to be booking some profits following the recent rally, which has pushed the Relative Strength Index (RSI) into overbought territory.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Debasement fears meet historical skepticism – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-debasement-fears-meet-historical-skepticism-mufg-202608251108</link>
+            <guid isPermaLink="false">39270e77-d7d3-4e75-937d-4f856288ade7</guid>
+            <pubDate>Tue, 25 Aug 2026 11:08:27 GMT</pubDate>
+            <description><![CDATA[MUFG analysts Derek Halpenny and Abdul-Ahad Lockhart note that the Dollar Index (DXY) is consolidating after a modest rebound, even as markets focus on US fiscal concerns, Treasury buybacks and perceived USD debasement.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee jumps to weekly high amid lower Oil prices, declining US Yields]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537</link>
+            <guid isPermaLink="false">57866ebb-bf8c-46e2-8a0f-b59a863a1f0b</guid>
+            <pubDate>Tue, 25 Aug 2026 05:37:39 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) opened almost flat against the US Dollar (USD) on Tuesday, but there is a significant appreciation in India's afternoon trading hours.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Euro stands above 1.1650, supported by upbeat German macroeconomic data]]></title>
             <link>https://www.fxstreet.com/news/euro-stands-above-11650-supported-by-upbeat-german-macroeconomic-data-202608251035</link>
@@ -128,14 +152,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Indian Rupee to remain under pressure due to elevated oil prices]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537</link>
-            <guid isPermaLink="false">57866ebb-bf8c-46e2-8a0f-b59a863a1f0b</guid>
-            <pubDate>Tue, 25 Aug 2026 05:37:39 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[US Dollar: Policy crosscurrents shape outlook – OCBC]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-policy-crosscurrents-shape-outlook-ocbc-202608250825</link>
             <guid isPermaLink="false">e886fe0a-16fd-4148-9c5d-dc1172726136</guid>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 07:23:29 GMT</pubDate>
             <description><![CDATA[Here is what you need to know on Tuesday, August 25:]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Neutral-Tendency-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro remains depressed against British Pound despite upbeat German GDP figures]]></title>
-            <link>https://www.fxstreet.com/news/euro-remains-depressed-against-british-pound-despite-upbeat-german-gdp-figures-202608250711</link>
-            <guid isPermaLink="false">cfbefeaa-4c2b-48e3-8b4d-2a859d60192d</guid>
-            <pubDate>Tue, 25 Aug 2026 07:11:15 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) extends losses for the fourth consecutive day against the British Pound (GBP) on Tuesday, testing weekly lows in the 0.8550 area despite the upward revision to German Q2 Gross Domestic Product (GDP) earlier in the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Export strains with strong CHF – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-export-strains-with-strong-chf-commerzbank-202608250710</link>
-            <guid isPermaLink="false">e342d3d7-791b-49a5-8186-56ed4d83585d</guid>
-            <pubDate>Tue, 25 Aug 2026 07:10:07 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Michael Pfister analyses how the strong Swiss Franc (CHF) and an undervalued Chinese Yuan (CNY) are weighing on Switzerland’s export competitiveness.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-chf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
