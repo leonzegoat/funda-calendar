@@ -4,15 +4,79 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 08:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 09:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dow Jones futures advance as tech stocks rebound ahead of looming Nvidia earnings]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-futures-advance-as-tech-stocks-rebound-ahead-of-looming-nvidia-earnings-202608250856</link>
+            <guid isPermaLink="false">ad4c8a21-7fbb-428a-a241-e805e213604a</guid>
+            <pubDate>Tue, 25 Aug 2026 08:56:46 GMT</pubDate>
+            <description><![CDATA[Dow Jones futures gain by 0.18%, trading around 53,590 during European hours on Tuesday. Meanwhile, S&P 500 futures advance by 0.28%, to trade near 7,690, and Nasdaq 100 futures rise by 0.58% to trade around 29,270.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: CPI keeps RBA on hold bias – ING]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-cpi-keeps-rba-on-hold-bias-ing-202608250848</link>
+            <guid isPermaLink="false">c14763e4-af22-4f09-b516-29466f87d07f</guid>
+            <pubDate>Tue, 25 Aug 2026 08:48:22 GMT</pubDate>
+            <description><![CDATA[ING’s Francesco Pesole expects Australia’s July inflation data to show further moderation, consistent with no additional Reserve Bank of Australia hikes this year. He argues Governor Bullock is likely to stay hawkish, and even a small inflation surprise could lift AUD.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-70.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hungarian Forint: MNB tone shift watched – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/hungarian-forint-mnb-tone-shift-watched-commerzbank-202608250838</link>
+            <guid isPermaLink="false">90e32e96-0921-4d0f-a1fa-2e23774cbcb7</guid>
+            <pubDate>Tue, 25 Aug 2026 08:38:03 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Tatha Ghose expects Hungary's central bank, Magyar Nemzeti Bank (MNB), to cut its base rate by 25bp to 5.50%, but stresses that guidance will matter more for the Forint. While headline inflation has surprised on the downside, core and services pressures and energy risks persist.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro holds gains against Canadian Dollar on upbeat German IFO data]]></title>
+            <link>https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-on-upbeat-german-ifo-data-202608250830</link>
+            <guid isPermaLink="false">086eb892-28d0-42db-ba15-1858b994b7fb</guid>
+            <pubDate>Tue, 25 Aug 2026 08:30:12 GMT</pubDate>
+            <description><![CDATA[EUR/CAD extends its gains for the second consecutive day, trading around 1.6160 during the European hours on Tuesday. The currency cross remains stronger as the Euro (EUR) holds gains following the release of the German IFO business sentiment index data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound extends gains to fresh monthly peak, around mid-217.00s vs weaker Yen]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-extends-gains-to-fresh-monthly-peak-around-mid-21700s-vs-weaker-yen-202608250829</link>
+            <guid isPermaLink="false">e6b9f425-53dd-4777-8e78-a700153f664a</guid>
+            <pubDate>Tue, 25 Aug 2026 08:29:27 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY cross catches fresh bids on Tuesday and climbs to its highest level since July 30, around mid-217.00s during the first half of the European session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee to remain under pressure due to elevated oil prices]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537</link>
+            <guid isPermaLink="false">57866ebb-bf8c-46e2-8a0f-b59a863a1f0b</guid>
+            <pubDate>Tue, 25 Aug 2026 05:37:39 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Policy crosscurrents shape outlook – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-policy-crosscurrents-shape-outlook-ocbc-202608250825</link>
+            <guid isPermaLink="false">e886fe0a-16fd-4148-9c5d-dc1172726136</guid>
+            <pubDate>Tue, 25 Aug 2026 08:25:53 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that renewed policy uncertainty and Federal Reserve (Fed) reaction risks are constraining US Dollar (USD) gains, even as higher US real yields and a resilient US economy limit downside.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Upside bias toward 1.3700 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-upside-bias-toward-13700-against-us-dollar-uob-202608250810</link>
+            <guid isPermaLink="false">adbd01a9-87a8-4414-bc90-78875e9909b6</guid>
+            <pubDate>Tue, 25 Aug 2026 08:10:22 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann describe GBP/USD price action as range-bound intraday between 1.3615 and 1.3660, with momentum indicators neutral.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Germany’s IFO Business Climate Index improves again, arriving at 88.8 vs. 87.2 estimates]]></title>
             <link>https://www.fxstreet.com/news/germanys-ifo-business-climate-index-improves-again-arriving-at-888-vs-872-estimates-202608250802</link>
             <guid isPermaLink="false">297eb78e-0ee2-41a0-9381-a6d5bc4ab3e3</guid>
             <pubDate>Tue, 25 Aug 2026 08:02:48 GMT</pubDate>
-            <description><![CDATA[The German IFO Institute Business Climate Index improves again. The sentiment data arrives higher at 88.8 in August from 86.6 in July. The data also beats estimates of 87.2.]]></description>
+            <description><![CDATA[The German IFO Institute Business Climate Index improves again. The sentiment data arrives higher at 88.8 in August from 86.7 in July, revised higher from 86.6. The data also beats estimates of 87.2.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/german-bank-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -104,14 +168,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-chf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Indian Rupee edges up against US Dollar on possible RBI’s intervention]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537</link>
-            <guid isPermaLink="false">57866ebb-bf8c-46e2-8a0f-b59a863a1f0b</guid>
-            <pubDate>Tue, 25 Aug 2026 05:37:39 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) in the opening session on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[WTI slides below $84.00 on firmer USD but US-Iran tensions limit deeper losses]]></title>
             <link>https://www.fxstreet.com/news/wti-slides-below-8400-on-firmer-usd-but-us-iran-tensions-limit-deeper-losses-202608250647</link>
             <guid isPermaLink="false">68323158-0651-496c-94bd-1a7c3f28cc12</guid>
@@ -190,62 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 04:18:41 GMT</pubDate>
             <description><![CDATA[EUR/JPY appreciates after two days of gains, trading around 185.80 during the Asian hours on Tuesday. Technical analysis of the daily chart indicates the currency cross remains within the ascending channel pattern, signaling an ongoing bullish bias.]]></description>
             <enclosure url="https://editorial.fxstreet.com/images/i/BullishRocket.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-remains-depressed-as-firmer-usd-and-trade-war-counter-higher-oil-prices-202608250412</link>
-            <guid isPermaLink="false">95b48962-a1e9-467c-94e8-0370a206ff1c</guid>
-            <pubDate>Tue, 25 Aug 2026 04:12:38 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair sticks to a positive bias for the second straight day and trades around mid-1.3800s during the Asian session on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-cad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RBA's Jacobs: Transition from RBA controlling reserves quantity to banking system managing it]]></title>
-            <link>https://www.fxstreet.com/news/rbas-jacobs-transition-from-rba-controlling-reserves-quantity-to-banking-system-managing-it-202608250411</link>
-            <guid isPermaLink="false">c78aee4d-018a-4593-80fb-b53dbcd3c6f4</guid>
-            <pubDate>Tue, 25 Aug 2026 04:11:36 GMT</pubDate>
-            <description><![CDATA[Reserve Bank of Australia (RBA) Head of Domestic Markets, David Jacobs, said during the Asian trading session on Tuesday that the central bank aims to have a system that can flexibly supply whatever quantity the banking system demands, while keeping the cash rate close to the board’s target.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index holds gains near 99.00 amid escalating geopolitical risks]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-holds-gains-near-9900-amid-escalating-geopolitical-risks-202608250345</link>
-            <guid isPermaLink="false">017cd7ef-e052-42bf-8fd8-666f97bf2e7d</guid>
-            <pubDate>Tue, 25 Aug 2026 03:45:37 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is extending its gains for the second successive day and trading around 99.00 during the Asian hours on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD corrects below $68 in countdown to US PCE Inflation data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-corrects-below-68-in-countdown-to-us-pce-inflation-data-202608250344</link>
-            <guid isPermaLink="false">68cd08cf-2695-415e-8d4e-94d13c2abdbf</guid>
-            <pubDate>Tue, 25 Aug 2026 03:44:16 GMT</pubDate>
-            <description><![CDATA[Silver price (XAG/USD) is down 1.6% to near $67.87 during the Asian trading session on Tuesday. The white metal is under pressure as investors turn cautious ahead of the United States (US) Personal Consumer Expenditure Price Index (PCE) data for July, which will be released on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound holds range below mid-1.3600s as USD firms  amid Fed risks and Iran tensions]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-holds-range-below-mid-13600s-as-usd-firms-amid-fed-risks-and-iran-tensions-202608250333</link>
-            <guid isPermaLink="false">20d602f8-2465-4121-b912-37fea16cf725</guid>
-            <pubDate>Tue, 25 Aug 2026 03:33:43 GMT</pubDate>
-            <description><![CDATA[The GBP/USD pair extends its sideways consolidative price move for the second straight day and trades around the 1.3630 area during the Asian session on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar gains as high inflation fuels odds of RBNZ September rate hikes]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-gains-as-high-inflation-fuels-odds-of-rbnz-september-rate-hikes-202608250300</link>
-            <guid isPermaLink="false">d40025d6-5a52-4076-b9a6-f2d4ea454239</guid>
-            <pubDate>Tue, 25 Aug 2026 03:00:34 GMT</pubDate>
-            <description><![CDATA[NZD/USD gains ground after registering modest losses in the previous day, trading around 0.5960 during the Asian hours on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan’s Katayama: Will focus on key policies in FY27 budget to drive economic growth]]></title>
-            <link>https://www.fxstreet.com/news/japans-katayama-will-focus-on-key-policies-in-fy27-budget-to-drive-economic-growth-202608250241</link>
-            <guid isPermaLink="false">f6d8ba49-5d21-4b0a-b136-a84810bc9eac</guid>
-            <pubDate>Tue, 25 Aug 2026 02:41:27 GMT</pubDate>
-            <description><![CDATA[Japan Finance Minister (FM) Satsuki Katayama said in the Asian trading session on Tuesday that the government aims to balance fiscal sustainability and economic growth and communicate with markets on this stance.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
