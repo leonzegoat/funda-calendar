@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 04:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 04:55:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold moves away from multi‑month top as Fed rate fears and Middle East jitters support USD]]></title>
+            <link>https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254</link>
+            <guid isPermaLink="false">9886f006-59a8-486b-910f-55f562944438</guid>
+            <pubDate>Tue, 25 Aug 2026 02:54:12 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) faces rejection ahead of the $4,700 mark on Tuesday and witnessed an intraday turnaround from its highest level since May 14, touched during the Asian session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608250435</link>
+            <guid isPermaLink="false">3db6f3e1-a519-487c-b42e-57ac70b6a351</guid>
+            <pubDate>Tue, 25 Aug 2026 04:35:04 GMT</pubDate>
+            <description><![CDATA[Gold prices fell in India on Tuesday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Rises toward 186.00 after rebounding from ascending channel bottom]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-toward-18600-after-rebounding-from-ascending-channel-bottom-202608250418</link>
+            <guid isPermaLink="false">e9b78011-8023-4759-bbac-be6c81c65559</guid>
+            <pubDate>Tue, 25 Aug 2026 04:18:41 GMT</pubDate>
+            <description><![CDATA[EUR/JPY appreciates after two days of gains, trading around 185.80 during the Asian hours on Tuesday. Technical analysis of the daily chart indicates the currency cross remains within the ascending channel pattern, signaling an ongoing bullish bias.]]></description>
+            <enclosure url="https://editorial.fxstreet.com/images/i/BullishRocket.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-remains-depressed-as-firmer-usd-and-trade-war-counter-higher-oil-prices-202608250412</link>
+            <guid isPermaLink="false">95b48962-a1e9-467c-94e8-0370a206ff1c</guid>
+            <pubDate>Tue, 25 Aug 2026 04:12:38 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair sticks to a positive bias for the second straight day and trades around mid-1.3800s during the Asian session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-cad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RBA's Jacobs: Transition from RBA controlling reserves quantity to banking system managing it]]></title>
+            <link>https://www.fxstreet.com/news/rbas-jacobs-transition-from-rba-controlling-reserves-quantity-to-banking-system-managing-it-202608250411</link>
+            <guid isPermaLink="false">c78aee4d-018a-4593-80fb-b53dbcd3c6f4</guid>
+            <pubDate>Tue, 25 Aug 2026 04:11:36 GMT</pubDate>
+            <description><![CDATA[Reserve Bank of Australia (RBA) Head of Domestic Markets, David Jacobs, said during the Asian trading session on Tuesday that the central bank aims to have a system that can flexibly supply whatever quantity the banking system demands, while keeping the cash rate close to the board’s target.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[United States Dollar Index holds gains near 99.00 amid escalating geopolitical risks]]></title>
             <link>https://www.fxstreet.com/news/united-states-dollar-index-holds-gains-near-9900-amid-escalating-geopolitical-risks-202608250345</link>
@@ -38,14 +78,6 @@
             <pubDate>Tue, 25 Aug 2026 03:00:34 GMT</pubDate>
             <description><![CDATA[NZD/USD gains ground after registering modest losses in the previous day, trading around 0.5960 during the Asian hours on Tuesday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold retreats from mid-May highs; fails ahead of $4,700 as Fed risks support USD]]></title>
-            <link>https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254</link>
-            <guid isPermaLink="false">9886f006-59a8-486b-910f-55f562944438</guid>
-            <pubDate>Tue, 25 Aug 2026 02:54:12 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) touched a fresh high since May 14, during the Asian session on Tuesday, though it struggled to capitalize on the move and failed to break the $4,700 mark.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Japan’s Katayama: Will focus on key policies in FY27 budget to drive economic growth]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 20:13:47 GMT</pubDate>
             <description><![CDATA[The Mexican Peso (MXN) loses ground against the Greenback on Monday, even though economic data showed that inflation accelerated in the first half of August, while economic growth was softer than expected. Consequently, the USD/MXN pair trades with gains of over 0.25% to 16.96.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar firms on safe-haven demand ahead of data-heavy Tuesday]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-on-safe-haven-demand-ahead-of-data-heavy-tuesday-202608242013</link>
-            <guid isPermaLink="false">8830d3a5-b00c-476c-a464-79e220000c6e</guid>
-            <pubDate>Mon, 24 Aug 2026 20:13:42 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) reclaimed the 99.00 mark for the first time since last Wednesday's plunge.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-76.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Won: Consolidation zone eyed against US Dollar – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/south-korean-won-consolidation-zone-eyed-against-us-dollar-commerzbank-202608241951</link>
-            <guid isPermaLink="false">55bb5e64-24da-4eff-b59c-9d76a80d35d1</guid>
-            <pubDate>Mon, 24 Aug 2026 19:51:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Charlie Lay and Dr. Henry Hao highlight South Korea’s strong export-led growth and large current-account surplus as key drivers of Korean Won strength against the Dollar.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index: Cautious rebound capped near 100 – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-cautious-rebound-capped-near-100-scotiabank-202608241936</link>
-            <guid isPermaLink="false">85de5a00-895f-4289-8cf2-b130115a00ad</guid>
-            <pubDate>Mon, 24 Aug 2026 19:36:02 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret observe that the US Dollar (USD) is modestly stronger as markets start the week cautiously, with equities defensive and Treasuries firmer.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Gradual appreciation bias with key levels against US Dollar – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-gradual-appreciation-bias-with-key-levels-against-us-dollar-ocbc-202608241917</link>
-            <guid isPermaLink="false">e2b16910-5b8a-4385-bc15-94a3fd9ee05e</guid>
-            <pubDate>Mon, 24 Aug 2026 19:17:00 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that RMB and CNH remain supported by softer USD dynamics and exporter conversion, but the People’s Bank of China is signalling a preference for gradual gains via its fixing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
