@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 21:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 22:01:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thai Baht: Bullish bias against US Dollar faces BoT sensitivity – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/thai-baht-bullish-bias-against-us-dollar-faces-bot-sensitivity-ocbc-202608252154</link>
+            <guid isPermaLink="false">5bf2732d-b181-43bc-9940-667577cc3f95</guid>
+            <pubDate>Tue, 25 Aug 2026 21:54:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that Thai Baht (THB) has rallied to a two‑month high on softer US Dollar (USD), lower Oil prices, strong electronics exports and Gold-related flows.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Chinese Yuan: Bullish bias with focus on 6.7000 against US Dollar – UOB]]></title>
             <link>https://www.fxstreet.com/news/chinese-yuan-bullish-bias-with-focus-on-67000-against-us-dollar-uob-202608252121</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 14:48:23 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI) Oil edges lower on Tuesday, extending its decline for a second straight day as traders look past Washington’s latest economic pressure on Iran.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso: Carry appeal faces crowding risk – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-carry-appeal-faces-crowding-risk-mufg-202608251442</link>
-            <guid isPermaLink="false">d37b2b41-9d93-4aad-89fa-e1841b35b0eb</guid>
-            <pubDate>Tue, 25 Aug 2026 14:42:50 GMT</pubDate>
-            <description><![CDATA[MUFG analysts Derek Halpenny and Abdul-Ahad Lockhart state that the Mexican Peso continues to benefit from low FX volatility and strong carry demand, with USD/MXN breaking below 17.00 for the first time since June 2024.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/MXN-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
