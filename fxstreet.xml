@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 17:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 17:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USD/CAD Price Forecast: Bearish indicators keep the path tilted lower]]></title>
+            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-indicators-keep-the-path-tilted-lower-202608251756</link>
+            <guid isPermaLink="false">f96826fd-6382-414c-8f8d-4a5d6b720968</guid>
+            <pubDate>Tue, 25 Aug 2026 17:56:36 GMT</pubDate>
+            <description><![CDATA[USD/CAD edges lower on Tuesday, with the Canadian Dollar (CAD) drawing support from a weaker US Dollar (USD) as traders also assess the latest tit-for-tat tariff measures between the United States (US) and Canada.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro remains flat with Sterling despite upbeat German data]]></title>
+            <link>https://www.fxstreet.com/news/euro-remains-flat-with-sterling-despite-upbeat-german-data-202608251739</link>
+            <guid isPermaLink="false">bca5aa93-dc1a-420d-818e-cfd9bbfde4d1</guid>
+            <pubDate>Tue, 25 Aug 2026 17:39:11 GMT</pubDate>
+            <description><![CDATA[EUR/GBP traded around 0.8560 on Tuesday, little changed, as a run of stronger German data failed to give the Euro (EUR) a clear lift against a resilient Pound. The pair remains pinned near its 20 and 100-period Simple Moving Averages (SMA), with neither side able to force a break.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen remains vulnerable despite softer Greenback]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-remains-vulnerable-despite-softer-greenback-202608251719</link>
+            <guid isPermaLink="false">50d30ba3-b216-42ee-8cb1-3443b513e6fe</guid>
+            <pubDate>Tue, 25 Aug 2026 17:19:16 GMT</pubDate>
+            <description><![CDATA[USD/JPY extends its sideways movement below the 160.00 mark on Tuesday, holding modest gains despite a softer US Dollar (USD). The weaker Greenback has failed to lift the Japanese Yen (JPY), which is underperforming its major peers. At the time of writing, the pair trades around 159.30.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Germany: Political risks cloud reform outlook – ING]]></title>
             <link>https://www.fxstreet.com/news/germany-political-risks-cloud-reform-outlook-ing-202608251707</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 12:41:12 GMT</pubDate>
             <description><![CDATA[NZD/USD edges slightly higher on Tuesday and trades around 0.5965 at the time of writing, up 0.08% on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA risks and carry support – BBH]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-risks-and-carry-support-bbh-202608251234</link>
-            <guid isPermaLink="false">2d486474-8a53-43a3-8390-ce914664d465</guid>
-            <pubDate>Tue, 25 Aug 2026 12:34:53 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the Australian Dollar (AUD) largely ignored the Reserve Bank of Australia's (RBA) August Minutes, which reiterated Governor Michele Bullock’s warning that another rate hike is quite possible.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Range trading outlook against Euro – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-range-trading-outlook-against-euro-rabobank-202608251221</link>
-            <guid isPermaLink="false">9642e2bb-646f-4b6d-8687-86e8b53cc5bb</guid>
-            <pubDate>Tue, 25 Aug 2026 12:21:20 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses the British Pound's (GBP) recent performance, noting it is currently the top G10 currency on a 1‑day view but only middling over longer horizons.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US ADP Employment Change 4-week average increases to 11.750K]]></title>
-            <link>https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-11750k-202608251221</link>
-            <guid isPermaLink="false">097cb7ca-4771-43f3-9542-c7db3fa04aef</guid>
-            <pubDate>Tue, 25 Aug 2026 12:21:10 GMT</pubDate>
-            <description><![CDATA[Private-sector hiring in the US has gained some pace in early August. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 11.750K jobs per week in the four weeks ending August 8.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_newspaper.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
