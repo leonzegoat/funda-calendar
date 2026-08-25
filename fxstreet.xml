@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 09:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 09:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hungarian Forint: Holding firm against Euro below key resistance - Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/hungarian-forint-holding-firm-against-euro-below-key-resistance-societe-generale-202608250948</link>
+            <guid isPermaLink="false">3cc7d14d-39cb-4cc6-87d8-b2407d6429f5</guid>
+            <pubDate>Tue, 25 Aug 2026 09:48:07 GMT</pubDate>
+            <description><![CDATA[Societe Generale strategists expect Hungary's central bank, Magyar Nemzeti Bank (MNB), to cut rates by 25 bp to 5.50% today, with dovish July minutes and softer-than-expected inflation leaving room for further easing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608250931</link>
+            <guid isPermaLink="false">cc5752fc-78bb-47e3-ad65-ff826e19fdb8</guid>
+            <pubDate>Tue, 25 Aug 2026 09:31:18 GMT</pubDate>
+            <description><![CDATA[Silver prices (XAG/USD) fell on Tuesday, according to FXStreet data. Silver trades at $67.82 per troy ounce, down 0.97% from the $68.48 it cost on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Tariff risks cloud outlook – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-tariff-risks-cloud-outlook-commerzbank-202608250931</link>
+            <guid isPermaLink="false">a8032a23-61d2-446d-b3e1-72954f16d43e</guid>
+            <pubDate>Tue, 25 Aug 2026 09:31:05 GMT</pubDate>
+            <description><![CDATA[Michael Pfister at Commerzbank assesses the potential impact of higher US auto tariffs on Canada and the Canadian Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-cad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Range trade within 157.90 and 159.80 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-range-trade-within-15790-and-15980-against-us-dollar-uob-202608250917</link>
+            <guid isPermaLink="false">5d3979ba-e996-48d3-976a-5da1e193f578</guid>
+            <pubDate>Tue, 25 Aug 2026 09:17:05 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann describe USD/JPY as locked in a range-trading phase, with a slightly firmer tone keeping the pair in a higher intraday band of 158.80–159.45.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD faces rejection near $70.00 as upside momentum fades]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-faces-rejection-near-7000-as-upside-momentum-fades-202608250904</link>
+            <guid isPermaLink="false">5a5af7a0-3fa3-4340-8776-13d4476391d0</guid>
+            <pubDate>Tue, 25 Aug 2026 09:04:21 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) continues its struggle to make it through the $70.00 psychological mark and turns lower for the second straight day on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee: Range holds against US Dollar as inflows offset trade drag – DBS]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-range-holds-against-us-dollar-as-inflows-offset-trade-drag-dbs-202608250902</link>
+            <guid isPermaLink="false">34152fb7-f431-454b-9ba2-b12a9e1fc3f6</guid>
+            <pubDate>Tue, 25 Aug 2026 09:02:47 GMT</pubDate>
+            <description><![CDATA[DBS economist Radhika Rao observes that strong FCNR (B) swap inflows and higher FX reserves have not translated into significant Rupee gains, with USD/INR staying in a tight 95.50–96.00 range.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Dow Jones futures advance as tech stocks rebound ahead of looming Nvidia earnings]]></title>
             <link>https://www.fxstreet.com/news/dow-jones-futures-advance-as-tech-stocks-rebound-ahead-of-looming-nvidia-earnings-202608250856</link>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 06:31:14 GMT</pubDate>
             <description><![CDATA[The Japanese Yen (JPY) remains on the defensive against the US Dollar (USD) on Tuesday, in a low-volatility market, as investors await key data releases and the Jackson Hole symposium, due in the second half of the week, to make decisions.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-96.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Data weakness keeps downside risks elevated - TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-data-weakness-keeps-downside-risks-elevated-td-securities-202608250627</link>
-            <guid isPermaLink="false">93886dfc-c84d-4750-9288-10ccbdd6c71c</guid>
-            <pubDate>Tue, 25 Aug 2026 06:27:10 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists argue that the US Dollar (USD) has re-entered a bearish regime after the Treasury buyback announcement pushed the US Dollar Index (DXY) below its 200‑day SMA.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Further gains eyed toward 1.1800 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/euro-further-gains-eyed-toward-11800-against-us-dollar-uob-202608250608</link>
-            <guid isPermaLink="false">2cb445d9-02cd-47b2-916c-af5c61422929</guid>
-            <pubDate>Tue, 25 Aug 2026 06:08:53 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann keep a constructive stance on EUR/USD despite recent consolidation around 1.1660. They still see room for upside toward 1.1725 in the coming weeks as long as support at 1.1630 holds.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: Corrects further as US Dollar extends recovery]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-corrects-further-as-us-dollar-extends-recovery-202608250558</link>
-            <guid isPermaLink="false">31310e1a-6983-4f7c-b632-e4895445249c</guid>
-            <pubDate>Tue, 25 Aug 2026 05:58:30 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) trades marginally lower against the US Dollar (USD) on Tuesday, extending its corrective move from the four-day high of 1.1711 to near 1.1655 during the European trading session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah struggles amid record deficit, external pressures]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-struggles-amid-record-deficit-external-pressures-202608250527</link>
-            <guid isPermaLink="false">4f2ee6eb-31b8-4e64-9240-f261e28b332c</guid>
-            <pubDate>Tue, 25 Aug 2026 05:27:23 GMT</pubDate>
-            <description><![CDATA[USD/IDR halts its three-day losing streak, trading around 17,770 during the Asian hours on Tuesday. The pair appreciates as the Indonesian Rupiah (IDR) struggles under the weight of cautious market sentiment driven by persistent external pressures.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[India Gold price today: Gold falls, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608250435</link>
-            <guid isPermaLink="false">3db6f3e1-a519-487c-b42e-57ac70b6a351</guid>
-            <pubDate>Tue, 25 Aug 2026 04:35:04 GMT</pubDate>
-            <description><![CDATA[Gold prices fell in India on Tuesday, according to data compiled by FXStreet.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/JPY Price Forecast: Rises toward 186.00 after rebounding from ascending channel bottom]]></title>
-            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-toward-18600-after-rebounding-from-ascending-channel-bottom-202608250418</link>
-            <guid isPermaLink="false">e9b78011-8023-4759-bbac-be6c81c65559</guid>
-            <pubDate>Tue, 25 Aug 2026 04:18:41 GMT</pubDate>
-            <description><![CDATA[EUR/JPY appreciates after two days of gains, trading around 185.80 during the Asian hours on Tuesday. Technical analysis of the daily chart indicates the currency cross remains within the ascending channel pattern, signaling an ongoing bullish bias.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/BullishRocket.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
