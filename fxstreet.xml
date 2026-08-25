@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 04:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 05:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indonesian Rupiah struggles amid record deficit, external pressures]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-struggles-amid-record-deficit-external-pressures-202608250527</link>
+            <guid isPermaLink="false">4f2ee6eb-31b8-4e64-9240-f261e28b332c</guid>
+            <pubDate>Tue, 25 Aug 2026 05:27:23 GMT</pubDate>
+            <description><![CDATA[USD/IDR halts its three-day losing streak, trading around 17,770 during the Asian hours on Tuesday. The pair appreciates as the Indonesian Rupiah (IDR) struggles under the weight of cautious market sentiment driven by persistent external pressures.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold moves away from multi‑month top as Fed rate fears and Middle East jitters support USD]]></title>
             <link>https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 20:33:00 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects the Bank of Thailand (BoT) to hold rates at 1.00%, leaving negative real yields that keep Thai Baht (THB) lagging. The Bank of Korea (BoK) is seen hiking again to 3.00%, supporting South Korean Won (KRW) as growth and inflation exceed targets.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso weakens as Iran sanctions offset Mexico’s inflation data]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-weakens-as-iran-sanctions-offset-mexicos-inflation-data-202608242013</link>
-            <guid isPermaLink="false">86825cbd-5a23-4091-a318-7279eb49ea55</guid>
-            <pubDate>Mon, 24 Aug 2026 20:13:47 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso (MXN) loses ground against the Greenback on Monday, even though economic data showed that inflation accelerated in the first half of August, while economic growth was softer than expected. Consequently, the USD/MXN pair trades with gains of over 0.25% to 16.96.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
