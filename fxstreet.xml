@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 22:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 23:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold advances above $4,650 on US Dollar weakness, Treasury bond buyback plans]]></title>
+            <link>https://www.fxstreet.com/news/gold-advances-above-4-650-on-us-dollar-weakness-treasury-bond-buyback-plans-202608252327</link>
+            <guid isPermaLink="false">7349c82f-d223-48a4-9a07-2bd92c582c5e</guid>
+            <pubDate>Tue, 25 Aug 2026 23:27:51 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) rises to around 4,670, the highest since May 14, during the early Asian session on Wednesday. The precious metal extends the rally amid a weaker US Dollar (USD) and as the US Treasury’s bond buyback plans.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar rises after RBA hawkish minutes, inflation data eyed]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rises-after-rba-hawkish-minutes-inflation-data-eyed-202608252304</link>
+            <guid isPermaLink="false">c3c6e4dc-66a0-49fd-a684-a619fb9d8d5f</guid>
+            <pubDate>Tue, 25 Aug 2026 23:04:10 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar advanced on Tuesday, gaining over 0.20% as the Greenback edged lower, amid minutes from the Reserve Bank of Australia (RBA)'s last meeting suggesting the board was close to raising rates. At the time of writing, the AUD/USD trades at 0.7163, after bouncing off daily lows of 0.7137.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo bought the Japanese Yen a range, not a trend]]></title>
+            <link>https://www.fxstreet.com/news/tokyo-bought-the-japanese-yen-a-range-not-a-trend-202608252302</link>
+            <guid isPermaLink="false">096c4d67-5595-4cf2-a937-c8238ea22eb5</guid>
+            <pubDate>Tue, 25 Aug 2026 23:02:06 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades just above 159.00 late on Tuesday, August 25, holding a gain of under a tenth of a percent across a session that has covered 44 pips between a floor near 159.00 and a ceiling short of 159.50.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Pound Sterling's six-month high has no British test this week]]></title>
+            <link>https://www.fxstreet.com/news/pound-sterlings-six-month-high-has-no-british-test-this-week-202608252301</link>
+            <guid isPermaLink="false">809cbc45-8431-4975-8304-eaf53ae1fbe5</guid>
+            <pubDate>Tue, 25 Aug 2026 23:01:27 GMT</pubDate>
+            <description><![CDATA[GBP/USD trades near 1.3650 late on Tuesday, August 25, up around a tenth of a percent on a session that has covered barely 33 pips between a floor just above 1.3600 and a ceiling a shade over 1.3650.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: Consolidation risk after recent gains against US Dollar – OCBC]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-consolidation-risk-after-recent-gains-against-us-dollar-ocbc-202608252237</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 16:18:22 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Dr. Ralph Solveen notes that the German Ifo Business Climate Index rose from 86.7 to 88.8 in August, with both current conditions and expectations improving. He highlights stronger foreign demand, rising government spending and better sentiment as factors supporting growth.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dax-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound holds near six-month high as Hormuz hopes lift sentiment]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-holds-near-six-month-high-as-hormuz-hopes-lift-sentiment-202608251605</link>
-            <guid isPermaLink="false">46ea3363-841e-4ede-bb07-85d73ef354f4</guid>
-            <pubDate>Tue, 25 Aug 2026 16:05:02 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling (GBP) consolidates near a six-month high of 1.3675 on Tuesday as Middle East headlines improve risk appetite, while investors await the release of key US economic data and the speech by Federal Reserve (Fed) Chair Kevin Warsh at Jackson Hole.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Eurozone: AfD surge raises policy uncertainty – ING]]></title>
-            <link>https://www.fxstreet.com/news/eurozone-afd-surge-raises-policy-uncertainty-ing-202608251522</link>
-            <guid isPermaLink="false">68820eb1-5c8a-4d36-b212-0531a6b1fd7a</guid>
-            <pubDate>Tue, 25 Aug 2026 15:22:07 GMT</pubDate>
-            <description><![CDATA[Carsten Brzeski of ING underscores that the AfD’s rise to Germany’s largest party in polls introduces significant uncertainty for Eurozone policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar up modestly on RBA, weak USD]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-steadies-after-hawkish-rba-minutes-as-soft-us-dollar-lends-support-202608251520</link>
-            <guid isPermaLink="false">9a32c85e-06ad-4c91-a4af-3194cc946037</guid>
-            <pubDate>Tue, 25 Aug 2026 15:20:36 GMT</pubDate>
-            <description><![CDATA[AUD/USD steadies around the mid 0.7100s at the time of writing on Tuesday, clawing back most of the previous day's modest losses.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Range-bound against US Dollar ahead of Budget – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-ahead-of-budget-scotiabank-202608251508</link>
-            <guid isPermaLink="false">b5c5a995-b36e-405d-ab13-9a78b92359a2</guid>
-            <pubDate>Tue, 25 Aug 2026 15:08:19 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight GBP/USD consolidating in a tight mid-1.36 range as a quiet data and Bank of England (BoE) calendar contrasts with softer yield spreads, which have eroded some fundamental support.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
