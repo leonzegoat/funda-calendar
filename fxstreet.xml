@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 11:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 11:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI plummets to near $82 as US economic pressure on Iran seems less risky]]></title>
+            <link>https://www.fxstreet.com/news/wti-plummets-to-near-82-as-us-economic-pressure-on-iran-seems-less-risky-202608251136</link>
+            <guid isPermaLink="false">9ffd0806-b46c-41a3-b20a-282af58a7a5a</guid>
+            <pubDate>Tue, 25 Aug 2026 11:36:00 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, trade 3% lower at around $82.00 during the European trading session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound hovers near six-month highs with investors awaiting key US events]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-hovers-near-six-month-highs-with-investors-awaiting-key-us-events-202608251135</link>
+            <guid isPermaLink="false">2e568d5f-675a-481a-bea2-97b887512854</guid>
+            <pubDate>Tue, 25 Aug 2026 11:35:13 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) remains practically flat for the second consecutive day against the US Dollar (USD), with markets on a “wait-and-see” stance, awaiting key US Inflation data on Wednesday and the Jackson Hole central bankers’ summit on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: Strength intact with 0.7200 in focus against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-strength-intact-with-07200-in-focus-against-us-dollar-uob-202608251127</link>
+            <guid isPermaLink="false">24e41076-4bcf-45e3-b820-236fe93a4b7f</guid>
+            <pubDate>Tue, 25 Aug 2026 11:27:21 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD has slipped into short-term consolidation between 0.7135 and 0.7170 after last week’s sharp rise, but they still regard the broader uptrend as intact.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Recovery against US Dollar supported by data – BBH]]></title>
+            <link>https://www.fxstreet.com/news/euro-recovery-against-us-dollar-supported-by-data-bbh-202608251117</link>
+            <guid isPermaLink="false">ffb4a801-5d11-4066-a3d8-f384e433410d</guid>
+            <pubDate>Tue, 25 Aug 2026 11:17:52 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports EUR/USD is firmer but still below 1.1700 as Germany’s IFO survey rises to a one-year high, echoing Eurozone PMI and ZEW improvements.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gold pauses near three-month high after sharp rally]]></title>
             <link>https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 07:32:54 GMT</pubDate>
             <description><![CDATA[Silver price (XAG/USD) extends its losses for the second successive day, trading around $68.40 per troy ounce during the European hours on Tuesday. However, Silver may regain ground as US government interventions in the bond market revive the debasement trade.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[China says its cooperation with Iran should not be disrupted - Reuters]]></title>
-            <link>https://www.fxstreet.com/news/china-says-its-cooperation-with-iran-should-not-be-disrupted-reuters-202608250732</link>
-            <guid isPermaLink="false">d44fe261-3365-49ad-be18-877004b45dd5</guid>
-            <pubDate>Tue, 25 Aug 2026 07:32:41 GMT</pubDate>
-            <description><![CDATA[In a Reuters report on Tuesday, a Chinese Foreign Ministry spokesperson, Lin Jian, said that its cooperation with Iran is conducted within the framework of international law and should not be interfered with or disrupted when asked about new United States (US) sanctions related to Iran.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold remains depressed below $4,650 on firmer USD, Fed risks, Middle East tensions]]></title>
-            <link>https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254</link>
-            <guid isPermaLink="false">9886f006-59a8-486b-910f-55f562944438</guid>
-            <pubDate>Tue, 25 Aug 2026 02:54:12 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) remains on the back foot below $4,650 through the first half of the European session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Tight inventories sustain price support – ING]]></title>
-            <link>https://www.fxstreet.com/news/copper-tight-inventories-sustain-price-support-ing-202608250725</link>
-            <guid isPermaLink="false">53560f09-a9f8-468b-99d4-8e778ac0d7c8</guid>
-            <pubDate>Tue, 25 Aug 2026 07:25:43 GMT</pubDate>
-            <description><![CDATA[ING analysts Warren Patterson and Ewa Manthey say Copper remains underpinned by tight LME inventories and strong US-bound flows.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar recovers modestly as markets assess developments in Mideast]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-recovers-modestly-as-markets-assess-developments-in-mideast-202608250723</link>
-            <guid isPermaLink="false">6f7e9db3-0956-4002-bb7b-aaef8e45da16</guid>
-            <pubDate>Tue, 25 Aug 2026 07:23:29 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Tuesday, August 25:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Neutral-Tendency-1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
