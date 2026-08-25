@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 03:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 04:01:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[United States Dollar Index holds gains near 99.00 amid escalating geopolitical risks]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-holds-gains-near-9900-amid-escalating-geopolitical-risks-202608250345</link>
+            <guid isPermaLink="false">017cd7ef-e052-42bf-8fd8-666f97bf2e7d</guid>
+            <pubDate>Tue, 25 Aug 2026 03:45:37 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is extending its gains for the second successive day and trading around 99.00 during the Asian hours on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD corrects below $68 in countdown to US PCE Inflation data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-corrects-below-68-in-countdown-to-us-pce-inflation-data-202608250344</link>
+            <guid isPermaLink="false">68cd08cf-2695-415e-8d4e-94d13c2abdbf</guid>
+            <pubDate>Tue, 25 Aug 2026 03:44:16 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) is down 1.6% to near $67.87 during the Asian trading session on Tuesday. The white metal is under pressure as investors turn cautious ahead of the United States (US) Personal Consumer Expenditure Price Index (PCE) data for July, which will be released on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound holds range below mid-1.3600s as USD firms  amid Fed risks and Iran tensions]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-holds-range-below-mid-13600s-as-usd-firms-amid-fed-risks-and-iran-tensions-202608250333</link>
+            <guid isPermaLink="false">20d602f8-2465-4121-b912-37fea16cf725</guid>
+            <pubDate>Tue, 25 Aug 2026 03:33:43 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair extends its sideways consolidative price move for the second straight day and trades around the 1.3630 area during the Asian session on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar gains as high inflation fuels odds of RBNZ September rate hikes]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-gains-as-high-inflation-fuels-odds-of-rbnz-september-rate-hikes-202608250300</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 24 Aug 2026 19:17:00 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that RMB and CNH remain supported by softer USD dynamics and exporter conversion, but the People’s Bank of China is signalling a preference for gradual gains via its fixing.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG pullback tests 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-pullback-tests-100-day-sma-202608241852</link>
-            <guid isPermaLink="false">38b4cce4-ee57-4e04-9749-82099499c330</guid>
-            <pubDate>Mon, 24 Aug 2026 18:52:11 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) price reverses course on Monday, down 0.59% as buyers failed to push the white metal past $70.00, which exacerbated a reversal to the first support level at the 100-day Simple Moving Average (SMA) at $68.42. At the time of writing, XAG/USD trades at $68.52, after peaking at $69.92.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Upside risk stays intact against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-intact-against-us-dollar-uob-202608241841</link>
-            <guid isPermaLink="false">389bd1cc-8eea-49c9-b69a-2bececf3aa52</guid>
-            <pubDate>Mon, 24 Aug 2026 18:41:00 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann maintain a cautious stance on USD/SGD after Friday’s drop to 1.2682 and close near 1.2700.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/SGD2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold rallies as Iran sanctions stoke haven demand]]></title>
-            <link>https://www.fxstreet.com/news/gold-rallies-as-iran-sanctions-stoke-haven-demand-202608241820</link>
-            <guid isPermaLink="false">69425107-acbf-493a-840e-c65e4d27be9a</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:57 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) price resumes its advance on Monday and refreshes three-month highs at $4,681 as US Treasury Secretary Scott Bessent crosses the wires to reveal sanctions on Iran-linked entities, while investors await a speech by new Fed Chair Kevin Warsh at the Jackson Hole symposium on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
