@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 20:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 21:34:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chinese Yuan: Bullish bias with focus on 6.7000 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-bullish-bias-with-focus-on-67000-against-us-dollar-uob-202608252121</link>
+            <guid isPermaLink="false">f678ee5a-5c18-4aed-a6ac-8c92bc7ea515</guid>
+            <pubDate>Tue, 25 Aug 2026 21:21:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann maintain a negative stance on USD/CNH, noting a softened underlying tone even as recent price action stayed relatively quiet. Intraday, they see scope for a modest drift lower while keeping 6.7150 as key support.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar climbs to fresh highs amid timid US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-climbs-to-fresh-highs-amid-timid-us-dollar-202608252054</link>
+            <guid isPermaLink="false">b2ae6185-98c1-42c7-b0bb-5deeaff7b131</guid>
+            <pubDate>Tue, 25 Aug 2026 20:54:20 GMT</pubDate>
+            <description><![CDATA[NZD/USD climbed to around 0.5980 Tuesday, near its highest level since June 1 as a softer US Dollar (USD) and firm Reserve Bank of New Zealand (RBNZ) rate-hike expectations powered the Kiwi higher. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: Range-bound consolidation outlook against US Dollar – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-range-bound-consolidation-outlook-against-us-dollar-commerzbank-202608252040</link>
@@ -16,11 +32,11 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/SGD2-18326.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Reports of US-Iran ceasefire deal, sinks Oil – RIA Novosti]]></title>
+            <title><![CDATA[US-Iran agree ceasefire deal, sinks Oil – RIA Novosti]]></title>
             <link>https://www.fxstreet.com/news/reports-of-us-iran-ceasefire-deal-sinks-oil-ria-novosti-202608252015</link>
             <guid isPermaLink="false">2420e976-aa3a-4b71-bc66-a6d97cbc9deb</guid>
             <pubDate>Tue, 25 Aug 2026 20:15:37 GMT</pubDate>
-            <description><![CDATA[The Russian agency RIA Novosti reported that Washington and Tehran agreed to a ceasefire, citing sources in Iran and Pakistan.]]></description>
+            <description><![CDATA[The Russian agency RIA Novosti reported on Tuesday that Washington and Tehran agreed to a ceasefire, citing sources in Iran and Pakistan.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-100-day-sma-eyes-70-202608251831</link>
             <guid isPermaLink="false">3b9d2674-0efc-4c4c-b75b-f5227d45fa3a</guid>
             <pubDate>Tue, 25 Aug 2026 18:31:57 GMT</pubDate>
-            <description><![CDATA[Silver price registers modest gains on Tuesday, after briefly breaching the 100-day Simple Moving Average (SMA) at $68.38, pushing the white metal to a three-day low of $67.43 before making a U-turn and turning bullish. The XAG/USD trades at $68.86, up 0.55%,]]></description>
+            <description><![CDATA[Silver (XAG/USD) price registers modest gains on Tuesday, after briefly breaching the 100-day Simple Moving Average (SMA) at $68.38, pushing the white metal to a three-day low of $67.43 before making a U-turn and turning bullish. The XAG/USD pair trades at $68.86, up 0.55%,]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 14:42:50 GMT</pubDate>
             <description><![CDATA[MUFG analysts Derek Halpenny and Abdul-Ahad Lockhart state that the Mexican Peso continues to benefit from low FX volatility and strong carry demand, with USD/MXN breaking below 17.00 for the first time since June 2024.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/MXN-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ September risk looms in flat range against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-september-risk-looms-in-flat-range-against-us-dollar-scotiabank-202608251428</link>
-            <guid isPermaLink="false">3415b8be-a810-4b2a-a6ba-820c03c91213</guid>
-            <pubDate>Tue, 25 Aug 2026 14:28:22 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note USD/JPY trading in a relatively flat range between 158.00 and the mid-159s as the Japanese Yen (JPY) underperforms most G10 currencies.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Credibility risks for USD – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-credibility-risks-for-usd-td-securities-202608251418</link>
-            <guid isPermaLink="false">0da0579b-eff8-4299-ae14-5a29fb0677f0</guid>
-            <pubDate>Tue, 25 Aug 2026 14:18:13 GMT</pubDate>
-            <description><![CDATA[TD Securities argues that Jackson Hole is more about Federal Reserve (Fed) credibility than new guidance for the US Dollar (USD). They see rate expectations staying anchored, but warn that any failure by Chair Warsh to reaffirm the inflation mandate could weigh on USD.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-77.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
