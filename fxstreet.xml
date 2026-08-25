@@ -4,9 +4,97 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 11:45:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 12:57:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold: Tariff conflict fuels safe haven bid – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/gold-tariff-conflict-fuels-safe-haven-bid-commerzbank-202608251250</link>
+            <guid isPermaLink="false">fa18b745-b461-4bb9-ade2-7f9aef9df36b</guid>
+            <pubDate>Tue, 25 Aug 2026 12:50:27 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Carsten Fritsch reports that Gold has surged to a three‑month high near USD 4,700 per ounce as US–Canada tariff tensions escalate and concerns over US debt intensify. Silver and Platinum have also rallied.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar defies stronger US Dollar as RBNZ rate hike bets offer support]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-defies-stronger-us-dollar-as-rbnz-rate-hike-bets-offer-support-202608251241</link>
+            <guid isPermaLink="false">821ae3cf-ebf7-4f6b-a586-88fa44875b15</guid>
+            <pubDate>Tue, 25 Aug 2026 12:41:12 GMT</pubDate>
+            <description><![CDATA[NZD/USD edges slightly higher on Tuesday and trades around 0.5965 at the time of writing, up 0.08% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: RBA risks and carry support – BBH]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rba-risks-and-carry-support-bbh-202608251234</link>
+            <guid isPermaLink="false">2d486474-8a53-43a3-8390-ce914664d465</guid>
+            <pubDate>Tue, 25 Aug 2026 12:34:53 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the Australian Dollar (AUD) largely ignored the Reserve Bank of Australia's (RBA) August Minutes, which reiterated Governor Michele Bullock’s warning that another rate hike is quite possible.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold takes a breather after climbing to a three-month high]]></title>
+            <link>https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109</link>
+            <guid isPermaLink="false">b3319664-f07f-40db-ad3e-ced7c884b954</guid>
+            <pubDate>Tue, 25 Aug 2026 11:09:01 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) remains under pressure on Tuesday heading into American trading hours after setting a fresh three-month high of $4,697 earlier in the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Range trading outlook against Euro – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-range-trading-outlook-against-euro-rabobank-202608251221</link>
+            <guid isPermaLink="false">9642e2bb-646f-4b6d-8687-86e8b53cc5bb</guid>
+            <pubDate>Tue, 25 Aug 2026 12:21:20 GMT</pubDate>
+            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses the British Pound's (GBP) recent performance, noting it is currently the top G10 currency on a 1‑day view but only middling over longer horizons.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-gbp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US ADP Employment Change 4-week average increases to 11.750K]]></title>
+            <link>https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-11750k-202608251221</link>
+            <guid isPermaLink="false">097cb7ca-4771-43f3-9542-c7db3fa04aef</guid>
+            <pubDate>Tue, 25 Aug 2026 12:21:10 GMT</pubDate>
+            <description><![CDATA[Private-sector hiring in the US has gained some pace in early August. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 11.750K jobs per week in the four weeks ending August 8.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_newspaper.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Fragmentation risks and reserve diversification – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-fragmentation-risks-and-reserve-diversification-mufg-202608251206</link>
+            <guid isPermaLink="false">1c4aaeb4-f8d5-43ed-8b10-4fceea895fb0</guid>
+            <pubDate>Tue, 25 Aug 2026 12:06:39 GMT</pubDate>
+            <description><![CDATA[Michael Wan at MUFG discusses US threats of economic punishment on countries dealing with Iran and new sanctions on over 60 entities.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Bulls recover lost ground as intervention effect wears off]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-recover-lost-ground-as-intervention-effect-wears-off-202608251157</link>
+            <guid isPermaLink="false">d2b8c1dc-ab99-454c-bb38-d71b3429696d</guid>
+            <pubDate>Tue, 25 Aug 2026 11:57:00 GMT</pubDate>
+            <description><![CDATA[GBP/JPY extends its steady recovery on Tuesday and has now recouped almost all the losses triggered by the joint US-Japan intervention in late July. The intervention was aimed at curbing excessive weakness in the Japanese Yen (JPY) after USD/JPY climbed above 160 to a forty-year high.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Trade conflict keeps downside risks alive against US Dollar - ING]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-trade-conflict-keeps-downside-risks-alive-against-us-dollar-ing-202608251154</link>
+            <guid isPermaLink="false">db890863-5c7b-400d-bb57-efd312afcf0d</guid>
+            <pubDate>Tue, 25 Aug 2026 11:54:47 GMT</pubDate>
+            <description><![CDATA[ING’s Francesco Pesole highlights escalating US-Canada trade tensions, with new US tariffs on Canadian autos and parts announced for early next year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen under pressure as geopolitical risks support the US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-under-pressure-as-geopolitical-risks-support-the-us-dollar-202608251150</link>
+            <guid isPermaLink="false">c6d38b2d-1c85-4b8d-8aaa-ae159fe1c425</guid>
+            <pubDate>Tue, 25 Aug 2026 11:50:58 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades around 159.30 on Tuesday at the time of writing, up 0.15% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Chinese demand peak shifts market balance – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/oil-chinese-demand-peak-shifts-market-balance-commerzbank-202608251145</link>
+            <guid isPermaLink="false">78a5fe9b-ef19-4fd7-9869-24a01b91f189</guid>
+            <pubDate>Tue, 25 Aug 2026 11:45:47 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Carsten Fritsch notes that softer-than-expected US sanctions on Iran have added to downward pressure on Oil prices despite severe disruptions to tanker traffic through the Strait of Hormuz.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WTI plummets to near $82 as US economic pressure on Iran seems less risky]]></title>
             <link>https://www.fxstreet.com/news/wti-plummets-to-near-82-as-us-economic-pressure-on-iran-seems-less-risky-202608251136</link>
@@ -38,14 +126,6 @@
             <pubDate>Tue, 25 Aug 2026 11:17:52 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports EUR/USD is firmer but still below 1.1700 as Germany’s IFO survey rises to a one-year high, echoing Eurozone PMI and ZEW improvements.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold pauses near three-month high after sharp rally]]></title>
-            <link>https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109</link>
-            <guid isPermaLink="false">b3319664-f07f-40db-ad3e-ced7c884b954</guid>
-            <pubDate>Tue, 25 Aug 2026 11:09:01 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) loses ground on Tuesday after setting a fresh three-month high of $4,697 earlier in the Asian session. Traders appear to be booking some profits following the recent rally, which has pushed the Relative Strength Index (RSI) into overbought territory.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[US Dollar: Debasement fears meet historical skepticism – MUFG]]></title>
@@ -166,86 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 08:38:03 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Tatha Ghose expects Hungary's central bank, Magyar Nemzeti Bank (MNB), to cut its base rate by 25bp to 5.50%, but stresses that guidance will matter more for the Forint. While headline inflation has surprised on the downside, core and services pressures and energy risks persist.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds gains against Canadian Dollar on upbeat German IFO data]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-on-upbeat-german-ifo-data-202608250830</link>
-            <guid isPermaLink="false">086eb892-28d0-42db-ba15-1858b994b7fb</guid>
-            <pubDate>Tue, 25 Aug 2026 08:30:12 GMT</pubDate>
-            <description><![CDATA[EUR/CAD extends its gains for the second consecutive day, trading around 1.6160 during the European hours on Tuesday. The currency cross remains stronger as the Euro (EUR) holds gains following the release of the German IFO business sentiment index data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound extends gains to fresh monthly peak, around mid-217.00s vs weaker Yen]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-extends-gains-to-fresh-monthly-peak-around-mid-21700s-vs-weaker-yen-202608250829</link>
-            <guid isPermaLink="false">e6b9f425-53dd-4777-8e78-a700153f664a</guid>
-            <pubDate>Tue, 25 Aug 2026 08:29:27 GMT</pubDate>
-            <description><![CDATA[The GBP/JPY cross catches fresh bids on Tuesday and climbs to its highest level since July 30, around mid-217.00s during the first half of the European session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AVAX-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Policy crosscurrents shape outlook – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-policy-crosscurrents-shape-outlook-ocbc-202608250825</link>
-            <guid isPermaLink="false">e886fe0a-16fd-4148-9c5d-dc1172726136</guid>
-            <pubDate>Tue, 25 Aug 2026 08:25:53 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that renewed policy uncertainty and Federal Reserve (Fed) reaction risks are constraining US Dollar (USD) gains, even as higher US real yields and a resilient US economy limit downside.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Upside bias toward 1.3700 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-upside-bias-toward-13700-against-us-dollar-uob-202608250810</link>
-            <guid isPermaLink="false">adbd01a9-87a8-4414-bc90-78875e9909b6</guid>
-            <pubDate>Tue, 25 Aug 2026 08:10:22 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann describe GBP/USD price action as range-bound intraday between 1.3615 and 1.3660, with momentum indicators neutral.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany’s IFO Business Climate Index improves again, arriving at 88.8 vs. 87.2 estimates]]></title>
-            <link>https://www.fxstreet.com/news/germanys-ifo-business-climate-index-improves-again-arriving-at-888-vs-872-estimates-202608250802</link>
-            <guid isPermaLink="false">297eb78e-0ee2-41a0-9381-a6d5bc4ab3e3</guid>
-            <pubDate>Tue, 25 Aug 2026 08:02:48 GMT</pubDate>
-            <description><![CDATA[The German IFO Institute Business Climate Index improves again. The sentiment data arrives higher at 88.8 in August from 86.7 in July, revised higher from 86.6. The data also beats estimates of 87.2.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/german-bank-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/USD Price Forecast: Rally pauses below 1.3700]]></title>
-            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-rally-pauses-below-13700-202608250757</link>
-            <guid isPermaLink="false">d3da89ba-91a4-4d3d-9aa7-b3f26af4d426</guid>
-            <pubDate>Tue, 25 Aug 2026 07:57:55 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) trades marginally higher against the US Dollar (USD) at around 1.3640 during the European trading session on Tuesday, even as the US Dollar Index (DXY) edges up, indicating strength in the British currency.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Path depends on yield regime shift – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/gold-path-depends-on-yield-regime-shift-mufg-202608250748</link>
-            <guid isPermaLink="false">7f5c8ad1-c5b3-480c-8cc4-9a30e50d07e0</guid>
-            <pubDate>Tue, 25 Aug 2026 07:48:49 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny and Abdul-Ahad Lockhart highlight that Gold’s recent strength alongside USD weakness and higher US yields has not historically confirmed a debasement story.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CAD Price Forecast: Could surpass 1.3900 as break above 38.2% Fibo. comes into play]]></title>
-            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-could-surpass-13900-as-break-above-382-fibo-comes-into-play-202608250748</link>
-            <guid isPermaLink="false">833b8760-348b-4f64-841d-13704958a51d</guid>
-            <pubDate>Tue, 25 Aug 2026 07:48:11 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair is seen building on its recovery move from the 1.3730 region, or a three-month low touched last week, and gaining positive traction for the second straight day on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar falls as US Dollar gains on safe-haven demand]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-falls-as-us-dollar-gains-on-safe-haven-demand-202608250748</link>
-            <guid isPermaLink="false">a2fb363c-a291-4e18-9ae7-f0c92e76577a</guid>
-            <pubDate>Tue, 25 Aug 2026 07:48:10 GMT</pubDate>
-            <description><![CDATA[NZD/USD extends its losses for the second successive day, trading around 0.5950 during the European hours on Tuesday. The currency pair faces downward pressure as the US Dollar (USD) gains strength from safe-haven demand driven by rising geopolitical tensions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD slips below $68.50 despite revived debasement trading]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6850-despite-revived-debasement-trading-202608250732</link>
-            <guid isPermaLink="false">4fe5f5fd-d490-470a-8744-ff581555fe9b</guid>
-            <pubDate>Tue, 25 Aug 2026 07:32:54 GMT</pubDate>
-            <description><![CDATA[Silver price (XAG/USD) extends its losses for the second successive day, trading around $68.40 per troy ounce during the European hours on Tuesday. However, Silver may regain ground as US government interventions in the bond market revive the debasement trade.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
