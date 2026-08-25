@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 16:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 17:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Germany: Political risks cloud reform outlook – ING]]></title>
+            <link>https://www.fxstreet.com/news/germany-political-risks-cloud-reform-outlook-ing-202608251707</link>
+            <guid isPermaLink="false">384b3bf1-1027-42c7-8bd7-9e5e1b8af018</guid>
+            <pubDate>Tue, 25 Aug 2026 17:07:00 GMT</pubDate>
+            <description><![CDATA[ING’s Carsten Brzeski highlights how upcoming state elections in Saxony-Anhalt, Mecklenburg-Vorpommern and Berlin could reshape German politics and indirectly affect the economy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dax-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico: Alignment for certainty in USMCA – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/mexico-alignment-for-certainty-in-usmca-societe-generale-202608251648</link>
+            <guid isPermaLink="false">56c888e3-8f58-4961-90ee-24b5184dbeba</guid>
+            <pubDate>Tue, 25 Aug 2026 16:48:00 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Dev Ashish argues that Mexico could benefit from tensions between the US and Canada, but warns that uncertainty around USMCA may limit the upside.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Mexico.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Dow Jones Industrial Average round-trips between Ottawa and the Treasury]]></title>
             <link>https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-between-ottawa-and-the-treasury-202608251636</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 12:21:10 GMT</pubDate>
             <description><![CDATA[Private-sector hiring in the US has gained some pace in early August. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 11.750K jobs per week in the four weeks ending August 8.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_newspaper.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fragmentation risks and reserve diversification – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fragmentation-risks-and-reserve-diversification-mufg-202608251206</link>
-            <guid isPermaLink="false">1c4aaeb4-f8d5-43ed-8b10-4fceea895fb0</guid>
-            <pubDate>Tue, 25 Aug 2026 12:06:39 GMT</pubDate>
-            <description><![CDATA[Michael Wan at MUFG discusses US threats of economic punishment on countries dealing with Iran and new sanctions on over 60 entities.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/JPY Price Forecast: Bulls recover lost ground as intervention effect wears off]]></title>
-            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-recover-lost-ground-as-intervention-effect-wears-off-202608251157</link>
-            <guid isPermaLink="false">d2b8c1dc-ab99-454c-bb38-d71b3429696d</guid>
-            <pubDate>Tue, 25 Aug 2026 11:57:00 GMT</pubDate>
-            <description><![CDATA[GBP/JPY extends its steady recovery on Tuesday and has now recouped almost all the losses triggered by the joint US-Japan intervention in late July. The intervention was aimed at curbing excessive weakness in the Japanese Yen (JPY) after USD/JPY climbed above 160 to a forty-year high.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
