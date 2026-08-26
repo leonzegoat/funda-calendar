@@ -4,16 +4,48 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 01:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 03:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Breaking: Australia’s CPI inflation falls to 3.5% YoY in July vs. 3.2% forecast]]></title>
+            <title><![CDATA[Japanese Yen strengthens on US bond buyback, traders brace for US PCE inflation report]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-strengthens-on-us-bond-buyback-traders-brace-for-us-pce-inflation-report-202608260241</link>
+            <guid isPermaLink="false">dabbfc83-8956-4a47-bec6-3bffea5e04b9</guid>
+            <pubDate>Wed, 26 Aug 2026 02:41:32 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair loses ground to near 158.90 during the Asian trading hours on Wednesday. The US Treasury’s bond buyback programs weigh on the US Dollar (USD) against the Japanese Yen (JPY).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar strengthens against Japanese Yen following CPI data]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-strengthens-against-japanese-yen-following-cpi-data-202608260214</link>
+            <guid isPermaLink="false">0274f9e3-f94c-48f9-9ec2-bc59964d3d29</guid>
+            <pubDate>Wed, 26 Aug 2026 02:14:52 GMT</pubDate>
+            <description><![CDATA[AUD/JPY gains ground for the second consecutive day, trading around 114.20 during the Asian hours on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BoJ to raise rate to 1.25% in September — Reuters poll]]></title>
+            <link>https://www.fxstreet.com/news/boj-to-raise-rate-to-125-in-september-reuters-poll-202608260213</link>
+            <guid isPermaLink="false">e771a777-32c3-4114-856d-d1afdb5f91ff</guid>
+            <pubDate>Wed, 26 Aug 2026 02:13:02 GMT</pubDate>
+            <description><![CDATA[According to August 17-24 survey in a Reuters poll, 57% of economists expected the Bank of Japan (BoJ) to raise its interest rate in September, a sharp turnaround from a July poll.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia’s CPI inflation declines to 3.5% YoY in July vs. 3.2% forecast]]></title>
             <link>https://www.fxstreet.com/news/australia-cpi-expected-to-show-inflation-easing-in-july-202608252230</link>
             <guid isPermaLink="false">45f9ed5c-c577-4ec6-8952-de6de17d5796</guid>
             <pubDate>Tue, 25 Aug 2026 22:30:00 GMT</pubDate>
             <description><![CDATA[Australia’s Consumer Price Index (CPI) rose by 3.5% year-over-year (YoY) in July, compared to a 3.8% growth reported in June, the latest data published by the Australian Bureau of Statistics (ABS) showed on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-shopping-cart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar strengthens after hot CPI report; eyes multi-month high ahead of US PCE]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-strengthens-after-hot-cpi-report-eyes-multi-month-high-ahead-of-us-pce-202608260147</link>
+            <guid isPermaLink="false">ae2604ac-4c9f-4f5d-bd34-d10a80671be1</guid>
+            <pubDate>Wed, 26 Aug 2026 01:47:29 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair attracts buyers for the second straight day and climbs to the 0.7170 area following the release of Australian consumer inflation figures during the Asian session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[WTI drops amid Middle East diplomacy, eased US sanction fears]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 18:31:57 GMT</pubDate>
             <description><![CDATA[Silver (XAG/USD) price registers modest gains on Tuesday, after briefly breaching the 100-day Simple Moving Average (SMA) at $68.38, pushing the white metal to a three-day low of $67.43 before making a U-turn and turning bullish. The XAG/USD pair trades at $68.86, up 0.55%,]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold pulls back from $4,700 as Hormuz hopes cool haven demand]]></title>
-            <link>https://www.fxstreet.com/news/gold-pulls-back-from-4-700-as-hormuz-hopes-cool-haven-demand-202608251814</link>
-            <guid isPermaLink="false">93ee169c-0d42-4887-b7c6-2408aee40637</guid>
-            <pubDate>Tue, 25 Aug 2026 18:14:14 GMT</pubDate>
-            <description><![CDATA[Gold price holds firm during the North American session as buyers fail to surpass the $4,700 level, exacerbating a retracement below a key psychological level, amid mixed US data and rising hopes for an end to the US-Iran conflict. XAU/USD traded at $4,641, down 0.2%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CAD Price Forecast: Bearish indicators keep the path tilted lower]]></title>
-            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-indicators-keep-the-path-tilted-lower-202608251756</link>
-            <guid isPermaLink="false">f96826fd-6382-414c-8f8d-4a5d6b720968</guid>
-            <pubDate>Tue, 25 Aug 2026 17:56:36 GMT</pubDate>
-            <description><![CDATA[USD/CAD edges lower on Tuesday, with the Canadian Dollar (CAD) drawing support from a weaker US Dollar (USD) as traders also assess the latest tit-for-tat tariff measures between the United States (US) and Canada.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro remains flat with Sterling despite upbeat German data]]></title>
-            <link>https://www.fxstreet.com/news/euro-remains-flat-with-sterling-despite-upbeat-german-data-202608251739</link>
-            <guid isPermaLink="false">bca5aa93-dc1a-420d-818e-cfd9bbfde4d1</guid>
-            <pubDate>Tue, 25 Aug 2026 17:39:11 GMT</pubDate>
-            <description><![CDATA[EUR/GBP traded around 0.8560 on Tuesday, little changed, as a run of stronger German data failed to give the Euro (EUR) a clear lift against a resilient Pound. The pair remains pinned near its 20 and 100-period Simple Moving Averages (SMA), with neither side able to force a break.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen remains vulnerable despite softer Greenback]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-remains-vulnerable-despite-softer-greenback-202608251719</link>
-            <guid isPermaLink="false">50d30ba3-b216-42ee-8cb1-3443b513e6fe</guid>
-            <pubDate>Tue, 25 Aug 2026 17:19:16 GMT</pubDate>
-            <description><![CDATA[USD/JPY extends its sideways movement below the 160.00 mark on Tuesday, holding modest gains despite a softer US Dollar (USD). The weaker Greenback has failed to lift the Japanese Yen (JPY), which is underperforming its major peers. At the time of writing, the pair trades around 159.30.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
