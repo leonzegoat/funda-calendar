@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 04:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 04:56:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Asian stock markets gain as oil extends downfall, eyes on Jackson Hall Symposium]]></title>
+            <link>https://www.fxstreet.com/news/asian-stock-markets-gain-as-oil-extends-downfall-eyes-on-jackson-hall-symposium-202608260452</link>
+            <guid isPermaLink="false">12986a34-693b-4f28-96b0-63ea3a0ec3cb</guid>
+            <pubDate>Wed, 26 Aug 2026 04:52:55 GMT</pubDate>
+            <description><![CDATA[Asian stock markets reflect broader strength on Wednesday, as oil prices have fallen further on renewed hopes of the Strait of Hormuz, a vital passage for almost 20% of global energy supply, reopening.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Price Forecast: Seems vulnerable below $80.00 as break below 50% Fibo. comes into play]]></title>
+            <link>https://www.fxstreet.com/news/wti-price-forecast-seems-vulnerable-below-8000-as-break-below-50-fibo-comes-into-play-202608260448</link>
+            <guid isPermaLink="false">2ecba12d-c378-4953-8381-6a29ae62d38b</guid>
+            <pubDate>Wed, 26 Aug 2026 04:48:39 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – remains under some selling pressure for the third straight day and drops to a nearly two-week low during the Asian session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah remains subdued amid market caution, external headwinds]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-remains-subdued-amid-market-caution-external-headwinds-202608260447</link>
+            <guid isPermaLink="false">4307d1af-0427-4944-a3f6-b28cd2d42b2d</guid>
+            <pubDate>Wed, 26 Aug 2026 04:47:09 GMT</pubDate>
+            <description><![CDATA[USD/IDR remains stronger for the second successive day, trading around 17,760 during the Asian hours on Tuesday. The pair continues to hold its ground while the Indonesian Rupiah (IDR) faces ongoing pressure from a cautious market sentiment and persistent external headwinds.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index recovers to near 99.00 ahead of US PCE inflation data  ]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-recovers-to-near-9900-ahead-of-us-pce-inflation-data-202608260442</link>
+            <guid isPermaLink="false">ceb3914e-8698-4586-a37e-2a8c5a3d4e50</guid>
+            <pubDate>Wed, 26 Aug 2026 04:42:51 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 99.00 in the early European trading hours on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bullish-Tendency-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India Gold price today: Gold falls, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608260435</link>
+            <guid isPermaLink="false">bea05298-3db7-4c86-8d97-477bc49cc415</guid>
+            <pubDate>Wed, 26 Aug 2026 04:35:21 GMT</pubDate>
+            <description><![CDATA[Gold prices fell in India on Wednesday, according to data compiled by FXStreet.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan’s Kiuchi: CPI expected to gradually rise due to Middle East conditions]]></title>
+            <link>https://www.fxstreet.com/news/japans-kiuchi-cpi-expected-to-gradually-rise-due-to-middle-east-conditions-202608260423</link>
+            <guid isPermaLink="false">050ba7ae-b834-4d14-835e-50d2102783c6</guid>
+            <pubDate>Wed, 26 Aug 2026 04:23:43 GMT</pubDate>
+            <description><![CDATA[Japan's Economy Minister Minoru Kiuchi said on Wednesday that he expects consumer prices to gradually rise amid the Middle East situation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound edges lower but remains close to multi-month top as USD awaits US PCE]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-edges-lower-but-remains-close-to-multi-month-top-as-usd-awaits-us-pce-202608260407</link>
+            <guid isPermaLink="false">f24f02d4-e950-419c-a939-d6ebc20f8447</guid>
+            <pubDate>Wed, 26 Aug 2026 04:07:11 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair trades with a negative bias below mid-1.3600s during the Asian session on Wednesday, eroding a part of the previous day's strong gains.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/BNB-bearish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EUR/USD Price Forecast: Remains sideways ahead of key US events]]></title>
             <link>https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sideways-ahead-of-key-us-events-202608260404</link>
@@ -190,62 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 21:54:00 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that Thai Baht (THB) has rallied to a two‑month high on softer US Dollar (USD), lower Oil prices, strong electronics exports and Gold-related flows.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Bullish bias with focus on 6.7000 against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-bullish-bias-with-focus-on-67000-against-us-dollar-uob-202608252121</link>
-            <guid isPermaLink="false">f678ee5a-5c18-4aed-a6ac-8c92bc7ea515</guid>
-            <pubDate>Tue, 25 Aug 2026 21:21:00 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann maintain a negative stance on USD/CNH, noting a softened underlying tone even as recent price action stayed relatively quiet. Intraday, they see scope for a modest drift lower while keeping 6.7150 as key support.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar climbs to fresh highs amid timid US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-climbs-to-fresh-highs-amid-timid-us-dollar-202608252054</link>
-            <guid isPermaLink="false">b2ae6185-98c1-42c7-b0bb-5deeaff7b131</guid>
-            <pubDate>Tue, 25 Aug 2026 20:54:20 GMT</pubDate>
-            <description><![CDATA[NZD/USD climbed to around 0.5980 Tuesday, near its highest level since June 1 as a softer US Dollar (USD) and firm Reserve Bank of New Zealand (RBNZ) rate-hike expectations powered the Kiwi higher. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Range-bound consolidation outlook against US Dollar – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-range-bound-consolidation-outlook-against-us-dollar-commerzbank-202608252040</link>
-            <guid isPermaLink="false">216b63a0-cec7-4a56-b25b-6ae4ac558498</guid>
-            <pubDate>Tue, 25 Aug 2026 20:40:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Charlie Lay and Dr. Henry Hao note that USD/SGD has eased from 1.2800 to around 1.2700 as the softer US Dollar (USD) and global risk sentiment dominate.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/SGD2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US-Iran agree ceasefire deal, sinks Oil – RIA Novosti]]></title>
-            <link>https://www.fxstreet.com/news/reports-of-us-iran-ceasefire-deal-sinks-oil-ria-novosti-202608252015</link>
-            <guid isPermaLink="false">2420e976-aa3a-4b71-bc66-a6d97cbc9deb</guid>
-            <pubDate>Tue, 25 Aug 2026 20:15:37 GMT</pubDate>
-            <description><![CDATA[The Russian agency RIA Novosti reported on Tuesday that Washington and Tehran agreed to a ceasefire, citing sources in Iran and Pakistan.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Treasury yields fall as Hormuz progress eases inflation fears]]></title>
-            <link>https://www.fxstreet.com/news/us-treasury-yields-fall-as-hormuz-progress-eases-inflation-fears-202608251954</link>
-            <guid isPermaLink="false">7bbce305-d575-4949-b2b8-240f8e118dfe</guid>
-            <pubDate>Tue, 25 Aug 2026 19:54:06 GMT</pubDate>
-            <description><![CDATA[US yields edge lower across the whole curve on Tuesday, following suit.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Won: Strength backed by tech flows against US Dollar – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/south-korean-won-strength-backed-by-tech-flows-against-us-dollar-societe-generale-202608251954</link>
-            <guid isPermaLink="false">73ce144d-244b-43dc-9b01-e0a7a12cf09d</guid>
-            <pubDate>Tue, 25 Aug 2026 19:54:00 GMT</pubDate>
-            <description><![CDATA[Societe Generale analysts highlight that the Korean Won (KRW) has gained 12% versus the Dollar year-to-date, with USD/KRW falling from around 1560 in June to below 1380.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Yuan: Trade risks limit gains against US Dollar – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/chinese-yuan-trade-risks-limit-gains-against-us-dollar-ocbc-202608251923</link>
-            <guid isPermaLink="false">e3a06182-871f-479e-be85-2629875dd6a4</guid>
-            <pubDate>Tue, 25 Aug 2026 19:23:00 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that reports of potential US tariffs on Chinese goods and the PBoC’s resistance to rapid Renminbi (RMB) gains are likely to limit further downside in USD/CNH.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
