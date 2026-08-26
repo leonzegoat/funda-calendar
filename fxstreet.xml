@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 12:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 13:34:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aluminium: Midwest premium to stay elevated – ING]]></title>
+            <link>https://www.fxstreet.com/news/aluminium-midwest-premium-to-stay-elevated-ing-202608261330</link>
+            <guid isPermaLink="false">9b8bd35a-cdc3-4807-9bd6-ce7294da3888</guid>
+            <pubDate>Wed, 26 Aug 2026 13:30:30 GMT</pubDate>
+            <description><![CDATA[ING Commodities Strategist Ewa Manthey analyses US aluminium policy and market structure, highlighting that Washington’s amended Section 232 tariffs aim to incentivize domestic smelting but will not quickly resolve the supply shortfall.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kevin Warsh’s Jackson Hole dilemma: Say too much, too little, or just enough]]></title>
+            <link>https://www.fxstreet.com/news/kevin-warshs-jackson-hole-dilemma-say-too-much-too-little-or-just-enough-202608261315</link>
+            <guid isPermaLink="false">019d1138-ed5c-44c1-ae52-b8b1ac040902</guid>
+            <pubDate>Wed, 26 Aug 2026 13:15:09 GMT</pubDate>
+            <description><![CDATA[Kevin Warsh is preparing to deliver his first Jackson Hole speech as Federal Reserve (Fed) Chair on Friday, and expectations extend well beyond whether interest rates will be raised or left unchanged in September.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-183.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Tight balance persists as Iran deal talk grows – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/oil-tight-balance-persists-as-iran-deal-talk-grows-td-securities-202608261312</link>
+            <guid isPermaLink="false">de996b53-3222-408d-bd86-c47cc80d8611</guid>
+            <pubDate>Wed, 26 Aug 2026 13:12:20 GMT</pubDate>
+            <description><![CDATA[TD Securities’ commodity strategists Ryan McKay and Bart Melek note that heavy deal-related headlines around Iran and Oman are influencing energy markets, but they argue Crude Oil fundamentals remain tight.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold slips as sticky US PCE inflation fails to boost Fed rate-hike expectations]]></title>
+            <link>https://www.fxstreet.com/news/gold-slips-as-sticky-us-pce-inflation-fails-to-boost-fed-rate-hike-expectations-202608261259</link>
+            <guid isPermaLink="false">327a9818-39b0-461a-b262-c2af2729033d</guid>
+            <pubDate>Wed, 26 Aug 2026 12:59:41 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) trades around $4,620 on Wednesday at the time of writing, down 0.83% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro comes under pressure against US Dollar after mixed US PCE data]]></title>
+            <link>https://www.fxstreet.com/news/euro-comes-under-pressure-against-us-dollar-after-mixed-us-pce-data-202608261257</link>
+            <guid isPermaLink="false">89a53a17-89ba-4c4b-8a8d-b3c4a6e9ba45</guid>
+            <pubDate>Wed, 26 Aug 2026 12:57:38 GMT</pubDate>
+            <description><![CDATA[EUR/USD trades under modest pressure on Wednesday after the US Personal Consumption Expenditures (PCE) Price Index report delivered a mixed inflation picture.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Trade dispute risks weigh on Canada – BNY]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-trade-dispute-risks-weigh-on-canada-bny-202608261247</link>
+            <guid isPermaLink="false">9bd81470-69b5-493d-aa9c-02f68adfc2d9</guid>
+            <pubDate>Wed, 26 Aug 2026 12:47:42 GMT</pubDate>
+            <description><![CDATA[BNY’s Geoff Yu reports that Washington is considering further trade penalties against Canada after Ottawa’s dollar-for-dollar retaliation to new U.S. tariffs. Canada plans to double counter-tariffs on U.S. steel and aluminum and add new duties on a range of goods.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: US core PCE inflation holds steady at 3.3% in July as expected]]></title>
+            <link>https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800</link>
+            <guid isPermaLink="false">e9772060-b618-403a-9445-478b2b21a7a3</guid>
+            <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[Annual inflation in the United States (US), as measured by the change in the Personal Consumption Expenditures (PCE) Price Index, remained unchanged at 3.7% YoY in July, the US Bureau of Economic Analysis (BEA) reported on Wednesday. This reading came in above the market expectation of 3.6%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: Hot CPI supports carry and RBA risk – BBH]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-hot-cpi-supports-carry-and-rba-risk-bbh-202608261227</link>
+            <guid isPermaLink="false">7e75bc8f-c53f-41ee-a019-9e8e5a27466a</guid>
+            <pubDate>Wed, 26 Aug 2026 12:27:16 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports the Australian Dollar (AUD) is outperforming after hotter-than-expected July Consumer Price Index (CPI) data lifted Reserve Bank of Australia (RBA) rate hike expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-aud.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Swiss Franc: Weakness before renewed strength – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/swiss-franc-weakness-before-renewed-strength-commerzbank-202608261213</link>
@@ -62,14 +126,6 @@
             <pubDate>Wed, 26 Aug 2026 11:39:41 GMT</pubDate>
             <description><![CDATA[The Japanese Yen (JPY) ticks higher against the US Dollar (USD) on Wednesday but keeps looking for direction, as investors bide their time, awaiting an array of key US macroeconomic releases due later on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US core PCE inflation expected to remain stubbornly high, urging the Fed to hike rates ]]></title>
-            <link>https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800</link>
-            <guid isPermaLink="false">e9772060-b618-403a-9445-478b2b21a7a3</guid>
-            <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
-            <description><![CDATA[The United States (US) Bureau of Economic Analysis (BEA) is expected to publish the Personal Consumption Expenditures (PCE) Price Index data for July on Wednesday, at 12:30 GMT. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/US-PCE-inflation.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Australian Dollar: RBA tightening risks rise – TD Securities]]></title>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 26 Aug 2026 08:59:01 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Volkmar Baur explains how the US Treasury Secretary’s vague secondary sanctions comments and falling US yields have left the Dollar stabilizing but vulnerable.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD bulls await break above $70.00 amid mixed setup]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bulls-await-break-above-7000-amid-mixed-setup-202608260857</link>
-            <guid isPermaLink="false">f79d3ec0-73ac-410f-a897-f4cac1e21918</guid>
-            <pubDate>Wed, 26 Aug 2026 08:57:03 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) continues its struggle to make it through the $70.00 psychological mark and extends its two-way price moves through the first half of the European session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc ticks up against US Dollar despite bright Swiss ZEW economic expectations]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-ticks-up-against-us-dollar-despite-bright-swiss-zew-economic-expectations-202608260848</link>
-            <guid isPermaLink="false">a6116108-55e5-4148-9898-a29046c87d9b</guid>
-            <pubDate>Wed, 26 Aug 2026 08:48:00 GMT</pubDate>
-            <description><![CDATA[The Swiss Franc (CHF) is trading lower against the US Dollar (USD) on Wednesday, but it has managed to trim some losses after the release of an upbeat Swiss ZEW Economic Expectations Index.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-chf-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar remains stronger as CPI YoY climbs in July]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-remains-stronger-as-cpi-yoy-climbs-in-july-202608260847</link>
-            <guid isPermaLink="false">31ceb9c7-7084-4498-83ea-09b878d1316b</guid>
-            <pubDate>Wed, 26 Aug 2026 08:47:39 GMT</pubDate>
-            <description><![CDATA[AUD/USD extends its gains for the second consecutive day, trading around 0.7180 during the European hours on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/JPY Price Forecast: Rally extends further to near 114.30 as hawkish RBA bets accelerate]]></title>
-            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-rally-extends-further-to-near-11430-as-hawkish-rba-bets-accelerate-202608260840</link>
-            <guid isPermaLink="false">855aedb4-414e-46c9-a833-83b8087b6985</guid>
-            <pubDate>Wed, 26 Aug 2026 08:40:19 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) trades 0.13% higher at around 114.30 against the Japanese Yen (JPY) during the European trading session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA risks seen underpriced – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-risks-seen-underpriced-mufg-202608260836</link>
-            <guid isPermaLink="false">81630f95-9ef6-45fa-8704-dda5ba957685</guid>
-            <pubDate>Wed, 26 Aug 2026 08:36:49 GMT</pubDate>
-            <description><![CDATA[Derek Halpenny at MUFG says the August RBA minutes and stronger-than-expected monthly CPI reinforce the risk of an earlier rate hike than markets currently price.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Australia.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro advances against Canadian Dollar amid falling oil prices]]></title>
-            <link>https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-falling-oil-prices-202608260828</link>
-            <guid isPermaLink="false">85154015-97b4-4ba9-b99c-5c9e2ecc39f1</guid>
-            <pubDate>Wed, 26 Aug 2026 08:28:46 GMT</pubDate>
-            <description><![CDATA[EUR/CAD extends its gains for the third successive day, trading around 1.6180 during the European hours on Wednesday. The currency cross gains ground as the commodity-linked Canadian Dollar (CAD) faces headwinds due to falling crude oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-chart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar extends consolidation ahead of key inflation data, Nvidia earnings]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-extends-consolidation-ahead-of-key-inflation-data-nvidia-earnings-202608260815</link>
-            <guid isPermaLink="false">7dbad662-3500-4275-8e2d-2ddc9f177aee</guid>
-            <pubDate>Wed, 26 Aug 2026 08:15:41 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Wednesday, August 26:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
