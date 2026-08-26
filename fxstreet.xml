@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 04:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 05:40:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-declines-to-near-11650-overbought-signals-curb-upside-bias-202608260536</link>
+            <guid isPermaLink="false">fe3437d8-869f-4b51-ad97-7c80e35882c5</guid>
+            <pubDate>Wed, 26 Aug 2026 05:36:51 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair trades in negative territory near 1.1665 during the early European trading hours on Wednesday, pressured by a rebound in the US Dollar (USD). Markets turn cautious ahead of the release of the key US July Personal Consumption Expenditures (PCE) Price Index report later on Wednesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc weakens as US Dollar gains ahead of PCE inflation data]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gains-ahead-of-pce-inflation-data-202608260528</link>
+            <guid isPermaLink="false">c142f92a-1237-4f96-a32e-1c0a75d41875</guid>
+            <pubDate>Wed, 26 Aug 2026 05:28:59 GMT</pubDate>
+            <description><![CDATA[USD/CHF gains ground after posting minor losses, trading around 0.8040 during the Asian hours on Wednesday. The pair appreciates as the US Dollar (USD) gains support ahead of the upcoming US Personal Consumption Expenditures (PCE) release, the Federal Reserve’s key inflation metric.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE]]></title>
+            <link>https://www.fxstreet.com/news/gold-holds-steady-around-4-650-as-traders-look-to-us-pce-for-fed-rate-cues-202608260332</link>
+            <guid isPermaLink="false">32e15ded-0788-4192-ae3b-18ef3935ad04</guid>
+            <pubDate>Wed, 26 Aug 2026 03:32:20 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) attracts fresh sellers following the previous day's two-way price swings and trades below $4,650 during the Asian session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Asian stock markets gain as oil extends downfall, eyes on Jackson Hall Symposium]]></title>
             <link>https://www.fxstreet.com/news/asian-stock-markets-gain-as-oil-extends-downfall-eyes-on-jackson-hall-symposium-202608260452</link>
@@ -70,14 +94,6 @@
             <pubDate>Wed, 26 Aug 2026 04:04:13 GMT</pubDate>
             <description><![CDATA[The Euro (EUR) continues to trade in a tight range at around 1.1660 against the US Dollar (USD) during the Asian trading session on Wednesday.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold holds steady around $4,650 as traders look to US PCE for Fed rate cues]]></title>
-            <link>https://www.fxstreet.com/news/gold-holds-steady-around-4-650-as-traders-look-to-us-pce-for-fed-rate-cues-202608260332</link>
-            <guid isPermaLink="false">32e15ded-0788-4192-ae3b-18ef3935ad04</guid>
-            <pubDate>Wed, 26 Aug 2026 03:32:20 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its two-way price moves for the second straight day and trades above $4,650 during the Asian session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Silver Price Forecast: XAG/USD holds firmly above $69 ahead of US PCE Inflation data]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 22:14:08 GMT</pubDate>
             <description><![CDATA[The GBP/JPY surpassed a downtrend resistance line and reclaimed the 217.00 level on Tuesday, as the Japanese Yen weakened while Sterling pushed to a new three-week high at 217.48. At the time of writing, the cross-pair trades at 217.31, up 0.20%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso holds below 16.95 as traders eye US data, Iran shift]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-holds-below-1695-as-traders-eye-us-data-iran-shift-202608252202</link>
-            <guid isPermaLink="false">4b5707a0-e156-47d3-a2df-d0edd9009d11</guid>
-            <pubDate>Tue, 25 Aug 2026 22:02:03 GMT</pubDate>
-            <description><![CDATA[The Mexican Peso holds firm near 10-year highs against the US Dollar on Tuesday, as the USD/MXN pair sits below the 16.95 level while investors digest US economic data and recent developments between the US and Iran. The exotic pair trades at 16.94, virtually unchanged.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Thai Baht: Bullish bias against US Dollar faces BoT sensitivity – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/thai-baht-bullish-bias-against-us-dollar-faces-bot-sensitivity-ocbc-202608252154</link>
-            <guid isPermaLink="false">5bf2732d-b181-43bc-9940-667577cc3f95</guid>
-            <pubDate>Tue, 25 Aug 2026 21:54:00 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong highlight that Thai Baht (THB) has rallied to a two‑month high on softer US Dollar (USD), lower Oil prices, strong electronics exports and Gold-related flows.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
