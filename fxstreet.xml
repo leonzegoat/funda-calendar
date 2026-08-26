@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 16:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 17:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Swiss Franc falls against US Dollar as headline PCE inflation tops forecasts]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-falls-against-us-dollar-as-headline-pce-inflation-tops-forecasts-202608261726</link>
+            <guid isPermaLink="false">f44a3801-58f0-4db7-956a-f87d93a5aa80</guid>
+            <pubDate>Wed, 26 Aug 2026 17:26:29 GMT</pubDate>
+            <description><![CDATA[The Swiss Franc (CHF) weakens against the US Dollar (USD) on Wednesday as the Greenback attracts buyers following the release of the latest United States (US) inflation data. Traders also remain attentive to developments in the Middle East.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound retreats as sticky PCE inflation keeps Fed hike bets alive]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-retreats-as-sticky-pce-revives-fed-hike-bets-202608261634</link>
+            <guid isPermaLink="false">5bbebc00-2ba5-4310-b01b-dc4bd3c03365</guid>
+            <pubDate>Wed, 26 Aug 2026 16:34:23 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) retreats about 0.39% on Wednesday as the US Dollar (USD) stages a recovery after a US inflation report showed prices remain elevated, keeping the chances of a Federal Reserve (Fed) rate hike toward the end of the year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average ignores a revision made of inflation]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-ignores-a-revision-made-of-inflation-202608261627</link>
+            <guid isPermaLink="false">dce8b656-ac75-4d33-9005-c5e9474e3b43</guid>
+            <pubDate>Wed, 26 Aug 2026 16:27:43 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades a shade beneath 53,500 and roughly 100 points lower in the session on Wednesday, after a 12:30 GMT data drop the wires filed as uneventful.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nvidia-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro firms against British Pound on hopes of a Hormuz deal]]></title>
+            <link>https://www.fxstreet.com/news/euro-firms-against-british-pound-on-hopes-of-a-hormuz-deal-202608261622</link>
+            <guid isPermaLink="false">63de25ef-35f9-470d-9043-89c017e815d1</guid>
+            <pubDate>Wed, 26 Aug 2026 16:22:05 GMT</pubDate>
+            <description><![CDATA[EUR/GBP is trading around 0.8570 on Wednesday, on the front foot as hopes of a de-escalation in the Gulf hand the Euro (EUR) a modest lift.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Reserve Bank of Australia: Preemptive hike debate intensifies – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/reserve-bank-of-australia-preemptive-hike-debate-intensifies-td-securities-202608261616</link>
+            <guid isPermaLink="false">b8b7146b-b74a-40eb-85d0-46f738dd25c2</guid>
+            <pubDate>Wed, 26 Aug 2026 16:16:13 GMT</pubDate>
+            <description><![CDATA[Prashant Newnaha at TD Securities notes that the RBA’s August minutes were overall less hawkish than June, but still emphasized upside inflation risks and the possibility of preemptive tightening.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBA_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar dips, but RBNZ hike bets provide safety net]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-dips-but-rbnz-hike-bets-provide-safety-net-202608261603</link>
+            <guid isPermaLink="false">4d8d80d3-3e8c-42b7-9f1c-476f2ad161f8</guid>
+            <pubDate>Wed, 26 Aug 2026 16:03:05 GMT</pubDate>
+            <description><![CDATA[NZD/USD retreats to around 0.5940 on Wednesday at the time of writing, down 0.60% on the day. The New Zealand Dollar (NZD) loses ground against the US Dollar (USD), which finds some support following the release of the latest United States (US) inflation data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Silver Price Forecast: Buyers struggle below the 100-day SMA]]></title>
             <link>https://www.fxstreet.com/news/silver-price-forecast-buyers-struggle-below-the-100-day-sma-202608261528</link>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 26 Aug 2026 11:48:30 GMT</pubDate>
             <description><![CDATA[ING’s Chris Turner notes that lower Oil prices and the recent intervention by US Treasury Secretary Scott Bessent have pushed long-end US yields 10–15bp lower, reducing FX and equities volatility.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee poised for positive opening on Thursday amid lower oil prices]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-poised-for-positive-opening-on-thursday-amid-lower-oil-prices-202608261144</link>
-            <guid isPermaLink="false">829dfb17-b13c-403d-a269-9b79b0420675</guid>
-            <pubDate>Wed, 26 Aug 2026 11:44:11 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) is expected to open on a positive note against the US Dollar (USD) on Thursday after a holiday on Wednesday on account of Id-e-Milad. On Tuesday, the USD/INR pair declined 0.35% to near 95.40 due to weaker oil prices, which also led to a sharp decline in US Treasury Yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: ECB tightening outlook offers support against US Dollar - BNY]]></title>
-            <link>https://www.fxstreet.com/news/euro-ecb-tightening-outlook-offers-support-against-us-dollar-bny-202608261140</link>
-            <guid isPermaLink="false">f99d6189-1b6e-447b-82fe-2413e688106b</guid>
-            <pubDate>Wed, 26 Aug 2026 11:40:17 GMT</pubDate>
-            <description><![CDATA[BNY's Geoff Yu highlights that European Central Bank (ECB) Executive Board member Isabel Schnabel sees further rate hikes as necessary, with Euro area inflation risks still tilted to the upside and growth more resilient than expected.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen treads water around 159.00 with US PCE Inflation on tap]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-treads-water-around-15900-with-us-pce-inflation-on-tap-202608261139</link>
-            <guid isPermaLink="false">7808ec68-b524-4ded-917b-89949d5ec7b3</guid>
-            <pubDate>Wed, 26 Aug 2026 11:39:41 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) ticks higher against the US Dollar (USD) on Wednesday but keeps looking for direction, as investors bide their time, awaiting an array of key US macroeconomic releases due later on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA tightening risks rise – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-tightening-risks-rise-td-securities-202608261128</link>
-            <guid isPermaLink="false">6a1102be-fa11-4aa9-b177-26e0d14d22bf</guid>
-            <pubDate>Wed, 26 Aug 2026 11:28:22 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Prashant Newnaha highlights that Australia’s July Consumer Price Index (CPI  delivered a strong inflation impulse, with headline and trimmed mean measures beating consensus and remaining uncomfortably high.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index: Range-bound consolidation as PCE looms – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-range-bound-consolidation-as-pce-looms-bbh-202608261117</link>
-            <guid isPermaLink="false">1db3c7c6-6a38-4ae7-82f3-e07ce396c3ae</guid>
-            <pubDate>Wed, 26 Aug 2026 11:17:21 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is firm, consolidating just above recent lows following the US Treasury buyback announcement.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/USD Price Forecast: Hits fresh intra-week lows after failure at 1.3660 resistance ]]></title>
-            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-hits-fresh-intra-week-lows-after-failure-at-13660-resistance-202608261059</link>
-            <guid isPermaLink="false">d4ac6dcf-5b30-4d5e-b517-af05c068375b</guid>
-            <pubDate>Wed, 26 Aug 2026 10:59:22 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) pares gains against the US Dollar (USD) on Wednesday, with bears testing the bottom of the intra-week trading range at the 1.3620 area, after failure to breach resistance at 1.3660.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-gbp-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
