@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 19:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 22:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Evening star threatens 216.00 support]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-evening-star-threatens-21600-support-202608262152</link>
+            <guid isPermaLink="false">f7f3b794-fb10-405b-89bd-4caf25f0c791</guid>
+            <pubDate>Wed, 26 Aug 2026 21:52:27 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY failed to sustain the 217.00 breakout, reversing to the 216.50 area as traders faded the move, exacerbating the decline to current exchange rates. At the time of writing, the cross-pair exchanges hands with losses of 0.36%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar steadies as firm US Dollar caps gains]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-steadies-as-firm-us-dollar-caps-gains-202608262150</link>
+            <guid isPermaLink="false">ff1a79c4-3c2f-4e97-b7fb-b1d08621a509</guid>
+            <pubDate>Wed, 26 Aug 2026 21:50:55 GMT</pubDate>
+            <description><![CDATA[NZD/USD is trading around 0.5940 on Tuesday, little changed on the day as the risk-sensitive Kiwi consolidates a strong recovery. The pair has clawed back from its recent lows, but a firm US Dollar (USD) ahead of the Jackson Hole Symposium is keeping a lid on further gains for now.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso dips as US Core PCE renew Fed hawkish bets]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-dips-as-us-core-pce-renew-fed-hawkish-bets-202608262136</link>
+            <guid isPermaLink="false">8de5d3da-300d-4e97-b26a-c42a45126056</guid>
+            <pubDate>Wed, 26 Aug 2026 21:36:13 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso loses some traction against the US Dollar on Wednesday as traders seem confident that the Federal Reserve could raise interest rates toward the end of the year, following a red-hot inflation report. The USD/MXN trades at 16.95, after reaching a daily low of 16.92.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen slips ahead of Tokyo CPI]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-slips-ahead-of-tokyo-cpi-202608262100</link>
+            <guid isPermaLink="false">b982d9df-84f0-4038-b50c-c3f08bb19e8d</guid>
+            <pubDate>Wed, 26 Aug 2026 21:00:15 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades around 159.40 on Wednesday, holding onto modest gains as a firmer US Dollar (USD) keeps the pair underpinned. The Dollar is broadly bid ahead of the Jackson Hole Symposium.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_NIKKEI-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Pace of appreciation against US Dollar seen slowing – ING]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-pace-of-appreciation-against-us-dollar-seen-slowing-ing-202608261957</link>
+            <guid isPermaLink="false">da4f1c9a-3bb3-49d4-a154-67ffd002128e</guid>
+            <pubDate>Wed, 26 Aug 2026 19:57:00 GMT</pubDate>
+            <description><![CDATA[Chris Turner at ING notes USD/CNH is consolidating after last week’s sharp decline, as investors hesitate to buy Renminbi with the PBoC slowing lower USD/CNY fixings and US–Iran sanctions risks in focus.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Range-bound against US Dollar as markets price BoJ hike – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-range-bound-against-us-dollar-as-markets-price-boj-hike-scotiabank-202608261941</link>
+            <guid isPermaLink="false">4dd19f86-cc50-446f-a30f-f6893c75f965</guid>
+            <pubDate>Wed, 26 Aug 2026 19:41:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret describe the Japanese Yen (JPY) as quiet, extending a tight consolidation as markets gradually price a 25 bp Bank of Japan (BoJ) hike for September 18.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Banxico lifts 2026 GDP forecast, delays inflation target return]]></title>
+            <link>https://www.fxstreet.com/news/banxico-lifts-2026-gdp-forecast-delays-inflation-target-return-202608261938</link>
+            <guid isPermaLink="false">ef1d50c9-0fb4-4645-8a35-012cc4378380</guid>
+            <pubDate>Wed, 26 Aug 2026 19:38:48 GMT</pubDate>
+            <description><![CDATA[On Wednesday, the Bank of Mexico (Banxico) released its Quarterly Report for Q2 2026, in which it revised its forecasts for economic growth and inflation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Appreciation may slow against US Dollar – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-appreciation-may-slow-against-us-dollar-ocbc-202608261925</link>
+            <guid isPermaLink="false">82e9eebc-f6b6-48d0-a0e4-3621cbdc0833</guid>
+            <pubDate>Wed, 26 Aug 2026 19:25:00 GMT</pubDate>
+            <description><![CDATA[OCBC Bank strategists Sim Moh Siong and Christopher Wong observe that USD/KRW has consolidated after sharp declines over the past eight sessions, with exporter and month-end US Dollar (USD) selling offset by a firmer USD tone and foreign equity outflows.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Emerging Markets: Idiosyncratic bid persists in equities – BNY]]></title>
             <link>https://www.fxstreet.com/news/emerging-markets-idiosyncratic-bid-persists-in-equities-bny-202608261907</link>
@@ -182,70 +246,6 @@
             <pubDate>Wed, 26 Aug 2026 14:38:08 GMT</pubDate>
             <description><![CDATA[USD/CAD rises 0.30% on Wednesday, trading around 1.3880 at the time of writing.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold stays under pressure as US Dollar firms after PCE data]]></title>
-            <link>https://www.fxstreet.com/news/gold-slips-ahead-of-us-pce-as-us-dollar-firms-modestly-202608261107</link>
-            <guid isPermaLink="false">2d4c4ae4-4d8a-4c37-9c7d-e9c7db5c36a4</guid>
-            <pubDate>Wed, 26 Aug 2026 11:07:10 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) remains under pressure on Wednesday as the latest US inflation figures leave buyers reluctant to step back in. At the time of writing, XAU/USD trades around $4,618 after reaching $4,697 on Tuesday, its highest since May 14.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: Trade shock and GDP drag – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/canada-trade-shock-and-gdp-drag-td-securities-202608261425</link>
-            <guid isPermaLink="false">c05b9f68-c45d-4160-b1b4-8e8b4239e35c</guid>
-            <pubDate>Wed, 26 Aug 2026 14:25:35 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Robert Both analyzes the impact of new Section 338 US tariffs and Canada’s retaliation on the Canadian economy. The report estimates the combined measures will trim about 0.3 percentage points from GDP by 2027, with growth effects concentrated in late 2026.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen reverses earlier gains as US Dollar firms after PCE data]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-reverses-earlier-gains-as-us-dollar-firms-after-pce-data-202608261418</link>
-            <guid isPermaLink="false">de3a8dce-d785-4ded-9f06-4f39dfd54715</guid>
-            <pubDate>Wed, 26 Aug 2026 14:18:59 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) gives up its earlier gains against the US Dollar (USD) on Wednesday as traders react to the latest United States (US) inflation data. At the time of writing, USD/JPY trades around 159.41, recovering from an intraday low of 158.88.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Pressure builds as risk premia rise – ABN AMRO]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-pressure-builds-as-risk-premia-rise-abn-amro-202608261406</link>
-            <guid isPermaLink="false">8aaaef3f-e9ee-426f-a7bf-3a157ce473e5</guid>
-            <pubDate>Wed, 26 Aug 2026 14:06:20 GMT</pubDate>
-            <description><![CDATA[ABN AMRO’s Georgette Boele notes that sentiment towards the Dollar is weakening as fiscal concerns and rising risk premia outweigh the support from higher US Treasury yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neither a confirmed hike nor a guaranteed pause: Why the Australian Dollar is climbing toward 0.7200]]></title>
-            <link>https://www.fxstreet.com/news/neither-a-confirmed-hike-nor-a-guaranteed-pause-why-the-australian-dollar-is-climbing-toward-07200-202608261405</link>
-            <guid isPermaLink="false">8d12d140-0903-4d0c-b1f7-00a674b30ac1</guid>
-            <pubDate>Wed, 26 Aug 2026 14:05:53 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) is outperforming across global FX markets following higher-than-expected Consumer Price Index (CPI) data for July, which sharply lifted expectations for additional Reserve Bank of Australia (RBA) interest-rate hikes. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-182.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany: GDP Recovery strengthens outlook – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/germany-gdp-recovery-strengthens-outlook-deutsche-bank-202608261347</link>
-            <guid isPermaLink="false">55e2e36f-bbf3-45d6-b0cf-dbe95a7bd333</guid>
-            <pubDate>Wed, 26 Aug 2026 13:47:01 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank expects Germany’s stronger-than-expected H1 2026 GDP performance to lift annual growth closer to 1% from the previous 0.5% forecast. Near-term transport headwinds should remain contained as Rhine water levels recover, although Q3 growth could temporarily stall.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Germany.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound weakens against US Dollar as headline PCE beats forecasts]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-weakens-against-us-dollar-as-headline-pce-beats-forecasts-202608261335</link>
-            <guid isPermaLink="false">1d0daaa2-3ee7-4e18-b2e3-15cf9439ad72</guid>
-            <pubDate>Wed, 26 Aug 2026 13:35:42 GMT</pubDate>
-            <description><![CDATA[GBP/USD falls to a five-day low on Wednesday as traders react to the latest United States (US) Personal Consumption Expenditures (PCE) Price Index data. At the time of writing, the pair trades around 1.3603, down roughly 0.33% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Aluminium: Midwest premium to stay elevated – ING]]></title>
-            <link>https://www.fxstreet.com/news/aluminium-midwest-premium-to-stay-elevated-ing-202608261330</link>
-            <guid isPermaLink="false">9b8bd35a-cdc3-4807-9bd6-ce7294da3888</guid>
-            <pubDate>Wed, 26 Aug 2026 13:30:30 GMT</pubDate>
-            <description><![CDATA[ING Commodities Strategist Ewa Manthey analyses US aluminium policy and market structure, highlighting that Washington’s amended Section 232 tariffs aim to incentivize domestic smelting but will not quickly resolve the supply shortfall.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/charts-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
