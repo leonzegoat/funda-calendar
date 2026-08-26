@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 03:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 04:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Remains sideways ahead of key US events]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sideways-ahead-of-key-us-events-202608260404</link>
+            <guid isPermaLink="false">866c6608-5ef7-4d4d-b421-261460a4149f</guid>
+            <pubDate>Wed, 26 Aug 2026 04:04:13 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) continues to trade in a tight range at around 1.1660 against the US Dollar (USD) during the Asian trading session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold holds steady around $4,650 as traders look to US PCE for Fed rate cues]]></title>
+            <link>https://www.fxstreet.com/news/gold-holds-steady-around-4-650-as-traders-look-to-us-pce-for-fed-rate-cues-202608260332</link>
+            <guid isPermaLink="false">32e15ded-0788-4192-ae3b-18ef3935ad04</guid>
+            <pubDate>Wed, 26 Aug 2026 03:32:20 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) extends its two-way price moves for the second straight day and trades above $4,650 during the Asian session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD holds firmly above $69 ahead of US PCE Inflation data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-firmly-above-69-ahead-of-us-pce-inflation-data-202608260319</link>
+            <guid isPermaLink="false">01db674e-a390-4455-be71-846de11228f6</guid>
+            <pubDate>Wed, 26 Aug 2026 03:19:54 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) is up almost 1% to near $69.40 during the Asian trading session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar declines as US Dollar advances ahead of PCE index data]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-advances-ahead-of-pce-index-data-202608260313</link>
+            <guid isPermaLink="false">9d9d74f2-a147-44b0-a67b-119e5ed2bc54</guid>
+            <pubDate>Wed, 26 Aug 2026 03:13:03 GMT</pubDate>
+            <description><![CDATA[NZD/USD depreciates after registering modest gains in the previous day, trading around 0.5960 during the Asian hours on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Yen strengthens on US bond buyback, traders brace for US PCE inflation report]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-strengthens-on-us-bond-buyback-traders-brace-for-us-pce-inflation-report-202608260241</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 19:23:00 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong note that reports of potential US tariffs on Chinese goods and the PBoC’s resistance to rapid Renminbi (RMB) gains are likely to limit further downside in USD/CNH.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The US Dollar Index stops paying for hawks who cannot vote]]></title>
-            <link>https://www.fxstreet.com/news/the-us-dollar-index-stops-paying-for-hawks-who-cannot-vote-202608251853</link>
-            <guid isPermaLink="false">45c7465c-a1ca-43ec-bfb7-375942c14619</guid>
-            <pubDate>Tue, 25 Aug 2026 18:53:53 GMT</pubDate>
-            <description><![CDATA[A non-voting regional Federal Reserve president published a conditional hold on Tuesday, tying the current target range to continued evidence that inflation is actually coming down, and the Dollar Index has not moved for it.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: US Dollar stays on the back foot ahead of PCE]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-us-dollar-stays-on-the-back-foot-ahead-of-pce-202608251843</link>
-            <guid isPermaLink="false">99181d38-ed0e-4fac-b615-d53be58d058d</guid>
-            <pubDate>Tue, 25 Aug 2026 18:43:32 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY) is hovering below the 99.00 mark as traders squared positions ahead of a heavy Wednesday data slate and Federal Reserve (Fed) Chair Kevin Warsh's Jackson Hole address on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Upside momentum eases against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-upside-momentum-eases-against-us-dollar-uob-202608251839</link>
-            <guid isPermaLink="false">d98a9638-b3d2-49c6-a4a0-73690ff1961a</guid>
-            <pubDate>Tue, 25 Aug 2026 18:39:11 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD remains under mild downward pressure but short-term momentum is flat, keeping the pair in a tight intraday band around 1.2700.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD reclaims 100-day SMA, eyes $70]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-100-day-sma-eyes-70-202608251831</link>
-            <guid isPermaLink="false">3b9d2674-0efc-4c4c-b75b-f5227d45fa3a</guid>
-            <pubDate>Tue, 25 Aug 2026 18:31:57 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) price registers modest gains on Tuesday, after briefly breaching the 100-day Simple Moving Average (SMA) at $68.38, pushing the white metal to a three-day low of $67.43 before making a U-turn and turning bullish. The XAG/USD pair trades at $68.86, up 0.55%,]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
