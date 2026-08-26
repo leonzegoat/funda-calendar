@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 09:58:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 10:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold Price Forecast: XAU/USD corrects to near $4,620 in countdown to US PCE Inflation data]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-corrects-to-near-4-620-in-countdown-to-us-pce-inflation-data-202608261012</link>
+            <guid isPermaLink="false">e36ec1c1-9a62-48cf-9148-e0b488d5d408</guid>
+            <pubDate>Wed, 26 Aug 2026 10:12:36 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) is down 0.75% to near $4,620 during the European trading session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: BoJ hike expectations support JPY against US Dollar – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-boj-hike-expectations-support-jpy-against-us-dollar-mufg-202608261004</link>
+            <guid isPermaLink="false">1909322c-2fe0-41f3-9cff-9d6dfd6d982a</guid>
+            <pubDate>Wed, 26 Aug 2026 10:04:56 GMT</pubDate>
+            <description><![CDATA[MUFG’s Derek Halpenny notes the Japanese Yen is firmer versus most G10 currencies as markets increasingly price a Bank of Japan rate hike in September.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation]]></title>
             <link>https://www.fxstreet.com/news/wti-oil-drops-below-80-amid-hopes-of-hormuz-reopening-us-iran-de-escalation-202608260957</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 26 Aug 2026 07:18:20 GMT</pubDate>
             <description><![CDATA[Commerzbank’s Tatha Ghose reports that Hungary’s central bank, Magyar Nemzeti Bank (MNB), cut its base rate to 5.50% but avoided pre-committing to further easing, stressing that September’s Inflation Report will guide policy. The bank will monitor global rate hikes, could limit the scope.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NZD/USD Price Forecast: Dips below 0.5950, fresh weekly low as USD firms ahead of US PCE]]></title>
-            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-dips-below-05950-fresh-weekly-low-as-usd-firms-ahead-of-us-pce-202608260709</link>
-            <guid isPermaLink="false">6788f6a4-f2ea-43fd-96c6-f720c10868f0</guid>
-            <pubDate>Wed, 26 Aug 2026 07:09:31 GMT</pubDate>
-            <description><![CDATA[The NZD/USD pair comes under some renewed selling pressure on Wednesday and drops to a fresh weekly low, around the 0.5945 region during the early European session.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Holds near 1.1670 against US Dollar as rate moves offset - Danske Bank]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-near-11670-against-us-dollar-as-rate-moves-offset-danske-bank-202608260709</link>
-            <guid isPermaLink="false">49c3fc05-2efe-4e2f-b948-9ffdf496a393</guid>
-            <pubDate>Wed, 26 Aug 2026 07:09:18 GMT</pubDate>
-            <description><![CDATA[Danske Research Team reports that EUR/USD remained little changed around 1.1670, with the chart showing only a modest pullback from overnight highs before a partial recovery.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
