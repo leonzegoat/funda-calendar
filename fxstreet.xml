@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 23:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 01:45:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Breaking: Australia’s CPI inflation falls to 3.5% YoY in July vs. 3.2% forecast]]></title>
+            <link>https://www.fxstreet.com/news/australia-cpi-expected-to-show-inflation-easing-in-july-202608252230</link>
+            <guid isPermaLink="false">45f9ed5c-c577-4ec6-8952-de6de17d5796</guid>
+            <pubDate>Tue, 25 Aug 2026 22:30:00 GMT</pubDate>
+            <description><![CDATA[Australia’s Consumer Price Index (CPI) rose by 3.5% year-over-year (YoY) in July, compared to a 3.8% growth reported in June, the latest data published by the Australian Bureau of Statistics (ABS) showed on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI drops amid Middle East diplomacy, eased US sanction fears]]></title>
+            <link>https://www.fxstreet.com/news/wti-drops-amid-middle-east-diplomacy-eased-us-sanction-fears-202608260135</link>
+            <guid isPermaLink="false">186431a6-5178-44cb-9b16-a66f27c79fd5</guid>
+            <pubDate>Wed, 26 Aug 2026 01:35:41 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price extends its losses for the third consecutive day, trading around $80.10 per barrel during the Asian hours on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar weakens amid falling oil prices as USD holds steady ahead of US PCE]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-as-usd-holds-steady-ahead-of-us-pce-202608260120</link>
+            <guid isPermaLink="false">e079e09a-1d42-4653-ba9b-ea4e7e5c23c4</guid>
+            <pubDate>Wed, 26 Aug 2026 01:20:15 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair edges higher during the Asian session on Wednesday, though it remains confined within the previous day’s range. Spot prices currently trade around mid-1.3800s as traders now look to the US Personal Consumption Expenditures (PCE) Price Index for some meaningful impetus.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7829 vs. 6.7852 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67829-vs-67852-previous-202608260115</link>
+            <guid isPermaLink="false">3419b1a4-0d0e-4044-8c7d-fec0b8c91e16</guid>
+            <pubDate>Wed, 26 Aug 2026 01:15:24 GMT</pubDate>
+            <description><![CDATA[On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7829 compared to the previous day's fix of 6.7852 and 6.7166 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro steadies above 1.1650 ahead of US PCE data]]></title>
+            <link>https://www.fxstreet.com/news/euro-steadies-above-11650-ahead-of-us-pce-data-202608260103</link>
+            <guid isPermaLink="false">83ec3ca5-8f98-469f-9bcf-2b0416e6d849</guid>
+            <pubDate>Wed, 26 Aug 2026 01:03:06 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair flatlines near 1.1675 during the early Asian trading hours on Wednesday. The US Treasury's decision to expand its long-term bond buyback program could weigh on the US Dollar (USD) against the Euro (EUR).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada announces 'dollar-for-dollar' retaliatory tariffs up to 50% against US]]></title>
+            <link>https://www.fxstreet.com/news/canada-announces-dollar-for-dollar-retaliatory-tariffs-up-to-50-against-us-202608260042</link>
+            <guid isPermaLink="false">5946355b-ca27-4e05-a649-de56abd5ec8a</guid>
+            <pubDate>Wed, 26 Aug 2026 00:42:28 GMT</pubDate>
+            <description><![CDATA[Canada said that it will implement 50% retaliatory tariffs on $20bn worth of US goods, following through on Prime Minister Mark Carney’s vow to match US President Donald Trump’s duties “dollar for dollar,” the Guardian reported.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/tariffs-005.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Iran and Oman push talks for ‘interim’ reopening of Hormuz — Bloomberg]]></title>
             <link>https://www.fxstreet.com/news/iran-and-oman-push-talks-for-interim-reopening-of-hormuz-202608252343</link>
@@ -20,7 +68,7 @@
             <link>https://www.fxstreet.com/news/gold-advances-above-4-650-on-us-dollar-weakness-treasury-bond-buyback-plans-202608252327</link>
             <guid isPermaLink="false">7349c82f-d223-48a4-9a07-2bd92c582c5e</guid>
             <pubDate>Tue, 25 Aug 2026 23:27:51 GMT</pubDate>
-            <description><![CDATA[Gold price (XAU/USD) rises to around 4,670, the highest since May 14, during the early Asian session on Wednesday. The precious metal extends the rally amid a weaker US Dollar (USD) and as the US Treasury’s bond buyback plans.]]></description>
+            <description><![CDATA[Gold price (XAU/USD) rises to around $4,670, the highest since May 14, during the early Asian session on Wednesday. The precious metal extends the rally amid a weaker US Dollar (USD) and as the US Treasury’s bond buyback plans.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -54,14 +102,6 @@
             <pubDate>Tue, 25 Aug 2026 22:37:00 GMT</pubDate>
             <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong expect USD/SGD to consolidate as earlier Singapore Dollar (SGD) gains face a modest US Dollar (USD) rebound and position unwinding ahead of United States (US) core Personal Consumption Expenditures (PCE) Price Index data and Jackson Hole.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia CPI expected to show inflation easing in July ]]></title>
-            <link>https://www.fxstreet.com/news/australia-cpi-expected-to-show-inflation-easing-in-july-202608252230</link>
-            <guid isPermaLink="false">45f9ed5c-c577-4ec6-8952-de6de17d5796</guid>
-            <pubDate>Tue, 25 Aug 2026 22:30:00 GMT</pubDate>
-            <description><![CDATA[The Australian Bureau of Statistics (ABS) will publish the July Consumer Price Index (CPI) on Wednesday at 01:30 GMT. The report is expected to show that inflation rose 3.2% from a year earlier, easing from the 3.8% posted in June.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-basic-products.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[GBP/JPY Price Forecast: Bulls hold 217.00 after trendline break]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 17:19:16 GMT</pubDate>
             <description><![CDATA[USD/JPY extends its sideways movement below the 160.00 mark on Tuesday, holding modest gains despite a softer US Dollar (USD). The weaker Greenback has failed to lift the Japanese Yen (JPY), which is underperforming its major peers. At the time of writing, the pair trades around 159.30.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bearish-Tendency-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany: Political risks cloud reform outlook – ING]]></title>
-            <link>https://www.fxstreet.com/news/germany-political-risks-cloud-reform-outlook-ing-202608251707</link>
-            <guid isPermaLink="false">384b3bf1-1027-42c7-8bd7-9e5e1b8af018</guid>
-            <pubDate>Tue, 25 Aug 2026 17:07:00 GMT</pubDate>
-            <description><![CDATA[ING’s Carsten Brzeski highlights how upcoming state elections in Saxony-Anhalt, Mecklenburg-Vorpommern and Berlin could reshape German politics and indirectly affect the economy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dax-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico: Alignment for certainty in USMCA – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/mexico-alignment-for-certainty-in-usmca-societe-generale-202608251648</link>
-            <guid isPermaLink="false">56c888e3-8f58-4961-90ee-24b5184dbeba</guid>
-            <pubDate>Tue, 25 Aug 2026 16:48:00 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Dev Ashish argues that Mexico could benefit from tensions between the US and Canada, but warns that uncertainty around USMCA may limit the upside.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Mexico.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones Industrial Average round-trips between Ottawa and the Treasury]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-between-ottawa-and-the-treasury-202608251636</link>
-            <guid isPermaLink="false">2a239827-e2eb-43c3-a2ff-26802d616b74</guid>
-            <pubDate>Tue, 25 Aug 2026 16:36:36 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average has built a 300-point advance and handed every point of it back inside a single vertical break, and it trades just beneath 53,500 for a gain of roughly a tenth of a percent. The session range runs better than 320 points against a net of 67.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Resilient growth versus fiscal strain – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-resilient-growth-versus-fiscal-strain-rabobank-202608251634</link>
-            <guid isPermaLink="false">10cebb76-68b7-4a71-964a-df820a6e908b</guid>
-            <pubDate>Tue, 25 Aug 2026 16:34:00 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley highlights that recent UK data, including Q2 Gross Domestic Product (GDP), real output per head and the August composite Purchasing Managers' Index (PMI), point to resilient growth and improved consumer confidence.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar faces double trouble from Oil slump, US tariffs]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-faces-double-trouble-from-oil-slump-us-tariffs-202608251622</link>
-            <guid isPermaLink="false">9472f749-f4cc-47e1-9579-adc85b7af1b6</guid>
-            <pubDate>Tue, 25 Aug 2026 16:22:07 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades around 1.3835 on Tuesday at the time of writing, down a modest 0.07% on the day. The pair lacks a clear direction as both the US Dollar (USD) and the Canadian Dollar (CAD) face headwinds.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
