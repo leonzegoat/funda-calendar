@@ -4,9 +4,97 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 17:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 19:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Emerging Markets: Idiosyncratic bid persists in equities – BNY]]></title>
+            <link>https://www.fxstreet.com/news/emerging-markets-idiosyncratic-bid-persists-in-equities-bny-202608261907</link>
+            <guid isPermaLink="false">6d0eb447-0b17-461b-b98b-4dda8148bebd</guid>
+            <pubDate>Wed, 26 Aug 2026 19:07:00 GMT</pubDate>
+            <description><![CDATA[Geoff Yu at BNY highlights that EM EMEA equities have outperformed, with strong buying in Poland, South Africa and Turkey since before the July Fed meeting, despite weaker regional currencies and bonds.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: 160.00 caps bulls as intervention risk lingers]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-16000-caps-bulls-as-intervention-risk-lingers-202608261850</link>
+            <guid isPermaLink="false">5cc256eb-4dc7-4701-aba8-88ae3e0c985d</guid>
+            <pubDate>Wed, 26 Aug 2026 18:50:40 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair drifts higher for the third straight day on Wednesday, up a modest 0.11% as buyers reaffirm their control over price action despite uncertainty over another round of intervention by Japanese authorities. The pair trades at 159.38 at the time of writing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Rally stalls against US Dollar as spreads drive trade – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/euro-rally-stalls-against-us-dollar-as-spreads-drive-trade-scotiabank-202608261843</link>
+            <guid isPermaLink="false">55a17077-aabb-4944-885d-9383a17cbba3</guid>
+            <pubDate>Wed, 26 Aug 2026 18:43:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report the Euro (EUR) is slightly softer versus the Dollar, with its late-July rally stalling as price action mirrors yield spreads.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar firms ahead of Jackson Hole]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-jackson-hole-202608261842</link>
+            <guid isPermaLink="false">38a3e691-f23c-4bed-ac66-91f465212550</guid>
+            <pubDate>Wed, 26 Aug 2026 18:42:14 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) firmed on Wednesday, with the US Dollar Index (DXY) climbing toward 99.20 as traders squared positions ahead of the Jackson Hole Symposium. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Sugar-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan Dollar: Consolidation range with upside risks against US Dollar – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/taiwan-dollar-consolidation-range-with-upside-risks-against-us-dollar-commerzbank-202608261828</link>
+            <guid isPermaLink="false">958029ea-6079-4c5f-b1a2-1e0c5ec72315</guid>
+            <pubDate>Wed, 26 Aug 2026 18:28:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Dr. Henry Hao and Charlie Lay highlight that Taiwan’s booming AI-driven exports and strong external surplus create a fundamentally supportive backdrop for the Taiwan Dollar (TWD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Dollar Index is climbing out of a fiscal hole]]></title>
+            <link>https://www.fxstreet.com/news/the-dollar-index-is-climbing-out-of-a-fiscal-hole-202608261812</link>
+            <guid isPermaLink="false">32946fa4-1fb7-4c61-91d4-a69bc2e3fbbc</guid>
+            <pubDate>Wed, 26 Aug 2026 18:12:58 GMT</pubDate>
+            <description><![CDATA[The Dollar Index trades just above 99.00 and roughly a quarter of a percent higher, having printed its high just short of 99.25 after 14:00 GMT and not retested it since.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Further gains toward 6.7000 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-further-gains-toward-67000-against-us-dollar-uob-202608261811</link>
+            <guid isPermaLink="false">d2e18329-8c8c-4fda-8d18-21e9155b6d7c</guid>
+            <pubDate>Wed, 26 Aug 2026 18:11:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report USD/CNH slipped to 6.7166 and closed slightly lower, with short-term downside momentum gradually building.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CAD Price Forecast: Bulls eye 1.3900 as RSI recovers]]></title>
+            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-bulls-eye-13900-as-rsi-recovers-202608261810</link>
+            <guid isPermaLink="false">de2f9e64-ca42-4ec4-a98b-e845eb3f7ecf</guid>
+            <pubDate>Wed, 26 Aug 2026 18:10:58 GMT</pubDate>
+            <description><![CDATA[The USD/CAD pair bounces off daily lows at 1.3833 and is up about 0.26% on Wednesday, driven by sticky US inflation data, which triggered a jump to new weekly highs amid an ongoing short-term downturn. At the time of writing, the pair trades at 1.3873.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold tumbles as high US inflation supports Fed hawkish bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-tumbles-as-high-us-inflation-supports-fed-hawkish-bets-202608261809</link>
+            <guid isPermaLink="false">d45c1809-9a09-4edb-9fca-fe8de190be42</guid>
+            <pubDate>Wed, 26 Aug 2026 18:09:42 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) price drops over 1.37% on Wednesday as economic data from the United States (US) broadly aligned with estimates. Meanwhile, inflation remains close to the 4% threshold, increasing the likelihood of higher interest rates.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crude Oil finds the tollbooth inside the Hormuz corridor]]></title>
+            <link>https://www.fxstreet.com/news/crude-oil-finds-the-tollbooth-inside-the-hormuz-corridor-202608261753</link>
+            <guid isPermaLink="false">0635b9ad-1093-49a3-ad26-af6eafa4e5c6</guid>
+            <pubDate>Wed, 26 Aug 2026 17:53:25 GMT</pubDate>
+            <description><![CDATA[Crude Oil trades just above $82.00 and 1.78% higher on the session, which is not where it was heading.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Tariff headlines but range intact against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-tariff-headlines-but-range-intact-against-us-dollar-scotiabank-202608261748</link>
+            <guid isPermaLink="false">91dfdc20-d096-4bf8-9a8a-7de1234cffc7</guid>
+            <pubDate>Wed, 26 Aug 2026 17:48:25 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Canadian Dollar (CAD) is slightly softer, tracking broader USD gains and weaker Oil, while USD/CAD trades almost exactly at their fair value estimate near 1.3862.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Swiss Franc falls against US Dollar as headline PCE inflation tops forecasts]]></title>
             <link>https://www.fxstreet.com/news/swiss-franc-falls-against-us-dollar-as-headline-pce-inflation-tops-forecasts-202608261726</link>
@@ -158,94 +246,6 @@
             <pubDate>Wed, 26 Aug 2026 13:30:30 GMT</pubDate>
             <description><![CDATA[ING Commodities Strategist Ewa Manthey analyses US aluminium policy and market structure, highlighting that Washington’s amended Section 232 tariffs aim to incentivize domestic smelting but will not quickly resolve the supply shortfall.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/charts-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kevin Warsh’s Jackson Hole dilemma: Say too much, too little, or just enough]]></title>
-            <link>https://www.fxstreet.com/news/kevin-warshs-jackson-hole-dilemma-say-too-much-too-little-or-just-enough-202608261315</link>
-            <guid isPermaLink="false">019d1138-ed5c-44c1-ae52-b8b1ac040902</guid>
-            <pubDate>Wed, 26 Aug 2026 13:15:09 GMT</pubDate>
-            <description><![CDATA[Kevin Warsh is preparing to deliver his first Jackson Hole speech as Federal Reserve (Fed) Chair on Friday, and expectations extend well beyond whether interest rates will be raised or left unchanged in September.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-183.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Tight balance persists as Iran deal talk grows – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/oil-tight-balance-persists-as-iran-deal-talk-grows-td-securities-202608261312</link>
-            <guid isPermaLink="false">de996b53-3222-408d-bd86-c47cc80d8611</guid>
-            <pubDate>Wed, 26 Aug 2026 13:12:20 GMT</pubDate>
-            <description><![CDATA[TD Securities’ commodity strategists Ryan McKay and Bart Melek note that heavy deal-related headlines around Iran and Oman are influencing energy markets, but they argue Crude Oil fundamentals remain tight.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold slips as sticky US PCE inflation fails to boost Fed rate-hike expectations]]></title>
-            <link>https://www.fxstreet.com/news/gold-slips-as-sticky-us-pce-inflation-fails-to-boost-fed-rate-hike-expectations-202608261259</link>
-            <guid isPermaLink="false">327a9818-39b0-461a-b262-c2af2729033d</guid>
-            <pubDate>Wed, 26 Aug 2026 12:59:41 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) trades around $4,620 on Wednesday at the time of writing, down 0.83% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro comes under pressure against US Dollar after mixed US PCE data]]></title>
-            <link>https://www.fxstreet.com/news/euro-comes-under-pressure-against-us-dollar-after-mixed-us-pce-data-202608261257</link>
-            <guid isPermaLink="false">89a53a17-89ba-4c4b-8a8d-b3c4a6e9ba45</guid>
-            <pubDate>Wed, 26 Aug 2026 12:57:38 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades under modest pressure on Wednesday after the US Personal Consumption Expenditures (PCE) Price Index report delivered a mixed inflation picture.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Trade dispute risks weigh on Canada – BNY]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-trade-dispute-risks-weigh-on-canada-bny-202608261247</link>
-            <guid isPermaLink="false">9bd81470-69b5-493d-aa9c-02f68adfc2d9</guid>
-            <pubDate>Wed, 26 Aug 2026 12:47:42 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu reports that Washington is considering further trade penalties against Canada after Ottawa’s dollar-for-dollar retaliation to new U.S. tariffs. Canada plans to double counter-tariffs on U.S. steel and aluminum and add new duties on a range of goods.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: US core PCE inflation holds steady at 3.3% in July as expected]]></title>
-            <link>https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800</link>
-            <guid isPermaLink="false">e9772060-b618-403a-9445-478b2b21a7a3</guid>
-            <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
-            <description><![CDATA[Annual inflation in the United States (US), as measured by the change in the Personal Consumption Expenditures (PCE) Price Index, remained unchanged at 3.7% YoY in July, the US Bureau of Economic Analysis (BEA) reported on Wednesday. This reading came in above the market expectation of 3.6%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Hot CPI supports carry and RBA risk – BBH]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-hot-cpi-supports-carry-and-rba-risk-bbh-202608261227</link>
-            <guid isPermaLink="false">7e75bc8f-c53f-41ee-a019-9e8e5a27466a</guid>
-            <pubDate>Wed, 26 Aug 2026 12:27:16 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports the Australian Dollar (AUD) is outperforming after hotter-than-expected July Consumer Price Index (CPI) data lifted Reserve Bank of Australia (RBA) rate hike expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-aud.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Weakness before renewed strength – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-weakness-before-renewed-strength-commerzbank-202608261213</link>
-            <guid isPermaLink="false">4c7a83b0-9cca-4f56-ad96-6c5b042519c5</guid>
-            <pubDate>Wed, 26 Aug 2026 12:13:17 GMT</pubDate>
-            <description><![CDATA[Commerzbank FX analyst Michael Pfister argues that the Swiss Franc (CHF) will stay under pressure through 2026 as markets gradually price out expectations of a Swiss National Bank (SNB) rate hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-chf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds upper hand against British Pound on diverging ECB-BoE expectations]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-upper-hand-against-british-pound-on-diverging-ecb-boe-expectations-202608261205</link>
-            <guid isPermaLink="false">d803751a-e400-4c28-82b5-38415f4cfd05</guid>
-            <pubDate>Wed, 26 Aug 2026 12:05:58 GMT</pubDate>
-            <description><![CDATA[EUR/GBP edges higher on Wednesday, though price action remains confined to the narrow range that has been in place since late July, largely between 0.8540 and 0.8580.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Intervention impact assessed – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-intervention-impact-assessed-rabobank-202608261158</link>
-            <guid isPermaLink="false">89ba7528-5afe-40b5-b2f5-d611ec75826d</guid>
-            <pubDate>Wed, 26 Aug 2026 11:58:59 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley reviews Japan’s FX intervention and its impact on USD/JPY.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Softer energy supports carry trades – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-softer-energy-supports-carry-trades-ing-202608261148</link>
-            <guid isPermaLink="false">e3ad1b2c-7c77-4744-9106-642c2ae95956</guid>
-            <pubDate>Wed, 26 Aug 2026 11:48:30 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner notes that lower Oil prices and the recent intervention by US Treasury Secretary Scott Bessent have pushed long-end US yields 10–15bp lower, reducing FX and equities volatility.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
