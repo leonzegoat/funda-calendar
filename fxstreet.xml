@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 14:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 16:01:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver Price Forecast: Buyers struggle below the 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-buyers-struggle-below-the-100-day-sma-202608261528</link>
+            <guid isPermaLink="false">e21437d2-8c25-4696-b4da-d8db742bde9e</guid>
+            <pubDate>Wed, 26 Aug 2026 15:28:43 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) comes under selling pressure on Wednesday as the US Dollar (USD) strengthens following the latest United States (US) inflation data. At the time of writing, XAG/USD trades around $67.79, down nearly 1.26% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Polish Zloty: Policy divergence weighs on PLN against Euro – ABN AMRO]]></title>
+            <link>https://www.fxstreet.com/news/polish-zloty-policy-divergence-weighs-on-pln-against-euro-abn-amro-202608261515</link>
+            <guid isPermaLink="false">1996e9b9-8638-4a2e-bc83-2fa9892e66c0</guid>
+            <pubDate>Wed, 26 Aug 2026 15:15:32 GMT</pubDate>
+            <description><![CDATA[ABN AMRO’s Georgette Boele highlights that EUR/PLN has risen as interest rate expectations diverge between the Eurozone and Poland.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar stumbles as hot Australian CPI runs into a firmer US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-stumbles-as-hot-australian-cpi-runs-into-a-firmer-us-dollar-202608261456</link>
+            <guid isPermaLink="false">206e2dc3-79d9-4176-bf65-cf3492d2a1e2</guid>
+            <pubDate>Wed, 26 Aug 2026 14:56:20 GMT</pubDate>
+            <description><![CDATA[AUD/USD is trading around 0.7170 on Wednesday, down slightly after a hot Australian inflation print ran straight into a firmer US Dollar. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan: AI boom sustains exceptional growth – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/taiwan-ai-boom-sustains-exceptional-growth-commerzbank-202608261453</link>
+            <guid isPermaLink="false">bbf0b655-b2ce-414a-a801-bb85f02daa13</guid>
+            <pubDate>Wed, 26 Aug 2026 14:53:11 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Dr. Henry Hao and Charlie Lay underscore that Taiwan’s industrial production and exports are surging on AI and high-performance computing demand. July manufacturing output and export orders point to Q3 GDP growth around 12–12.5% year-on-year, after 12.9% in Q2.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar falls despite Oil gains as trade tensions take center stage]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-falls-despite-oil-gains-as-trade-tensions-take-center-stage-202608261438</link>
+            <guid isPermaLink="false">42c732c3-dc98-44c0-a55e-96d1f95694af</guid>
+            <pubDate>Wed, 26 Aug 2026 14:38:08 GMT</pubDate>
+            <description><![CDATA[USD/CAD rises 0.30% on Wednesday, trading around 1.3880 at the time of writing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold stays under pressure as US Dollar firms after PCE data]]></title>
+            <link>https://www.fxstreet.com/news/gold-slips-ahead-of-us-pce-as-us-dollar-firms-modestly-202608261107</link>
+            <guid isPermaLink="false">2d4c4ae4-4d8a-4c37-9c7d-e9c7db5c36a4</guid>
+            <pubDate>Wed, 26 Aug 2026 11:07:10 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) remains under pressure on Wednesday as the latest US inflation figures leave buyers reluctant to step back in. At the time of writing, XAU/USD trades around $4,618 after reaching $4,697 on Tuesday, its highest since May 14.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Canada: Trade shock and GDP drag – TD Securities]]></title>
             <link>https://www.fxstreet.com/news/canada-trade-shock-and-gdp-drag-td-securities-202608261425</link>
@@ -192,60 +240,12 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gold slips ahead of US PCE as US Dollar firms modestly]]></title>
-            <link>https://www.fxstreet.com/news/gold-slips-ahead-of-us-pce-as-us-dollar-firms-modestly-202608261107</link>
-            <guid isPermaLink="false">2d4c4ae4-4d8a-4c37-9c7d-e9c7db5c36a4</guid>
-            <pubDate>Wed, 26 Aug 2026 11:07:10 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) edges lower on Wednesday as buyers trim their exposure ahead of the US Personal Consumption Expenditures (PCE) Price Index data, due at 12:30 GMT. At the time of writing, XAU/USD trades around $4,615 after reaching $4,697 on Tuesday, its highest since May 14.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[GBP/USD Price Forecast: Hits fresh intra-week lows after failure at 1.3660 resistance ]]></title>
             <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-hits-fresh-intra-week-lows-after-failure-at-13660-resistance-202608261059</link>
             <guid isPermaLink="false">d4ac6dcf-5b30-4d5e-b517-af05c068375b</guid>
             <pubDate>Wed, 26 Aug 2026 10:59:22 GMT</pubDate>
             <description><![CDATA[The British Pound (GBP) pares gains against the US Dollar (USD) on Wednesday, with bears testing the bottom of the intra-week trading range at the 1.3620 area, after failure to breach resistance at 1.3660.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-gbp-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CAD Price Forecast: Approaches 20-day EMA on the back of US-Canada trade dispute]]></title>
-            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-approaches-20-day-ema-on-the-back-of-us-canada-trade-dispute-202608261053</link>
-            <guid isPermaLink="false">d9fcab4e-7b00-4d9a-b560-4dc5c7147bcd</guid>
-            <pubDate>Wed, 26 Aug 2026 10:53:59 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) trades 0.2% higher at around 1.3870 against the Canadian Dollar (USD) during the European trading session on Wednesday. The Loonie pair strengthens as the Canadian Dollar underperforms due to trade tensions between the United States (US) and Canada.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD corrects to near $4,620 in countdown to US PCE Inflation data]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-corrects-to-near-4-620-in-countdown-to-us-pce-inflation-data-202608261012</link>
-            <guid isPermaLink="false">e36ec1c1-9a62-48cf-9148-e0b488d5d408</guid>
-            <pubDate>Wed, 26 Aug 2026 10:12:36 GMT</pubDate>
-            <description><![CDATA[Gold price (XAU/USD) is down 0.75% to near $4,620 during the European trading session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ hike expectations support JPY against US Dollar – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-hike-expectations-support-jpy-against-us-dollar-mufg-202608261004</link>
-            <guid isPermaLink="false">1909322c-2fe0-41f3-9cff-9d6dfd6d982a</guid>
-            <pubDate>Wed, 26 Aug 2026 10:04:56 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny notes the Japanese Yen is firmer versus most G10 currencies as markets increasingly price a Bank of Japan rate hike in September.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-drops-below-80-amid-hopes-of-hormuz-reopening-us-iran-de-escalation-202608260957</link>
-            <guid isPermaLink="false">ca7ef55b-ac6a-47e8-a479-a30a003da00f</guid>
-            <pubDate>Wed, 26 Aug 2026 09:57:06 GMT</pubDate>
-            <description><![CDATA[Crude prices extend their reversal on Wednesday, with the US benchmark West Texas Intermediate (WTI) trading at the $79.50 area as of writing, highlighting a 9% decline from last week’s highs above $87.00.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Watching 0.7200 resistance against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-watching-07200-resistance-against-us-dollar-uob-202608260955</link>
-            <guid isPermaLink="false">e1d1ee87-42b5-467f-a893-08abac7dcf8e</guid>
-            <pubDate>Wed, 26 Aug 2026 09:55:04 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD extended its consolidation slightly higher, closing at 0.7165 as short-term momentum improves.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
