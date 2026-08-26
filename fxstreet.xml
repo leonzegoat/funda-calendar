@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 13:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 14:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Canada: Trade shock and GDP drag – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/canada-trade-shock-and-gdp-drag-td-securities-202608261425</link>
+            <guid isPermaLink="false">c05b9f68-c45d-4160-b1b4-8e8b4239e35c</guid>
+            <pubDate>Wed, 26 Aug 2026 14:25:35 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Robert Both analyzes the impact of new Section 338 US tariffs and Canada’s retaliation on the Canadian economy. The report estimates the combined measures will trim about 0.3 percentage points from GDP by 2027, with growth effects concentrated in late 2026.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen reverses earlier gains as US Dollar firms after PCE data]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-reverses-earlier-gains-as-us-dollar-firms-after-pce-data-202608261418</link>
+            <guid isPermaLink="false">de3a8dce-d785-4ded-9f06-4f39dfd54715</guid>
+            <pubDate>Wed, 26 Aug 2026 14:18:59 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) gives up its earlier gains against the US Dollar (USD) on Wednesday as traders react to the latest United States (US) inflation data. At the time of writing, USD/JPY trades around 159.41, recovering from an intraday low of 158.88.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Pressure builds as risk premia rise – ABN AMRO]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-pressure-builds-as-risk-premia-rise-abn-amro-202608261406</link>
+            <guid isPermaLink="false">8aaaef3f-e9ee-426f-a7bf-3a157ce473e5</guid>
+            <pubDate>Wed, 26 Aug 2026 14:06:20 GMT</pubDate>
+            <description><![CDATA[ABN AMRO’s Georgette Boele notes that sentiment towards the Dollar is weakening as fiscal concerns and rising risk premia outweigh the support from higher US Treasury yields.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neither a confirmed hike nor a guaranteed pause: Why the Australian Dollar is climbing toward 0.7200]]></title>
+            <link>https://www.fxstreet.com/news/neither-a-confirmed-hike-nor-a-guaranteed-pause-why-the-australian-dollar-is-climbing-toward-07200-202608261405</link>
+            <guid isPermaLink="false">8d12d140-0903-4d0c-b1f7-00a674b30ac1</guid>
+            <pubDate>Wed, 26 Aug 2026 14:05:53 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) is outperforming across global FX markets following higher-than-expected Consumer Price Index (CPI) data for July, which sharply lifted expectations for additional Reserve Bank of Australia (RBA) interest-rate hikes. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany: GDP Recovery strengthens outlook – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/germany-gdp-recovery-strengthens-outlook-deutsche-bank-202608261347</link>
+            <guid isPermaLink="false">55e2e36f-bbf3-45d6-b0cf-dbe95a7bd333</guid>
+            <pubDate>Wed, 26 Aug 2026 13:47:01 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank expects Germany’s stronger-than-expected H1 2026 GDP performance to lift annual growth closer to 1% from the previous 0.5% forecast. Near-term transport headwinds should remain contained as Rhine water levels recover, although Q3 growth could temporarily stall.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Germany.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound weakens against US Dollar as headline PCE beats forecasts]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-weakens-against-us-dollar-as-headline-pce-beats-forecasts-202608261335</link>
+            <guid isPermaLink="false">1d0daaa2-3ee7-4e18-b2e3-15cf9439ad72</guid>
+            <pubDate>Wed, 26 Aug 2026 13:35:42 GMT</pubDate>
+            <description><![CDATA[GBP/USD falls to a five-day low on Wednesday as traders react to the latest United States (US) Personal Consumption Expenditures (PCE) Price Index data. At the time of writing, the pair trades around 1.3603, down roughly 0.33% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Aluminium: Midwest premium to stay elevated – ING]]></title>
             <link>https://www.fxstreet.com/news/aluminium-midwest-premium-to-stay-elevated-ing-202608261330</link>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 26 Aug 2026 09:55:04 GMT</pubDate>
             <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD extended its consolidation slightly higher, closing at 0.7165 as short-term momentum improves.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungarian Forint: Recovery tied to euro entry story – ING]]></title>
-            <link>https://www.fxstreet.com/news/hungarian-forint-recovery-tied-to-euro-entry-story-ing-202608260940</link>
-            <guid isPermaLink="false">e2d99769-9dbe-48bb-a948-7716fb45bc89</guid>
-            <pubDate>Wed, 26 Aug 2026 09:40:38 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner reports that the National Bank of Hungary cut its policy rate by 25bp to 5.50%, with Chief Economist Peter Virovacz seeing a 4.75% terminal rate.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608260933</link>
-            <guid isPermaLink="false">72269890-7f00-44a5-aa82-250fd99a0c39</guid>
-            <pubDate>Wed, 26 Aug 2026 09:33:36 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) fell on Wednesday, according to FXStreet data. Silver trades at $68.54 per troy ounce, down 0.16% from the $68.65 it cost on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index: Range trade persists as data soft – DBS]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-range-trade-persists-as-data-soft-dbs-202608260925</link>
-            <guid isPermaLink="false">eec3e3ca-f5f6-43a9-a73f-95a5880a46c5</guid>
-            <pubDate>Wed, 26 Aug 2026 09:25:46 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Philip Wee notes that the DXY Index’s recent recovery stalled slightly above 99 and has reverted to a 98.5–99.0 range after last week’s sell-off linked to higher US long bond yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/JPY Price Forecast: Tests nine-day EMA confluence support near 185.00]]></title>
-            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-confluence-support-near-18500-202608260912</link>
-            <guid isPermaLink="false">3139206f-0cdb-4fe5-97c0-7a6958079f6d</guid>
-            <pubDate>Wed, 26 Aug 2026 09:12:15 GMT</pubDate>
-            <description><![CDATA[EUR/JPY depreciates after registering modest gains, trading around 185.60 during the European hours on Wednesday. The technical analysis of a daily chart indicates that the currency cross is remaining within the ascending channel pattern, signaling an ongoing bullish bias.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/LINK-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Diplomatic progress weighs on prices – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/brent-diplomatic-progress-weighs-on-prices-ocbc-202608260907</link>
-            <guid isPermaLink="false">5a071c43-aff2-4875-88aa-648f6d4f152a</guid>
-            <pubDate>Wed, 26 Aug 2026 09:07:10 GMT</pubDate>
-            <description><![CDATA[OCBC Bank strategists Sim Moh Siong and Christopher Wong note that improved prospects for shipping through the Strait of Hormuz and diplomatic developments involving Iran and Oman have eased supply concerns, pushing Brent crude below USD90/bbl.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Shaky basis trade risks weigh – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-shaky-basis-trade-risks-weigh-commerzbank-202608260859</link>
-            <guid isPermaLink="false">befc9207-a543-498c-ac13-6920cf35fbc7</guid>
-            <pubDate>Wed, 26 Aug 2026 08:59:01 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Volkmar Baur explains how the US Treasury Secretary’s vague secondary sanctions comments and falling US yields have left the Dollar stabilizing but vulnerable.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
