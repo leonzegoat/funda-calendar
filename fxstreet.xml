@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 05:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 06:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro weakens against Japanese Yen amid firm BoJ interest rate hike prospects]]></title>
+            <link>https://www.fxstreet.com/news/euro-weakens-against-japanese-yen-amid-firm-boj-interest-rate-hike-prospects-202608260613</link>
+            <guid isPermaLink="false">75e07357-6152-4802-a94c-ece0943ea669</guid>
+            <pubDate>Wed, 26 Aug 2026 06:13:24 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) trades 0.22% lower at around 185.45 against the Japanese Yen (JPY) during the early European trading session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/coin-stone-pedestal-jpy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Upside bias toward 1.1725 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/euro-upside-bias-toward-11725-against-us-dollar-uob-202608260612</link>
+            <guid isPermaLink="false">b0602f33-b081-4910-957e-5a432befb1de</guid>
+            <pubDate>Wed, 26 Aug 2026 06:12:29 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report EUR/USD broke out of its recent tight range, closing slightly higher near 1.1675 as tentative upside momentum emerges.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-hot-australian-cpi-data-boosts-hawkish-rba-bets-202608260548</link>
+            <guid isPermaLink="false">f03659ef-2e11-4031-9dda-0dd92c48d9ce</guid>
+            <pubDate>Wed, 26 Aug 2026 05:48:37 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) outperforms its major currency peers on Wednesday, trading 0.2% higher to near 0.7180 against the US Dollar (USD) during the early European trading session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ECB's Schnabel: Inflation likely to top 2% for extended period]]></title>
+            <link>https://www.fxstreet.com/news/ecbs-schnabel-inflation-likely-to-top-2-for-extended-period-202608260541</link>
+            <guid isPermaLink="false">9921b738-d47f-4f11-b39a-1903ee002299</guid>
+            <pubDate>Wed, 26 Aug 2026 05:41:17 GMT</pubDate>
+            <description><![CDATA[European Central Bank (ECB) Executive Board member Isabel Schnabel said that inflation is unlikely to return to target over the medium term, and therefore further tightening will be necessary, Bloomberg reported on Wednesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias]]></title>
             <link>https://www.fxstreet.com/news/eur-usd-price-forecast-declines-to-near-11650-overbought-signals-curb-upside-bias-202608260536</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 25 Aug 2026 23:04:10 GMT</pubDate>
             <description><![CDATA[The Aussie Dollar advanced on Tuesday, gaining over 0.20% as the Greenback edged lower, amid minutes from the Reserve Bank of Australia (RBA)'s last meeting suggesting the board was close to raising rates. At the time of writing, the AUD/USD trades at 0.7163, after bouncing off daily lows of 0.7137.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo bought the Japanese Yen a range, not a trend]]></title>
-            <link>https://www.fxstreet.com/news/tokyo-bought-the-japanese-yen-a-range-not-a-trend-202608252302</link>
-            <guid isPermaLink="false">096c4d67-5595-4cf2-a937-c8238ea22eb5</guid>
-            <pubDate>Tue, 25 Aug 2026 23:02:06 GMT</pubDate>
-            <description><![CDATA[USD/JPY trades just above 159.00 late on Tuesday, August 25, holding a gain of under a tenth of a percent across a session that has covered 44 pips between a floor near 159.00 and a ceiling short of 159.50.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Pound Sterling's six-month high has no British test this week]]></title>
-            <link>https://www.fxstreet.com/news/pound-sterlings-six-month-high-has-no-british-test-this-week-202608252301</link>
-            <guid isPermaLink="false">809cbc45-8431-4975-8304-eaf53ae1fbe5</guid>
-            <pubDate>Tue, 25 Aug 2026 23:01:27 GMT</pubDate>
-            <description><![CDATA[GBP/USD trades near 1.3650 late on Tuesday, August 25, up around a tenth of a percent on a session that has covered barely 33 pips between a floor just above 1.3600 and a ceiling a shade over 1.3650.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Dollar: Consolidation risk after recent gains against US Dollar – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/singapore-dollar-consolidation-risk-after-recent-gains-against-us-dollar-ocbc-202608252237</link>
-            <guid isPermaLink="false">bd0a2934-ff52-4c21-a5fd-eb96f1294a9a</guid>
-            <pubDate>Tue, 25 Aug 2026 22:37:00 GMT</pubDate>
-            <description><![CDATA[OCBC’s Sim Moh Siong and Christopher Wong expect USD/SGD to consolidate as earlier Singapore Dollar (SGD) gains face a modest US Dollar (USD) rebound and position unwinding ahead of United States (US) core Personal Consumption Expenditures (PCE) Price Index data and Jackson Hole.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/JPY Price Forecast: Bulls hold 217.00 after trendline break]]></title>
-            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-hold-21700-after-trendline-break-202608252214</link>
-            <guid isPermaLink="false">1bb104d8-6b2e-4656-87e5-58a86e25fb14</guid>
-            <pubDate>Tue, 25 Aug 2026 22:14:08 GMT</pubDate>
-            <description><![CDATA[The GBP/JPY surpassed a downtrend resistance line and reclaimed the 217.00 level on Tuesday, as the Japanese Yen weakened while Sterling pushed to a new three-week high at 217.48. At the time of writing, the cross-pair trades at 217.31, up 0.20%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
