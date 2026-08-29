@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 28 Aug 2026 21:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 03:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South Korean Won: BoK tightening supports KRW against US Dollar – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-bok-tightening-supports-krw-against-us-dollar-commerzbank-202608282341</link>
+            <guid isPermaLink="false">2110596f-438e-446c-9cc1-ffc04cf8f012</guid>
+            <pubDate>Fri, 28 Aug 2026 23:41:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Charlie Lay reports that the Bank of Korea (BoK) delivered a second consecutive 25 bp hike to 3.0% and kept a tightening bias, supporting KRW after its sharp appreciation since June.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Vietnam: Exports and consumption stay robust – DBS]]></title>
+            <link>https://www.fxstreet.com/news/vietnam-exports-and-consumption-stay-robust-dbs-202608282307</link>
+            <guid isPermaLink="false">ce3842d7-b512-4461-9016-f5cecb6ef501</guid>
+            <pubDate>Fri, 28 Aug 2026 23:07:00 GMT</pubDate>
+            <description><![CDATA[DBS Group strategists Taimur Baig and Nathan Chow forecast Vietnam’s goods exports to maintain strong double-digit growth at 27% year-on-year in August 2026, led by electronics and supported by external demand.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Vietnam3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: BoK front-loading hikes as KRW consolidates – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-bok-front-loading-hikes-as-krw-consolidates-commerzbank-202608282233</link>
+            <guid isPermaLink="false">7d532815-3a39-4ff7-b863-e103b0ec5400</guid>
+            <pubDate>Fri, 28 Aug 2026 22:33:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Charlie Lay reports the Bank of Korea has delivered back-to-back 25bp hikes to 3.0%, front-loading tightening as growth and core inflation forecasts rise. The bank signals one more hike over six months but may pause to assess effects.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/market-charts-003.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Philippine Peso: BSP tightening bias on inflation risks – DBS]]></title>
+            <link>https://www.fxstreet.com/news/philippine-peso-bsp-tightening-bias-on-inflation-risks-dbs-202608282156</link>
+            <guid isPermaLink="false">ba53f531-b518-49d1-b3a4-99289aae22d3</guid>
+            <pubDate>Fri, 28 Aug 2026 21:56:00 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economists Radhika Rao and Chua Han Teng note that Bangko Sentral ng Pilipinas (BSP) raised its policy rate by 25 bps to 5.0% to anchor inflation expectations and support the Peso.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesiamap2-18326.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[South Korean Won: Higher rates and chip boom support gains – ING]]></title>
             <link>https://www.fxstreet.com/news/south-korean-won-higher-rates-and-chip-boom-support-gains-ing-202608282118</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 28 Aug 2026 13:17:08 GMT</pubDate>
             <description><![CDATA[ING’s Peter Virovacz expects Hungary’s final 2Q26 GDP release to confirm a weaker-than-hoped quarter, with agriculture and construction dragging and services plus industry providing support. Investment is seen as a significant negative surprise on the demand side.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed's Hammack: Time for Fed to act with rate hikes]]></title>
-            <link>https://www.fxstreet.com/news/feds-hammack-time-for-fed-to-act-with-rate-hikes-202608281316</link>
-            <guid isPermaLink="false">ebc158d1-85f4-433b-aa80-3caedc5c907d</guid>
-            <pubDate>Fri, 28 Aug 2026 13:16:12 GMT</pubDate>
-            <description><![CDATA[In an interview with Bloomberg on Friday, Cleveland Federal Reserve (Fed) President Beth Hammack said that it is time for the Fed to act with rate hikes, arguing that waiting will create pain.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen retreats despite hotter inflation as focus shifts to Jackson Hole]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-retreats-despite-hotter-inflation-as-focus-shifts-to-jackson-hole-202608281313</link>
-            <guid isPermaLink="false">6e696306-4e16-4393-817a-e848476cd0ee</guid>
-            <pubDate>Fri, 28 Aug 2026 13:13:26 GMT</pubDate>
-            <description><![CDATA[USD/JPY rises 0.14% on Friday and trades around 159.60 at the time of writing, extending its advance for a fifth consecutive day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reserve Bank of New Zealand: Gradual hiking path into 2027 – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/reserve-bank-of-new-zealand-gradual-hiking-path-into-2027-td-securities-202608281300</link>
-            <guid isPermaLink="false">437c3ac3-9daa-4364-9022-40f029c9cd72</guid>
-            <pubDate>Fri, 28 Aug 2026 13:00:56 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Prashant Newnaha and Howard Du expect the Reserve Bank of New Zealand (RBNZ) to raise the Official Cash Rate by 25 bps to 2.75% in September, in line with market pricing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: September hike seen with energy risks – Nomura]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-september-hike-seen-with-energy-risks-nomura-202608281243</link>
-            <guid isPermaLink="false">52ea0ac0-97d0-4ce5-abaf-05464a39752a</guid>
-            <pubDate>Fri, 28 Aug 2026 12:43:38 GMT</pubDate>
-            <description><![CDATA[Nomura’s Euro area team expects the European Central Bank to raise rates by 25 basis points to 2.50% at the 10 September meeting, citing higher HICP inflation and resilient growth.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
