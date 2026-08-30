@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 30 Aug 2026 20:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 22:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US military strikes Iranian rocket launchers in first attack in week]]></title>
+            <link>https://www.fxstreet.com/news/us-military-strikes-iranian-rocket-launchers-in-first-attack-in-week-202608302226</link>
+            <guid isPermaLink="false">1ac83f4f-c5be-46a7-89f7-7446b4551c52</guid>
+            <pubDate>Sun, 30 Aug 2026 22:26:31 GMT</pubDate>
+            <description><![CDATA[US Central Command (CENTCOM) struck Iranian rocket launchers that were preparing to send mines into the Strait of Hormuz, following weeks of relative calm, Bloomberg reported on Sunday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[South Korean Won: BoK tightening supports KRW against US Dollar – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/south-korean-won-bok-tightening-supports-krw-against-us-dollar-commerzbank-202608282341</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Aug 2026 13:33:18 GMT</pubDate>
             <description><![CDATA[Royal Bank of Canada (RBC) strategists analyze escalating trade tensions between Canada and the United States (US) and their impact on both economies.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungary: Retail data may offer upside surprise – ING]]></title>
-            <link>https://www.fxstreet.com/news/hungary-retail-data-may-offer-upside-surprise-ing-202608281317</link>
-            <guid isPermaLink="false">be7bd8ca-352e-4236-b5f6-3f9db454b2f9</guid>
-            <pubDate>Fri, 28 Aug 2026 13:17:08 GMT</pubDate>
-            <description><![CDATA[ING’s Peter Virovacz expects Hungary’s final 2Q26 GDP release to confirm a weaker-than-hoped quarter, with agriculture and construction dragging and services plus industry providing support. Investment is seen as a significant negative surprise on the demand side.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
