@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 30 Aug 2026 22:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 01:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen seems vulnerable near one-month low vs USD amid US-Japan rate gap, Iran risks]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-seems-vulnerable-near-one-month-low-vs-usd-amid-us-japan-rate-gap-iran-risks-202608310118</link>
+            <guid isPermaLink="false">19304851-05a8-4f9e-94fa-7e89f5abbc38</guid>
+            <pubDate>Mon, 31 Aug 2026 01:18:10 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair kicks off the new week on a subdued note and trades around the 160.00 psychological mark during the Asian session, just below a one-month high, touched on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7828 vs. 6.7811 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67828-vs-67811-previous-202608310115</link>
+            <guid isPermaLink="false">8d047883-f6dd-4010-ab00-111f3ddca55f</guid>
+            <pubDate>Mon, 31 Aug 2026 01:15:39 GMT</pubDate>
+            <description><![CDATA[On Monday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7828 compared to Friday's fix of 6.7811 and 6.7344 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI remains above $83.50 as Iran fires missiles following US strikes]]></title>
+            <link>https://www.fxstreet.com/news/wti-remains-above-8350-as-iran-fires-missiles-following-us-strikes-202608310053</link>
+            <guid isPermaLink="false">7038814c-14dd-44a2-8c12-069c2ec50ca0</guid>
+            <pubDate>Mon, 31 Aug 2026 00:53:35 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) declines after opening at a bullish gap, remaining in positive territory and trading around $83.60 per barrel during the Asian hours on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro edges higher to near 1.1600 ahead of German CPI inflation release]]></title>
+            <link>https://www.fxstreet.com/news/euro-edges-higher-to-near-11600-ahead-of-german-cpi-inflation-release-202608310051</link>
+            <guid isPermaLink="false">8100685e-7cbb-403c-bf9b-9ad05ad09e02</guid>
+            <pubDate>Mon, 31 Aug 2026 00:51:37 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair gathers strength to around 1.1590 during the early Asian trading hours on Monday. The US Dollar (USD) edges lower against the Euro (EUR) despite hawkish remarks from Federal Reserve (Fed) Chair Kevin Warsh.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Treasury Secretary Bessent: Japanese Yen moves 'pretty contained' and not disorderly]]></title>
+            <link>https://www.fxstreet.com/news/us-treasury-secretary-bessent-japanese-yen-moves-pretty-contained-and-not-disorderly-202608302347</link>
+            <guid isPermaLink="false">c3d75736-58a4-4f42-971d-12be5e4d94d5</guid>
+            <pubDate>Sun, 30 Aug 2026 23:47:20 GMT</pubDate>
+            <description><![CDATA[US Treasury Secretary Scott Bessent ‌said on Sunday recent Japanese Yen (JPY) moves ‌were "pretty well contained," suggesting the Japanese currency's renewed weakness were not seen as the kind of disorderly moves that led to a rare joint Japan-US intervention last month, Reuters reported.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar weakens to near 0.7150 as Fed's Warsh signals rate hikes, China's PMI data loom]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-weakens-to-near-07150-as-feds-warsh-signals-rate-hikes-chinas-pmi-data-loom-202608302332</link>
+            <guid isPermaLink="false">545e491a-d294-4ef0-8f66-a72c3eabe1ae</guid>
+            <pubDate>Sun, 30 Aug 2026 23:32:48 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair loses traction to near 0.7160 during the early Asian session on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[US military strikes Iranian rocket launchers in first attack in week]]></title>
             <link>https://www.fxstreet.com/news/us-military-strikes-iranian-rocket-launchers-in-first-attack-in-week-202608302226</link>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 28 Aug 2026 14:44:58 GMT</pubDate>
             <description><![CDATA[ING’s Adam Antoniak expects Poland’s 2Q26 GDP flash estimate to be confirmed at 3.8% year-on-year, with fixed investment rebounding strongly thanks to EU and RRF-funded projects. Private consumption is seen slowing slightly as higher fuel prices and weaker wage growth weigh on purchasing power.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: Nonfarm Payrolls benchmark revision to lower US employment by 79,000 through March 2026]]></title>
-            <link>https://www.fxstreet.com/news/nonfarm-payrolls-face-a-reality-check-with-key-benchmark-revision-202608280933</link>
-            <guid isPermaLink="false">6e8f09e8-2115-4281-9b1a-a7063f482edf</guid>
-            <pubDate>Fri, 28 Aug 2026 09:33:27 GMT</pubDate>
-            <description><![CDATA[According to the preliminary estimate of the Current Employment Statistics (CES) national benchmark revision, Nonfarm employment for March 2026 was -79,000 (-0.1%), the US Bureau of Labor Statistics (BLS) reported on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan: Tokyo  CPI data supports BoJ hawkish stance – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/japan-tokyo-cpi-data-supports-boj-hawkish-stance-societe-generale-202608281419</link>
-            <guid isPermaLink="false">9c0910ac-bef8-49a7-a2b4-480945017f94</guid>
-            <pubDate>Fri, 28 Aug 2026 14:19:58 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Reo Sakida and Jin Kenzaki note that August Tokyo CPI was broadly in line with expectations, with renewed energy subsidies weighing on inflation and likely to drag on CPI through October.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: Fed Chair Warsh says predominant focus right now should be on prices]]></title>
-            <link>https://www.fxstreet.com/news/kevin-warshs-jackson-hole-dilemma-say-too-much-too-little-or-just-enough-202608261315</link>
-            <guid isPermaLink="false">019d1138-ed5c-44c1-ae52-b8b1ac040902</guid>
-            <pubDate>Wed, 26 Aug 2026 13:15:09 GMT</pubDate>
-            <description><![CDATA[Federal Reserve Chairman Kevin Warsh said that they must be confident that underlying inflation is moving toward the objective, adding that they have work to do otherwise, while delivering opening remarks at the Kansas City Fed's 2026 Economic Policy Symposium in Jackson Hole, Wyoming.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany: Growth recovery stays moderate – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/germany-growth-recovery-stays-moderate-commerzbank-202608281352</link>
-            <guid isPermaLink="false">482965ce-9ad6-4edc-8e1f-904460306575</guid>
-            <pubDate>Fri, 28 Aug 2026 13:52:42 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Dr. Ralph Solveen and colleagues say German GDP has surprised on the upside, expanding around 0.35% per quarter over the last three quarters, driven mainly by stronger exports to EU partners.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Germany.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro drifts lower as Fed hawks set the stage for Warsh]]></title>
-            <link>https://www.fxstreet.com/news/euro-drifts-lower-as-fed-hawks-set-the-stage-for-warsh-202608281338</link>
-            <guid isPermaLink="false">214332ab-9d73-4b43-abb2-6d74049cb6f4</guid>
-            <pubDate>Fri, 28 Aug 2026 13:38:42 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades around 1.1645 on Friday, posting a modest 0.07% decline on the day as investors adopt a wait-and-see approach ahead of a highly anticipated speech by Federal Reserve (Fed) Chair Kevin Warsh at the Jackson Hole Symposium.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: Economic risks and sector strains – RBC]]></title>
-            <link>https://www.fxstreet.com/news/canada-economic-risks-and-sector-strains-rbc-202608281333</link>
-            <guid isPermaLink="false">0c2974ee-5c77-4d2b-aabf-21eeea2e496e</guid>
-            <pubDate>Fri, 28 Aug 2026 13:33:18 GMT</pubDate>
-            <description><![CDATA[Royal Bank of Canada (RBC) strategists analyze escalating trade tensions between Canada and the United States (US) and their impact on both economies.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
