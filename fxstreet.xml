@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 01 Sep 2026 21:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 23:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold slumps below $4,350 on higher US yields, hawkish Fed bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-slumps-below-4-350-on-higher-us-yields-hawkish-fed-bets-202609012328</link>
+            <guid isPermaLink="false">9adf4f27-9f51-4fb4-aa79-ad43a4986248</guid>
+            <pubDate>Tue, 01 Sep 2026 23:28:14 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) tumbles to near a two-week low around $4,330 during the early Asian session on Wednesday. The precious metal faces some selling pressure on elevated Treasury yields and a stronger US Dollar (USD). ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RBNZ expected to hike interest rate amid sticky inflation]]></title>
+            <link>https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200</link>
+            <guid isPermaLink="false">f38c5f37-283d-40f2-bdd0-41b1ca3c23fd</guid>
+            <pubDate>Tue, 01 Sep 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[The Reserve Bank of New Zealand (RBNZ) is on track to deliver a follow-through interest rate hike, raising the Official Cash Rate (OCR) by another 25 basis points (bps) from 2.50% to 2.75% on Wednesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AnnaBreman_RBNZ_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-falls-as-us-iran-conflict-lifts-usd-gdp-data-eyed-202609012239</link>
+            <guid isPermaLink="false">6c0f21d2-4fd5-43be-93f0-22b8a358b0cb</guid>
+            <pubDate>Tue, 01 Sep 2026 22:39:26 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar retreats some 0.29% against the US Dollar on Tuesday as the escalation of the Middle East conflict boosted the Greenback due to its haven appeal. The AUD/USD trades at 0.7146.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Range-bound consolidation outlook against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-range-bound-consolidation-outlook-against-us-dollar-uob-202609012224</link>
+            <guid isPermaLink="false">248b4ff0-9e00-4ad3-9d20-ab3bb26743a0</guid>
+            <pubDate>Tue, 01 Sep 2026 22:24:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann discuss recent volatility in USD/CNH after a sharp rebound and subsequent drop.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: 200-day SMA caps Euro as Dollar firms]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-200-day-sma-caps-euro-as-dollar-firms-202609012204</link>
+            <guid isPermaLink="false">b59f5eaa-b6c1-438f-a3ef-a98364c8e72c</guid>
+            <pubDate>Tue, 01 Sep 2026 22:04:15 GMT</pubDate>
+            <description><![CDATA[The shared currency edges lower, capped by the 200-day Simple Moving Average (SMA) at 1.1633, amid rising geopolitical tensions and escalating hostilities between the US and Iran, prompting investors to buy the US Dollar. At the time of writing, the EUR/USD trades at 1.1590, down 0.25%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[India: Growth and inflation forecasts revised higher – UOB]]></title>
+            <link>https://www.fxstreet.com/news/india-growth-and-inflation-forecasts-revised-higher-uob-202609012141</link>
+            <guid isPermaLink="false">c7fb52c3-ef1f-4155-85d2-82a59a48e6bb</guid>
+            <pubDate>Tue, 01 Sep 2026 21:41:00 GMT</pubDate>
+            <description><![CDATA[UOB's Jester Koh note they raise their FY27 Gross Domestic Product (GDP) forecast for India to 7.2% from 6.8% after a stronger-than-expected 1QFY27 expansion of 7.8% year-on-year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Asia FX: KRW and MYR lead firmer profile vs USD – OCBC]]></title>
             <link>https://www.fxstreet.com/news/asia-fx-krw-and-myr-lead-firmer-profile-vs-usd-ocbc-202609012058</link>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 01 Sep 2026 14:45:57 GMT</pubDate>
             <description><![CDATA[EUR/USD struggles to attract buyers on Tuesday despite below-forecast US economic data, as the US Dollar (USD) shows little weakness following the release. At the time of writing, the pair trades around 1.1601 after touching an intraday low of 1.1587, but remains down roughly 0.14% on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed risks and election scenarios – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-risks-and-election-scenarios-td-securities-202609011441</link>
-            <guid isPermaLink="false">61c730ca-b30b-4a78-af7b-c3bcced37837</guid>
-            <pubDate>Tue, 01 Sep 2026 14:41:15 GMT</pubDate>
-            <description><![CDATA[TD Securities’ macro team, led by Jayati Bharadwaj, Howard Du and Linda Cheng, maintains a bearish view on the Dollar despite a hawkish market reaction to Chair Warsh’s Jackson Hole speech.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Pricing stays supported as Fed path questioned – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-pricing-stays-supported-as-fed-path-questioned-td-securities-202609011419</link>
-            <guid isPermaLink="false">66f316aa-d597-4250-830a-4a57b279da4c</guid>
-            <pubDate>Tue, 01 Sep 2026 14:19:04 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek note that positioning in Gold remains resilient despite a more hawkish Jackson Hole speech from Fed Chair Warsh.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US ISM Manufacturing PMI fell to 54.6 in August ]]></title>
-            <link>https://www.fxstreet.com/news/ism-manufacturing-pmi-set-to-signal-steady-expansion-in-us-factory-activity-202609010900</link>
-            <guid isPermaLink="false">6d5a1792-33f0-4f23-88e3-c69b19154393</guid>
-            <pubDate>Tue, 01 Sep 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[In August, the US manufacturing sector lost some momentum. Indeed, the ISM Manufacturing PMI dropped from 55.6 in July to 54.6, below analysts' prediction of 55.2.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Manufacturing-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: US JOLTS Job Openings rise to 7.27 million in July vs. 7.3 million expected]]></title>
-            <link>https://www.fxstreet.com/news/us-jolts-job-openings-set-to-show-a-steady-labor-market-202609011000</link>
-            <guid isPermaLink="false">99e9ab76-f975-4a4c-92ee-12425c342a37</guid>
-            <pubDate>Tue, 01 Sep 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[The number of job openings rose slightly to 7.271 million in July from 7.182 million in June, the US Bureau of Labor Statistics (BLS) reported on Tuesday. This reading came in below the market expectation of 7.3 million.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Yield cap and intervention shape risks – BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-yield-cap-and-intervention-shape-risks-bbh-202609011356</link>
-            <guid isPermaLink="false">12dc6067-c02b-43f0-a497-7e2e17726f34</guid>
-            <pubDate>Tue, 01 Sep 2026 13:56:54 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights that rising global bond yields and firmer Oil prices have pushed 30-year US Treasury yields back to pre-buyback levels, while USD/JPY has largely retraced its post-intervention slump.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen weakens as Japan’s 10-year yield hits 3% for first time since 1996]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-weakens-as-japans-10-year-yield-hits-3-for-first-time-since-1996-202609011347</link>
-            <guid isPermaLink="false">1f8f4d94-1f67-4bbc-b24e-9b41770e2f51</guid>
-            <pubDate>Tue, 01 Sep 2026 13:47:50 GMT</pubDate>
-            <description><![CDATA[USD/JPY trades around 160.05 on Tuesday at the time of writing, gaining 0.19% on the day, as the Japanese Yen (JPY) remains under pressure against the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
