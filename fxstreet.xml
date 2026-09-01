@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 01 Sep 2026 18:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 21:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Asia FX: KRW and MYR lead firmer profile vs USD – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/asia-fx-krw-and-myr-lead-firmer-profile-vs-usd-ocbc-202609012058</link>
+            <guid isPermaLink="false">d70fd740-bc56-4fc8-b690-034cca534c9d</guid>
+            <pubDate>Tue, 01 Sep 2026 20:58:00 GMT</pubDate>
+            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong have recalibrated Asian FX forecasts slightly firmer against the US Dollar (USD), with more notable upgrades for KRW and MYR.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Volatility widens range-trading band against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-volatility-widens-range-trading-band-against-us-dollar-uob-202609012023</link>
+            <guid isPermaLink="false">2189dd5b-af50-4450-93c4-84805663b411</guid>
+            <pubDate>Tue, 01 Sep 2026 20:23:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD has retreated sharply after last week’s spike, but downside momentum remains limited.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/SGD2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso holds near 17.00 as US-Iran strikes weigh on Peso]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-holds-near-1700-as-us-iran-strikes-hit-peso-202609012012</link>
+            <guid isPermaLink="false">3f179626-f4df-446f-9584-5a23361edfbc</guid>
+            <pubDate>Tue, 01 Sep 2026 20:12:20 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso (MXN) erases some of its earlier gains against the US Dollar (USD) on Tuesday as the US and Iran launched successive strikes against each other, souring risk appetite and weighing on the emerging market currency. The USD/MXN pair trades at 16.99, virtually unchanged.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bullandbear-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India: Growth outlook revised higher – Standard Chartered]]></title>
+            <link>https://www.fxstreet.com/news/india-growth-outlook-revised-higher-standard-chartered-202609011951</link>
+            <guid isPermaLink="false">e884c1ca-94ec-498a-9abd-9c62eda2250d</guid>
+            <pubDate>Tue, 01 Sep 2026 19:51:00 GMT</pubDate>
+            <description><![CDATA[Standard Chartered strategists Anubhuti Sahay and Saurav Anand revise their FY27 Gross Domestic Product (GDP) growth forecast to 7.2% from 6.6% following a robust Q1-FY27 print and strong high-frequency indicators.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold collapses as US-Iran strikes send Oil, US yields higher]]></title>
+            <link>https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930</link>
+            <guid isPermaLink="false">5eb0bbb9-64ec-4ac7-8088-0ed0411001bb</guid>
+            <pubDate>Tue, 01 Sep 2026 19:30:49 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) price collapses over 2.30% on Tuesday as the Middle East conflict escalates, with the US and Iran exchanging strikes, while US economic data was mixed but moved to the back seat amid geopolitical tensions.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China: Trade imbalances and weak demand – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/china-trade-imbalances-and-weak-demand-rabobank-202609011923</link>
+            <guid isPermaLink="false">6a2ca4d7-09a3-47c1-8ca6-b64f2f940429</guid>
+            <pubDate>Tue, 01 Sep 2026 19:23:00 GMT</pubDate>
+            <description><![CDATA[Rabobank strategists highlight growing pressure on China’s trade model as US-led restrictions target links with Iran and Venezuela.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Equities: Fragile advance under energy and yield risks – NBC]]></title>
+            <link>https://www.fxstreet.com/news/equities-fragile-advance-under-energy-and-yield-risks-nbc-202609011843</link>
+            <guid isPermaLink="false">7b7e9e81-13fd-48c3-a12e-0fcc45dd986c</guid>
+            <pubDate>Tue, 01 Sep 2026 18:43:00 GMT</pubDate>
+            <description><![CDATA[National Bank of Canada (NBC) strategists note that global equities, including the MSCI ACWI, remain on track for another positive quarter, helped by an August rebound.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[United States Treasury yields read Iran strikes as inflation]]></title>
             <link>https://www.fxstreet.com/news/united-states-treasury-yields-read-iran-strikes-as-inflation-202609011824</link>
@@ -190,62 +246,6 @@
             <pubDate>Tue, 01 Sep 2026 13:47:50 GMT</pubDate>
             <description><![CDATA[USD/JPY trades around 160.05 on Tuesday at the time of writing, gaining 0.19% on the day, as the Japanese Yen (JPY) remains under pressure against the US Dollar (USD).]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro area: Inflation jump supports ECB hike – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/euro-area-inflation-jump-supports-ecb-hike-commerzbank-202609011333</link>
-            <guid isPermaLink="false">1fc28cf7-4265-42aa-970f-7ead8fcc1933</guid>
-            <pubDate>Tue, 01 Sep 2026 13:33:34 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Dr. Vincent Stamer notes that Euro area headline inflation rose to 3.3% in August from 2.9% in July, driven mainly by higher energy prices linked to the Middle East conflict.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed’s Barr keeps rate hike on the table as inflation persists]]></title>
-            <link>https://www.fxstreet.com/news/feds-barr-keeps-rate-hike-on-the-table-as-inflation-persists-202609011324</link>
-            <guid isPermaLink="false">a15b3bfd-dfe2-46e7-9f74-a6e259e0a759</guid>
-            <pubDate>Tue, 01 Sep 2026 13:24:22 GMT</pubDate>
-            <description><![CDATA[Federal Reserve Governor Michael Barr said inflation remains too high and warned that a rate hike could become necessary if price pressures fail to moderate soon.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: Pair extends recovery above key moving averages]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-pair-extends-recovery-above-key-moving-averages-202609011321</link>
-            <guid isPermaLink="false">1a3a9a7d-f2c5-4048-b23f-5fdc6e1b8b1f</guid>
-            <pubDate>Tue, 01 Sep 2026 13:21:59 GMT</pubDate>
-            <description><![CDATA[USD/CHF ticks higher on Tuesday as the US Dollar (USD) recoups most of the previous day’s losses. Hawkish Federal Reserve (Fed) expectations and rising US Treasury yields keep the Greenback underpinned near its recent highs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“Good news” on inflation: ECB’s Nagel sees no second-round effects]]></title>
-            <link>https://www.fxstreet.com/news/good-news-on-inflation-ecbs-nagel-sees-no-second-round-effects-202609011316</link>
-            <guid isPermaLink="false">ae6d5bbb-e817-41a8-a2cd-905207187fa2</guid>
-            <pubDate>Tue, 01 Sep 2026 13:16:41 GMT</pubDate>
-            <description><![CDATA[Joachim Nagel, European Central Bank (ECB) Governing Council member and Bundesbank President, expressed confidence on Tuesday in the global economic outlook despite geopolitical tensions in the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: RBI seen hiking as inflation risks build – UOB]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rbi-seen-hiking-as-inflation-risks-build-uob-202609011309</link>
-            <guid isPermaLink="false">d151ca8d-1b3d-48cb-b5c5-9c22a7f95f20</guid>
-            <pubDate>Tue, 01 Sep 2026 13:09:38 GMT</pubDate>
-            <description><![CDATA[UOB’s Jester Koh expects the Reserve Bank of India (RBI) to deliver two consecutive 25bps rate hikes starting from the December 2026 Monetary Policy Committee (MPC) meeting, as headline inflation is projected to breach the upper end of the RBI’s 2–6% band by 3QFY27.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S&P 500: Strong earnings but stretched valuation risk – NBC]]></title>
-            <link>https://www.fxstreet.com/news/sp-500-strong-earnings-but-stretched-valuation-risk-nbc-202609011249</link>
-            <guid isPermaLink="false">34d40ca7-ed6d-4c46-8b9d-e5e2f586efd1</guid>
-            <pubDate>Tue, 01 Sep 2026 12:49:26 GMT</pubDate>
-            <description><![CDATA[National Bank of Canada (NBC) strategists highlight that the S&P 500 has hit a fresh record high in August, supported by an exceptionally strong Q2 earnings season with roughly 50% year-on-year EPS growth.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_S&amp;P500-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar retreats as rising US yields overshadow upbeat Chinese PMI]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-retreats-as-rising-us-yields-overshadow-upbeat-chinese-pmi-202609011244</link>
-            <guid isPermaLink="false">c6a2e7a7-bdfa-4ffb-a177-ef89f583a02e</guid>
-            <pubDate>Tue, 01 Sep 2026 12:44:31 GMT</pubDate>
-            <description><![CDATA[AUD/USD declines 0.29% on Tuesday, trading around 0.7145 at the time of writing. The Australian Dollar (AUD) struggles to retain the momentum initially generated by encouraging Chinese economic data, while the US Dollar (USD) benefits from rising US Treasury yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
