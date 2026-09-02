@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 01 Sep 2026 23:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 01:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7829 vs. 6.7809 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67829-vs-67809-previous-202609020115</link>
+            <guid isPermaLink="false">0dcd781b-a4a1-420a-be93-da21eb82b304</guid>
+            <pubDate>Wed, 02 Sep 2026 01:15:27 GMT</pubDate>
+            <description><![CDATA[On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7829 compared to the previous day's fix of 6.7809 and 6.7238 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen drops to fresh low since late July vs USD on fiscal concerns and rate gap]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-drops-to-fresh-low-since-late-july-vs-usd-on-fiscal-concerns-and-rate-gap-202609020111</link>
+            <guid isPermaLink="false">a85b36bc-93e0-4f7b-a8b8-789ccdbc8ff5</guid>
+            <pubDate>Wed, 02 Sep 2026 01:11:51 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair is seen consolidating near its highest level since July 31, touched during the Asian session on Wednesday, and trading around the 160.25-160.30 region.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound drops as US Dollar strengthens on rising US yields, higher oil prices]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-drops-as-us-dollar-strengthens-on-rising-us-yields-higher-oil-prices-202609020102</link>
+            <guid isPermaLink="false">37ed8569-b9f2-481e-b6cd-a105b676a830</guid>
+            <pubDate>Wed, 02 Sep 2026 01:02:31 GMT</pubDate>
+            <description><![CDATA[GBP/USD extends its losses for the second successive day, trading around 1.3510 during the Asian hours on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound softens to near 1.3500 as US, Iran escalate attacks]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-softens-to-near-13500-as-us-iran-escalate-attacks-202609020059</link>
+            <guid isPermaLink="false">95038092-e34d-4fac-b387-fc28f78efed5</guid>
+            <pubDate>Wed, 02 Sep 2026 00:59:23 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair declines to near 1.3510 during the early Asian trading hours on Wednesday. Ongoing tensions in the Middle East provide some support to a safe-haven currency such as the US Dollar (USD) against the British Pound (GBP). All eyes will be on the US August jobs report later on Friday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RBNZ set to raise interest rate to 2.75% with consensus expected ]]></title>
+            <link>https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200</link>
+            <guid isPermaLink="false">f38c5f37-283d-40f2-bdd0-41b1ca3c23fd</guid>
+            <pubDate>Tue, 01 Sep 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[The Reserve Bank of New Zealand (RBNZ) is on track to deliver a follow-through interest rate hike, raising the Official Cash Rate (OCR) by another 25 basis points (bps) from 2.50% to 2.75% on Wednesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BoJ’s Ueda says no comment on daily moves, markets price in high likelihood of September rate hike]]></title>
+            <link>https://www.fxstreet.com/news/bojs-ueda-says-no-comment-on-daily-moves-markets-price-in-high-likelihood-of-september-rate-hike-202609020019</link>
+            <guid isPermaLink="false">5374a493-e64b-4db9-989e-615809696604</guid>
+            <pubDate>Wed, 02 Sep 2026 00:19:08 GMT</pubDate>
+            <description><![CDATA[Bank of Japan (BoJ) Governor Kazuo Ueda on Tuesday held talks with US Treasury Secretary Bessent on the sidelines of the G20, but giving no details on what was discussed.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/kazuo-ueda-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan’s Katayama: Debt expansion is global trend, fiscal policy targeting growth and sustainability]]></title>
+            <link>https://www.fxstreet.com/news/japans-katayama-debt-expansion-is-global-trend-fiscal-policy-targeting-growth-and-sustainability-202609020014</link>
+            <guid isPermaLink="false">a9ba6f87-5c01-4be0-8561-89f048214211</guid>
+            <pubDate>Wed, 02 Sep 2026 00:14:06 GMT</pubDate>
+            <description><![CDATA[Japanese Finance Minister (FM) Satsuki Katayama said on Tuesday that debt growth is global trend, Japan outlines fiscal policy targeting growth and sustainability. Katayama added that US Treasury Secretary Bessent referenced US strategies to manage debt. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US military confirms hits Iranian air defence and naval sites ]]></title>
+            <link>https://www.fxstreet.com/news/us-military-confirms-hits-iranian-air-defence-and-naval-sites-202609012355</link>
+            <guid isPermaLink="false">565acc58-48dd-458c-8b1e-a65f538c8e0e</guid>
+            <pubDate>Tue, 01 Sep 2026 23:55:41 GMT</pubDate>
+            <description><![CDATA[The US Central Command (CENTCOM) said it completed a wave of strikes against Iran’s Islamic Revolutionary Guard Corps (IRGC) targets in Iran early on Wednesday, CNBC reported. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gold slumps below $4,350 on higher US yields, hawkish Fed bets]]></title>
             <link>https://www.fxstreet.com/news/gold-slumps-below-4-350-on-higher-us-yields-hawkish-fed-bets-202609012328</link>
@@ -14,14 +78,6 @@
             <pubDate>Tue, 01 Sep 2026 23:28:14 GMT</pubDate>
             <description><![CDATA[Gold price (XAU/USD) tumbles to near a two-week low around $4,330 during the early Asian session on Wednesday. The precious metal faces some selling pressure on elevated Treasury yields and a stronger US Dollar (USD). ]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RBNZ expected to hike interest rate amid sticky inflation]]></title>
-            <link>https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200</link>
-            <guid isPermaLink="false">f38c5f37-283d-40f2-bdd0-41b1ca3c23fd</guid>
-            <pubDate>Tue, 01 Sep 2026 22:00:00 GMT</pubDate>
-            <description><![CDATA[The Reserve Bank of New Zealand (RBNZ) is on track to deliver a follow-through interest rate hike, raising the Official Cash Rate (OCR) by another 25 basis points (bps) from 2.50% to 2.75% on Wednesday. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AnnaBreman_RBNZ_2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed]]></title>
@@ -190,62 +246,6 @@
             <pubDate>Tue, 01 Sep 2026 16:02:58 GMT</pubDate>
             <description><![CDATA[NZD/USD trades around 0.5900 on Tuesday at the time of writing, down 0.24% on the day. The New Zealand Dollar (NZD) remains under pressure against the US Dollar (USD), which holds onto modest gains despite the release of mixed United States (US) economic data.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold struggles below $4,400 as Fed rate hike bets dominate]]></title>
-            <link>https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123</link>
-            <guid isPermaLink="false">5d5adb23-82fd-4e56-801a-f8a044bc0f85</guid>
-            <pubDate>Tue, 01 Sep 2026 11:23:02 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its pullback from the more-than-three-month high touched last week and falls to a fresh two-week low on Tuesday. Rising expectations of Federal Reserve (Fed) interest rate hikes and fresh tensions in the Middle East remain the main drivers behind the latest leg lower.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Treasury Secretary Bessent backs Japan's steps, presses G20 on Iran]]></title>
-            <link>https://www.fxstreet.com/news/us-treasury-secretary-bessent-backs-japans-steps-presses-g20-on-iran-202609011545</link>
-            <guid isPermaLink="false">22717c82-05b3-4829-b5c2-65e58d11e6bd</guid>
-            <pubDate>Tue, 01 Sep 2026 15:45:33 GMT</pubDate>
-            <description><![CDATA[US Treasury Secretary Scott Bessent said on Tuesday that Japan is taking the right steps for its economy, and that G20 finance ministers want more growth.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/scott-bessent-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar trades cautiously as Fed and RBA rate hike bets clash]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-trades-cautiously-as-fed-and-rba-rate-hike-bets-clash-202609011544</link>
-            <guid isPermaLink="false">9c63ec7e-e95f-4814-8f3e-ca2086fcf77b</guid>
-            <pubDate>Tue, 01 Sep 2026 15:44:23 GMT</pubDate>
-            <description><![CDATA[AUD/USD trades with a modest downside bias on Tuesday as softer-than-expected United States (US) economic data fail to generate sustained selling pressure on the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany: Coalition risks and reform hurdles – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/germany-coalition-risks-and-reform-hurdles-commerzbank-202609011538</link>
-            <guid isPermaLink="false">a1eb77a7-e46c-4933-9e6e-ab0c70c81199</guid>
-            <pubDate>Tue, 01 Sep 2026 15:38:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Dr. Ralph Solveen analyzes how the Saxony-Anhalt election and two subsequent votes in Berlin and Mecklenburg-Western Pomerania could strain Germany’s CDU/CSU–SPD coalition.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Germany.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound stalls as mixed US data keeps Fed hawkish bets alive]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-stalls-as-mixed-us-data-keeps-fed-hawkish-bets-alive-202609011533</link>
-            <guid isPermaLink="false">2d0f0517-3721-4d6f-9a14-4a69f88f3691</guid>
-            <pubDate>Tue, 01 Sep 2026 15:33:09 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling (GBP) trades sideways versus the US Dollar (USD) on Tuesday after mixed US economic data, with manufacturing activity dipping in August, while a strong jobs market backs Federal Reserve (Fed) Chair Kevin Warsh's hawkish tilt. The GBP/USD pair trades at 1.3540, down a modest 0.06%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Growth cools as inflation risks build – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-growth-cools-as-inflation-risks-build-deutsche-bank-202609011504</link>
-            <guid isPermaLink="false">4eb7cd65-394e-44f3-8dd7-242c91e05a41</guid>
-            <pubDate>Tue, 01 Sep 2026 15:04:23 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank economists Sanjay Raja and Maui Brennan say the UK enters autumn as the fastest-growing G7 economy, helped by strong ICT and AI-related investment and improving productivity.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro struggles as softer-than-expected US econoomic data offer little relief]]></title>
-            <link>https://www.fxstreet.com/news/euro-struggles-as-softer-than-expected-us-econoomic-data-offer-little-relief-202609011445</link>
-            <guid isPermaLink="false">ac9dbd55-a7ea-4603-8b13-e86592b36022</guid>
-            <pubDate>Tue, 01 Sep 2026 14:45:57 GMT</pubDate>
-            <description><![CDATA[EUR/USD struggles to attract buyers on Tuesday despite below-forecast US economic data, as the US Dollar (USD) shows little weakness following the release. At the time of writing, the pair trades around 1.1601 after touching an intraday low of 1.1587, but remains down roughly 0.14% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
