@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 02 Sep 2026 21:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 23:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Australian Dollar's thirteen-year high is a New Zealand story]]></title>
+            <link>https://www.fxstreet.com/news/the-australian-dollars-thirteen-year-high-is-a-new-zealand-story-202609022330</link>
+            <guid isPermaLink="false">54aade83-8180-4748-8002-86a6c810cc5f</guid>
+            <pubDate>Wed, 02 Sep 2026 23:30:00 GMT</pubDate>
+            <description><![CDATA[AUD/NZD spent Wednesday pushing at a ceiling that has held since 2013, running from near 1.2100 to a high short of 1.2300 and trading just above 1.2250 into the European afternoon.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currencies-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rebounds above $4,350 as US Dollar, Treasury yields slip]]></title>
+            <link>https://www.fxstreet.com/news/gold-rebounds-above-4-350-as-us-dollar-treasury-yields-slip-202609022329</link>
+            <guid isPermaLink="false">30ee39fd-dca3-4710-a824-a172a87d9f4c</guid>
+            <pubDate>Wed, 02 Sep 2026 23:29:32 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) rebounds from a nearly one-month low to around $4,385 during the early Asian session on Thursday. The precious metal edges higher as the ‌US Dollar (USD) and Treasury yields retreat from recent highs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Sellers eye 214.00 after SMA break]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-sellers-eye-21400-after-sma-break-202609022248</link>
+            <guid isPermaLink="false">9e0be78a-01f4-40a5-ab74-14f251a08bb5</guid>
+            <pubDate>Wed, 02 Sep 2026 22:48:38 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling collapses versus the Japanese Yen as growing “speculation” of an intervention in the FX markets witnessed the Yen appreciating versus most G8 FX currencies. The GBP/JPY trades with losses of more than 1.10%, at 214.08.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Zealand Dollar sells the hike it asked for]]></title>
+            <link>https://www.fxstreet.com/news/the-new-zealand-dollar-sells-the-hike-it-asked-for-202609022247</link>
+            <guid isPermaLink="false">34fcbc57-a502-497b-899e-1b4b116387b0</guid>
+            <pubDate>Wed, 02 Sep 2026 22:47:13 GMT</pubDate>
+            <description><![CDATA[The Reserve Bank of New Zealand (RBNZ) raised its policy rate on Wednesday and the currency fell almost 1.7% from top to bottom on the day it happened.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar rises as soft US jobs, GDP beat lift AUD, PMIs ahead]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rises-as-soft-us-jobs-gdp-beat-lift-aud-pmis-ahead-202609022238</link>
+            <guid isPermaLink="false">e0235134-8289-49e5-9401-04f61d69493c</guid>
+            <pubDate>Wed, 02 Sep 2026 22:38:53 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar advanced on Wednesday versus the US Dollar after economic data in the US revealed the labour market weakened slightly, while the Greenback dipped on intervention speculation in the FX markets.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Intervention buys the Japanese Yen less ground every time]]></title>
+            <link>https://www.fxstreet.com/news/intervention-buys-the-japanese-yen-less-ground-every-time-202609022222</link>
+            <guid isPermaLink="false">9b4d042b-711c-4ede-b222-c6b9df387df4</guid>
+            <pubDate>Wed, 02 Sep 2026 22:22:52 GMT</pubDate>
+            <description><![CDATA[The Yen had its best session in weeks on Wednesday and it still looks like a losing position.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rising gilt yields are not saving the British Pound]]></title>
+            <link>https://www.fxstreet.com/news/rising-gilt-yields-are-not-saving-the-british-pound-202609022154</link>
+            <guid isPermaLink="false">b546ebfe-c272-4b57-b8b9-3f7cd5836279</guid>
+            <pubDate>Wed, 02 Sep 2026 21:54:14 GMT</pubDate>
+            <description><![CDATA[Sterling has spent Wednesday handing back the last of its August rally, with GBP/USD trading just under 1.3500 after a session low a shade beneath 1.3475.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[USD/CHF Price Forecast: Bulls eye 0.8200 as RSI turns higher]]></title>
             <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-eye-08200-as-rsi-turns-higher-202609022038</link>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 02 Sep 2026 14:29:35 GMT</pubDate>
             <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek highlight that upcoming US Non-farm Payrolls (NFP) and a renewed hawkish Fed tone are critical for Gold, with prices near CTA (Commodity Trading Advisors) selling thresholds around $4,300/oz.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar gains after Bank of Canada keeps rates unchanged]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-gains-after-bank-of-canada-keeps-rates-unchanged-202609021420</link>
-            <guid isPermaLink="false">ec252188-7342-4903-a6d9-cabf2e082dbf</guid>
-            <pubDate>Wed, 02 Sep 2026 14:20:21 GMT</pubDate>
-            <description><![CDATA[USD/CAD falls to around 1.3875 on Wednesday, down 0.15% on the day, following the Bank of Canada’s (BoC) monetary policy decision. The Canadian Dollar (CAD) strengthens against the US Dollar (USD) after the central bank leaves its policy rate unchanged at 2.25%, in line with market expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar: RBNZ cautious tightening path – UOB]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-rbnz-cautious-tightening-path-uob-202609021407</link>
-            <guid isPermaLink="false">a3fdb5ab-70a4-437e-bf18-1c62e886a317</guid>
-            <pubDate>Wed, 02 Sep 2026 14:07:46 GMT</pubDate>
-            <description><![CDATA[UOB’s Lee Sue Ann notes that the Reserve Bank of New Zealand (RBNZ) raised the Official Cash Rate (OCR) to 2.75% and kept a tightening bias, stressing the need to prevent fuel-driven inflation from becoming entrenched.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen hits one-week high against US Dollar on intervention speculation]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-hits-one-week-high-against-us-dollar-on-intervention-speculation-202609021351</link>
-            <guid isPermaLink="false">e3c624d6-fd0c-462a-9e0f-d2643cf3bcf6</guid>
-            <pubDate>Wed, 02 Sep 2026 13:51:11 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) outperforms its major peers on Wednesday, with USD/JPY falling nearly 0.90% on the day as hawkish Bank of Japan (BoJ) expectations support the Japanese currency.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ hawks raise hike risk – BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-hawks-raise-hike-risk-bbh-202609021345</link>
-            <guid isPermaLink="false">c263f722-cb16-4884-a892-26720a50d815</guid>
-            <pubDate>Wed, 02 Sep 2026 13:45:46 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad observes USD/JPY testing 160.00 as hawkish Bank of Japan comments briefly supported the Japanese Yen (JPY).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed hike risk and yields back in focus – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-hike-risk-and-yields-back-in-focus-mufg-202609021322</link>
-            <guid isPermaLink="false">1e93357f-4f20-43a7-9794-df338a52dc3e</guid>
-            <pubDate>Wed, 02 Sep 2026 13:22:13 GMT</pubDate>
-            <description><![CDATA[According to MUFG’s Lee Hardman, rising energy prices are pushing market expectations for further Federal Reserve tightening, with 17bps priced for the 16th September FOMC and the 2-year US Treasury yield at a year-to-date high.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver rebounds above $64 as weak US jobs data challenges hawkish Fed bets]]></title>
-            <link>https://www.fxstreet.com/news/silver-rebounds-above-64-as-weak-us-jobs-data-challenges-hawkish-fed-bets-202609021313</link>
-            <guid isPermaLink="false">b23e0752-01d8-44ac-bf15-3c2edbe66aff</guid>
-            <pubDate>Wed, 02 Sep 2026 13:13:45 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) rebounds on Wednesday, trading around $64.30 at the time of writing, up 0.32% on the day after recovering from earlier losses.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro stays under pressure against US Dollar despite softer ADP data]]></title>
-            <link>https://www.fxstreet.com/news/euro-stays-under-pressure-against-us-dollar-despite-softer-adp-data-202609021313</link>
-            <guid isPermaLink="false">687453d2-88fb-4bb8-a876-820aeed79300</guid>
-            <pubDate>Wed, 02 Sep 2026 13:13:22 GMT</pubDate>
-            <description><![CDATA[EUR/USD consolidates its daily losses during American trading hours on Wednesday as the US Dollar (USD) holds firm, supported by hawkish Federal Reserve (Fed) expectations and escalating tensions in the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
