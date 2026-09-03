@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 03 Sep 2026 18:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 21:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: Depreciation trend persists as oil shock weighs – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-depreciation-trend-persists-as-oil-shock-weighs-mufg-202609032113</link>
+            <guid isPermaLink="false">898efce2-36ee-4a67-94c1-e7a2269c8de4</guid>
+            <pubDate>Thu, 03 Sep 2026 21:13:49 GMT</pubDate>
+            <description><![CDATA[MUFG’s Lloyd Chan argues that while the pace of Rupiah depreciation may slow, the broader weakening trend is set to continue. USD/IDR has pulled back as crowded long positions unwind and some foreign inflows return, but elevated US yields and high Oil prices remain headwinds.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-flag-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Malaysian Ringgit: Stable policy underpins growth narrative – BNY]]></title>
+            <link>https://www.fxstreet.com/news/malaysian-ringgit-stable-policy-underpins-growth-narrative-bny-202609032055</link>
+            <guid isPermaLink="false">217b667c-0fe2-40bc-be2b-0fda40bccc2d</guid>
+            <pubDate>Thu, 03 Sep 2026 20:55:00 GMT</pubDate>
+            <description><![CDATA[Geoff Yu notes that Bank Negara Malaysia kept its policy rate at 2.75%, judging the stance consistent with price stability and sustainable growth. The bank sees Malaysia’s economy on track for around 5% growth this year, with low inflation and limited external cost pass-through.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/MYR2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG eyes 100-day SMA after Waller-led rally]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-eyes-100-day-sma-after-waller-rally-202609031957</link>
+            <guid isPermaLink="false">41905043-734d-4180-8347-d0b6dc950047</guid>
+            <pubDate>Thu, 03 Sep 2026 19:57:43 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) price advances by some 2.45% on Thursday, boosted by dovish comments from Federal Reserve (Fed) Governor Christopher Waller, which pushed the US Dollar and US Treasury yields lower. The XAG/USD pair trades at $66.90 after reaching a high of $67.48.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Stronger Singapore growth with contained inflation – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-stronger-singapore-growth-with-contained-inflation-commerzbank-202609031938</link>
+            <guid isPermaLink="false">151f7944-7432-486d-a42a-aa8e4311af8b</guid>
+            <pubDate>Thu, 03 Sep 2026 19:38:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Singapore-based team highlights robust Singapore manufacturing and electronics PMIs, supported by an AI-driven semiconductor cycle, alongside upgraded MAS Survey GDP and export forecasts.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Range trade persists against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-against-us-dollar-uob-202609031852</link>
+            <guid isPermaLink="false">c26e239c-7d51-45cf-83d1-c28ebc3bb8c9</guid>
+            <pubDate>Thu, 03 Sep 2026 18:52:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann see USD/CNH confined to tight ranges in different time frames. For the next 24 hours, they expect the Dollar to trade between 6.7130 and 6.7230.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Break of 50-day SMA exposes 0.8040]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-50-day-sma-break-exposes-08040-202609031847</link>
+            <guid isPermaLink="false">b4ba25d1-a0bc-4f1f-98b4-828c5c17b895</guid>
+            <pubDate>Thu, 03 Sep 2026 18:47:07 GMT</pubDate>
+            <description><![CDATA[The USD/CHF pair tumbles nearly 0.80% on Thursday as the US Dollar (USD) weakens on rumors of a potential intervention in the FX markets to boost the Japanese Yen. Consequently, the pair fell from around daily highs of 0.8131, extending its losses to the current exchange rate near 0.8065.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[US Dollar extends decline as NFP takes centre stage]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-extends-decline-as-nfp-takes-centre-stage-202609031822</link>
@@ -198,54 +246,6 @@
             <pubDate>Thu, 03 Sep 2026 12:57:24 GMT</pubDate>
             <description><![CDATA[USD/CHF comes under selling pressure on Thursday as a sharp rally in the Japanese Yen (JPY) weighs broadly on the US Dollar (USD), while the Swiss Franc (CHF) draws support from stronger-than-expected inflation and growth data.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed's Waller: Inclined to support policy hold if August inflation data shows progress]]></title>
-            <link>https://www.fxstreet.com/news/feds-waller-inclined-to-support-policy-hold-if-august-inflation-data-shows-progress-202609031253</link>
-            <guid isPermaLink="false">9d8ca445-95cf-40e8-b1f2-bc9b6e6b71bf</guid>
-            <pubDate>Thu, 03 Sep 2026 12:53:54 GMT</pubDate>
-            <description><![CDATA[While speaking at the Reuters NEXT Newsmaker event in Washington, Federal Reserve Governor Christopher Waller said on Thursday that if August Consumer Price Index data confirms inflation pressures are cooling off, he is inclined to support holding the policy rate steady at the September policy meeti]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar climbs as softer US labor data weighs on US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-climbs-as-softer-us-labor-data-weighs-on-us-dollar-202609031250</link>
-            <guid isPermaLink="false">34dcf1c6-bf78-479c-bfb7-c7fde05db00e</guid>
-            <pubDate>Thu, 03 Sep 2026 12:50:03 GMT</pubDate>
-            <description><![CDATA[AUD/USD advances on Thursday, trading around 0.7215 at the time of writing, up 0.45% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Testing support after BoC hold – BBH]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-testing-support-after-boc-hold-bbh-202609031249</link>
-            <guid isPermaLink="false">93ea801f-ccbd-4608-a830-0dde1ba5fdb0</guid>
-            <pubDate>Thu, 03 Sep 2026 12:49:44 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad observes USD/CAD is testing key support at 1.3800, where a break could open further downside. The Bank of Canada (BoC) delivered a hawkish hold, keeping rates at 2.25% but warning about increased upside inflation risks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: September hike with cautious path – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-september-hike-with-cautious-path-td-securities-202609031240</link>
-            <guid isPermaLink="false">e66bafb5-302b-4b4b-a29d-b5f03ec50491</guid>
-            <pubDate>Thu, 03 Sep 2026 12:40:43 GMT</pubDate>
-            <description><![CDATA[TD Securities’ macro team, including Pooja Kumra, expects the ECB to raise the deposit rate by 25bp to 2.50% in September. They see limited forward guidance, with the Governing Council reiterating its data-dependent, meeting-by-meeting approach.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Initial Jobless Claims increased to 206K last week]]></title>
-            <link>https://www.fxstreet.com/news/us-initial-jobless-claims-increased-to-206k-last-week-202609031233</link>
-            <guid isPermaLink="false">4f78be81-e92b-4b5e-b94c-bb98da4e6832</guid>
-            <pubDate>Thu, 03 Sep 2026 12:33:27 GMT</pubDate>
-            <description><![CDATA[According to a report from the US Department of Labour (DOL) released on Thursday, the number of US citizens submitting new applications for unemployment insurance rose to 206K for the week ending August 29.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_office.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: ECB succession and data support resilience – BNY]]></title>
-            <link>https://www.fxstreet.com/news/euro-ecb-succession-and-data-support-resilience-bny-202609031217</link>
-            <guid isPermaLink="false">75d007e7-79b5-4fa3-a906-0f83f564a4f8</guid>
-            <pubDate>Thu, 03 Sep 2026 12:17:14 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu notes that Eurozone assets remain supported by steady composite PMI readings and improving signs in German demand, while speculation over ECB leadership succession grows.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
