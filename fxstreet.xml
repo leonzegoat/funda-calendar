@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 02 Sep 2026 23:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 01:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7807 vs. 6.7829 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67807-vs-67829-previous-202609030115</link>
+            <guid isPermaLink="false">b87f3fe0-e036-4302-a06b-881a9e406a45</guid>
+            <pubDate>Thu, 03 Sep 2026 01:15:29 GMT</pubDate>
+            <description><![CDATA[The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7807 compared to the previous day's fix of 6.7829 and 6.7167 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound consolidates near three-week low as Fed bets and Iran tensions support USD]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-consolidates-near-three-week-low-as-fed-bets-and-iran-tensions-support-usd-202609030112</link>
+            <guid isPermaLink="false">019f2965-8337-49c7-9070-a513782b0726</guid>
+            <pubDate>Thu, 03 Sep 2026 01:12:49 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair consolidates below the 1.3500 psychological mark during the Asian session on Thursday and remains close to a three-week low, touched the previous day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro steadies below 1.1600 as hawkish Fed rhetoric limits gains]]></title>
+            <link>https://www.fxstreet.com/news/euro-steadies-below-11600-as-hawkish-fed-rhetoric-limits-gains-202609030051</link>
+            <guid isPermaLink="false">97694c63-f2a2-4375-8bca-8c01bf628fb6</guid>
+            <pubDate>Thu, 03 Sep 2026 00:51:12 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair holds steady near 1.1590 during the early Asian session on Thursday. The potential upside for the major pair might be limited amid hawkish Federal Reserve (Fed) expectations and escalating conflict in the Middle East.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Donald Trump: Renewed campaign against Iran will not continue for too long]]></title>
+            <link>https://www.fxstreet.com/news/us-president-donald-trump-renewed-campaign-against-iran-will-not-continue-for-too-long-202609022355</link>
+            <guid isPermaLink="false">7409499d-f4a8-48ac-aa1d-bd78882e5ffe</guid>
+            <pubDate>Wed, 02 Sep 2026 23:55:54 GMT</pubDate>
+            <description><![CDATA[US President Donald Trump said that while the US is prepared to strike Iran again at any time, he doesn’t expect the renewed fighting to last “too long,” Reuters reported on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Trump-4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The Australian Dollar's thirteen-year high is a New Zealand story]]></title>
             <link>https://www.fxstreet.com/news/the-australian-dollars-thirteen-year-high-is-a-new-zealand-story-202609022330</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 02 Sep 2026 15:18:40 GMT</pubDate>
             <description><![CDATA[The Euro (EUR) tumbles against the Japanese Yen (JPY) on Wednesday amid growing speculation that Japanese authorities may have intervened in the FX markets, as most Yen pairs collapsed to fresh two-week lows, with EUR/JPY bottoming at around 183.64 from a daily high of 185.75.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BoC's Macklem: Multiple rate increases should not be ruled out]]></title>
-            <link>https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-despite-sticky-inflation-202609020945</link>
-            <guid isPermaLink="false">ebdbe1c5-377c-4439-9b55-8506f7849a42</guid>
-            <pubDate>Wed, 02 Sep 2026 09:45:00 GMT</pubDate>
-            <description><![CDATA[Governor Tiff Macklem took questions from reporters, offering markets a clearer sense of how the central bank was thinking. His remarks followed the widely expected decision to keep the policy rate on hold at 2.25%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Tiff-Macklem_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound slides against Japanese Yen as suspected intervention rattles markets]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-slides-against-japanese-yen-as-suspected-intervention-rattles-markets-202609021504</link>
-            <guid isPermaLink="false">25abe936-d716-47a7-a3df-f5d34bf87e0f</guid>
-            <pubDate>Wed, 02 Sep 2026 15:04:03 GMT</pubDate>
-            <description><![CDATA[GBP/JPY falls nearly 1% on Wednesday as the Japanese Yen (JPY) strengthens across the board. At the time of writing, the cross trades around 214.43 after hitting an intraday low near 213.70, its lowest level since August 10.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Headwinds from Fed and energy – ING]]></title>
-            <link>https://www.fxstreet.com/news/euro-headwinds-from-fed-and-energy-ing-202609021454</link>
-            <guid isPermaLink="false">0a9bd2cd-9011-4ab9-8678-a426039e8550</guid>
-            <pubDate>Wed, 02 Sep 2026 14:54:17 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner highlights growing headwinds for the Euro as higher energy prices and a more hawkish Federal Reserve push EUR/USD lower.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Data risks and CTA selling – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-data-risks-and-cta-selling-td-securities-202609021429</link>
-            <guid isPermaLink="false">cbe9e3aa-7606-4889-93fc-af17f285130c</guid>
-            <pubDate>Wed, 02 Sep 2026 14:29:35 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek highlight that upcoming US Non-farm Payrolls (NFP) and a renewed hawkish Fed tone are critical for Gold, with prices near CTA (Commodity Trading Advisors) selling thresholds around $4,300/oz.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
