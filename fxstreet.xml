@@ -4,9 +4,89 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 03 Sep 2026 21:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 23:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Intervention shock exposes 210.00]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-intervention-shock-exposes-21000-202609032301</link>
+            <guid isPermaLink="false">d76b925f-ccd3-4b56-8d4d-837838b5f7d2</guid>
+            <pubDate>Thu, 03 Sep 2026 23:01:56 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY tanks amid speculation of intervention by Japanese authorities in the FX markets, driven by a rate check by Tokyo. The cross-pair drops more than 300 pips, trades at 210.92, down by more than 1.40%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Australian Dollar thanks Waller's comments, which sink the USD]]></title>
+            <link>https://www.fxstreet.com/news/the-australian-dollar-thanks-wallers-comments-which-sink-the-usd-202609032243</link>
+            <guid isPermaLink="false">dbbb08e7-f77e-4dd2-b5c8-6b2af4062332</guid>
+            <pubDate>Thu, 03 Sep 2026 22:43:32 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar rises against the US Dollar on Thursday as Fed Governor Waller turns moderately dovish ahead of the September meeting, even as Oil prices rise due to a resumption of hostilities in the Middle East. The AUD/USD trades at 0.7200, up 0.44%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand's Kiwi gets most of Wednesday back without earning it]]></title>
+            <link>https://www.fxstreet.com/news/new-zealands-kiwi-gets-most-of-wednesday-back-without-earning-it-202609032223</link>
+            <guid isPermaLink="false">e9967edc-bee2-4253-82d5-ced066aaa7c7</guid>
+            <pubDate>Thu, 03 Sep 2026 22:23:48 GMT</pubDate>
+            <description><![CDATA[The New Zealand Dollar trades just under 0.5900 into the New York afternoon, up roughly half a percent, after a session that retraced most of Wednesday's decision-day slide without a single New Zealand input.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Underheld positions unwind with reflation risks – BNY]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-underheld-positions-unwind-with-reflation-risks-bny-202609032222</link>
+            <guid isPermaLink="false">e1b59ea1-fab1-432c-a443-e9e1849cddbd</guid>
+            <pubDate>Thu, 03 Sep 2026 22:22:00 GMT</pubDate>
+            <description><![CDATA[Geoff Yu at BNY highlights CNY as the main outlier in the U.S. trade-weighted basket, showing behavior opposite to other key currencies. CNY failed to react positively to July–August Fed and Treasury decisions, with weak domestic growth reinforcing easing expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Japanese Yen finally rallies on something Tokyo did not pay for]]></title>
+            <link>https://www.fxstreet.com/news/the-japanese-yen-finally-rallies-on-something-tokyo-did-not-pay-for-202609032155</link>
+            <guid isPermaLink="false">6dffe3e6-d2a1-47cf-b0ad-2e80997e71ac</guid>
+            <pubDate>Thu, 03 Sep 2026 21:55:53 GMT</pubDate>
+            <description><![CDATA[The Yen has produced in two sessions what the largest intervention on record could not, and it did so without a single reported purchase.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Banxico’s Heath says rate cuts can wait as core inflation persists]]></title>
+            <link>https://www.fxstreet.com/news/banxicos-heath-says-rate-cuts-can-wait-as-core-inflation-persists-202609032153</link>
+            <guid isPermaLink="false">c0c4cbdf-f2e5-4167-aa74-6d26f17e218f</guid>
+            <pubDate>Thu, 03 Sep 2026 21:53:27 GMT</pubDate>
+            <description><![CDATA[The Bank of Mexico (Banxico) Deputy Governor Jonathan Heath said that the central bank can wait to reduce interest rates, signaling that further easing is possible but in about a year or more, as he qualified the current monetary policy stance as “appropriate.”]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso rescued by Waller’s dovish tilt, appreciates ahead of NFP]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-rescued-by-wallers-dovish-tilt-appreciates-ahead-of-nfp-202609032142</link>
+            <guid isPermaLink="false">8c2304b9-261c-40d6-95a8-d3019a720540</guid>
+            <pubDate>Thu, 03 Sep 2026 21:42:47 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso appreciates against the US Dollar on Thursday, with the latter weakening amid a dovish tilt by Fed Governor Waller and speculation about an FX market intervention to boost the Japanese Yen. The USD/MXN trades at 16.92, down 0.32%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/MXN2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore: PMI points to transitory weakness – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-pmi-points-to-transitory-weakness-uob-202609032141</link>
+            <guid isPermaLink="false">c6d2517e-9b73-4fa7-9d31-5b0f46037a24</guid>
+            <pubDate>Thu, 03 Sep 2026 21:41:00 GMT</pubDate>
+            <description><![CDATA[UOB economist Jester Koh highlights that Singapore’s electronics PMI rose in August, with broad-based gains in new export orders, output and backlogs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The British Pound bounces on a hike argument that lost 6-3 in July]]></title>
+            <link>https://www.fxstreet.com/news/the-british-pound-bounces-on-a-hike-argument-that-lost-6-3-in-july-202609032140</link>
+            <guid isPermaLink="false">74e1225d-2f20-4a01-8973-e1de53c70f20</guid>
+            <pubDate>Thu, 03 Sep 2026 21:40:25 GMT</pubDate>
+            <description><![CDATA[Sterling (GBP) has spent Thursday recovering a little of what it lost this week, with GBP/USD trading near 1.3530, roughly a third of a percent higher, after the 50-day Exponential Moving Average (EMA) just under 1.3500 held for a second consecutive session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average rallies into a payrolls print it cannot win]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-into-a-payrolls-print-it-cannot-win-202609032139</link>
+            <guid isPermaLink="false">08774144-40cf-43e9-8cf9-6dbb509ea53d</guid>
+            <pubDate>Thu, 03 Sep 2026 21:39:07 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average (DJIA) closed just under 53,700 on Thursday, up roughly 620 points and close to 1.2%, its strongest session since August 4, after a Federal Reserve (Fed) governor said he would be inclined to support holding rates at the September 15-16 meeting if the next two weeks ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Indonesian Rupiah: Depreciation trend persists as oil shock weighs – MUFG]]></title>
             <link>https://www.fxstreet.com/news/indonesian-rupiah-depreciation-trend-persists-as-oil-shock-weighs-mufg-202609032113</link>
@@ -166,86 +246,6 @@
             <pubDate>Thu, 03 Sep 2026 14:28:59 GMT</pubDate>
             <description><![CDATA[Societe Generale strategists highlight heavy USD/JPY turnover as the pair slid below its 200-day moving average, with leveraged accounts forced to cover shorts.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen jumps as BoJ opens door to faster rate hikes]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-jumps-as-boj-opens-door-to-faster-rate-hikes-202609031427</link>
-            <guid isPermaLink="false">c4907631-6362-4644-96ea-66a2c8ae9384</guid>
-            <pubDate>Thu, 03 Sep 2026 14:27:53 GMT</pubDate>
-            <description><![CDATA[USD/JPY extends its decline for a second consecutive day and trades around 155.40 on Thursday at the time of writing, down 2.07% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Support firms with hawkish ECB pricing – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/euro-support-firms-with-hawkish-ecb-pricing-scotiabank-202609031414</link>
-            <guid isPermaLink="false">1ccb47b4-26e7-462b-8d0d-3656f99abd27</guid>
-            <pubDate>Thu, 03 Sep 2026 14:14:58 GMT</pubDate>
-            <description><![CDATA[Scotiabank’s Shaun Osborne and Eric Theoret highlight that the Euro (EUR) is higher against the US Dollar (USD), supported by strong euro area Producer Price Index (PPI) and firmer European Central Bank (ECB) rate expectations. Markets now price more than one 25bp hike by year-end.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro gains against US Dollar as Waller tempers Fed rate-hike bets]]></title>
-            <link>https://www.fxstreet.com/news/euro-gains-against-us-dollar-as-waller-tempers-fed-rate-hike-bets-202609031410</link>
-            <guid isPermaLink="false">1fb7524c-6b9c-4579-a8a6-574e1eb672f1</guid>
-            <pubDate>Thu, 03 Sep 2026 14:10:07 GMT</pubDate>
-            <description><![CDATA[EUR/USD attracts buyers on Thursday as a sharp rally in the Japanese Yen (JPY), softer United States labour-market data and a pullback in US Treasury yields weigh on the US Dollar (USD). At the time of writing, EUR/USD trades around 1.1622, up roughly 0.30% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Hot inflation and SNB path – BBH]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-hot-inflation-and-snb-path-bbh-202609031407</link>
-            <guid isPermaLink="false">bf6fc60b-11e6-4d7a-8c24-88b7ef55a80e</guid>
-            <pubDate>Thu, 03 Sep 2026 14:07:31 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports the Swiss Franc (CHF) is the second-best performer today after the Japanese Yen as Swiss inflation surprised to the upside in August, reinforcing Swiss National Bank (SNB) hike expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Switzerland2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: US ISM Services PMI improves to 55.4 in August]]></title>
-            <link>https://www.fxstreet.com/news/ism-services-pmi-preview-us-service-sector-expected-to-expand-in-august-202609030900</link>
-            <guid isPermaLink="false">8a47f5e1-16b6-4e18-b752-f43bb7d6661f</guid>
-            <pubDate>Thu, 03 Sep 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[Fresh data from the Institute for Supply Management (ISM) showed the Services PMI improving to 55.4 in August from 54.1 in the previous month, coming in above prior estimates at 54.3 and signalling further pickup of momentum in the sector.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Longer-term landscape improves – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-longer-term-landscape-improves-td-securities-202609031358</link>
-            <guid isPermaLink="false">5c493f68-869a-432f-89d7-c9f39296677f</guid>
-            <pubDate>Thu, 03 Sep 2026 13:58:45 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek note that speculation of currency intervention and less hawkish Federal Reserve commentary have supported precious metals, with Gold moving away from nearby CTA selling triggers.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Bullish momentum builds after BoC – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-builds-after-boc-scotiabank-202609031337</link>
-            <guid isPermaLink="false">6e44e274-34c9-4707-a814-e2afd16b001b</guid>
-            <pubDate>Thu, 03 Sep 2026 13:37:45 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is modestly outperforming after a slightly hawkish Bank of Canada (BoC). Policy was left unchanged, but inflation risks were highlighted and December tightening is fully priced.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ repricing supports gains against US Dollar – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-repricing-supports-gains-against-us-dollar-mufg-202609031315</link>
-            <guid isPermaLink="false">36ae7a1c-ef46-4fbf-8793-63288ce4ba04</guid>
-            <pubDate>Thu, 03 Sep 2026 13:15:52 GMT</pubDate>
-            <description><![CDATA[MUFG’s Derek Halpenny highlights renewed Japanese Yen strength as markets price in more Bank of Japan hikes following recent comments from Takata and Ueda.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Updated price paths as Persian Gulf flows shift – ING]]></title>
-            <link>https://www.fxstreet.com/news/brent-updated-price-paths-as-persian-gulf-flows-shift-ing-202609031300</link>
-            <guid isPermaLink="false">95f2443e-92e6-43e0-b803-da097b721172</guid>
-            <pubDate>Thu, 03 Sep 2026 13:00:22 GMT</pubDate>
-            <description><![CDATA[ING’s Warren Patterson revises Oil forecasts higher, highlighting tight Brent and refined product markets as Persian Gulf exports remain around half of pre-war levels.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc strengthens on inflation surprise and broad US Dollar weakness]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-strengthens-on-inflation-surprise-and-broad-us-dollar-weakness-202609031257</link>
-            <guid isPermaLink="false">6db93cc1-2b1b-4b2e-ad83-026f50d56559</guid>
-            <pubDate>Thu, 03 Sep 2026 12:57:24 GMT</pubDate>
-            <description><![CDATA[USD/CHF comes under selling pressure on Thursday as a sharp rally in the Japanese Yen (JPY) weighs broadly on the US Dollar (USD), while the Swiss Franc (CHF) draws support from stronger-than-expected inflation and growth data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-object.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
