@@ -4,15 +4,63 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 04 Sep 2026 18:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 20:58:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Fed’s Hammack says policy Is not restrictive enough]]></title>
+            <title><![CDATA[Indonesian Rupiah: Two-way risks around support levels – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-two-way-risks-around-support-levels-ocbc-202609042043</link>
+            <guid isPermaLink="false">143d3f22-b7c3-4d63-838f-32d5c2ff0c39</guid>
+            <pubDate>Fri, 04 Sep 2026 20:43:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Christopher Wong notes that USD/IDR has pulled back as a softer Dollar and lower UST yields support the Indonesian Rupiah. He highlights Bank Indonesia Governor Destry Damayanti’s emphasis on a stability-first approach, prioritizing Rupiah and macro stability while still supporting growth.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Indonesian_Rupiah_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Services PMI rebound keeps PBoC cautious – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-services-pmi-rebound-keeps-pboc-cautious-commerzbank-202609042003</link>
+            <guid isPermaLink="false">625f98a0-1176-482b-a4bf-e4df8602f7cd</guid>
+            <pubDate>Fri, 04 Sep 2026 20:03:31 GMT</pubDate>
+            <description><![CDATA[Commerzbank says China’s August Services PMI rebound highlights some resilience in private-sector activity, but weak retail sales, soft inflation and higher unemployment still point to fragile domestic demand.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/china-people-bank-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sterling’s rally stalls as US jobs data reopens Fed debate]]></title>
+            <link>https://www.fxstreet.com/news/sterlings-rally-stalls-as-us-jobs-data-reopens-fed-debate-202609041952</link>
+            <guid isPermaLink="false">f7c51e28-44a9-458d-9bb0-d04ff34302d5</guid>
+            <pubDate>Fri, 04 Sep 2026 19:52:26 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling retreats some 0.09% against the US Dollar as the latest US inflation report reaffirmed what Fed Chair Warsh said that the labour market is “consistent with full employment.” GBP/USD trades near Friday’s opening price of 1.3512.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia: Hawkish pause keeps options open – DBS]]></title>
+            <link>https://www.fxstreet.com/news/malaysia-hawkish-pause-keeps-options-open-dbs-202609041934</link>
+            <guid isPermaLink="false">1e3a46af-90da-4576-85cc-7f0d593a4b07</guid>
+            <pubDate>Fri, 04 Sep 2026 19:34:53 GMT</pubDate>
+            <description><![CDATA[DBS Group Research economist Chua Han Teng notes that Bank Negara Malaysia (BNM) held the Overnight Policy Rate at 2.75% while dropping language that the current level is appropriate. DBS expects rates to remain unchanged through 2026 but sees risks tilted towards a one-off policy normalisation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/MYR2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee: Dollar inflows support INR but impulse may fade – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-dollar-inflows-support-inr-but-impulse-may-fade-ocbc-202609041932</link>
+            <guid isPermaLink="false">5a6f17b6-2fe0-4fce-8747-2548769813a5</guid>
+            <pubDate>Fri, 04 Sep 2026 19:32:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Christopher Wong notes that strong foreign-currency inflows linked to the RBI’s special measures have bolstered the Indian Rupee (INR) and strengthened the central bank’s FX buffer.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-inr_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Eurozone: Inflation above target into 2027 – Nordea]]></title>
+            <link>https://www.fxstreet.com/news/eurozone-inflation-above-target-into-2027-nordea-202609041850</link>
+            <guid isPermaLink="false">2317eea5-b915-490c-8bd2-8db12a8ced7e</guid>
+            <pubDate>Fri, 04 Sep 2026 18:50:36 GMT</pubDate>
+            <description><![CDATA[Nordea expects Eurozone inflation dynamics to stay persistent, with headline inflation projected above the ECB’s target at least until spring 2027.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-78.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed’s Hammack says policy is not restrictive enough]]></title>
             <link>https://www.fxstreet.com/news/feds-hammack-says-policy-is-not-restrictive-enough-202609041816</link>
             <guid isPermaLink="false">c0f3c80c-3ca8-4c3d-8424-082a944a2228</guid>
             <pubDate>Fri, 04 Sep 2026 18:16:53 GMT</pubDate>
-            <description><![CDATA[Cleveland Fed President Beth Hammack wrote that the current monetary policy stance in the Fed is not restrictive, emphasizing that inflation is too high, at an article on LinkedIn. She added that local contact views indicate that “now is the time for the Fed to hike to control inflation.”]]></description>
+            <description><![CDATA[Cleveland Federal Reserve (Fed) President Beth Hammack said on Friday that the current monetary policy stance is not restrictive, emphasizing that inflation is too high.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 04 Sep 2026 13:09:07 GMT</pubDate>
             <description><![CDATA[USD/JPY trades around 155.85 on Friday at the time of writing, virtually unchanged on the day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Peso: Trade talks support Peso against US Dollar - Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/mexican-peso-trade-talks-support-peso-against-us-dollar-societe-generale-202609041250</link>
-            <guid isPermaLink="false">e85b71ae-3f79-40a8-9ce7-9cb4a7da965c</guid>
-            <pubDate>Fri, 04 Sep 2026 12:50:35 GMT</pubDate>
-            <description><![CDATA[Societe Generale reports that USD/MXN has moved back below 17.00 as Mexican officials engage with US counterparts on trade issues following a widening US-Canada rift. The bank highlights a sharp drop in Mexico’s car imports from China after tariff adjustments aimed at protecting local jobs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bullish-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro retreats against Pound Sterling as Eurozone Retail Sales disappoint]]></title>
-            <link>https://www.fxstreet.com/news/euro-retreats-against-pound-sterling-as-eurozone-retail-sales-disappoint-202609041239</link>
-            <guid isPermaLink="false">436298c2-5c5b-44d4-bfda-49377a8528a9</guid>
-            <pubDate>Fri, 04 Sep 2026 12:39:49 GMT</pubDate>
-            <description><![CDATA[EUR/GBP trades on the back foot on Friday, snapping a four-day winning streak that pushed the cross above 0.8600 to its highest level since July 1. Softer-than-expected Eurozone Retail Sales data weighs modestly on the Euro (EUR).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: US Nonfarm Payrolls rise by 162K in August vs. 56K forecast]]></title>
-            <link>https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830</link>
-            <guid isPermaLink="false">7ce34a3a-7f69-4b42-ab0e-be1754933940</guid>
-            <pubDate>Fri, 04 Sep 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[Nonfarm Payrolls (NFP) in the United States (US) rose by 162K in August, the US Bureau of Labor Statistics (BLS) reported on Friday. This print followed July's increase of 21K and surpassed the market expectation of 56K by a wide margin.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: Inflation-driven hike prospects – DBS]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-inflation-driven-hike-prospects-dbs-202609041229</link>
-            <guid isPermaLink="false">1d283132-6210-49cb-8a82-41107175349a</guid>
-            <pubDate>Fri, 04 Sep 2026 12:29:36 GMT</pubDate>
-            <description><![CDATA[DBS Group Research expects the European Central Bank (ECB) to raise the deposit facility rate to 2.50%, citing a resilient inflation-growth mix in the Eurozone. The report notes headline inflation has moved further above target, while core pressures remain contained for now.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil retreats below $89 despite persistent tensions around the Strait of Hormuz]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-retreats-below-89-despite-persistent-tensions-around-the-strait-of-hormuz-202609041224</link>
-            <guid isPermaLink="false">3e847e80-aa8a-4e84-a515-3dcec89bc184</guid>
-            <pubDate>Fri, 04 Sep 2026 12:24:38 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil declines 1.21% on Friday and trades around $88.55 per barrel at the time of writing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Close call on further tightening – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-close-call-on-further-tightening-commerzbank-202609041204</link>
-            <guid isPermaLink="false">a5a3ef7e-2eea-4020-b2a4-e2a2676e3092</guid>
-            <pubDate>Fri, 04 Sep 2026 12:04:53 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Dr. Christoph Balz expects the Federal Reserve to keep rates unchanged, but highlights a significant risk of another 25 bps hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
