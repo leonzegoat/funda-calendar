@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 03 Sep 2026 23:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 01:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7787 vs. 6.7807 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67787-vs-67807-previous-202609040115</link>
+            <guid isPermaLink="false">392c9bcc-a4c1-45d1-9fa6-67ba6003fe5b</guid>
+            <pubDate>Fri, 04 Sep 2026 01:15:35 GMT</pubDate>
+            <description><![CDATA[On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7787 compared to the previous day's fix of 6.7807 and 6.7098 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen sits near August highs as USD remains on the back foot ahead of US NFP]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-sits-near-august-highs-as-usd-remains-on-the-back-foot-ahead-of-us-nfp-202609040104</link>
+            <guid isPermaLink="false">022d2005-6c5a-427b-86d6-ec58d9fbba31</guid>
+            <pubDate>Fri, 04 Sep 2026 01:04:36 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair enters a bearish consolidation phase during the Asian session on Friday and currently trades near the 155.75 region, nearly unchanged for the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro steadies above 1.1600 as traders await US NFP data]]></title>
+            <link>https://www.fxstreet.com/news/euro-steadies-above-11600-as-traders-await-us-nfp-data-202609040048</link>
+            <guid isPermaLink="false">41753c60-a34d-49b7-8257-0f405bc1088b</guid>
+            <pubDate>Fri, 04 Sep 2026 00:48:53 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair trades on a flat note around 1.1625 during the early Asian session on Friday. Traders prefer to wait on the sidelines ahead of the US key employment report for August, which will be published later on Friday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RBNZ's Hansen: Future policy moves hinge on trends across broad economic data sets]]></title>
+            <link>https://www.fxstreet.com/news/rbnzs-hansen-future-policy-moves-hinge-on-trends-across-broad-economic-data-sets-202609032344</link>
+            <guid isPermaLink="false">ffdf2397-8e3f-49a3-9f0b-451d92569644</guid>
+            <pubDate>Thu, 03 Sep 2026 23:44:45 GMT</pubDate>
+            <description><![CDATA[Reserve Bank of New Zealand (RBNZ) Monetary Policy Committee member Carl Hansen said on Thursday that future monetary policy moves hinge on trends across broad economic data sets. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/RBNZ_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rebounds above $4,450 as Waller tempers Fed rate hike bets ahead US jobs data]]></title>
+            <link>https://www.fxstreet.com/news/gold-rebounds-above-4-450-as-waller-tempers-fed-rate-hike-bets-ahead-us-jobs-data-202609032336</link>
+            <guid isPermaLink="false">daf80d07-546f-42f5-b673-afce71cf0aea</guid>
+            <pubDate>Thu, 03 Sep 2026 23:36:51 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) gains momentum to around $4,470 during the early Asian session on Friday. The precious metal extended its recovery as Federal Reserve (Fed) rate hike bets ease. All eyes will be on the US August Nonfarm Payrolls (NFP) report, which is due later on Friday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[GBP/JPY Price Forecast: Intervention shock exposes 210.00]]></title>
             <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-intervention-shock-exposes-21000-202609032301</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 03 Sep 2026 15:41:36 GMT</pubDate>
             <description><![CDATA[The Pound Sterling (GBP) rises against the US Dollar (USD) on Thursday as Federal Reserve (Fed) Governor Christopher Waller favors holding rates unchanged, shifting to a more neutral stance regarding monetary policy, while data showed that the US labor market is solid and that business activity impr]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bullish-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold tests $4,500 as US Dollar and yields retreat, Fed hike bets ease after Waller remarks]]></title>
-            <link>https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112</link>
-            <guid isPermaLink="false">3149438e-b7ca-401c-93a5-1fb79bba8c14</guid>
-            <pubDate>Thu, 03 Sep 2026 11:12:31 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its rebound on Thursday after slipping below $4,300 to a nearly four-week low on the previous day. A sharp rally in the Japanese Yen (JPY) weighs on the US Dollar (USD), while a pullback in US Treasury yields provides additional support to the precious metal.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar extends gains on hawkish BoC message, softer US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-extends-gains-on-hawkish-boc-message-softer-us-dollar-202609031515</link>
-            <guid isPermaLink="false">12232701-facd-43c5-a058-badf8b6e38cd</guid>
-            <pubDate>Thu, 03 Sep 2026 15:15:04 GMT</pubDate>
-            <description><![CDATA[USD/CAD extends its decline for the second consecutive day on Thursday as broad US Dollar (USD) weakness and the Bank of Canada’s (BoC) hawkish message at its September policy meeting support the Canadian Dollar (CAD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Range-bound against US Dollar with muted BoE pricing – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-with-muted-boe-pricing-scotiabank-202609031501</link>
-            <guid isPermaLink="false">e3f22a04-05bd-414a-ae3e-059a34ada6e2</guid>
-            <pubDate>Thu, 03 Sep 2026 15:01:23 GMT</pubDate>
-            <description><![CDATA[Scotiabank’s Global FX Strategy team reports the British Pound (GBP) is flat versus the US Dollar (USD) but softer on crosses, with UK PMI data offering little new insight. Markets price minimal tightening for the September Bank of England (BoE) meeting and modest moves for November.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eurozone: New growth paths after export peak – ING]]></title>
-            <link>https://www.fxstreet.com/news/eurozone-new-growth-paths-after-export-peak-ing-202609031438</link>
-            <guid isPermaLink="false">779a7c7a-f7b4-41e1-ae0b-5265096f8302</guid>
-            <pubDate>Thu, 03 Sep 2026 14:38:00 GMT</pubDate>
-            <description><![CDATA[ING economists Bert Colijn and Carsten Brzeski argue that the Eurozone’s long-standing export-led growth model is being structurally eroded by higher energy costs, rising Chinese competition and a changing global trade environment.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Yen turning corner case builds – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-yen-turning-corner-case-builds-societe-generale-202609031428</link>
-            <guid isPermaLink="false">cb6a6717-4f45-48d6-baab-c94fec12a951</guid>
-            <pubDate>Thu, 03 Sep 2026 14:28:59 GMT</pubDate>
-            <description><![CDATA[Societe Generale strategists highlight heavy USD/JPY turnover as the pair slid below its 200-day moving average, with leveraged accounts forced to cover shorts.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
