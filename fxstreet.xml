@@ -4,9 +4,233 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 07 Sep 2026 10:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 15:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[United Kingdom: BoE holds but risks later cuts – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-boe-holds-but-risks-later-cuts-societe-generale-202609071552</link>
+            <guid isPermaLink="false">6e389ad7-3b7d-4b04-8b7f-a4c3e1b08baf</guid>
+            <pubDate>Mon, 07 Sep 2026 15:52:00 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s UK team notes weakening housing demand as mortgage approvals fall to late-2023 lows, while business lending remains firm and wage expectations show limited second-round effects.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold bears retain control as Fed hike bets and Oil-driven inflation weigh]]></title>
+            <link>https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113</link>
+            <guid isPermaLink="false">c9f73603-1026-4109-8d00-398acf13c8cf</guid>
+            <pubDate>Mon, 07 Sep 2026 11:13:47 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) trades with a modest downside bias during American trading hours on Monday. A softer US Dollar (USD) limits the decline and helps the metal recover part of its earlier losses.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar hits three-month high as RBA rate hike bets intensify]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-hits-three-month-high-as-rba-rate-hike-bets-intensify-202609071515</link>
+            <guid isPermaLink="false">b10cfc7d-237d-440b-86c2-2f9ccb8d8d5e</guid>
+            <pubDate>Mon, 07 Sep 2026 15:15:37 GMT</pubDate>
+            <description><![CDATA[AUD/USD advances on Monday, gaining 0.22% on the day to trade around 0.7220 at the time of writing, after reaching its highest level in more than three months.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI Oil climbs as Middle East supply risks remain evelated]]></title>
+            <link>https://www.fxstreet.com/news/wti-oil-climbs-as-middle-east-supply-risks-remain-evelated-202609071512</link>
+            <guid isPermaLink="false">f72674d3-8eff-4a31-a86f-6c6183a14223</guid>
+            <pubDate>Mon, 07 Sep 2026 15:12:59 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) Oil edges higher on Monday as fresh attacks by the United States and Iran over the weekend add to already elevated supply concerns from the months-long war in the Middle East. At the time of writing, WTI trades around $91.15 per barrel, its highest level since July 24.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: September BoJ decision shapes path – HSBC]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-september-boj-decision-shapes-path-hsbc-202609071503</link>
+            <guid isPermaLink="false">7b00d4fb-8dcb-49ab-a263-f1c9270c77be</guid>
+            <pubDate>Mon, 07 Sep 2026 15:03:17 GMT</pubDate>
+            <description><![CDATA[HSBC highlights that markets now expect the Bank of Japan (BoJ) to tighten policy more quickly, with overnight index swaps implying about 75bp of cumulative hikes by April 2027 and assigning odds to a move at the 18 September meeting.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of Canada: Rates outlook and inflation risks – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-canada-rates-outlook-and-inflation-risks-td-securities-202609071441</link>
+            <guid isPermaLink="false">e83a517e-f97b-41ce-853c-51a18ddf0cf8</guid>
+            <pubDate>Mon, 07 Sep 2026 14:41:09 GMT</pubDate>
+            <description><![CDATA[TD Securities economists Robert Both and Emma Lawrence highlight that the Bank of Canada adopted a more hawkish tone, emphasizing upside inflation risks even as core inflation stays subdued.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Eurozone: Resilient growth, worrying inflation – ABN AMRO]]></title>
+            <link>https://www.fxstreet.com/news/eurozone-resilient-growth-worrying-inflation-abn-amro-202609071424</link>
+            <guid isPermaLink="false">69a7c954-4ab1-4320-8dea-4990edb663cf</guid>
+            <pubDate>Mon, 07 Sep 2026 14:24:02 GMT</pubDate>
+            <description><![CDATA[ABN AMRO economists Bill Diviney and Jan-Paul van de Kerke expect Eurozone growth to remain resilient despite a renewed energy shock, supported by German fiscal spending and solid underlying activity.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EuropeMap.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Growth pace cools after hot start – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-growth-pace-cools-after-hot-start-deutsche-bank-202609071411</link>
+            <guid isPermaLink="false">df17a2e6-af1d-440d-ab5d-d82b7fd402e5</guid>
+            <pubDate>Mon, 07 Sep 2026 14:11:37 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank economists Sanjay Raja and Maui Brennan expect United Kingdom (UK) Gross Domestic Product (GDP) to have slipped slightly in July after strong growth earlier in 2026. They forecast a modest monthly contraction led by services and production, with construction only marginally higher.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: CPI outcome to steer Fed path – BBH]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-fed-path-bbh-202609071357</link>
+            <guid isPermaLink="false">6b50b0ce-3632-4651-b7da-a94dc488c7b2</guid>
+            <pubDate>Mon, 07 Sep 2026 13:57:14 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) weakened on broad Japanese Yen strength before partially recovering as strong US August payrolls revived expectations for a September Fed hike.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold: Bull market conviction broadens – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/gold-bull-market-conviction-broadens-societe-generale-202609071344</link>
+            <guid isPermaLink="false">b370660b-dd88-4b36-97f2-67334a8e442c</guid>
+            <pubDate>Mon, 07 Sep 2026 13:44:37 GMT</pubDate>
+            <description><![CDATA[Societe Generale analysts Michael Haigh and Jeremy Sellem describe a broad-based Gold bull market in 2026, driven by ETFs, futures and options positioning. They highlight strong physical ETF inflows, near-record futures exposure by money managers and a structurally bullish options skew.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen hits six-and-a-half-month high on hawkish BoJ bets]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-hits-six-and-a-half-month-high-on-hawkish-boj-bets-202609071337</link>
+            <guid isPermaLink="false">03d7ca5a-53cc-47b3-87cc-f6bee69fce15</guid>
+            <pubDate>Mon, 07 Sep 2026 13:37:38 GMT</pubDate>
+            <description><![CDATA[USD/JPY extends its steep decline on Monday as the Japanese Yen (JPY) rallies against the US Dollar (USD), supported by hawkish Bank of Japan (BoJ) expectations, capital repatriation and the unwinding of Yen-funded carry trades.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-81.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: Inflation risks but still contained - TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/united-states-inflation-risks-but-still-contained-td-securities-202609071327</link>
+            <guid isPermaLink="false">ea3c684e-64a1-4842-be6c-c2deae324157</guid>
+            <pubDate>Mon, 07 Sep 2026 13:27:56 GMT</pubDate>
+            <description><![CDATA[TD Securities projects August Core CPI at 0.19% m/m and 2.3% y/y, with services driving gains and core goods slightly negative. Headline CPI is seen at 0.37% m/m and 3.4% y/y on higher energy and food.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usa-vector-map.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar finds support from Oil surge despite Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-finds-support-from-oil-surge-despite-fed-rate-hike-bets-202609071322</link>
+            <guid isPermaLink="false">13e57b90-ba99-4c7d-b863-286b91a4a1a1</guid>
+            <pubDate>Mon, 07 Sep 2026 13:22:43 GMT</pubDate>
+            <description><![CDATA[USD/CAD trades around 1.3810 on Monday at the time of writing, down 0.15% on the day. The pair comes under some pressure as the sharp rise in Oil prices supports the Canadian Dollar (CAD), although underlying strength in the US Dollar (USD) limits the downside.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro area: Inflation overshoot extends ECB hiking path – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/euro-area-inflation-overshoot-extends-ecb-hiking-path-societe-generale-202609071316</link>
+            <guid isPermaLink="false">e3bb5a0b-9d76-4d09-aeec-6a8b51ea358b</guid>
+            <pubDate>Mon, 07 Sep 2026 13:16:12 GMT</pubDate>
+            <description><![CDATA[Societe Generale economists Anatoli Annenkov, Michel Martinez and colleagues expect Euro area inflation to stay above target beyond 2027, with headline inflation projected to peak near 3.7-3.8% and core around 2.7-2.8%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asia FX: Oil shock keeps tone cautious – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/asia-fx-oil-shock-keeps-tone-cautious-ocbc-202609071300</link>
+            <guid isPermaLink="false">e5802ca0-8624-42a2-8d17-9ed0d3854513</guid>
+            <pubDate>Mon, 07 Sep 2026 13:00:22 GMT</pubDate>
+            <description><![CDATA[OCBC’s Christopher Wong expects Asia ex-Japan (AxJ) currencies to start the week on a selectively cautious footing after renewed US–Iran tensions lifted Brent above US$96.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro benefits from weaker US Dollar as ECB decision looms]]></title>
+            <link>https://www.fxstreet.com/news/euro-benefits-from-weaker-us-dollar-as-ecb-decision-looms-202609071253</link>
+            <guid isPermaLink="false">1162bcdd-8403-42be-b8a6-eea19b597f79</guid>
+            <pubDate>Mon, 07 Sep 2026 12:53:46 GMT</pubDate>
+            <description><![CDATA[EUR/USD holds modest gains at the start of North American trading hours on Monday as a softer US Dollar (USD) and stronger-than-expected Eurozone Gross Domestic Product (GDP) data support the Euro (EUR).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: ECB tightening supports currency – BBH]]></title>
+            <link>https://www.fxstreet.com/news/euro-ecb-tightening-supports-currency-bbh-202609071245</link>
+            <guid isPermaLink="false">10cdc92c-ddc2-4bbe-8fc0-900b5de914a4</guid>
+            <pubDate>Mon, 07 Sep 2026 12:45:11 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects the European Central Bank (ECB) to deliver another 25 bps hike this week, taking the policy rate to 2.50%, supported by above-target Eurozone inflation and a firmer growth outlook.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-eur.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Range-bound support as Fed priced – ING]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-range-bound-support-as-fed-priced-ing-202609071229</link>
+            <guid isPermaLink="false">0cc89b3f-d0f3-49f3-9f3e-4f6d9d347a97</guid>
+            <pubDate>Mon, 07 Sep 2026 12:29:52 GMT</pubDate>
+            <description><![CDATA[ING’s Chris Turner notes that resilient global equities and an above-consensus US jobs report mean the Dollar should be stronger, but risk appetite is capping gains. He highlights upcoming US CPI and Treasury auctions as key catalysts.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Six-month lows at the 209.20 area under pressure]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-six-month-lows-at-the-20920-area-under-pressure-202609071222</link>
+            <guid isPermaLink="false">d7c69e00-f112-40a5-9b0a-fab4759148d4</guid>
+            <pubDate>Mon, 07 Sep 2026 12:22:17 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) has resumed its bearish trend against a stronger Japanese Yen (JPY) on Monday, as comments from Japanese officials hinting at a steeper Bank of Japan (BoJ) monetary tightening cycle have provided a fresh boost to the Yen.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar: Trade tensions and US CPI in focus – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-trade-tensions-and-us-cpi-in-focus-td-securities-202609071215</link>
+            <guid isPermaLink="false">a0fe656f-3cbb-44d0-8170-0abc390d8b5c</guid>
+            <pubDate>Mon, 07 Sep 2026 12:15:39 GMT</pubDate>
+            <description><![CDATA[TD Securities notes that a data-light week in Canada will keep attention on CAN-US trade tensions as Canadian countertariffs take effect. The US has already signalled higher tariffs on Canadian vehicles from January 1.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brent: Uptrend targets $102 before higher projections - Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/brent-uptrend-targets-102-before-higher-projections-societe-generale-202609071153</link>
+            <guid isPermaLink="false">1922a65b-f789-44a7-834f-3b38924fdb2b</guid>
+            <pubDate>Mon, 07 Sep 2026 11:53:43 GMT</pubDate>
+            <description><![CDATA[Societe Generale analysts highlight that Brent has resumed a steady advance after defending its 200-DMA in August and crossing a multi-month descending trend line.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee remains higher despite oil strain, hawkish Fed bets]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533</link>
+            <guid isPermaLink="false">bdf39ef5-6aa5-49a6-a8c0-8f57dd851b56</guid>
+            <pubDate>Mon, 07 Sep 2026 05:33:57 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) gains against the US Dollar (USD) at the start of the week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-inr_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: CPI holds key after jobs-driven support – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-cpi-holds-key-after-jobs-driven-support-ocbc-202609071112</link>
+            <guid isPermaLink="false">0ae7219b-9f34-4084-8a42-fb2e74b42db2</guid>
+            <pubDate>Mon, 07 Sep 2026 11:12:29 GMT</pubDate>
+            <description><![CDATA[OCBC’s Christopher Wong notes that stronger US payrolls initially lifted the US Dollar (USD) and US Dollar Index (DXY), but softer wage growth and only modest Fed repricing capped gains.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Oil facilities hit in fresh strikes, WTI surges above $90]]></title>
+            <link>https://www.fxstreet.com/news/saudi-oil-facilities-hit-in-fresh-strikes-wti-surges-above-90-202609071109</link>
+            <guid isPermaLink="false">1e185307-284e-406c-afc5-c99ff2432c08</guid>
+            <pubDate>Mon, 07 Sep 2026 11:09:53 GMT</pubDate>
+            <description><![CDATA[According to the Financial Times, Saudi Aramco’s Oil facilities in Jizan were hit on Monday. The extent of the damage is currently being assessed, the newspaper reported.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/oil-war-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Remains sticky to 20-day EMA]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sticky-to-20-day-ema-202609071109</link>
+            <guid isPermaLink="false">21e0915f-098d-4169-aad2-6bf473317048</guid>
+            <pubDate>Mon, 07 Sep 2026 11:09:21 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) is marginally higher to near 1.1625 against the US Dollar (USD) during the European trading session on Monday. The major currency pair trades broadly sideways amid an extended weekend in the United States (US) due to Labor Day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver slips below $66 as strong NFP report revives Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/silver-slips-below-66-as-strong-nfp-report-revives-fed-rate-hike-bets-202609071056</link>
+            <guid isPermaLink="false">e68aa4ce-f004-4967-a135-631342514468</guid>
+            <pubDate>Mon, 07 Sep 2026 10:56:38 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) trades under pressure on Monday, falling 0.79% on the day to around $65.70 at the time of writing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/GBP Price Forecast: Testing support at previous highs in the 0.8585 area]]></title>
+            <link>https://www.fxstreet.com/news/eur-gbp-price-forecast-testing-support-at-previous-highs-at-the-08585-area-202609071049</link>
+            <guid isPermaLink="false">9d9b4b18-6f7f-4464-bd14-901656344b84</guid>
+            <pubDate>Mon, 07 Sep 2026 10:49:57 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) is trading lower against the British Pound (GBP) following mixed Eurozone macroeconomic figures on Monday. The EUR/GBP pair is testing support at a previous resistance area, at 0.8585 ahead of the US session opening, after failing to find acceptance above the 0.8600 area last week. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[154.06: Japanese Yen hits fresh six-month highs amid hopes of steeper BoJ hikes]]></title>
+            <link>https://www.fxstreet.com/news/15406-japanese-yen-hits-fresh-six-month-highs-amid-hopes-of-steeper-boj-hikes-202609071005</link>
+            <guid isPermaLink="false">fb87c8c8-e10a-42d2-b998-ef026b3833bf</guid>
+            <pubDate>Mon, 07 Sep 2026 10:05:50 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY)  resumes its uptrend against the US Dollar (USD) on Monday, as the dust from a bright US Nonfarm Payrolls (NFP) report settles, and Japanese officials hint at some steepening of the Bank of Japan’s (BoJ) tightening cycle ahead.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Euro tumbles as Japanese Yen benefits from BoJ rate hike bets]]></title>
             <link>https://www.fxstreet.com/news/euro-tumbles-as-japanese-yen-benefits-from-boj-rate-hike-bets-202609070955</link>
@@ -22,230 +246,6 @@
             <pubDate>Mon, 07 Sep 2026 09:54:08 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad expects Chile, Poland, Peru and Türkiye to keep policy rates unchanged at upcoming meetings.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EMEA2-25326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Czech Koruna: CPI keeps CNB on hold but risks build – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/czech-koruna-cpi-keeps-cnb-on-hold-but-risks-build-commerzbank-202609070942</link>
-            <guid isPermaLink="false">fca14fb5-f97b-42f9-9003-f8f1c12c8ad9</guid>
-            <pubDate>Mon, 07 Sep 2026 09:42:11 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Tatha Ghose notes that Czech August CPI matched expectations and CNB forecasts, keeping inflation within target and allowing rates to stay unchanged on 17 September.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Czech_Republic.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609070932</link>
-            <guid isPermaLink="false">23d1a51a-af6b-49f0-b0a5-731cdc918b62</guid>
-            <pubDate>Mon, 07 Sep 2026 09:32:06 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) fell on Monday, according to FXStreet data. Silver trades at $65.90 per troy ounce, down 0.47% from the $66.21 it cost on Friday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ECB: Political strains test policy shield – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/ecb-political-strains-test-policy-shield-rabobank-202609070932</link>
-            <guid isPermaLink="false">3fba74f8-84f5-4ba1-aea9-463d12304742</guid>
-            <pubDate>Mon, 07 Sep 2026 09:32:03 GMT</pubDate>
-            <description><![CDATA[RaboResearch notes that the ECB’s Transmission Protection Instrument provides a backstop for Eurozone government bonds during stress not justified by fundamentals.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Inflation data steer policy path – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-inflation-data-steer-policy-path-td-securities-202609070918</link>
-            <guid isPermaLink="false">902dbbb2-3a52-4f09-a609-d3225d37829a</guid>
-            <pubDate>Mon, 07 Sep 2026 09:18:55 GMT</pubDate>
-            <description><![CDATA[TD Securities economists Oscar Munoz and Eli Nir expect August Consumer Price Index (CPI) to prove subdued enough to keep the Federal Reserve (Fed) on hold in September, with the CPI-to-PCE translation also pointing to contained underlying inflation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[UK Chancellor Healey: I will build on Reeves' move to recover fiscal discipline]]></title>
-            <link>https://www.fxstreet.com/news/uk-chancellor-healey-i-will-build-on-reeves-move-to-recover-fiscal-discipline-202609070918</link>
-            <guid isPermaLink="false">49b67ec0-6355-4fe6-94f9-59397ebd6487</guid>
-            <pubDate>Mon, 07 Sep 2026 09:18:15 GMT</pubDate>
-            <description><![CDATA[United Kingdom (UK) Chancellor of the Exchequer John Healey signaled in a scheduled speech during the European trading session on Monday that the government will continue focusing on maintaining fiscal discipline, in an attempt to contain higher borrowing costs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Supply risks support prices – Danske Bank]]></title>
-            <link>https://www.fxstreet.com/news/brent-supply-risks-support-prices-danske-bank-202609070910</link>
-            <guid isPermaLink="false">7940d4b3-49e3-43da-af84-e862bb3ae681</guid>
-            <pubDate>Mon, 07 Sep 2026 09:10:42 GMT</pubDate>
-            <description><![CDATA[Danske Bank’s Danske Research Team notes Brent crude trading near USD 97 as renewed US-Iran strikes around the Strait of Hormuz raise concerns over prolonged disruptions to Middle East energy flows.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee remains higher as FX inflows optimism keeps outweiging oil strain]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533</link>
-            <guid isPermaLink="false">bdf39ef5-6aa5-49a6-a8c0-8f57dd851b56</guid>
-            <pubDate>Mon, 07 Sep 2026 05:33:57 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) gains against the US Dollar (USD) at the start of the week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-inr_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones futures fall as inflationary risks rise]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-futures-fall-as-inflationary-risks-rise-202609070903</link>
-            <guid isPermaLink="false">be539a47-a247-40a5-86d3-b7c6849cc474</guid>
-            <pubDate>Mon, 07 Sep 2026 09:03:51 GMT</pubDate>
-            <description><![CDATA[Dow Jones futures are down by 0.32% to trade near 53,270 during European hours on Monday. Meanwhile, S&P 500 futures steady near 7,720, while Nasdaq 100 futures advance by 0.31% to trade around 29,660. The US stock market will be closed Monday for the Labor Day holiday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI struggles to hold above $90 despite material supply risks]]></title>
-            <link>https://www.fxstreet.com/news/wti-struggles-to-hold-above-90-despite-material-supply-risks-202609070900</link>
-            <guid isPermaLink="false">bf9b1186-3469-41ce-93ce-b4a9c947e01d</guid>
-            <pubDate>Mon, 07 Sep 2026 09:00:29 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI), futures on NYMEX, turns upside down to near $89.50 during the European trading session on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound dives to six-month low vs rallying Yen amid bets for faster BoJ rate hikes]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-dives-to-six-month-low-vs-rallying-yen-amid-bets-for-faster-boj-rate-hikes-202609070858</link>
-            <guid isPermaLink="false">fea5d24e-e8cd-439a-a910-7fcc496ce7a1</guid>
-            <pubDate>Mon, 07 Sep 2026 08:58:21 GMT</pubDate>
-            <description><![CDATA[The GBP/JPY cross meets with heavy supply during the early part of the European session on Monday and weakens below the 209.00 mark, hitting its lowest level since February 24 amid a broad-based rally in the Japanese Yen (JPY).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BNB-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Inflation data guide blackout repricing – BNY]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-inflation-data-guide-blackout-repricing-bny-202609070858</link>
-            <guid isPermaLink="false">94cf78b0-5c19-455d-8b7f-bdc3bb653769</guid>
-            <pubDate>Mon, 07 Sep 2026 08:58:14 GMT</pubDate>
-            <description><![CDATA[BNY’s Geoff Yu notes that strong U.S. payrolls have lifted September Fed hike odds back toward 60%, leaving rate expectations highly data-dependent as the Fed enters its blackout.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Tight range with downside bias against US Dollar – ING]]></title>
-            <link>https://www.fxstreet.com/news/euro-tight-range-with-downside-bias-against-us-dollar-ing-202609070849</link>
-            <guid isPermaLink="false">59e6ac02-c17c-4cff-ac4d-c548cf87f38c</guid>
-            <pubDate>Mon, 07 Sep 2026 08:49:21 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner argues that Euro fundamentals remain contained despite German regional election results highlighting political tensions for Chancellor Merz’s CDU. Solid Eurozone growth and investor confidence are offset by downside risks from this week’s ECB meeting.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Downside risks build against Yen as policy diverges – DBS]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-downside-risks-build-against-yen-as-policy-diverges-dbs-202609070839</link>
-            <guid isPermaLink="false">e78fac3f-6c82-48e0-a678-65670b9ba937</guid>
-            <pubDate>Mon, 07 Sep 2026 08:39:22 GMT</pubDate>
-            <description><![CDATA[DBS Group Research strategist Philip Wee highlights growing downside risks in CHF/JPY after the cross failed to re-enter its February–July 198–204 range and slipped to 193.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro remains stronger against Canadian Dollar following Eurozone Investor Confidence]]></title>
-            <link>https://www.fxstreet.com/news/euro-remains-stronger-against-canadian-dollar-following-eurozone-investor-confidence-202609070833</link>
-            <guid isPermaLink="false">f1ac8364-0db0-4cf7-afa7-c03fd37ff56e</guid>
-            <pubDate>Mon, 07 Sep 2026 08:33:37 GMT</pubDate>
-            <description><![CDATA[EUR/CAD remains stronger for the second consecutive day, trading around 1.6080 during European hours on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-chart.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold recovers intraday losses to sub-$4,400 as USD slumps despite Fed rate hike bets]]></title>
-            <link>https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419</link>
-            <guid isPermaLink="false">32ecc0a2-3108-43ad-bf56-b7bbe02ec1bd</guid>
-            <pubDate>Mon, 07 Sep 2026 04:19:03 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) shows some resilience below the $4,400 mark and recovers intraday losses during the first half of the European session on Monday. Any meaningful upside, however, seems limited as traders might opt to wait on the sidelines ahead of the latest US inflation figures, due later this week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eurozone Sentix Investor Confidence improves significantly to 5.1 in September]]></title>
-            <link>https://www.fxstreet.com/news/eurozone-sentix-investor-confidence-improves-significantly-to-51-in-september-202609070831</link>
-            <guid isPermaLink="false">cdbe664f-2c7b-423e-912b-be914f6e48be</guid>
-            <pubDate>Mon, 07 Sep 2026 08:31:24 GMT</pubDate>
-            <description><![CDATA[Eurozone’s Sentix Investor Confidence data, a key indicator of Investor morale, comes in significantly higher at 5.1 in September from 0.9 in August. The sentiment data turned positive in August after remaining negative in the previous five months.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc ticks up against US Dollar following Swiss employment data]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-ticks-up-against-us-dollar-following-swiss-employment-data-202609070831</link>
-            <guid isPermaLink="false">727283ed-aaad-470a-a44d-a55a1bdcc6c6</guid>
-            <pubDate>Mon, 07 Sep 2026 08:31:07 GMT</pubDate>
-            <description><![CDATA[The Swiss Franc (CHF) bounced up against the US Dollar (USD) on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Limited gains from ECB tightening – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/euro-limited-gains-from-ecb-tightening-commerzbank-202609070818</link>
-            <guid isPermaLink="false">55c8cd79-fb27-4145-9a66-0678dcde80c4</guid>
-            <pubDate>Mon, 07 Sep 2026 08:18:52 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Thu Lan Nguyen argues that EUR/USD remains primarily driven by the US Dollar, with Euro-side developments only amplifying or dampening trends.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound edges higher against US Dollar, UK Chancellor Healey’s speech eyed]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-edges-higher-against-us-dollar-uk-chancellor-healeys-speech-eyed-202609070805</link>
-            <guid isPermaLink="false">47318859-eb8a-4187-960b-74462390d903</guid>
-            <pubDate>Mon, 07 Sep 2026 08:05:13 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) is marginally higher at around 1.3525 against the US Dollar (USD) during the European trading session on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: BoE repricing risk weighs on Sterling – BBH]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-boe-repricing-risk-weighs-on-sterling-bbh-202609070802</link>
-            <guid isPermaLink="false">39dad0dc-3600-4624-9be2-227bb975e0e9</guid>
-            <pubDate>Mon, 07 Sep 2026 08:02:03 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad argues that United Kingdom (UK) July Gross Domestic Product (GDP), expected flat month-on-month, is unlikely to alter Bank of England (BoE) expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex Today: Middle East tensions keep investors on edge]]></title>
-            <link>https://www.fxstreet.com/news/forex-today-middle-east-tensions-keep-investors-on-edge-202609070800</link>
-            <guid isPermaLink="false">9db25ba1-6f32-46ea-a805-c40b6c4dd004</guid>
-            <pubDate>Mon, 07 Sep 2026 08:00:57 GMT</pubDate>
-            <description><![CDATA[Here is what you need to know on Monday, September 7:]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/oil-war-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar struggles due to cautious RBNZ policy outlook]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-struggles-due-to-cautious-rbnz-policy-outlook-202609070757</link>
-            <guid isPermaLink="false">315407a8-b4ea-442f-9345-3e1ed28442c7</guid>
-            <pubDate>Mon, 07 Sep 2026 07:57:04 GMT</pubDate>
-            <description><![CDATA[NZD/USD depreciates after two days of gains, trading around 0.5880 during European hours on Monday. The pair depreciates as the New Zealand Dollar (NZD) faces pressure from cautious sentiment surrounding the Reserve Bank of New Zealand’s (RBNZ) policy outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Strong payrolls fail to sustain Dollar gains – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-strong-payrolls-fail-to-sustain-dollar-gains-mufg-202609070753</link>
-            <guid isPermaLink="false">3e013931-deff-45b7-a7c7-8121cf7fa4d4</guid>
-            <pubDate>Mon, 07 Sep 2026 07:53:18 GMT</pubDate>
-            <description><![CDATA[MUFG’s Lloyd Chan notes the Dollar strengthened after a stronger-than-expected August US jobs report, with Nonfarm Payrolls and labour participation surprising to the upside while wage growth eased.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar consolidates below mid-1.3800s as oil strength offsets USD Fed support]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-consolidates-below-mid-13800s-as-oil-strength-offsets-usd-fed-support-202609070750</link>
-            <guid isPermaLink="false">aa83a0f1-1cd9-492a-b463-70515cbc92b1</guid>
-            <pubDate>Mon, 07 Sep 2026 07:50:08 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair extends its sideways consolidative price move through the early European session on Monday and currently trades just below mid-1.3800s.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Prices climb on supply risks – UOB]]></title>
-            <link>https://www.fxstreet.com/news/oil-prices-climb-on-supply-risks-uob-202609070733</link>
-            <guid isPermaLink="false">450fc2ee-82f2-4e0a-8d8c-f1340226e18f</guid>
-            <pubDate>Mon, 07 Sep 2026 07:33:59 GMT</pubDate>
-            <description><![CDATA[According to UOB strategists Oil prices extended gains, with Brent crude settling above $96 and posting a strong weekly rise as disruptions to Middle East supply routes and renewed geopolitical tensions supported energy markets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD dips below $66.00 and hints at a bearish “H&S”]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-dips-below-6600-and-hints-at-a-bearish-hs-202609070724</link>
-            <guid isPermaLink="false">23c1eeae-5b1a-4aa5-bf5c-3b3a7ee4e05c</guid>
-            <pubDate>Mon, 07 Sep 2026 07:24:32 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) nudges lower on Monday, hitting session lows in the mid-$65.00s after a reversal from the $68.00 area.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Support at 180 eyed against Yen on BoJ risk – DBS]]></title>
-            <link>https://www.fxstreet.com/news/euro-support-at-180-eyed-against-yen-on-boj-risk-dbs-202609070721</link>
-            <guid isPermaLink="false">6ffe9d9b-1de0-4d8a-b54d-0616376ad1c0</guid>
-            <pubDate>Mon, 07 Sep 2026 07:21:12 GMT</pubDate>
-            <description><![CDATA[DBS strategist Philip Wee argues that downside risk in EUR/JPY is less straightforward than in CHF/JPY.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-eur.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Equities: Labour data weighs on stocks – Danske Bank]]></title>
-            <link>https://www.fxstreet.com/news/equities-labour-data-weighs-on-stocks-danske-bank-202609070702</link>
-            <guid isPermaLink="false">17a94f9b-fd2a-4755-9f9b-5ca686d63379</guid>
-            <pubDate>Mon, 07 Sep 2026 07:02:56 GMT</pubDate>
-            <description><![CDATA[Danske Research notes that a strong US labour market report increased expectations of a more hawkish Federal Reserve, pressuring global equities. The S&P 500 declined while the Stoxx 600 posted a small gain, with cyclicals outperforming and rate-sensitive sectors underperforming.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
