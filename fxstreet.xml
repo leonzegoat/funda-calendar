@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 06 Sep 2026 22:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 00:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[China injects $54 billion stimulus for financial sector amid fears over sluggish growth]]></title>
+            <link>https://www.fxstreet.com/news/china-injects-54-billion-stimulus-for-financial-sector-amid-fears-over-sluggish-growth-202609062351</link>
+            <guid isPermaLink="false">1082a937-9d7a-4645-80de-70376f7d8b12</guid>
+            <pubDate>Sun, 06 Sep 2026 23:51:06 GMT</pubDate>
+            <description><![CDATA[China's Finance Ministry will inject billions into its largest banks and insurers, as Beijing moves to shore up balance sheets and sustain growth in a slowing economy, Bloomberg reported on Sunday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OPEC+ agrees to keep oil output policy unchanged for October]]></title>
+            <link>https://www.fxstreet.com/news/opec-agrees-to-keep-oil-output-policy-unchanged-for-october-202609062342</link>
+            <guid isPermaLink="false">72f89027-f149-4f17-89a3-52d31e377acf</guid>
+            <pubDate>Sun, 06 Sep 2026 23:42:44 GMT</pubDate>
+            <description><![CDATA[The Organization of Petroleum Exporting Countries and its allies (OPEC+) agreed on Sunday to keep its oil output policy unchanged for October, as the group needs to agree on new quotas before deciding its next output steps.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar drifts higher above 0.7200 despite as strong US NFP  ]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-07200-despite-as-strong-us-nfp-202609062335</link>
+            <guid isPermaLink="false">9b14d3fc-2ffb-4892-a196-0fff1b039429</guid>
+            <pubDate>Sun, 06 Sep 2026 23:35:11 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair gathers strength to around 0.7205 during the early Asian session on Monday. The Australian Dollar (AUD) edges higher against the US Dollar (USD) as China seeks to shore up capital across its financial system. US markets will be closed on Monday for Labor Day. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran, US trade tanker attacks as Tehran will declare 'prohibited zone' ]]></title>
+            <link>https://www.fxstreet.com/news/iran-us-trade-tanker-attacks-as-tehran-will-declare-prohibited-zone-202609062236</link>
+            <guid isPermaLink="false">ecb3853a-4d6d-4b4a-8b8d-6e84621f9c9e</guid>
+            <pubDate>Sun, 06 Sep 2026 22:36:00 GMT</pubDate>
+            <description><![CDATA[Iranian government said that it targeted three oil tankers using an unauthorized route through the Strait of Hormuz, as well as a number of US-linked ships, in retaliation for US attacks on Iranian tankers over the weekend, Bloomberg reported on Sunday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Malaysian Ringgit: Range-bound risks and key levels against US Dollar – OCBC]]></title>
             <link>https://www.fxstreet.com/news/malaysian-ringgit-range-bound-risks-and-key-levels-against-us-dollar-ocbc-202609042251</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 04 Sep 2026 14:21:06 GMT</pubDate>
             <description><![CDATA[Nomura’s Global Markets Research team, led by Andrzej Szczepaniak, George Buckley and Josie Anderson, expects the ECB to raise the depo rate by 25bp to 2.50% at the 10 September meeting and then pause.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["Lower the rate or I’ll stop trading": Trump pressures Fed after strong US jobs report]]></title>
-            <link>https://www.fxstreet.com/news/lower-the-rate-or-ill-stop-trading-trump-pressures-fed-after-strong-us-jobs-report-202609041410</link>
-            <guid isPermaLink="false">538b60dd-a125-4cb9-9f3e-da5e9abc5c59</guid>
-            <pubDate>Fri, 04 Sep 2026 14:10:55 GMT</pubDate>
-            <description><![CDATA[In a post on Truth Social, United States (US) President Donald Trump welcomed the creation of 162K jobs in August, a figure he described as significantly above expectations.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Jobs weakness caps gains against US Dollar - TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-jobs-weakness-caps-gains-against-us-dollar-td-securities-202609041406</link>
-            <guid isPermaLink="false">53fa7184-cb9b-4df8-8e20-3d77d6ace0db</guid>
-            <pubDate>Fri, 04 Sep 2026 14:06:57 GMT</pubDate>
-            <description><![CDATA[TD Securities strategists note that Canada’s softer August labour report, including weaker employment momentum and slower wage growth, is unlikely to materially change the Bank of Canada’s (BoC) assessment of the labour market.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canada2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar slides as Canada sheds 41.7K jobs, US payrolls surge]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-slides-as-canada-sheds-417k-jobs-us-payrolls-surge-202609041400</link>
-            <guid isPermaLink="false">9f39f2ea-6ad6-4ce3-a695-8752ebf2ed9c</guid>
-            <pubDate>Fri, 04 Sep 2026 14:00:41 GMT</pubDate>
-            <description><![CDATA[USD/CAD accelerates sharply higher on Friday, trading around 1.3850 at the time of writing, up 0.39% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Jobs strength lifts hike odds – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-jobs-strength-lifts-hike-odds-ing-202609041349</link>
-            <guid isPermaLink="false">85b9e302-2f82-4367-a489-7c4c97cd1c79</guid>
-            <pubDate>Fri, 04 Sep 2026 13:49:38 GMT</pubDate>
-            <description><![CDATA[ING’s James Knightley notes that stronger-than-expected US August jobs data, with 162,000 new positions and upward revisions, has increased the perceived likelihood of a September Federal Reserve rate hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
