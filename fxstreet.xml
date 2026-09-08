@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 08 Sep 2026 18:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 21:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Forex Today: China’s inflation looms as Lagarde tees up ECB decision]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-chinas-inflation-looms-as-lagarde-tees-up-ecb-decision-202609082014</link>
+            <guid isPermaLink="false">6f363ebc-7776-44c2-8941-96ea71310ebc</guid>
+            <pubDate>Tue, 08 Sep 2026 20:14:01 GMT</pubDate>
+            <description><![CDATA[Forex markets have remained subdued since the beginning of the week, with the US Dollar (USD) holding near 99.00 on Tuesday, as depicted by the US Dollar Index (DXY).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: PBoC fix slows downside pace – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-pboc-fix-slows-downside-pace-ocbc-202609081945</link>
+            <guid isPermaLink="false">baa19d0f-bc88-424e-8309-87eaa77a445f</guid>
+            <pubDate>Tue, 08 Sep 2026 19:45:38 GMT</pubDate>
+            <description><![CDATA[OCBC’s Christopher Wong reports USD/CNH briefly fell to its lowest level since February 2023 before rebounding after the PBoC set a higher-than-expected daily fix.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: Short term bias tilts higher against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-short-term-bias-tilts-higher-against-us-dollar-uob-202609081930</link>
+            <guid isPermaLink="false">124c7a92-141c-4994-8c63-cfce33e75919</guid>
+            <pubDate>Tue, 08 Sep 2026 19:30:54 GMT</pubDate>
+            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann note GBP/USD edged higher to around 1.3545, with no significant build-up in momentum but a modest upside tilt toward 1.3565 in the near term.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: Core inflation stays contained as goods soften – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/united-states-core-inflation-stays-contained-as-goods-soften-td-securities-202609081917</link>
+            <guid isPermaLink="false">9833fab4-7fb8-443b-ad32-17e57d4baaeb</guid>
+            <pubDate>Tue, 08 Sep 2026 19:17:12 GMT</pubDate>
+            <description><![CDATA[TD Securities economists Oscar Munoz, Eli Nir, Gennadiy Goldberg and Molly Brooks expect August Core CPI to rise 0.19% m/m, with services driving gains and core goods offsetting. They project Core CPI at 2.3% y/y and Headline CPI steady at 3.4% y/y.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso flatlines as traders brace for Mexico’s fiscal package]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-flatlines-as-traders-brace-for-mexicos-fiscal-package-202609081907</link>
+            <guid isPermaLink="false">4aedfbeb-7554-49bd-bff9-edae1d5cd18e</guid>
+            <pubDate>Tue, 08 Sep 2026 19:07:28 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso (MXN) remains unchanged against the US Dollar (USD) on Tuesday as market participants await the release of Mexico’s Fiscal package, which will be delivered to the Mexican Congress for approval.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Intervention risk and key levels in focus against US Dollar – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-key-levels-in-focus-against-us-dollar-scotiabank-202609081907</link>
+            <guid isPermaLink="false">1251db41-8fa6-4a09-b5c9-5a78cf410068</guid>
+            <pubDate>Tue, 08 Sep 2026 19:07:18 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note that the Japanese Yen (JPY) is modestly firmer, with USD/JPY extending losses through prior intervention lows near 155, a move seen as technically significant and potentially pointing to further Yen gains.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Franc: Sideways consolidation inside tight band against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-sideways-consolidation-inside-tight-band-against-us-dollar-uob-202609081857</link>
+            <guid isPermaLink="false">27878f99-0364-4bd4-a1b5-a6bdab807447</guid>
+            <pubDate>Tue, 08 Sep 2026 18:57:18 GMT</pubDate>
+            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann describe USD/CHF price action as largely directionless, with the pair closing near 0.8090 after trading in a narrow intraday range.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United Kingdom: Backloaded consolidation risks – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/united-kingdom-backloaded-consolidation-risks-deutsche-bank-202609081848</link>
+            <guid isPermaLink="false">103e753e-eb57-439d-95bf-27b84a517fbe</guid>
+            <pubDate>Tue, 08 Sep 2026 18:48:53 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank’s UK Chart Of The Week, authored by Sanjay Raja, Shreyas Gopal and Maui Brennan, argues that UK fiscal consolidation since the 2024 election is primarily tax-driven and heavily backloaded.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/United_Kingdom.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Mixed performance with Fed and trade risks – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-mixed-performance-with-fed-and-trade-risks-scotiabank-202609081833</link>
+            <guid isPermaLink="false">4238db4f-7cec-4433-9a6a-87b3e518d4e9</guid>
+            <pubDate>Tue, 08 Sep 2026 18:33:59 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight a mixed US Dollar (USD) as markets weigh rising Oil prices, Japanese Yen (JPY) strength, and escalating US trade tensions.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gold price wilts as Oil shock puts CPI in Fed crosshairs]]></title>
             <link>https://www.fxstreet.com/news/gold-price-wilts-as-oil-shock-puts-cpi-in-fed-crosshairs-202609081801</link>
@@ -174,78 +246,6 @@
             <pubDate>Tue, 08 Sep 2026 14:19:49 GMT</pubDate>
             <description><![CDATA[NZD/USD declines 0.37% on Tuesday, trading around 0.5855 at the time of writing. The New Zealand Dollar (NZD) remains under pressure following the release of mixed trade data from China, New Zealand’s largest trading partner.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Carry unwind boosts gains against US Dollar - DBS]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-carry-unwind-boosts-gains-against-us-dollar-dbs-202609081417</link>
-            <guid isPermaLink="false">203df975-f6fa-40cb-8686-78f0d5d90f95</guid>
-            <pubDate>Tue, 08 Sep 2026 14:17:44 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Philip Wee notes that the Japanese Yen (JPY) has become the best-performing US Dollar Index (DXY) currency in 2026, with USD/JPY falling below its end-2025 level of 156.70.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Loonie rally pauses before fresh gains - NBC]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-loonie-rally-pauses-before-fresh-gains-nbc-202609081406</link>
-            <guid isPermaLink="false">9e1c03d6-e9fb-4d6c-9f7a-b2b588098c5f</guid>
-            <pubDate>Tue, 08 Sep 2026 14:06:29 GMT</pubDate>
-            <description><![CDATA[National Bank of Canada's (NBC) Marion and Dahms highlight a strong Canadian Dollar (CAD) rally in Q3, driven by positive data and higher Oil and Gold prices, which pushed USD/CAD briefly below 1.38. They warn that new U.S. tariffs and trade uncertainty raise downside risks to Canadian growth.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Copper: Record prices and Chile supply issues – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/copper-record-prices-and-chile-supply-issues-commerzbank-202609081357</link>
-            <guid isPermaLink="false">88a3fd9b-1896-476b-b9de-a7cbd616e00f</guid>
-            <pubDate>Tue, 08 Sep 2026 13:57:57 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Norman Liebke highlights that LME 3‑month Copper has set a new all‑time high above USD 14,530 per ton, supported by strong US demand and anticipated import tariffs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/copper-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold trades lower despite weaker US Dollar as Fed hike bets weigh]]></title>
-            <link>https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126</link>
-            <guid isPermaLink="false">db6249ec-0b40-425a-928a-701da85af024</guid>
-            <pubDate>Tue, 08 Sep 2026 11:26:33 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) remains on the back foot during American trading hours on Tuesday, even as the US Dollar (USD) remains on the defensive. Rising Oil prices and expectations of a Federal Reserve (Fed) rate hike weigh on the precious metal.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazilian Real: Election risks keep pressure on BRL against US Dollar – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/brazilian-real-election-risks-keep-pressure-on-brl-against-us-dollar-td-securities-202609081349</link>
-            <guid isPermaLink="false">be98e937-c9a3-4548-98aa-bb393e8dc443</guid>
-            <pubDate>Tue, 08 Sep 2026 13:49:13 GMT</pubDate>
-            <description><![CDATA[TD Securities highlights that BRL faces elevated election-related risks, with USD/BRL having tested its 200-day SMA resistance over the past month. Drawing parallels with 2014, the bank sees risks skewed toward higher USD/BRL as markets remain concerned about Brazil’s fiscal outlook.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Brazil.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Strong jobs and CPI risks – BNY]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-strong-jobs-and-cpi-risks-bny-202609081333</link>
-            <guid isPermaLink="false">5bf14695-189d-48c0-b16c-245ad0d25689</guid>
-            <pubDate>Tue, 08 Sep 2026 13:33:38 GMT</pubDate>
-            <description><![CDATA[BNY Markets strategist John Velis says a strong United States (US) jobs report has pushed expectations for a September Federal Reserve (Fed) rate hike back above 60%, despite Governor Christopher Waller’s more cautious comments.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro holds steady as US Dollar struggles for traction]]></title>
-            <link>https://www.fxstreet.com/news/euro-holds-steady-as-us-dollar-struggles-for-traction-202609081330</link>
-            <guid isPermaLink="false">56fb58de-d28b-4437-bb50-228bda496f79</guid>
-            <pubDate>Tue, 08 Sep 2026 13:30:55 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades virtually flat near 1.1623 during American trading hours on Tuesday. The US Dollar (USD) struggles to hold its earlier gains, helping the Euro (EUR) recover from its intraday low.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: Clients see higher peak and later cuts – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-clients-see-higher-peak-and-later-cuts-deutsche-bank-202609081320</link>
-            <guid isPermaLink="false">b51408cd-7a88-4106-9227-59ef1d5d8e04</guid>
-            <pubDate>Tue, 08 Sep 2026 13:20:27 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank’s Mark Wall and Michael Kirker report that survey respondents expect the European Central Bank (ECB) to continue hiking, with a strong bias toward another move in September and a terminal rate between 2.50% and 3.00%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Crude rally and CPI risks shape path – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-crude-rally-and-cpi-risks-shape-path-bbh-202609081308</link>
-            <guid isPermaLink="false">78d8f6c3-c95e-4318-b906-5bb4da6745b5</guid>
-            <pubDate>Tue, 08 Sep 2026 13:08:03 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that Brent Oil’s surge toward $100 is pressuring stocks and bonds while giving the Dollar a modest lift. However, he stresses that Friday’s US August Consumer Price Index (CPI) will be decisive for the Federal Reserve’s September 16 meeting.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
