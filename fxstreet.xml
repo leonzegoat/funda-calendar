@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 07 Sep 2026 22:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 00:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euro holds gains above 1.1600 on ECB tightening prospects ]]></title>
+            <link>https://www.fxstreet.com/news/euro-holds-gains-above-11600-on-ecb-tightening-prospects-202609080039</link>
+            <guid isPermaLink="false">52b39973-9a2e-4fcd-bb6c-28f9c7a056ec</guid>
+            <pubDate>Tue, 08 Sep 2026 00:39:21 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair trades with mild gains around 1.1625 during the early Asian session on Tuesday. The Euro (EUR) strengthens against the US Dollar (USD) amid expectations of a rate hike from the European Central Bank (ECB).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bullish-chart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold declines to near $4,400 as robust US jobs data lifts Fed hike odds ]]></title>
+            <link>https://www.fxstreet.com/news/gold-declines-to-near-4-400-as-robust-us-jobs-data-lifts-fed-hike-odds-202609072326</link>
+            <guid isPermaLink="false">b3ad0fd7-cbb0-4aa2-8431-d35c9689d2a2</guid>
+            <pubDate>Mon, 07 Sep 2026 23:26:33 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) drifts lower to near $4,410 during the early Asian session on Tuesday. The precious metal extends the decline as a stronger-than-expected US Nonfarm Payrolls (NFP) report for August bolsters expectations for a Federal Reserve (Fed) interest rate hike this month.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Citi Survey sees Banxico frozen as Peso holds below 18.00]]></title>
+            <link>https://www.fxstreet.com/news/citi-survey-sees-banxico-frozen-as-peso-holds-below-1800-202609072304</link>
+            <guid isPermaLink="false">25bd99fe-5629-4d7c-885c-cabc1fb44002</guid>
+            <pubDate>Mon, 07 Sep 2026 23:04:52 GMT</pubDate>
+            <description><![CDATA[Citi Mexico released its September “Expectations Survey,” in which most private economists expect the Bank of Mexico (Banxico) to hold rates unchanged, while the exchange rate is forecast to end below the 18.00 threshold by the end of 2026.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai Baht: Recent THB gains face headwinds – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/thai-baht-recent-thb-gains-face-headwinds-ocbc-202609072256</link>
+            <guid isPermaLink="false">63e1cd86-daa3-4387-aeef-9c54a2296f39</guid>
+            <pubDate>Mon, 07 Sep 2026 22:56:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Christopher Wong notes that recent Thai Baht (THB) strength may slow as external conditions turn less supportive. Governor Vitai’s comments suggest further rate cuts are unlikely without another shock, tempering easing expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar rides thin-trading lift as Fed test looms]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-rides-thin-trading-lift-as-fed-test-looms-202609072253</link>
+            <guid isPermaLink="false">7cc90638-d795-4fff-9fe5-8b32fd6d92ff</guid>
+            <pubDate>Mon, 07 Sep 2026 22:53:16 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar climbed for the fourth straight day, up 0.22% against the US Dollar, amid thin volumes as US financial markets were closed in observance of the Labour Day Holiday. The AUD/USD trades at 0.7218, after bouncing off daily lows of 0.7194.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Chinese Yuan: Hong Kong’s offshore gateway role expands – Commerzbank]]></title>
             <link>https://www.fxstreet.com/news/chinese-yuan-hong-kongs-offshore-gateway-role-expands-commerzbank-202609072217</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 07 Sep 2026 15:12:59 GMT</pubDate>
             <description><![CDATA[West Texas Intermediate (WTI) Oil edges higher on Monday as fresh attacks by the United States and Iran over the weekend add to already elevated supply concerns from the months-long war in the Middle East. At the time of writing, WTI trades around $91.15 per barrel, its highest level since July 24.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: September BoJ decision shapes path – HSBC]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-september-boj-decision-shapes-path-hsbc-202609071503</link>
-            <guid isPermaLink="false">7b00d4fb-8dcb-49ab-a263-f1c9270c77be</guid>
-            <pubDate>Mon, 07 Sep 2026 15:03:17 GMT</pubDate>
-            <description><![CDATA[HSBC highlights that markets now expect the Bank of Japan (BoJ) to tighten policy more quickly, with overnight index swaps implying about 75bp of cumulative hikes by April 2027 and assigning odds to a move at the 18 September meeting.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of Canada: Rates outlook and inflation risks – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-canada-rates-outlook-and-inflation-risks-td-securities-202609071441</link>
-            <guid isPermaLink="false">e83a517e-f97b-41ce-853c-51a18ddf0cf8</guid>
-            <pubDate>Mon, 07 Sep 2026 14:41:09 GMT</pubDate>
-            <description><![CDATA[TD Securities economists Robert Both and Emma Lawrence highlight that the Bank of Canada adopted a more hawkish tone, emphasizing upside inflation risks even as core inflation stays subdued.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Eurozone: Resilient growth, worrying inflation – ABN AMRO]]></title>
-            <link>https://www.fxstreet.com/news/eurozone-resilient-growth-worrying-inflation-abn-amro-202609071424</link>
-            <guid isPermaLink="false">69a7c954-4ab1-4320-8dea-4990edb663cf</guid>
-            <pubDate>Mon, 07 Sep 2026 14:24:02 GMT</pubDate>
-            <description><![CDATA[ABN AMRO economists Bill Diviney and Jan-Paul van de Kerke expect Eurozone growth to remain resilient despite a renewed energy shock, supported by German fiscal spending and solid underlying activity.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EuropeMap.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Growth pace cools after hot start – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-growth-pace-cools-after-hot-start-deutsche-bank-202609071411</link>
-            <guid isPermaLink="false">df17a2e6-af1d-440d-ab5d-d82b7fd402e5</guid>
-            <pubDate>Mon, 07 Sep 2026 14:11:37 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank economists Sanjay Raja and Maui Brennan expect United Kingdom (UK) Gross Domestic Product (GDP) to have slipped slightly in July after strong growth earlier in 2026. They forecast a modest monthly contraction led by services and production, with construction only marginally higher.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: CPI outcome to steer Fed path – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-fed-path-bbh-202609071357</link>
-            <guid isPermaLink="false">6b50b0ce-3632-4651-b7da-a94dc488c7b2</guid>
-            <pubDate>Mon, 07 Sep 2026 13:57:14 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) weakened on broad Japanese Yen strength before partially recovering as strong US August payrolls revived expectations for a September Fed hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
