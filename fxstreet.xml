@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 08 Sep 2026 21:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 23:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Japanese Yen spikes on a generational wage print and balks by the closing bell]]></title>
+            <link>https://www.fxstreet.com/news/the-japanese-yen-spikes-on-a-generational-wage-print-and-balks-by-the-closing-bell-202609082315</link>
+            <guid isPermaLink="false">165e7e4c-06ce-4af7-802e-79d787454407</guid>
+            <pubDate>Tue, 08 Sep 2026 23:15:00 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades just under 154.00, roughly 40 pips lower on Tuesday after a 147-pip round trip.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Pound sits still through a hawkish hearing and the priciest gilt sale]]></title>
+            <link>https://www.fxstreet.com/news/the-pound-sits-still-through-a-hawkish-hearing-and-the-priciest-gilt-sale-202609082221</link>
+            <guid isPermaLink="false">14b44f02-09fe-42fb-8744-6d807b47ba4d</guid>
+            <pubDate>Tue, 08 Sep 2026 22:21:05 GMT</pubDate>
+            <description><![CDATA[GBP/USD trades just under 1.3550 after a session that spanned 40 pips and returned two-tenths of a pip.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: Hammer teases rebound after 650-pip slide]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-hammer-teases-rebound-after-650-pip-slide-202609082231</link>
+            <guid isPermaLink="false">f1fbc0d3-b369-4699-800d-e9cfc34d1726</guid>
+            <pubDate>Tue, 08 Sep 2026 22:31:06 GMT</pubDate>
+            <description><![CDATA[The USD/JPY continued to fall for the second straight day, losing 0.40%, but found support around 153.00, with the pair set to end the session at around 153.75.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: Head-and-Shoulders risk builds below $67]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-head-and-shoulders-risk-builds-below-67-202609082205</link>
+            <guid isPermaLink="false">4dbff5cc-c3ee-42c6-b2df-77653ad334a2</guid>
+            <pubDate>Tue, 08 Sep 2026 22:05:00 GMT</pubDate>
+            <description><![CDATA[Silver price struggles to clear a key technical resistance near $67.00, retraces to two-day lows at $65.31, and records a 1.42% loss. The non-yielding metal failed to sustain its early gains amid elevated US bond yields, driven by rising inflationary pressures.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Forex Today: China’s inflation looms as Lagarde tees up ECB decision]]></title>
             <link>https://www.fxstreet.com/news/forex-today-chinas-inflation-looms-as-lagarde-tees-up-ecb-decision-202609082014</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 08 Sep 2026 14:49:13 GMT</pubDate>
             <description><![CDATA[Bank of England (BoE) Governor Andrew Bailey said on Tuesday that he does not think the United Kingdom (UK) economy is on the verge of a recession, with the latest data showing slightly stronger activity, according to Reuters.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Andrew-Bailey_3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[South African Rand: Gold prices support ZAR against US Dollar – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/south-african-rand-gold-prices-support-zar-against-us-dollar-td-securities-202609081447</link>
-            <guid isPermaLink="false">5fc603a1-7fb5-4cd1-a95c-e144d04368b2</guid>
-            <pubDate>Tue, 08 Sep 2026 14:47:17 GMT</pubDate>
-            <description><![CDATA[TD Securities remains constructive on South African Rand (ZAR), noting that domestic headwinds have failed to generate sustained weakness and that USD/ZAR’s downtrend remains intact.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: ECB expectations support EUR against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/euro-ecb-expectations-support-eur-against-us-dollar-scotiabank-202609081432</link>
-            <guid isPermaLink="false">3d220812-1be6-4f73-aa47-40dd49f4d2da</guid>
-            <pubDate>Tue, 08 Sep 2026 14:32:53 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report that the Euro (EUR) is little changed near the low 1.16s as markets await Thursday’s European Central Bank (ECB) meeting, where a 25 bps hike and a hawkish tone are anticipated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: Bulls struggle below the 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-bulls-struggle-below-the-100-day-sma-202609081423</link>
-            <guid isPermaLink="false">58d17c55-195a-41ac-9f28-577bf446e224</guid>
-            <pubDate>Tue, 08 Sep 2026 14:23:47 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) pulls back on Tuesday after failing to hold its earlier advance. At the time of writing, the metal trades around $66 after reaching an intraday high near $67.19.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar retreats as Chinese imports fall short of expectations]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-retreats-as-chinese-imports-fall-short-of-expectations-202609081419</link>
-            <guid isPermaLink="false">cc14b449-7b7b-4617-ba38-9aa305a1d1df</guid>
-            <pubDate>Tue, 08 Sep 2026 14:19:49 GMT</pubDate>
-            <description><![CDATA[NZD/USD declines 0.37% on Tuesday, trading around 0.5855 at the time of writing. The New Zealand Dollar (NZD) remains under pressure following the release of mixed trade data from China, New Zealand’s largest trading partner.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
