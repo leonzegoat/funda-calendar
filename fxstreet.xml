@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 09 Sep 2026 21:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 23:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold rebounds above $4,400 on weaker Dollar, US PPI inflation data looms]]></title>
+            <link>https://www.fxstreet.com/news/gold-rebounds-above-4-400-on-weaker-dollar-us-ppi-inflation-data-looms-202609092322</link>
+            <guid isPermaLink="false">e9355db5-0aa5-41cd-9521-eeec7c01755e</guid>
+            <pubDate>Wed, 09 Sep 2026 23:22:42 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) recovers to near $4,400, snapping the three-day losing streak during the early Asian session on Thursday. The precious metal gains ground amid a weaker US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar flatlines as US yield ripples meet RBA hawks]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-flatlines-as-us-yield-ripples-meet-rba-hawks-202609092136</link>
@@ -36,7 +44,7 @@
             <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bears-eye-20700-as-downtrend-holds-202609092050</link>
             <guid isPermaLink="false">da8ae4ac-c263-4ec0-ae77-3c147f8a4bfe</guid>
             <pubDate>Wed, 09 Sep 2026 20:50:09 GMT</pubDate>
-            <description><![CDATA[GBP/JPY falls for the third straight day, but it fails to register a lower low, an indication that buyers are stepping in but lack the strength to push the exchange rate past Wednesday’s opening price, leaving the pair near this week's lows. The cross-pair trades at 208.05, down 0.22%.]]></description>
+            <description><![CDATA[GBP/JPY falls for the third straight day on Wednesday, but it fails to register a lower low, suggesting buyers are stepping in but lack the strength to push the exchange rate past the opening price, leaving the pair near this week's lows. The cross-pair trades at 208.05, down 0.22%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-sma-cluster-wobbles-as-us-yields-bite-202609092034</link>
             <guid isPermaLink="false">f9dbb5e4-5e8b-4800-992a-41cf7a576c60</guid>
             <pubDate>Wed, 09 Sep 2026 20:34:03 GMT</pubDate>
-            <description><![CDATA[The New Zealand Dollar extends its losses against the US Dollar, down 0.30% as the Greenback gets underpinned by rising US Treasury yields, with the 10-year reaching its highest level since 2023. The NZD/USD trades at 0.5835.]]></description>
+            <description><![CDATA[The New Zealand Dollar (NZD) extends its losses against the US Dollar (USD), down 0.30% on Wednesday as the Greenback gets underpinned by rising US Treasury yields, with the 10-year reaching its highest level since 2023. The NZD/USD pair trades at 0.5835.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Sep 2026 14:43:20 GMT</pubDate>
             <description><![CDATA[ING analysts Muhammet Mercan, Frantisek Taborsky and James Wilson say normalising liquidity and a lower effective funding rate have pushed market pricing closer to their Central Bank of Turkey rate view for 2026.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/turkish-lira-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Inflation data key catalyst – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-inflation-data-key-catalyst-td-securities-202609091430</link>
-            <guid isPermaLink="false">8aa54dd6-fcb2-4219-b5e7-398ba91cde19</guid>
-            <pubDate>Wed, 09 Sep 2026 14:30:22 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek say Gold and broader precious metals have held firm despite higher near-term Fed hike probabilities.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
