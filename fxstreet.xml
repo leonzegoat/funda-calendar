@@ -4,9 +4,25 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 10 Sep 2026 19:58:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 22:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand Dollar steadies after two-month low slide]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-steadies-after-two-month-low-slide-202609102145</link>
+            <guid isPermaLink="false">d276bb2f-906f-49c3-904c-0b2f2ce1dd8d</guid>
+            <pubDate>Thu, 10 Sep 2026 21:45:24 GMT</pubDate>
+            <description><![CDATA[NZD/USD is clinging to the 0.5800 mark at the start of the Asian session on Friday after dipping to a near two-month low around 0.5797 earlier in the American session.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI blasts past $100 as Red Sea, Hormuz risks collide]]></title>
+            <link>https://www.fxstreet.com/news/wti-blasts-past-100-as-red-sea-hormuz-risks-collide-202609102126</link>
+            <guid isPermaLink="false">ecd8aef6-9fdf-489a-8779-f98b4226f35d</guid>
+            <pubDate>Thu, 10 Sep 2026 21:26:35 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI), the US crude Oil benchmark, rises more than 7% as attacks in the Middle East intensify, driving WTI above the $ 100-per-barrel barrier for the first time since May 2026. At the time of writing, WTI trades at $103.86 after bouncing off lows of $95.37.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Forex Today: US Dollar rebounds on hot PPI ahead of US CPI]]></title>
             <link>https://www.fxstreet.com/news/forex-today-us-dollar-rebounds-on-hot-ppi-ahead-of-us-cpi-202609101955</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 10 Sep 2026 13:17:08 GMT</pubDate>
             <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek note that Gold is outperforming other precious metals even as higher energy prices and rising Fed hike expectations weigh on the complex.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lagarde speech: Can't anticipate what will be the next move]]></title>
-            <link>https://www.fxstreet.com/news/lagarde-speech-cant-anticipate-what-will-be-the-next-move-202609101314</link>
-            <guid isPermaLink="false">81a4f05f-181b-48d1-b54a-e2b2f4c08152</guid>
-            <pubDate>Thu, 10 Sep 2026 13:14:22 GMT</pubDate>
-            <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to raise key rates by 25 basis points (bps) at the September policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Christine-Legarde_3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI US Oil rebounds toward $97 as US-Iran conflict escalates]]></title>
-            <link>https://www.fxstreet.com/news/wti-us-oil-rebounds-toward-97-as-us-iran-conflict-escalates-202609101306</link>
-            <guid isPermaLink="false">ba92695a-e599-4f9a-b56e-7aa2fdd0fe71</guid>
-            <pubDate>Thu, 10 Sep 2026 13:06:46 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil rises sharply on Thursday, trading around $97.00 per barrel at the time of writing, up 2.93% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
