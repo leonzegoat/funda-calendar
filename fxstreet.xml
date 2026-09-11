@@ -4,9 +4,89 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 11 Sep 2026 17:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 20:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taiwan Dollar: CBC seen on hold before December hike – DBS]]></title>
+            <link>https://www.fxstreet.com/news/taiwan-dollar-cbc-seen-on-hold-before-december-hike-dbs-202609112041</link>
+            <guid isPermaLink="false">25a81214-73ed-48a7-96b5-960bdca3e4d0</guid>
+            <pubDate>Fri, 11 Sep 2026 20:41:00 GMT</pubDate>
+            <description><![CDATA[DBS Group Research expects Taiwan’s central bank to keep its policy rate unchanged on September 17, before raising it to 2.125% in December.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crude Oil buckles early and grinds back on talk of a Hormuz arrangement]]></title>
+            <link>https://www.fxstreet.com/news/crude-oil-buckles-early-and-grinds-back-on-talk-of-a-hormuz-arrangement-202609112019</link>
+            <guid isPermaLink="false">4bbf017e-d779-4dc1-84c3-53e6358ba064</guid>
+            <pubDate>Fri, 11 Sep 2026 20:19:56 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) trades near $97.00, about 3.4% lower and on track for its first down session in five.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Bullish bias fades against dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-bullish-bias-fades-against-dollar-uob-202609111956</link>
+            <guid isPermaLink="false">bcb8d83f-248e-45f3-b0eb-f5dc0d954c6b</guid>
+            <pubDate>Fri, 11 Sep 2026 19:56:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann reports that USD/CNH has bounced sharply to 6.7153, with intraday gains likely capped near 6.7200.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: Neckline failure keeps bears in control]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-neckline-failure-keeps-bears-in-control-202609111953</link>
+            <guid isPermaLink="false">8d82b9c8-855d-41bb-8d17-b248db2dc1ab</guid>
+            <pubDate>Fri, 11 Sep 2026 19:53:25 GMT</pubDate>
+            <description><![CDATA[Silver price registers gains of over 1%, yet it is trading below the ‘head and shoulders’ neckline, an indication that the overall trend in the short-term may be tilted to the downside. The XAG/USD trades at $64.24, after bouncing off daily lows of $62.94.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forecasting the upcoming week: Fed, BoE and BoJ headline a central bank triple-header]]></title>
+            <link>https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-headline-a-central-bank-triple-header-202609111952</link>
+            <guid isPermaLink="false">a23aa1e9-9196-4ead-9283-fe30bf112e32</guid>
+            <pubDate>Fri, 11 Sep 2026 19:52:21 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) closes the week near the 99.00 zone, little changed on the day and holding the ground it clawed back after a brief wobble on Thursday's US inflation release.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of Japan: Gradual path toward neutral rate – ING]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-japan-gradual-path-toward-neutral-rate-ing-202609111924</link>
+            <guid isPermaLink="false">92f0e454-67de-4ea5-8c9f-b32aa5367731</guid>
+            <pubDate>Fri, 11 Sep 2026 19:24:00 GMT</pubDate>
+            <description><![CDATA[ING analysts Chris Turner and Padhraic Garvey argue the Bank of Japan is likely to hike 25bp to 1.25% and then proceed cautiously.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Treasury yields ease after CPI as Fed hike risks linger]]></title>
+            <link>https://www.fxstreet.com/news/us-treasury-yields-ease-after-cpi-but-fed-hike-risks-linger-202609111852</link>
+            <guid isPermaLink="false">1c39cdcf-61d0-4e40-913a-c6c9cb12b1af</guid>
+            <pubDate>Fri, 11 Sep 2026 18:52:24 GMT</pubDate>
+            <description><![CDATA[US Treasury yields fall during the North American session on Friday following the release of US inflation data, but are poised to finish the week higher. The US 10-year Treasury yield is down one basis point to 4.951% but has gained over 16 basis points, or 3.49%, this week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Ondo-finance_Bull.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Asia FX: Resilience at risk as US yields climb – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/asia-fx-resilience-at-risk-as-us-yields-climb-mufg-202609111840</link>
+            <guid isPermaLink="false">eb877672-f30e-4783-93ad-69a6f0afabee</guid>
+            <pubDate>Fri, 11 Sep 2026 18:40:53 GMT</pubDate>
+            <description><![CDATA[MUFG’s Michael Wan notes that Asia FX and rates have stayed relatively stable despite sharply higher US Treasury yields, but he warns this resilience may not last in the near term.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen rises as the Greenback's inflation bounce fades]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-rises-as-the-greenbacks-inflation-bounce-fades-202609111837</link>
+            <guid isPermaLink="false">657065fd-81c6-4df5-bc61-6a360aa1bc73</guid>
+            <pubDate>Fri, 11 Sep 2026 18:37:47 GMT</pubDate>
+            <description><![CDATA[USD/JPY is trading around 153.70 on Friday, down for the day after briefly spiking above 154.50 following the US inflation release.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[United States Dollar Index retreats from post-CPI high, all eyes on Fed]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-post-cpi-high-all-eyes-on-fed-202609111808</link>
+            <guid isPermaLink="false">502e57d1-f645-476d-8e4f-31c9729b43eb</guid>
+            <pubDate>Fri, 11 Sep 2026 18:08:27 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) reverses earlier gains on Friday as a pullback in longer-dated US Treasury yields outweighs support from the latest US Consumer Price Index (CPI) report, which strengthened expectations that the Federal Reserve (Fed) will raise interest rates next week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold price dodges CPI shock as US yields hand bulls lifeline]]></title>
             <link>https://www.fxstreet.com/news/gold-price-dodges-cpi-shock-as-us-yields-hand-bulls-lifeline-202609111731</link>
@@ -166,86 +246,6 @@
             <pubDate>Fri, 11 Sep 2026 13:04:46 GMT</pubDate>
             <description><![CDATA[USD/JPY falls 0.54% on Friday and trades around 153.60 at the time of writing.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro steadies against US Dollar after volatile reaction to US CPI]]></title>
-            <link>https://www.fxstreet.com/news/euro-steadies-against-us-dollar-after-volatile-reaction-to-us-cpi-202609111302</link>
-            <guid isPermaLink="false">3a6a44f6-f1b0-4e54-afbd-23c06948230e</guid>
-            <pubDate>Fri, 11 Sep 2026 13:02:26 GMT</pubDate>
-            <description><![CDATA[EUR/USD reverses earlier losses on Friday after the latest United States (US) Consumer Price Index (CPI) report came broadly in line with expectations and failed to trigger a strong market reaction.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Gradual easing as dark transits grow – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/oil-gradual-easing-as-dark-transits-grow-commerzbank-202609111244</link>
-            <guid isPermaLink="false">0fad357c-f27a-4149-9501-0e4d711462c5</guid>
-            <pubDate>Fri, 11 Sep 2026 12:44:29 GMT</pubDate>
-            <description><![CDATA[Commerzbank strategists argue that Brent crude should gradually retreat toward pre-war levels as covert tanker “dark transits” and diversions restore Gulf supply.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: US CPI inflation stays unchanged at 3.4% in August as anticipated]]></title>
-            <link>https://www.fxstreet.com/news/us-core-cpi-data-set-to-ease-in-august-as-markets-reprice-fed-september-rate-decision-202609110830</link>
-            <guid isPermaLink="false">c384baf3-4eaa-4701-a464-7414bc3c35d2</guid>
-            <pubDate>Fri, 11 Sep 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[Annual inflation in the United States (US), as measured by the change in the Consumer Price Index (CPI), held steady at 3.4% in August, the US Bureau of Labor Statistics (BLS) reported on Friday. This print came in line with the market expectation. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI drops more than 4% below $97 as profit-taking kicks in, Iran tensions limit losses]]></title>
-            <link>https://www.fxstreet.com/news/wti-drops-more-than-4-below-97-as-profit-taking-kicks-in-iran-tensions-limit-losses-202609111230</link>
-            <guid isPermaLink="false">dc855c26-acd3-45ff-835f-d5a11ec6d884</guid>
-            <pubDate>Fri, 11 Sep 2026 12:30:46 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) US Oil drops 4.54% on Friday and trades around $96.00 at the time of writing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: ECB hawkish path supports pair – BBH]]></title>
-            <link>https://www.fxstreet.com/news/euro-ecb-hawkish-path-supports-pair-bbh-202609111224</link>
-            <guid isPermaLink="false">d09ed889-ec28-4f8a-8154-8c1ac50cb5d7</guid>
-            <pubDate>Fri, 11 Sep 2026 12:24:27 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports EUR/USD is trading heavy around 1.1600 after a hawkish 25 bps European Central Bank (ECB) hike to 2.50%. President Lagarde called the move a “no brainer” and signaled more hikes as inflation is seen above target for an extended period.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Strength builds on yields – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-strength-builds-on-yields-ing-202609111205</link>
-            <guid isPermaLink="false">b4d31e47-1c32-4508-acb8-bc2702ce684c</guid>
-            <pubDate>Fri, 11 Sep 2026 12:05:42 GMT</pubDate>
-            <description><![CDATA[ING’s Francesco Pesole notes that the Dollar is benefiting as global bond yields and Oil prices rise, with the USD re-establishing a positive correlation with long-end US yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP Price Forecast: Neutral bias holds as 0.8600 caps the upside]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-price-forecast-neutral-bias-holds-as-08600-caps-the-upside-202609111204</link>
-            <guid isPermaLink="false">0f4c30ef-ce3d-47b9-ac73-94125b313996</guid>
-            <pubDate>Fri, 11 Sep 2026 12:04:38 GMT</pubDate>
-            <description><![CDATA[EUR/GBP edges lower on Friday, drifting toward the lower end of the range seen over the past week.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Yield pressure risks fresh losses against US Dollar – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-yield-pressure-risks-fresh-losses-against-us-dollar-ocbc-202609111159</link>
-            <guid isPermaLink="false">cd575e38-2d5c-4b46-a958-149dc96fa426</guid>
-            <pubDate>Fri, 11 Sep 2026 11:59:09 GMT</pubDate>
-            <description><![CDATA[OCBC’s Christopher Wong highlights a rebound in USD/JPY as higher US Treasury yields, stronger US Dollar (USD) and elevated Oil prices support the pair, even as expectations for further BOJ normalisation cap upside.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee cracks this week amid higher oil prices, US bond yields]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-extends-decline-on-fresh-escalation-in-hawkish-fed-bets-202609110534</link>
-            <guid isPermaLink="false">af9a8fdf-8052-411d-afb0-ef42aebb3626</guid>
-            <pubDate>Fri, 11 Sep 2026 05:34:21 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) extends its downward spiral against the US Dollar (USD) for the fourth trading day on Friday, with the USD/INR pair rising to near 95.80.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro retreats below 1.1600, Dollar appreciates heading into the US CPI release ]]></title>
-            <link>https://www.fxstreet.com/news/euro-retreats-below-11600-dollar-appreciates-heading-into-the-us-cpi-release-202609111142</link>
-            <guid isPermaLink="false">d335a58d-1209-42d8-a1e6-e8e33e657553</guid>
-            <pubDate>Fri, 11 Sep 2026 11:42:55 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) accelerates its reversal against the US Dollar (USD) on Friday, as the impulse from a hawkish hike by the European Central Bank (ECB) fades.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/inflation-03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
