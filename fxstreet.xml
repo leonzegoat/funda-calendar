@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 11 Sep 2026 20:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 23:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-doji-high-guards-bulls-as-fed-bets-bite-202609112201</link>
+            <guid isPermaLink="false">b3d0ceee-4e94-4606-8dcf-c9382f089602</guid>
+            <pubDate>Fri, 11 Sep 2026 22:01:02 GMT</pubDate>
+            <description><![CDATA[The AUD/USD ended the day in the green but finished the week 0.45% lower amid growing bets that the Fed will raise rates next week, boosting the US Dollar. Nevertheless, on Friday, the pair traded at 0.7171, up a decent 0.38%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-downside-bias-capped-with-12705-against-us-dollar-uob-202609112121</link>
+            <guid isPermaLink="false">eb2e2a42-3e99-4d8e-b82c-be42612da300</guid>
+            <pubDate>Fri, 11 Sep 2026 21:21:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann note that USD/SGD has rebounded strongly, with short-term momentum pointing higher but key resistance at 1.2705 expected to limit gains.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Bulls break 0.8150 as CPI fuels Fed bets]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-break-08150-as-cpi-fuels-fed-bets-202609112101</link>
+            <guid isPermaLink="false">19a3b5b7-7c72-47a0-ba36-d16f613deaad</guid>
+            <pubDate>Fri, 11 Sep 2026 21:01:46 GMT</pubDate>
+            <description><![CDATA[The USDCHF climbs over 0.40% on Friday after US consumer inflation data, coupled with Thursday's PPI, pushed investors to price in a Fed interest rate hike at next week's meeting. The pair trades at 0.8165 after rebounding from daily lows of 0.8124.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Taiwan Dollar: CBC seen on hold before December hike – DBS]]></title>
             <link>https://www.fxstreet.com/news/taiwan-dollar-cbc-seen-on-hold-before-december-hike-dbs-202609112041</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 11 Sep 2026 13:43:02 GMT</pubDate>
             <description><![CDATA[ING’s Frantisek Taborsky notes that the National Bank of Poland maintained a dovish stance, signalling no need to adjust rates potentially until mid-next year despite rising inflation.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: Hawkish rate path supports Euro – UOB]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-hawkish-rate-path-supports-euro-uob-202609111326</link>
-            <guid isPermaLink="false">84a34cc4-a340-4458-9a69-846e6fcd18b0</guid>
-            <pubDate>Fri, 11 Sep 2026 13:26:44 GMT</pubDate>
-            <description><![CDATA[UOB economist Lee Sue Ann notes that the European Central Bank (ECB) delivered a widely expected 25 bps hike but signalled a more hawkish stance as inflation risks from the Middle East-driven energy shock remain elevated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of Japan: Hawkish hike prospects grow – DBS]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-japan-hawkish-hike-prospects-grow-dbs-202609111316</link>
-            <guid isPermaLink="false">35a92798-b542-440b-83f9-229d0ab6ca36</guid>
-            <pubDate>Fri, 11 Sep 2026 13:16:17 GMT</pubDate>
-            <description><![CDATA[DBS Group Research analysts Taimur Baig and Chang Wei Liang expect the Bank of Japan (BoJ) to hike rates by 25 bps at its September 17–18 meeting, citing solid Gross Domestic Product (GDP) growth, stronger wages and inflation near the 2% target.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen strengthens as US inflation fails to sustain Dollar rebound]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-strengthens-as-us-inflation-fails-to-sustain-dollar-rebound-202609111304</link>
-            <guid isPermaLink="false">60436453-dcab-42cf-b4f5-8e7d49e10247</guid>
-            <pubDate>Fri, 11 Sep 2026 13:04:46 GMT</pubDate>
-            <description><![CDATA[USD/JPY falls 0.54% on Friday and trades around 153.60 at the time of writing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
