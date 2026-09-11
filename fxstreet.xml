@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 10 Sep 2026 22:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 00:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar slides as US yields jump before pivotal CPI]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-slides-as-us-yields-jump-before-pivotal-cpi-202609102348</link>
+            <guid isPermaLink="false">5f1f3f54-2997-4984-bc41-1cf88f6a4314</guid>
+            <pubDate>Thu, 10 Sep 2026 23:48:04 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar ended Thursday’s session with a 0.80% loss against the US Dollar after US producer inflation exceeded estimates, triggering pricing for a more hawkish Federal Reserve. The AUD/USD trades at 0.7159 after reaching a peak of 0.7223.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold falls below $4,350 as rising oil prices, US PPI reinforces Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-falls-below-4-350-as-rising-oil-prices-us-ppi-reinforces-fed-hike-bets-202609102336</link>
+            <guid isPermaLink="false">7a69e635-7513-492a-9e90-b8e41125e22f</guid>
+            <pubDate>Thu, 10 Sep 2026 23:36:31 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) tumbles to near $4,320 during the early Asian session on Friday. The precious metal faces some selling pressure after the US Producer Price Index (PPI) inflation data and rising oil prices increased bets for a Federal Reserve (Fed) rate hike.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/JPY Price Forecast: Yen strength keeps 110.00 in sight]]></title>
+            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-yen-strength-keeps-11000-in-sight-202609102252</link>
+            <guid isPermaLink="false">93a1db16-cb2c-4773-9af4-7a1b8cc88e9a</guid>
+            <pubDate>Thu, 10 Sep 2026 22:52:43 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar weakens versus the Japanese Yen as risk-appetite shifted sour due to the escalation of the US-Iran conflict, which has broadened to a fight between Yemen’s Houthis vs Saudi Arabia, who fight for control of the Red Sea. The AUD/JPY exchange rate is 110.53, down 0.27%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Zealand Dollar steadies after two-month low slide]]></title>
             <link>https://www.fxstreet.com/news/new-zealand-dollar-steadies-after-two-month-low-slide-202609102145</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 10 Sep 2026 13:43:37 GMT</pubDate>
             <description><![CDATA[National Bank of Canada's (NBC) Kyle Dahms highlights that Copper has reached a fresh nominal record, driven by AI-related data-centre demand, electricity grid expansion, tariff-driven stockpiling and supply disruptions.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/copper-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ECB Press Conference: Lagarde comments on policy outlook after raising key rates by 25 bps]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-to-resume-interest-rate-hikes-in-september-as-inflation-energy-risks-rise-202609100800</link>
-            <guid isPermaLink="false">1f743f2c-e958-48a0-9ae9-ae8bee0886ac</guid>
-            <pubDate>Thu, 10 Sep 2026 08:00:00 GMT</pubDate>
-            <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to raise key rates by 25 basis points (bps) at the September policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lagarde speech: Surprised by economic resilience]]></title>
-            <link>https://www.fxstreet.com/news/lagarde-speech-surprised-by-economic-resilience-202609101324</link>
-            <guid isPermaLink="false">41256e32-08a6-426c-a2d9-5383f045810a</guid>
-            <pubDate>Thu, 10 Sep 2026 13:24:07 GMT</pubDate>
-            <description><![CDATA[Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to raise key rates by 25 basis points (bps) at the September policy meeting and responds to questions from the press.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: Near-term selling may only delay next leg higher - TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-near-term-selling-may-only-delay-next-leg-higher-td-securities-202609101317</link>
-            <guid isPermaLink="false">9fcd9477-b64f-481a-ab23-7985ace7949d</guid>
-            <pubDate>Thu, 10 Sep 2026 13:17:08 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek note that Gold is outperforming other precious metals even as higher energy prices and rising Fed hike expectations weigh on the complex.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
