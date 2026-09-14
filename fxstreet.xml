@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 14 Sep 2026 19:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 22:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Euro breaks both its moving averages as the Fed's hike becomes certain]]></title>
+            <link>https://www.fxstreet.com/news/the-euro-breaks-both-its-moving-averages-as-the-feds-hike-becomes-certain-202609142226</link>
+            <guid isPermaLink="false">9bffa1f3-8961-4ada-8f38-c868cb1c82f7</guid>
+            <pubDate>Mon, 14 Sep 2026 22:26:58 GMT</pubDate>
+            <description><![CDATA[EUR/USD closed near 1.1550 on Monday, 0.42% lower, and beneath both of its moving averages for the first time since late July. The 50-day and 200-day Exponential Moving Averages (EMA), the chart's two usual reference lines, now sit two pips apart, so the pair fell through one line rather than two.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Pound tests an August low on the Fed's hike odds]]></title>
+            <link>https://www.fxstreet.com/news/the-pound-tests-an-august-low-on-the-feds-hike-odds-202609142206</link>
+            <guid isPermaLink="false">4b6d2b34-adba-40ef-9cc6-d10ecae06a78</guid>
+            <pubDate>Mon, 14 Sep 2026 22:06:01 GMT</pubDate>
+            <description><![CDATA[GBP/USD closed just beneath 1.3500 on Monday, 0.19% lower, after trading to its lowest since August 14 in the London morning and buying back half of the drop by the close.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Bears circle 207.00 as RSI rebounds]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bears-circle-20700-as-rsi-rebounds-202609142156</link>
+            <guid isPermaLink="false">26fc4e0c-7818-4ab7-8ed4-98abdfddf1c9</guid>
+            <pubDate>Mon, 14 Sep 2026 21:56:58 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY cross-pair rises over 0.12% and trades at around 208.30 as risk appetite shifts to the sour side due to a rise in energy prices and bond yields, as investors grow uneasy about a possible reacceleration of inflation ahead of three monetary policy decisions by major central banks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar sinks to two-month low as Greenback firms]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-sinks-to-two-month-low-as-greenback-firms-202609142139</link>
+            <guid isPermaLink="false">aad1bb87-08b9-46af-8a94-4ffe124b8e45</guid>
+            <pubDate>Mon, 14 Sep 2026 21:39:35 GMT</pubDate>
+            <description><![CDATA[NZD/USD trades lower on Tuesday, changing hands near 0.5780, down around 0.6% on the day. The pair has slipped below 0.5760 to its lowest level since mid-July, after giving back ground overnight from a session high near 0.5820.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen recedes as Fed and BoJ decisions loom]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-recedes-as-fed-and-boj-decisions-loom-202609142100</link>
+            <guid isPermaLink="false">23170f16-b15f-4630-b5bd-e9a1ee95e5ac</guid>
+            <pubDate>Mon, 14 Sep 2026 21:00:42 GMT</pubDate>
+            <description><![CDATA[USD/JPY is trading higher on Monday near 154.40, after touching an intraday high just shy of 155.00. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Shooting star warns bulls below 0.8200]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-shooting-star-warns-bulls-below-08200-202609142048</link>
+            <guid isPermaLink="false">97942564-eac4-4b9b-be7a-1117b823f51f</guid>
+            <pubDate>Mon, 14 Sep 2026 20:48:23 GMT</pubDate>
+            <description><![CDATA[The USD/CHF pair extends its gains for the seventh straight trading session on Monday, up a minimal 0.05% after registering a six-week high of 0.8195, shy of cracking 0.8200, but ultimately poised to end the session at around 0.8169.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts]]></title>
+            <link>https://www.fxstreet.com/news/crude-oil-spikes-on-a-shut-saudi-pipeline-and-unwinds-on-trumps-posts-202609142014</link>
+            <guid isPermaLink="false">54c6f797-1f2d-4451-ac03-36f1419df713</guid>
+            <pubDate>Mon, 14 Sep 2026 20:14:09 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) trades near $98.00, about 1.4% higher on the day. It was more than 4% higher shortly after 12:30 GMT and had given nearly all of that back by 19:00.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar firms ahead of UK jobs and a midweek Fed decision]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-uk-jobs-and-a-midweek-fed-decision-202609141929</link>
+            <guid isPermaLink="false">ced11404-765a-41c6-8fb2-6b40d68718f7</guid>
+            <pubDate>Mon, 14 Sep 2026 19:29:51 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY) held firm at the start of the week, staying above the 99.00 mark and trading near 99.40, still short of the 100.00 threshold.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: Neckline rejection keeps $60 in sight]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-neckline-rejection-keeps-60-in-sight-202609141925</link>
+            <guid isPermaLink="false">29b5a621-ebd6-4341-9582-855cad3c19e2</guid>
+            <pubDate>Mon, 14 Sep 2026 19:25:56 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) price resumes its downtrend on Monday, keeping the head-and-shoulders pattern alive as the white metal struggles to clear the neckline in the $64.10-$64.20 range, increasing the chances of further losses. The XAG/USD pair trades at $63.60, down over 1.50%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold gets squeezed by 5% Treasury yields as FOMC week begins]]></title>
             <link>https://www.fxstreet.com/news/gold-gets-squeezed-by-5-treasury-yields-as-fomc-week-begins-202609141909</link>
@@ -174,78 +246,6 @@
             <pubDate>Mon, 14 Sep 2026 14:32:53 GMT</pubDate>
             <description><![CDATA[Royal Bank of Canada (RBC) economist Abbey Xu notes that Canadian inflation stayed at 3% year-over-year in August, with Food and energy components still elevated but easing somewhat.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Canadian%20CPI.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: One-off September hike view – ING]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-one-off-september-hike-view-ing-202609141417</link>
-            <guid isPermaLink="false">f8995aa2-3c44-4df6-805e-9e1bf7ada69e</guid>
-            <pubDate>Mon, 14 Sep 2026 14:17:38 GMT</pubDate>
-            <description><![CDATA[ING economists James Knightley, Padhraic Garvey and Chris Turner now expect a 25bp Federal Reserve rate hike in September following Chair Kevin Warsh’s Jackson Hole remarks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: BoE risks in focus – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-boe-risks-in-focus-scotiabank-202609141404</link>
-            <guid isPermaLink="false">af7f9432-290c-4067-aeb3-1fe2559b9f4f</guid>
-            <pubDate>Mon, 14 Sep 2026 14:04:46 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the British Pound (GBP) is softer against the Dollar but still outperforming most G10 currencies in a risk-off environment. Markets expect a hawkish hold from the Bank of England (BoE) on Thursday, with a possible 25 bp hike in November.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound loses ground as markets brace for Fed, BoE monetary decisions]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-loses-ground-as-markets-brace-for-fed-boe-monetary-decisions-202609141348</link>
-            <guid isPermaLink="false">a81afb1e-d4bc-4dca-a496-439522c98fde</guid>
-            <pubDate>Mon, 14 Sep 2026 13:48:56 GMT</pubDate>
-            <description><![CDATA[GBP/USD extends its decline on Monday and trades around 1.3470 at the time of writing, down 0.38% on the day. The pair falls to the lower end of its monthly range, weighed down by renewed demand for the US Dollar (USD) ahead of several major monetary policy decisions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent: Covert tanker flows may ease supply pressure - Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/brent-covert-tanker-flows-may-ease-supply-pressure-commerzbank-202609141347</link>
-            <guid isPermaLink="false">f0741d82-6ef7-4670-85f6-132a51f0403e</guid>
-            <pubDate>Mon, 14 Sep 2026 13:47:02 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s FX Research team, including Charlie Lay and Dr. Henry Hao, highlight that Brent crude has surged on Strait of Hormuz hostilities but see scope for gradual de-escalation in coming months.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: ECB credibility may offer support against Dollar – DBS]]></title>
-            <link>https://www.fxstreet.com/news/euro-ecb-credibility-may-offer-support-against-dollar-dbs-202609141335</link>
-            <guid isPermaLink="false">e7e58754-5a57-41ce-8476-63a1ca8e9215</guid>
-            <pubDate>Mon, 14 Sep 2026 13:35:15 GMT</pubDate>
-            <description><![CDATA[DBS Group Research’s Philip Wee argues that the Euro has a subtle advantage over the Dollar this week, as the European Central Bank’s recent hikes and focus on inflation underscore its institutional credibility.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold: CTA liquidation and dip-buying narrative – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/gold-cta-liquidation-and-dip-buying-narrative-td-securities-202609141326</link>
-            <guid isPermaLink="false">2bec8021-8fad-495c-bae5-575e4e3867c8</guid>
-            <pubDate>Mon, 14 Sep 2026 13:26:21 GMT</pubDate>
-            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek highlight that CTAs (Commodity Trading Advisors) have turned large sellers of Gold, liquidating nearly half of their net-long exposure as markets price a Federal Reserve hike and higher energy costs.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar remains under pressure following mixed inflation data]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-following-mixed-inflation-data-202609141323</link>
-            <guid isPermaLink="false">50e32802-17ec-4834-8253-b40563f8300d</guid>
-            <pubDate>Mon, 14 Sep 2026 13:23:34 GMT</pubDate>
-            <description><![CDATA[USD/CAD edges higher for the fourth consecutive day on Monday as a stronger US Dollar (USD) outweighs support for the Canadian Dollar (CAD) from rising Oil prices. Traders show a muted reaction to the latest Canadian inflation figures.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sweden: Election uncertainty and fiscal stance – Nomura]]></title>
-            <link>https://www.fxstreet.com/news/sweden-election-uncertainty-and-fiscal-stance-nomura-202609141317</link>
-            <guid isPermaLink="false">3f4c2ec5-a443-46fd-8ccf-e9fd310455eb</guid>
-            <pubDate>Mon, 14 Sep 2026 13:17:36 GMT</pubDate>
-            <description><![CDATA[Nomura’s Global Markets Research team, led by Josie Anderson, George Buckley and Andrzej Szczepaniak, notes that Sweden’s 13 September election remains too close to call, with the centre-left only narrowly ahead.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: Canada hedline CPI rose 3.0% YoY in August]]></title>
-            <link>https://www.fxstreet.com/news/canada-cpi-expected-to-show-steady-inflation-in-august-202609140730</link>
-            <guid isPermaLink="false">70080b3c-b458-43c0-95b6-17dd6e757737</guid>
-            <pubDate>Mon, 14 Sep 2026 07:30:00 GMT</pubDate>
-            <description><![CDATA[Canada’s inflation held its pace in August, with the headline Consumer Price Index (CPI) rising 3.0% from a year earlier, matching market expectations and unchanged from the 3.0% increase recorded in July. On a monthly basis, prices declined by 0.1%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
