@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 13 Sep 2026 23:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 01:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI rebounds toward nearly four-month highs after Saudi pipeline shutdown]]></title>
+            <link>https://www.fxstreet.com/news/wti-rebounds-toward-nearly-four-month-highs-after-saudi-pipeline-shutdown-202609140124</link>
+            <guid isPermaLink="false">c3a3be58-5ef2-4393-afb3-1bcb237c019c</guid>
+            <pubDate>Mon, 14 Sep 2026 01:24:00 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price rebounds after falling nearly 4% in the previous trading day, hovering around $99.40 per barrel during Asian hours on Monday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound consolidates above 1.3500 vs USD ahead of this week's UK data, Fed, BoE]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-consolidates-above-13500-vs-usd-ahead-of-this-weeks-uk-data-fed-boe-202609140119</link>
+            <guid isPermaLink="false">907c7885-960c-422f-827e-14fa50d12e98</guid>
+            <pubDate>Mon, 14 Sep 2026 01:19:13 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair struggles to capitalize on Friday's bounce from the vicinity of the monthly swing low and consolidates above the 1.3500 psychological mark at the start of a new week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-62.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7698 vs. 6.7743 previous]]></title>
+            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67698-vs-67743-previous-202609140115</link>
+            <guid isPermaLink="false">83af0d4d-b18e-4bbd-af42-ca50295ac0b7</guid>
+            <pubDate>Mon, 14 Sep 2026 01:15:27 GMT</pubDate>
+            <description><![CDATA[On Monday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7698 compared to Friday's fix of 6.7743 and 6.7083 Reuters estimate.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro softens below 1.1600 as markets price in Fed rate hike  ]]></title>
+            <link>https://www.fxstreet.com/news/euro-softens-below-11600-as-markets-price-in-fed-rate-hike-202609140047</link>
+            <guid isPermaLink="false">171ef778-e8bc-420b-ac8d-bb00b14fc41e</guid>
+            <pubDate>Mon, 14 Sep 2026 00:47:22 GMT</pubDate>
+            <description><![CDATA[The EUR/USD pair declines to near 1.1585 during the early Asian session on Monday. The pair extends the decline amid aggressive Federal Reserve (Fed) rate-hike bets following hotter US inflation reports. Traders brace for the Fed interest rate decision later on Wednesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-declines-to-near-07150-as-hot-us-inflation-data-boost-case-for-fed-rate-hike-202609132339</link>
+            <guid isPermaLink="false">70a2967a-7552-4dab-a793-17a9fe9fec79</guid>
+            <pubDate>Sun, 13 Sep 2026 23:39:47 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair edges lower to around 0.7160 during the early Asian session on Monday. Stronger-than-expected US inflation reports provide some support to the US Dollar (USD) against the Australian Dollar (AUD). All eyes will be on the US Federal Reserve (Fed) interest rate decision on Wednesday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Iran says commercial vessel struck in Strait of Hormuz]]></title>
             <link>https://www.fxstreet.com/news/iran-says-commercial-vessel-struck-in-strait-of-hormuz-202609132306</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 11 Sep 2026 14:49:06 GMT</pubDate>
             <description><![CDATA[Commerzbank economists, led by Dr. Henry Hao and colleagues, note Taiwan’s August trade surplus hit a record USD22.3bn, driven by strong AI-related exports. Electronics and semiconductor shipments surged, lifting overall exports and imports.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan: BoJ tightening path in focus – ING]]></title>
-            <link>https://www.fxstreet.com/news/japan-boj-tightening-path-in-focus-ing-202609111436</link>
-            <guid isPermaLink="false">982b5707-1125-41e4-bc6f-91cffdf76f7f</guid>
-            <pubDate>Fri, 11 Sep 2026 14:36:16 GMT</pubDate>
-            <description><![CDATA[ING economists Deepali Bhargava and Lynn Song expect the Bank of Japan to raise its policy rate by 25bp to 1.25%, citing persistent price pressures. They project two further 25bp hikes in January and April 2027, taking the rate to 1.75%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc struggles even as US Dollar gives back CPI-led gains]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-struggles-even-as-us-dollar-gives-back-cpi-led-gains-202609111435</link>
-            <guid isPermaLink="false">2cf3d499-2cef-41b7-b0da-49933cd85951</guid>
-            <pubDate>Fri, 11 Sep 2026 14:35:32 GMT</pubDate>
-            <description><![CDATA[USD/CHF holds onto gains on Friday even as the US Dollar (USD) turns lower following the release of the latest United States (US) Consumer Price Index (CPI) report, which strengthened expectations that the Federal Reserve (Fed) could raise interest rates next week. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-chf-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[India: Inflation pressures point to tighter bias – DBS]]></title>
-            <link>https://www.fxstreet.com/news/india-inflation-pressures-point-to-tighter-bias-dbs-202609111421</link>
-            <guid isPermaLink="false">46bb78a2-c44e-4180-8567-50654763e87c</guid>
-            <pubDate>Fri, 11 Sep 2026 14:21:52 GMT</pubDate>
-            <description><![CDATA[DBS Group Research expects India’s inflation to accelerate to 4.9% year-on-year, with food and energy costs driving a gradual broadening of price pressures.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409</link>
-            <guid isPermaLink="false">f8e39cbc-2fe7-454b-abde-218d6c868b58</guid>
-            <pubDate>Fri, 11 Sep 2026 14:09:51 GMT</pubDate>
-            <description><![CDATA[USD/CAD rises 0.27% on Friday and trades around 1.3870 at the time of writing, after reaching a daily high of 1.3882 in the immediate reaction to the release of United States (US) inflation data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: Growth outlook strengthens with AI-driven services – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-growth-outlook-strengthens-with-ai-driven-services-deutsche-bank-202609111408</link>
-            <guid isPermaLink="false">27c3299c-9f8e-445a-939c-4de97e963828</guid>
-            <pubDate>Fri, 11 Sep 2026 14:08:31 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank’s Chief UK Economist Sanjay Raja highlights stronger-than-expected UK GDP data, with July output rising 0.4% month-on-month and broad-based gains across services, production and construction.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
