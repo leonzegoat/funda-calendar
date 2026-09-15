@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 14 Sep 2026 22:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 00:56:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Yen weakens as Fed rate hike looms]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-weakens-as-fed-rate-hike-looms-202609150041</link>
+            <guid isPermaLink="false">277b9ed0-e32b-4ffb-96d7-b6cdae0deb6e</guid>
+            <pubDate>Tue, 15 Sep 2026 00:41:37 GMT</pubDate>
+            <description><![CDATA[The USD/JPY pair gains ground to near 154.55 during the early Asian session on Tuesday. The US Dollar (USD) strengthens against the Japanese Yen (JPY) as traders ramp up their bets on a US interest rate hike in September.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran's President Pezeshkian: Our demands are the same as our previous demands]]></title>
+            <link>https://www.fxstreet.com/news/irans-president-pezeshkian-our-demands-are-the-same-as-our-previous-demands-202609142353</link>
+            <guid isPermaLink="false">514a73ac-a9cf-47b5-8cc9-706548c418b5</guid>
+            <pubDate>Mon, 14 Sep 2026 23:53:40 GMT</pubDate>
+            <description><![CDATA[Iran's President Masoud Pezeshkian said on Monday that Tehran is not at war with Saudi Arabia. Pezeshkian added that Iran’s demands for negotiation with the United States (US) are the same as our previous demands.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia issues emergency alert for Khamis Mushait, Abha]]></title>
+            <link>https://www.fxstreet.com/news/saudi-arabia-issues-emergency-alert-for-khamis-mushait-abha-202609142332</link>
+            <guid isPermaLink="false">a07898fc-3d50-4fd8-bee9-6040be001824</guid>
+            <pubDate>Mon, 14 Sep 2026 23:32:35 GMT</pubDate>
+            <description><![CDATA[Saudi Arabia's Civil Defense on Monday issued emergency alerts for the Khamis Mushait Governorate and Abha City. The officials then lifted the warnings shortly after, urging residents to continue following official instructions and avoid gathering, aljazeera reported.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/War2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold falls below $4,300 as higher US yields bolster Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-falls-below-4-300-as-higher-us-yields-bolster-fed-rate-hike-bets-202609142314</link>
+            <guid isPermaLink="false">b9930cae-bf28-4a50-9fab-2ef87dbfc223</guid>
+            <pubDate>Mon, 14 Sep 2026 23:14:36 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) tumbles to near $4,295 during the early Asian session on Tuesday. The precious metal faces some selling pressure as rising bond yields and surging energy prices strengthen expectations that the US Federal Reserve (Fed) will raise interest rates this week. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar gets caught between AI selloff and 5% US yields]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-gets-caught-between-ai-selloff-and-5-us-yields-202609142246</link>
+            <guid isPermaLink="false">ab0cafc1-078c-4be7-a059-df477ea61e72</guid>
+            <pubDate>Mon, 14 Sep 2026 22:46:21 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar registered losses of over 0.73% on Monday as sentiment soured due to a fall in technology shares, along with heightened tensions in the Middle East, high energy prices, and a jump in bond yields. The AUD/USD trades at 0.7118, after hitting a high of the day (HOD) of 0.7168.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The Euro breaks both its moving averages as the Fed's hike becomes certain]]></title>
             <link>https://www.fxstreet.com/news/the-euro-breaks-both-its-moving-averages-as-the-feds-hike-becomes-certain-202609142226</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 14 Sep 2026 15:07:09 GMT</pubDate>
             <description><![CDATA[TD Securities strategists Ryan McKay and Bart Melek note that CTAs remain maximally long WTI Crude, Brent Crude, diesel and gasoline as attacks on energy infrastructure in Saudi Arabia and Russia sustain a significant upside risk premium.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Support seen near 1.15 against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/euro-support-seen-near-115-against-us-dollar-scotiabank-202609141452</link>
-            <guid isPermaLink="false">b65ebe5b-43f6-4a23-b265-7355f8b7e186</guid>
-            <pubDate>Mon, 14 Sep 2026 14:52:12 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report the Euro (EUR) is weaker, down about 0.5% versus the US Dollar (USD), as risk aversion supports broad USD strength. Yield spreads imply a fair value near 1.1633, while data have been light ahead of Tuesday’s ZEW survey.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-56.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Further gains favored against US Dollar - BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-further-gains-favored-against-us-dollar-bbh-202609141442</link>
-            <guid isPermaLink="false">25ad84d9-24f2-4000-8be8-10e4c9f1822c</guid>
-            <pubDate>Mon, 14 Sep 2026 14:42:31 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that recent Oil-driven market moves and sticky US Consumer Price Index (CPI) have strengthened expectations for a September Fed hike, but the futures curve already prices nearly 100 bps of tightening over twelve months.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US 10-year yield crosses 5% rubicon as Fed hike looks locked]]></title>
-            <link>https://www.fxstreet.com/news/us-10-year-yield-crosses-5-rubicon-as-fed-hike-looks-locked-202609141440</link>
-            <guid isPermaLink="false">5bb05eb5-1ca9-4249-bce1-d0dd4d94a134</guid>
-            <pubDate>Mon, 14 Sep 2026 14:40:28 GMT</pubDate>
-            <description><![CDATA[The US 10-year Treasury yield has breached the 5% threshold on Monday for the first time since 2023, rising by more than four basis points as investors almost fully price in a 25-basis-point rate hike by the Federal Reserve (Fed) on Wednesday. At the time of writing, the US 10-year is at 5.006%]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro tumbles to one-month low as Fed rate hike bets dominate]]></title>
-            <link>https://www.fxstreet.com/news/euro-tumbles-to-one-month-low-as-fed-rate-hike-bets-dominate-202609141433</link>
-            <guid isPermaLink="false">73468479-4aa5-4e34-ba89-1d8a6f13b533</guid>
-            <pubDate>Mon, 14 Sep 2026 14:33:34 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades under pressure on Monday, with the Euro (EUR) losing around 0.55% against the US Dollar (USD). The Greenback strengthens across the board as traders position for a possible Federal Reserve (Fed) interest rate hike at the September 15-16 monetary policy meeting.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada: Contained inflation pressures support steady BoC – RBC]]></title>
-            <link>https://www.fxstreet.com/news/canada-contained-inflation-pressures-support-steady-boc-rbc-202609141432</link>
-            <guid isPermaLink="false">b2df8584-2465-4c74-996d-01d89249fdbd</guid>
-            <pubDate>Mon, 14 Sep 2026 14:32:53 GMT</pubDate>
-            <description><![CDATA[Royal Bank of Canada (RBC) economist Abbey Xu notes that Canadian inflation stayed at 3% year-over-year in August, with Food and energy components still elevated but easing somewhat.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Canadian%20CPI.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
