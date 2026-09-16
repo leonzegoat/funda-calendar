@@ -4,248 +4,248 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 16 Sep 2026 06:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 11:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Breaking: United Kingdom CPI inflation rises to 3.1% YoY in August, as expected]]></title>
-            <link>https://www.fxstreet.com/news/august-uk-inflation-report-expected-to-show-rising-inflation-202609160200</link>
-            <guid isPermaLink="false">dd6cbef5-a696-4bc9-89ec-df6a41f7ddfd</guid>
-            <pubDate>Wed, 16 Sep 2026 02:00:00 GMT</pubDate>
-            <description><![CDATA[The United Kingdom (UK) headline Consumer Price Index (CPI) climbed 3.1% over the year in August, compared to a rise of 2.9% in June, the data released by the Office for National Statistics (ONS) showed on Wednesday. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian Rupiah gains as US Dollar weakens ahead of Fed rate decision]]></title>
-            <link>https://www.fxstreet.com/news/indonesian-rupiah-gains-as-us-dollar-weakens-ahead-of-fed-rate-decision-202609160549</link>
-            <guid isPermaLink="false">e01cb769-10db-4e4e-8a01-9d5e9627f656</guid>
-            <pubDate>Wed, 16 Sep 2026 05:49:51 GMT</pubDate>
-            <description><![CDATA[USD/IDR halts its four-day winning streak, trading around 17,740 during Asian hours on Wednesday. The pair depreciates as the US Dollar (USD) declines ahead of the interest rate decision by the Federal Reserve (Fed).]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/BullishRocket.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: 1.1500 to remain key support level for Fed’s Day]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-11500-to-remain-key-support-level-for-feds-day-202609160547</link>
-            <guid isPermaLink="false">f6373931-d90e-4fcc-a932-8845e70c9d06</guid>
-            <pubDate>Wed, 16 Sep 2026 05:47:32 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) trades with caution at around 1.1545 against the US Dollar (USD) during the early European trading session on Wednesday. The major currency pair is expected to remain under pressure as the Federal Reserve (Fed) is scheduled to announce the monetary policy decision at 18:00 GMT.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee clings to recent losses ahead of Fed’s policy]]></title>
+            <title><![CDATA[Indian Rupee remains close to seven-week low on Wednesday, Fed's policy in focus]]></title>
             <link>https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531</link>
             <guid isPermaLink="false">2ac5bb0b-ea05-4a53-a3fd-43dd3f94b938</guid>
             <pubDate>Wed, 16 Sep 2026 05:31:41 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) holds onto over-a-week long losses against the US Dollar (USD) in the opening session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
+            <description><![CDATA[The Indian Rupee (INR) holds onto over-a-week long losses against the US Dollar (USD) on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gold sticks to modest gains below $4,350 as USD bulls await Fed rate decision]]></title>
+            <title><![CDATA[New Zealand Dollar: Growth risks temper RBNZ pricing – ING]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-growth-risks-temper-rbnz-pricing-ing-202609161130</link>
+            <guid isPermaLink="false">017b5c49-54f1-477d-954a-a750ef0bd234</guid>
+            <pubDate>Wed, 16 Sep 2026 11:30:58 GMT</pubDate>
+            <description><![CDATA[ING notes that New Zealand’s Q2 GDP slowdown could magnify market impact given infrequent data, but the Reserve Bank of New Zealand remains focused on inflation and jobs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rebounds as traders position for Fed interest rate decision]]></title>
+            <link>https://www.fxstreet.com/news/gold-rebounds-as-traders-position-for-fed-interest-rate-decision-202609161128</link>
+            <guid isPermaLink="false">416fdff9-1ca0-480b-b2e6-fe1fbd31c3bd</guid>
+            <pubDate>Wed, 16 Sep 2026 11:28:16 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) rebounds on Wednesday as sellers trim their exposure ahead of the Federal Reserve’s (Fed) monetary policy announcement.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro trades with caution against US Dollar ahead of Fed’s policy meeting]]></title>
+            <link>https://www.fxstreet.com/news/euro-trades-with-caution-against-us-dollar-ahead-of-feds-policy-meeting-202609161120</link>
+            <guid isPermaLink="false">970a1f47-3dda-4e4f-9372-70cca3feb7d4</guid>
+            <pubDate>Wed, 16 Sep 2026 11:20:26 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) trades subduedly at around 1.1535 against the US Dollar (USD) during the European trading session on Wednesday. The major currency pair trades cautiously ahead of the Federal Reserve’s (Fed) monetary policy announcement at 18:00 GMT.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar: Downside risk persists against US Dollar - UOB]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-downside-risk-persists-against-us-dollar-uob-202609161113</link>
+            <guid isPermaLink="false">eb5da0d0-38ef-48e1-93c8-f5a0dcf6cff4</guid>
+            <pubDate>Wed, 16 Sep 2026 11:13:52 GMT</pubDate>
+            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann note AUD/USD has pulled back after Monday’s sharper-than-expected drop, with intraday price action now seen confined to a 0.7100–0.7140 band.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is the US Dollar firm when the Federal Reserve hike is already fully priced in?]]></title>
+            <link>https://www.fxstreet.com/news/why-is-the-us-dollar-firm-when-the-federal-reserve-hike-is-already-fully-priced-in-202609161033</link>
+            <guid isPermaLink="false">d017dddb-b514-43dc-b855-bdb8c3a0e5cd</guid>
+            <pubDate>Wed, 16 Sep 2026 10:33:49 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) is trading with a firm undertone heading into the Federal Open Market Committee (FOMC) interest rate decision, supported by a relentless march higher in US Treasury yields that has pushed the 10-year yield to 5.00% and the 2-year yield to 4.66%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-202.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold Price Forecast: XAU/USD consolidates below $4,350 ahead of Fed decision]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-consolidates-below-4-350-ahead-of-fed-decision-202609161015</link>
+            <guid isPermaLink="false">e64b6662-454f-4527-bdf9-b1b9abad60eb</guid>
+            <pubDate>Wed, 16 Sep 2026 10:15:49 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) trades cautiously below $4,350 on Wednesday as investors refrain from taking large positions ahead of the Federal Reserve (Fed) monetary policy decision.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Firm Dollar keeps pressure on Euro before FOMC - Danske Bank]]></title>
+            <link>https://www.fxstreet.com/news/euro-firm-dollar-keeps-pressure-on-euro-before-fomc-danske-bank-202609161001</link>
+            <guid isPermaLink="false">00b427dd-cce4-4543-b388-86930c392108</guid>
+            <pubDate>Wed, 16 Sep 2026 10:01:53 GMT</pubDate>
+            <description><![CDATA[Danske Research Team notes that the US Dollar (USD) remained firm, pushing EUR/USD modestly lower as risk sentiment weakened. In the euro area, Germany’s September ZEW survey showed a sharp improvement in current conditions, while expectations disappointed.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound: 1.3440–1.3420 support in focus against US Dollar - Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-13440-13420-support-in-focus-against-us-dollar-societe-generale-202609160951</link>
+            <guid isPermaLink="false">05610296-b9db-43b9-86dc-49ad9aa1d5c7</guid>
+            <pubDate>Wed, 16 Sep 2026 09:51:46 GMT</pubDate>
+            <description><![CDATA[Societe Generale highlights GBP/USD trading just above its 200-day moving average, with the August trough around 1.3440–1.3420 acting as a key support zone.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar treads water against Japanese Yen ahead of BoJ rate hike]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-treads-water-against-japanese-yen-ahead-of-boj-rate-hike-202609160946</link>
+            <guid isPermaLink="false">0c6a1607-388e-4911-98c5-2d664a59d509</guid>
+            <pubDate>Wed, 16 Sep 2026 09:46:46 GMT</pubDate>
+            <description><![CDATA[AUD/JPY trades around 110.55 on Wednesday at the time of writing, virtually unchanged on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-neutral-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver price today: Silver rises, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609160933</link>
+            <guid isPermaLink="false">5c7bdb4b-a8f2-4b8f-bc10-2b17c8277f08</guid>
+            <pubDate>Wed, 16 Sep 2026 09:33:08 GMT</pubDate>
+            <description><![CDATA[Silver prices (XAG/USD) rose on Wednesday, according to FXStreet data. Silver trades at $64.54 per troy ounce, up 1.36% from the $63.67 it cost on Tuesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Higher yields and oil support – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-higher-yields-and-oil-support-mufg-202609160923</link>
+            <guid isPermaLink="false">048d1d37-3fe8-4c77-a41b-154c1cd9886e</guid>
+            <pubDate>Wed, 16 Sep 2026 09:23:30 GMT</pubDate>
+            <description><![CDATA[MUFG’s Lloyd Chan notes that the US Dollar has strengthened modestly as US Treasury yields climb, with the US 10-year yield reaching 5.00% and the 2-year at 4.66%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Limited losses within 153.30–156.30 band against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-limited-losses-within-15330-15630-band-against-us-dollar-uob-202609160912</link>
+            <guid isPermaLink="false">de09f70a-f29f-481a-966c-4735950a2a6c</guid>
+            <pubDate>Wed, 16 Sep 2026 09:12:11 GMT</pubDate>
+            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann report USD/JPY has extended its rebound to around 155.08, with modest upward momentum suggesting scope for a test above 155.50, while 156.30 remains a distant cap.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eurozone Industrial Production contracts 0.1% in July]]></title>
+            <link>https://www.fxstreet.com/news/eurozone-industrial-production-contracts-01-in-july-202609160903</link>
+            <guid isPermaLink="false">868e9a50-ceaa-4bd5-82f8-192256e791c8</guid>
+            <pubDate>Wed, 16 Sep 2026 09:03:30 GMT</pubDate>
+            <description><![CDATA[The Eurozone industrial sector activity declines 0.1% in July, according to data published by Eurostat. The industrial output was expected to decline but at a faster pace of 0.2%. In June, the data also contracted by 0.1%, revised lower from 0%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/USD Price Forecast: Fails near 1.3500 as bears eye 200-SMA ahead of Fed decision]]></title>
+            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-fails-near-13500-as-bears-eye-200-sma-ahead-of-fed-decision-202609160902</link>
+            <guid isPermaLink="false">c9c913e2-e1e5-4bd9-8bac-4df2ac275b48</guid>
+            <pubDate>Wed, 16 Sep 2026 09:02:35 GMT</pubDate>
+            <description><![CDATA[The GBP/USD pair attracts fresh sellers following an intraday uptick to the 1.3500 neighborhood and drops to the lower end of its daily range during the first half of the European session on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: 1.150 target nears on Fed risk against US Dollar – ING]]></title>
+            <link>https://www.fxstreet.com/news/euro-1150-target-nears-on-fed-risk-against-us-dollar-ing-202609160901</link>
+            <guid isPermaLink="false">69438c22-d9d2-40e9-b977-fcb1295ece04</guid>
+            <pubDate>Wed, 16 Sep 2026 09:01:07 GMT</pubDate>
+            <description><![CDATA[ING’s Francesco Pesole highlights that the Federal Reserve announcement could push EUR/USD towards the 1.150 target.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI falls near $100 as Saudi adds Oman route, US stocks surge]]></title>
+            <link>https://www.fxstreet.com/news/wti-falls-near-100-as-saudi-adds-oman-route-us-stocks-surge-202609160900</link>
+            <guid isPermaLink="false">1f2318f9-de0f-43f7-8180-d15584e37497</guid>
+            <pubDate>Wed, 16 Sep 2026 09:00:11 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) oil price depreciates after posting nearly 3% gains in the previous day, trading around $100.00 per barrel during European hours on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: Retreats from 155.50 with Fed’s policy in focus]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-retreats-from-15550-with-feds-policy-in-focus-202609160848</link>
+            <guid isPermaLink="false">5d76021d-4034-4db5-b098-598176981e3e</guid>
+            <pubDate>Wed, 16 Sep 2026 08:48:20 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) turns flat against the US Dollar (USD) at around 155.00 in the European trading session on Wednesday after recovering its early losses.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Equities: Fed focus and energy shock – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/equities-fed-focus-and-energy-shock-deutsche-bank-202609160847</link>
+            <guid isPermaLink="false">42217f19-e147-4860-9102-faa9945285ce</guid>
+            <pubDate>Wed, 16 Sep 2026 08:47:25 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank’s Henry Allen and colleagues note that the S&P 500 has retreated to a six‑week low as higher Oil prices and stagflation fears weigh on risk assets.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro gains against Canadian Dollar as oil prices retreat on rising US crude inventories]]></title>
+            <link>https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-as-oil-prices-retreat-on-rising-us-crude-inventories-202609160839</link>
+            <guid isPermaLink="false">7c032832-2e72-4bf4-8fee-115097e77129</guid>
+            <pubDate>Wed, 16 Sep 2026 08:39:23 GMT</pubDate>
+            <description><![CDATA[EUR/CAD extends its gains for the second consecutive day, trading around 1.6090 during European hours on Wednesday. Traders are closely watching the European economic calendar, as the seasonally adjusted Eurozone Industrial Production figures for July are scheduled for release later in the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/CAD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Supply risks and central bank pressures – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/oil-supply-risks-and-central-bank-pressures-rabobank-202609160837</link>
+            <guid isPermaLink="false">c6302bd6-20f3-4242-8141-f9fb406145a6</guid>
+            <pubDate>Wed, 16 Sep 2026 08:37:42 GMT</pubDate>
+            <description><![CDATA[Rabobank’s Senior Macro Strategist Bas van Geffen highlights escalating Middle East tensions, with Houthi attacks and damage to Saudi infrastructure forcing more Oil flows through the Strait of Hormuz.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold traders seem noncommittal below $4,350; eyes Fed rate decision for fresh impetus]]></title>
             <link>https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409</link>
             <guid isPermaLink="false">4b33fe80-6a2b-498e-ad4f-1ca54a0c087c</guid>
             <pubDate>Wed, 16 Sep 2026 04:09:49 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) struggles to capitalize on its modest intraday move higher and remains below the $4,350 level through the Asian session on Wednesday. The US Dollar (USD) pauses for a breather after touching a two-week high and offers some support to the commodity.]]></description>
+            <description><![CDATA[Gold (XAU/USD) clings to modest intraday gains through the first half of the European session on Wednesday, albeit it lacks follow-through buying and remains below $4,350. The US Dollar (USD) eases from a two-week high amid some profit-taking, offering support to the commodity.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[WTI tumbles to near $100.00 on surprise US inventory build despite supply disruption worries]]></title>
-            <link>https://www.fxstreet.com/news/wti-tumbles-to-near-10000-on-surprise-us-inventory-build-despite-supply-disruption-worries-202609160521</link>
-            <guid isPermaLink="false">57d2f0b0-f133-4fae-badd-130bb70db895</guid>
-            <pubDate>Wed, 16 Sep 2026 05:21:44 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $100.00 during the early European trading hours on Wednesday. WTI falls after an unexpected build in US crude inventories.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+            <title><![CDATA[Norwegian Krone: Norges Bank weighs inflation and growth – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/norwegian-krone-norges-bank-weighs-inflation-and-growth-commerzbank-202609160816</link>
+            <guid isPermaLink="false">46001583-e3f6-4d56-907f-90a620b1a438</guid>
+            <pubDate>Wed, 16 Sep 2026 08:16:01 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Antje Praefcke highlights uncertainty over whether Norges Bank will hike in September or wait until December. Inflation remains above target despite a recent downside surprise, while growth is described as close to normal.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Japanese Yen remains depressed near one-week low vs USD as traders await Fed, BoJ]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-remains-depressed-near-one-week-low-vs-usd-as-traders-await-fed-boj-202609160512</link>
-            <guid isPermaLink="false">222a1888-0460-4371-b4e9-212972c228a8</guid>
-            <pubDate>Wed, 16 Sep 2026 05:12:42 GMT</pubDate>
-            <description><![CDATA[The USD/JPY pair attracts some buyers for the third straight day and touches a one-week high, around the 155.45-155.50 region, during the Asian session on Wednesday. Spot prices, however, lack follow-through as traders seem hesitant ahead of the key central bank event.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-96.png" length="0" type="image/png"/>
+            <title><![CDATA[Dow Jones futures tick higher ahead of Fed interest rate decision]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-futures-tick-higher-ahead-of-fed-interest-rate-decision-202609160806</link>
+            <guid isPermaLink="false">d52a7fb0-f08d-4aa6-9073-609c0aecfab8</guid>
+            <pubDate>Wed, 16 Sep 2026 08:06:59 GMT</pubDate>
+            <description><![CDATA[Dow Jones futures gain by 0.14% to trade near 52,190 during European hours on Wednesday. Meanwhile, S&P 500 futures rise by 0.21% to trade around 7,600, while Nasdaq 100 futures advance by 0.42% to trade near 29,080.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/SP500-bullysh-withoutbull-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[India Gold price today: Gold rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609160435</link>
-            <guid isPermaLink="false">84e6a5f4-2501-4e39-8252-f6c48159af59</guid>
-            <pubDate>Wed, 16 Sep 2026 04:35:30 GMT</pubDate>
-            <description><![CDATA[Gold prices rose in India on Wednesday, according to data compiled by FXStreet.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-03.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NZD/USD Price Forecast: Bounces off two-month low; seems vulnerable near mid-0.5700s]]></title>
+            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-bounces-off-two-month-low-seems-vulnerable-near-mid-05700s-202609160806</link>
+            <guid isPermaLink="false">52819b21-87fa-4c1c-9cd3-cc9cfba47184</guid>
+            <pubDate>Wed, 16 Sep 2026 08:06:20 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair bounces off an over two-month low, around the 0.5735 area touched earlier this Wednesday, though it lacks any follow-through buying.]]></description>
+            <enclosure url="https://editorial.fxstreet.com/images/i/bearish-computer.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Asian stocks trade with modest gains as investors remain cautious ahead of Fed decision]]></title>
-            <link>https://www.fxstreet.com/news/asian-stocks-trade-with-modest-gains-as-investors-remain-cautious-ahead-of-fed-decision-202609160431</link>
-            <guid isPermaLink="false">e8f4f1f7-5931-45dd-ae8c-1fc81db408f1</guid>
-            <pubDate>Wed, 16 Sep 2026 04:31:56 GMT</pubDate>
-            <description><![CDATA[Asian equity markets trade with modest gains on Wednesday, tracking stability in US stock index futures, though sentiment remains cautious ahead of the highly anticipated US Federal Reserve (Fed) policy decision.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/APAC3-18326.png" length="0" type="image/png"/>
+            <title><![CDATA[Silver Price Forecast: XAG/USD jumps to near $65 ahead of Fed’s interest rate decision]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-65-ahead-of-feds-interest-rate-decision-202609160801</link>
+            <guid isPermaLink="false">50565b8d-9aff-42b0-bbf3-1d3efdc8c316</guid>
+            <pubDate>Wed, 16 Sep 2026 08:01:26 GMT</pubDate>
+            <description><![CDATA[Silver price (XAG/USD) is up 1.8% to near $64.80 during the European trading session on Wednesday. The white metal trades firmly ahead of the Federal Reserve’s (Fed) monetary policy announcement at 18:00 GMT.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Swiss Franc edges higher as US Dollar declines despite Fed rate hike bets]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-edges-higher-as-us-dollar-declines-despite-fed-rate-hike-bets-202609160430</link>
-            <guid isPermaLink="false">216ccc68-681f-4a0c-b0ea-c837bd9194ac</guid>
-            <pubDate>Wed, 16 Sep 2026 04:30:40 GMT</pubDate>
-            <description><![CDATA[USD/CHF halts its five-day winning streak, trading around 0.8180 during Asian hours on Wednesday. The pair inches lower as the US Dollar (USD) depreciates ahead of the interest rate decision by the Federal Reserve (Fed).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/CHF-bullish-animal.png" length="0" type="image/png"/>
+            <title><![CDATA[Swiss Franc: Watching break of 0.8205 against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/swiss-franc-watching-break-of-08205-against-us-dollar-uob-202609160759</link>
+            <guid isPermaLink="false">53dd76c8-4061-4440-befb-0f3661271719</guid>
+            <pubDate>Wed, 16 Sep 2026 07:59:28 GMT</pubDate>
+            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann see USD/CHF consolidating just below major resistance at 0.8205 after trading between 0.8164 and 0.8198.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AUD/JPY Price Forecast: Holds gains above 110.50, but maintains bearish bias below 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-gains-above-11050-but-maintains-bearish-bias-below-100-day-sma-202609160427</link>
-            <guid isPermaLink="false">bb8ed05b-6622-4be8-bd62-5d1920b3064a</guid>
-            <pubDate>Wed, 16 Sep 2026 04:27:01 GMT</pubDate>
-            <description><![CDATA[The AUD/JPY cross trades in positive territory around 110.70 during the early European trading hours on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal-1.png" length="0" type="image/png"/>
+            <title><![CDATA[USD/CAD Price Forecast: Eyes 1.3950 near ascending channel top]]></title>
+            <link>https://www.fxstreet.com/news/usd-cad-price-forecast-eyes-13950-near-ascending-channel-top-202609160752</link>
+            <guid isPermaLink="false">e67e5ae5-81b4-46fd-b323-2eca49b8a6fb</guid>
+            <pubDate>Wed, 16 Sep 2026 07:52:30 GMT</pubDate>
+            <description><![CDATA[USD/CAD continues its winning streak for the sixth consecutive day, trading around 1.3930 during European hours on Wednesday. The technical analysis of the daily chart indicates that the price is positioned slightly below the top trendline of an ascending channel, suggesting an ongoing bullish bias.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCAD.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[US Treasury Yields take a breather after recent rally, Fed’s policy in focus]]></title>
-            <link>https://www.fxstreet.com/news/us-treasury-yields-take-a-breather-after-recent-rally-feds-policy-in-focus-202609160317</link>
-            <guid isPermaLink="false">a8cca1e9-c5e0-443a-99b2-9c383fee5c74</guid>
-            <pubDate>Wed, 16 Sep 2026 03:17:29 GMT</pubDate>
-            <description><![CDATA[United States (US) Treasury Yields have hit a pause after posting a fresh multi-year high on Tuesday ahead of the Federal Reserve’s (Fed) monetary policy announcement later in the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
+            <title><![CDATA[US Dollar: Warsh guidance keeps Greenback supported – ING]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-warsh-guidance-keeps-greenback-supported-ing-202609160733</link>
+            <guid isPermaLink="false">e887644f-ddfa-419a-9781-5c6db4d1bbe1</guid>
+            <pubDate>Wed, 16 Sep 2026 07:33:10 GMT</pubDate>
+            <description><![CDATA[ING strategists Francesco Pesole and Frantisek Taborsky note that markets fully expect the Federal Reserve to raise rates by 25bp to 4.0%, with a surprise hold seen as materially negative for the Dollar.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-77.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[New Zealand Dollar drops as RBNZ’s Silk to exit in December]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-drops-as-rbnzs-silk-to-exit-in-december-202609160258</link>
-            <guid isPermaLink="false">dbc2c761-dcdc-4d5d-994a-89c4c3723e91</guid>
-            <pubDate>Wed, 16 Sep 2026 02:58:38 GMT</pubDate>
-            <description><![CDATA[NZD/USD extends its losses for the third consecutive day, trading around 0.5750 during Asian hours on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar weakens below 0.7150 as markets brace for Fed rate decision]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-weakens-below-07150-as-markets-brace-for-fed-rate-decision-202609160225</link>
-            <guid isPermaLink="false">62fc7ffa-6175-47ae-a4b5-155f281da41d</guid>
-            <pubDate>Wed, 16 Sep 2026 02:25:34 GMT</pubDate>
-            <description><![CDATA[The AUD/USD pair declines to around 0.7120 during Asian trading hours on Wednesday. Expectations of a US interest rate hike provide some support to the US Dollar (USD) and act as a headwind for the pair. Traders brace for the US Federal Reserve (Fed) interest rate decision later on Wednesday. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PBOC’s Pan says will rely less on loan growth targets and more on rate tools to guide policy]]></title>
-            <link>https://www.fxstreet.com/news/pbocs-pan-says-will-rely-less-on-loan-growth-targets-and-more-on-rate-tools-to-guide-policy-202609160218</link>
-            <guid isPermaLink="false">948e88a1-5cc3-4a25-a6c1-d99c4745b9d8</guid>
-            <pubDate>Wed, 16 Sep 2026 02:18:56 GMT</pubDate>
-            <description><![CDATA[The People’s Bank of China (PBOC) Governor Pan Gongsheng said on Wednesday that the Chinese central bank will rely less on loan growth targets and more on interest rate tools to guide policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/china-people-bank-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD bears have the upper hand below $64.00 and 200-day EMA]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bears-have-the-upper-hand-below-6400-and-200-day-ema-202609160214</link>
-            <guid isPermaLink="false">825a006b-b1c5-4de2-89c1-f802917da857</guid>
-            <pubDate>Wed, 16 Sep 2026 02:14:20 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) struggles to capitalize on the previous day's modest gains and fails to break above the $64.00 round figure during the Asian session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/JPY Price Forecast: Holds ground above 179.00 within oversold territory]]></title>
-            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-holds-ground-above-17900-within-oversold-territory-202609160208</link>
-            <guid isPermaLink="false">38f1c470-2d2d-4931-ad4e-87224484c913</guid>
-            <pubDate>Wed, 16 Sep 2026 02:08:21 GMT</pubDate>
-            <description><![CDATA[EUR/JPY gains ground for the third successive day, trading around 179.10 during Asian hours on Wednesday. Technical analysis of the daily chart shows the currency cross trading within a descending channel, keeping the overall bias bearish.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BNB-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index gains ground ahead of Fed interest rate decision]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-gains-ground-ahead-of-fed-interest-rate-decision-202609160143</link>
-            <guid isPermaLink="false">f55f2464-7308-4c56-b7bf-d87fe4b3a922</guid>
-            <pubDate>Wed, 16 Sep 2026 01:43:03 GMT</pubDate>
-            <description><![CDATA[The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is continuing its winning streak for the sixth consecutive day and trading around 99.70 during Asian hours on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro sticks to losses near one-month low as USD bulls retain control ahead of Fed decision]]></title>
-            <link>https://www.fxstreet.com/news/euro-sticks-to-losses-near-one-month-low-as-usd-bulls-retain-control-ahead-of-fed-decision-202609160139</link>
-            <guid isPermaLink="false">16d29e7b-8559-4255-a7c6-b50682fed0fc</guid>
-            <pubDate>Wed, 16 Sep 2026 01:39:35 GMT</pubDate>
-            <description><![CDATA[The EUR/USD pair sticks to a negative bias for the fifth straight day and trades around the 1.1535-1.1530 area during the Asian session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BNB-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound softens below 1.3500 as traders await UK CPI data, Fed rate decision]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-softens-below-13500-as-traders-await-uk-cpi-data-fed-rate-decision-202609160121</link>
-            <guid isPermaLink="false">a1bf894a-edbc-4915-a3a4-d49924c70da2</guid>
-            <pubDate>Wed, 16 Sep 2026 01:21:05 GMT</pubDate>
-            <description><![CDATA[The GBP/USD pair loses ground to near 1.3470 during the early Asian trading hours on Wednesday. The US Dollar (USD) strengthens against the British Pound (GBP) on expectations of a US interest rate hike.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PBOC sets USD/CNY reference rate at 6.7628 vs. 6.7670 previous]]></title>
-            <link>https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67628-vs-67670-previous-202609160115</link>
-            <guid isPermaLink="false">c9f704ff-1076-4a30-881b-b7a323d880eb</guid>
-            <pubDate>Wed, 16 Sep 2026 01:15:46 GMT</pubDate>
-            <description><![CDATA[On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7628 compared to the previous day's fix of 6.7670 and 6.7148euters estimate.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar languishes near two-week low as bullish USD offsets oil gains ahead of Fed]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-languishes-near-two-week-low-as-bullish-usd-offsets-oil-gains-ahead-of-fed-202609160108</link>
-            <guid isPermaLink="false">2a7cac40-007a-45dd-af41-8b4104b91cff</guid>
-            <pubDate>Wed, 16 Sep 2026 01:08:18 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair retains its positive bias for the sixth straight day, trading near the 1.3930 area, a two-week high during the Asian session on Wednesday amid a bullish US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI slips to near $100.50 despite escalating Middle East supply disruptions]]></title>
-            <link>https://www.fxstreet.com/news/wti-slips-to-near-10050-despite-escalating-middle-east-supply-disruptions-202609160054</link>
-            <guid isPermaLink="false">7ba230cc-33b6-464a-8875-81cfb0841170</guid>
-            <pubDate>Wed, 16 Sep 2026 00:54:00 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) oil price declines after two days of gains, trading around $100.50 per barrel during Asian hours on Wednesday. However, crude oil prices may rebound, driven by a series of broadening supply disruptions across the Middle East.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi air defenses intercept Houthi drone near Mecca]]></title>
-            <link>https://www.fxstreet.com/news/saudi-air-defenses-intercept-houthi-drone-near-mecca-202609160033</link>
-            <guid isPermaLink="false">b318908b-e1f3-45db-a55c-cb6615ed1b43</guid>
-            <pubDate>Wed, 16 Sep 2026 00:33:41 GMT</pubDate>
-            <description><![CDATA[The Saudi-led coalition said that Saudi air defenses intercepted and destroyed a drone launched by Yemen’s Houthi group near Mecca, Reuters reported on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen flatlines ahead of Fed rate decicion]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-flatlines-ahead-of-fed-rate-decicion-202609160022</link>
-            <guid isPermaLink="false">17971cb6-b4bd-4217-a81b-c89b9327c4b1</guid>
-            <pubDate>Wed, 16 Sep 2026 00:22:36 GMT</pubDate>
-            <description><![CDATA[The USD/JPY pair holds steady near 155.25 during the early Asian session on Wednesday. Traders prefer to wait on the sidelines ahead of the US Federal Reserve (Fed) interest rate decision later on Wednesday. On Friday, attention will shift to the Bank of Japan (BoJ) interest rate decision. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold declines below $4,300 as US yields climb, Fed rate decision looms]]></title>
-            <link>https://www.fxstreet.com/news/gold-declines-below-4-300-as-us-yields-climb-fed-rate-decision-looms-202609152313</link>
-            <guid isPermaLink="false">f8807788-5a32-4b18-93ef-13b3eb421c24</guid>
-            <pubDate>Tue, 15 Sep 2026 23:13:14 GMT</pubDate>
-            <description><![CDATA[Gold price (XAU/USD) declines to near $4,285 during the early Asian session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar softens as risk-off mood meets FOMC countdown]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-as-risk-off-mood-meets-fomc-countdown-202609152255</link>
-            <guid isPermaLink="false">cb60da1f-3fc3-4b77-beb8-d73bfc9787a2</guid>
-            <pubDate>Tue, 15 Sep 2026 22:55:22 GMT</pubDate>
-            <description><![CDATA[The Aussie Dollar loses 0.11% against the Greenback on Tuesday as risk appetite remains negative amid calls from AI company CEOs to slow development, while the FOMC monetary policy meeting looms. Expectations for a Fed rate hike undermine the AUD/USD, which trades at 0.7130.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Euro edges lower as Frankfurt's hike takes effect the day Washington votes]]></title>
-            <link>https://www.fxstreet.com/news/the-euro-edges-lower-as-frankfurts-hike-takes-effect-the-day-washington-votes-202609152226</link>
-            <guid isPermaLink="false">2c0a1531-9c13-4c17-870d-308f404f0993</guid>
-            <pubDate>Tue, 15 Sep 2026 22:26:54 GMT</pubDate>
-            <description><![CDATA[EUR/USD closed Tuesday near 1.1540, down 0.1%. It fell on the day the European Central Bank (ECB) raised its deposit rate to 2.50% and in each of the three sessions since.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GBP/JPY Price Forecast: Rebounds above 207.00 as oversold risk eases]]></title>
-            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebounds-above-20700-as-oversold-risk-eases-202609152222</link>
-            <guid isPermaLink="false">95dccc84-8a7e-4e30-b016-67d69f6aa274</guid>
-            <pubDate>Tue, 15 Sep 2026 22:22:04 GMT</pubDate>
-            <description><![CDATA[The GBP/JPY edges higher by about 0.29% on Tuesday, even as risk appetite has shifted to the sour side due to geopolitical developments that are driving global bond yields higher amid inflation fears. At the time of writing, the cross-pair trades at 209.02 after bouncing off daily lows of 208.25.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Pound drifts lower as the Fed lines up a rate above the Bank of England's]]></title>
-            <link>https://www.fxstreet.com/news/the-pound-drifts-lower-as-the-fed-lines-up-a-rate-above-the-bank-of-englands-202609152209</link>
-            <guid isPermaLink="false">a6d6143d-92a0-40cf-b4ce-a23c9f7fe854</guid>
-            <pubDate>Tue, 15 Sep 2026 22:09:57 GMT</pubDate>
-            <description><![CDATA[GBP/USD closed Tuesday near 1.3470, down 0.2%. Wednesday's Asian and London hours are the last before the Fed is expected to raise its rate for the first time since July 2023. By the New York close its ceiling should sit a quarter-point above Bank Rate.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-33.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[United States Dollar Index (DXY) eases from two-week top, holds above 99.50 ahead of Fed]]></title>
+            <link>https://www.fxstreet.com/news/united-states-dollar-index-dxy-eases-from-two-week-top-holds-above-9950-ahead-of-fed-202609160724</link>
+            <guid isPermaLink="false">3d2a3ab2-bca8-4461-82cf-2ba5cf4173d7</guid>
+            <pubDate>Wed, 16 Sep 2026 07:24:51 GMT</pubDate>
+            <description><![CDATA[The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, retreats slightly from a two-week high, retested earlier this Wednesday, though it lacks follow-through selling.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object-1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
