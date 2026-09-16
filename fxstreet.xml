@@ -4,9 +4,121 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 16 Sep 2026 19:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 22:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Euro's losing streak runs on as the Fed matches the ECB's rate hike]]></title>
+            <link>https://www.fxstreet.com/news/the-euros-losing-streak-runs-on-as-the-fed-matches-the-ecbs-rate-hike-202609162201</link>
+            <guid isPermaLink="false">c4451f36-46a4-4090-8513-c7f628b322ca</guid>
+            <pubDate>Wed, 16 Sep 2026 22:01:20 GMT</pubDate>
+            <description><![CDATA[The European Central Bank (ECB) raised its deposit rate to 2.50% on September 10, and the Euro has fallen every session since. The Fed raised its own rate to 3.75-4.00% on Wednesday, by the same quarter point, and the day's drop was the biggest of the run.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Japanese Yen gives back more of its rally as the Fed raises rates]]></title>
+            <link>https://www.fxstreet.com/news/the-japanese-yen-gives-back-more-of-its-rally-as-the-fed-raises-rates-202609162118</link>
+            <guid isPermaLink="false">b4b562dd-9eb4-4292-a585-a9ce17ec5005</guid>
+            <pubDate>Wed, 16 Sep 2026 21:18:26 GMT</pubDate>
+            <description><![CDATA[The Bank of Japan meets on Friday, and the market has a quarter-point hike to 1.25% priced at 100%. The Yen has been falling anyway. USD/JPY is up three sessions in a row, Wednesday's gain was the biggest of the three, and the pair is trading just under 156.50 after the Fed's hike to 3.75-4.00%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand GDP in the barrel with the Kiwi at July lows]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-gdp-in-the-barrel-with-the-kiwi-at-july-lows-202609162114</link>
+            <guid isPermaLink="false">5e310f74-dfc0-4177-8935-6e418a4a682d</guid>
+            <pubDate>Wed, 16 Sep 2026 21:14:20 GMT</pubDate>
+            <description><![CDATA[New Zealand reports second-quarter growth later on Wednesday, or early on Thursday depending on where you are relative to the international date line, and the forecast is 0.1% for the quarter, down from 0.8% in the first three months of the year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump demands 1% rates hours after the Fed raised them]]></title>
+            <link>https://www.fxstreet.com/news/trump-demands-1-rates-hours-after-the-fed-raised-them-202609162104</link>
+            <guid isPermaLink="false">e5ca14ea-a109-4aad-8c47-2edbc8d7dbe7</guid>
+            <pubDate>Wed, 16 Sep 2026 21:04:26 GMT</pubDate>
+            <description><![CDATA[Trump posted on Wednesday that US rates should be 1% or less and that the country has the strongest credit anywhere. He also wrote that cutting off trade with every nation the US runs a deficit with would earn at least $1.5 trillion a year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar sinks toward its July low after the Fed hikes]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-sinks-toward-its-july-low-after-the-fed-hikes-202609162101</link>
+            <guid isPermaLink="false">35c60a94-0195-4ad1-bd30-d7f257807859</guid>
+            <pubDate>Wed, 16 Sep 2026 21:01:18 GMT</pubDate>
+            <description><![CDATA[NZD/USD has dropped in six straight sessions. The run started near 0.5900 on September 8, went through both long-run averages near 0.5850 early in the run, and the last three sessions have been the biggest of the lot.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Australian Dollar continues to slide as the Fed enters hike country]]></title>
+            <link>https://www.fxstreet.com/news/the-australian-dollar-continues-to-slide-as-the-fed-enters-hike-country-202609162056</link>
+            <guid isPermaLink="false">85c68f90-1010-4e8a-888d-0ab1765d8b8a</guid>
+            <pubDate>Wed, 16 Sep 2026 20:56:22 GMT</pubDate>
+            <description><![CDATA[Australia's central bank pays more than the Federal Reserve (Fed) does. The cash rate is 4.35%, the Fed's new range is 3.75-4.00% after Wednesday's quarter-point hike, and most of the big Australian banks expect the RBA to raise again before the end of the year, and none of that has helped.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ US Federal Reserve sends Gold to fresh one-month lows ]]></title>
+            <link>https://www.fxstreet.com/news/us-federal-reserve-sends-gold-to-fresh-one-month-lows-202609161943</link>
+            <guid isPermaLink="false">424826ac-fcfe-40fa-b584-d5d97000a59b</guid>
+            <pubDate>Wed, 16 Sep 2026 19:43:08 GMT</pubDate>
+            <description><![CDATA[Spot Gold (XAU/USD) is closing Wednesday with losses, trading around $4,250 after hitting an intraday high of $4,366.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Euro breaks lower once the Fed raises rates]]></title>
+            <link>https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-six-days-after-the-ecb-202609161808</link>
+            <guid isPermaLink="false">376d43e8-2701-426f-9845-d727bf01bb2e</guid>
+            <pubDate>Wed, 16 Sep 2026 18:08:49 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) trades just under 1.1500 against the US Dollar (USD) on Wednesday, through the pair of long-run averages that had held it up since early August.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Pound sinks as the Fed overtakes the BoE]]></title>
+            <link>https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-back-above-britains-375-202609161809</link>
+            <guid isPermaLink="false">96d46d02-d8fc-48c3-820b-96c657e37794</guid>
+            <pubDate>Wed, 16 Sep 2026 18:09:44 GMT</pubDate>
+            <description><![CDATA[The Pound trades just under 1.3400, 91 pips lower and down 0.68%. The Fed took its rate to 3.75-4.00% and, measured at the midpoint of the new range, American money now pays more than British money for the first time this year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed rate hike bolsters US Dollar Index above 100.00]]></title>
+            <link>https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815</link>
+            <guid isPermaLink="false">6b4d8056-4d1e-4430-8703-479d73b65b4a</guid>
+            <pubDate>Wed, 16 Sep 2026 18:15:39 GMT</pubDate>
+            <description><![CDATA[The Dollar Index broke above 100.00, back above both of its long-run averages. The quarter-point that took the Fed to 3.75-4.00% was fully priced and worth nothing on its own.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currencies-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Canadian Dollar slips to a summer low on the Fed's rate hike]]></title>
+            <link>https://www.fxstreet.com/news/fed-hike-sends-the-loonie-to-a-six-week-low-202609161841</link>
+            <guid isPermaLink="false">b1736623-2283-42b7-bd2a-83e0b1bdb1ba</guid>
+            <pubDate>Wed, 16 Sep 2026 18:41:40 GMT</pubDate>
+            <description><![CDATA[The Loonie trades at its weakest since early August, with USD/CAD just under 1.4000 after a 71-pip rise and a 0.51% gain. The Fed raised its rate a quarter-point to 3.75-4.00% and the Bank of Canada did not, which takes the distance between them from 1.375 points to 1.625.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average slides behind a Federal Reserve hike]]></title>
+            <link>https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815</link>
+            <guid isPermaLink="false">57049e13-25ff-4308-b2df-29e17c31d318</guid>
+            <pubDate>Wed, 16 Sep 2026 18:15:09 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average (DJIA) trades just above 51,500 on Wednesday, down 576 points and 1.11%, its worst session of the month.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver slides as hawkish Fed lifts US Dollar and Treasury yields]]></title>
+            <link>https://www.fxstreet.com/news/silver-slides-as-hawkish-fed-lifts-us-dollar-and-treasury-yields-202609161916</link>
+            <guid isPermaLink="false">177901c6-48aa-4d77-bc8d-b254a937f77d</guid>
+            <pubDate>Wed, 16 Sep 2026 19:16:07 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) trades under pressure on Wednesday as a stronger US Dollar (USD) and rising US Treasury yields weigh on the non-yielding metal following the Federal Reserve’s (Fed) monetary policy decision. At the time of writing, XAG/USD trades around $62.68, down 1.56% on the day.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: Investors now look at the BoE]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-investors-now-look-at-the-boe-202609161909</link>
+            <guid isPermaLink="false">7e39452e-d468-45ce-8cd1-b05306e085ea</guid>
+            <pubDate>Wed, 16 Sep 2026 19:09:53 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) has navigated a positive range on Wednesday, gathering extra pace after the Federal Reserve (Fed) hiked its Fed Funds Target Rate (FFTR) by a quarter percentage point, as widely anticipated.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Federal Reserve Chair Warsh: Inflation trends were not passing the test]]></title>
             <link>https://www.fxstreet.com/news/federal-reserve-chair-warsh-inflation-trends-were-not-passing-the-test-202609161900</link>
@@ -40,22 +152,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Fed hikes six days after the ECB, weighing on the Euro]]></title>
-            <link>https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-six-days-after-the-ecb-202609161808</link>
-            <guid isPermaLink="false">376d43e8-2701-426f-9845-d727bf01bb2e</guid>
-            <pubDate>Wed, 16 Sep 2026 18:08:49 GMT</pubDate>
-            <description><![CDATA[The European Central Bank (ECB) moved first. Six days ago it raised its deposit rate, the return banks earn on money parked with it, by a quarter-point to 2.50%. The Fed matched that size on Wednesday and went to 3.75-4.00%, its first increase since 2023.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Fed rate hike sends the Loonie to a six-week low]]></title>
-            <link>https://www.fxstreet.com/news/fed-hike-sends-the-loonie-to-a-six-week-low-202609161841</link>
-            <guid isPermaLink="false">b1736623-2283-42b7-bd2a-83e0b1bdb1ba</guid>
-            <pubDate>Wed, 16 Sep 2026 18:41:40 GMT</pubDate>
-            <description><![CDATA[The Bank of Canada has held its overnight rate at 2.25% through seven consecutive meetings, the most recent on September 2, and does not decide again until October 28. The Fed ended a pause of its own on Wednesday, lifting its rate to 3.75-4.00%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[WTI holds near daily low as Fed decision draws muted reaction]]></title>
             <link>https://www.fxstreet.com/news/wti-holds-near-daily-low-as-fed-decision-draws-muted-reaction-202609161837</link>
             <guid isPermaLink="false">343aa2dd-76e3-42c9-b495-83cc5528f960</guid>
@@ -64,36 +160,12 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[The Federal Reserve hikes back above Britain's cash rate]]></title>
-            <link>https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-back-above-britains-375-202609161809</link>
-            <guid isPermaLink="false">96d46d02-d8fc-48c3-820b-96c657e37794</guid>
-            <pubDate>Wed, 16 Sep 2026 18:09:44 GMT</pubDate>
-            <description><![CDATA[The Fed has raised its rate to 3.75-4.00%, its first increase since 2023 and its first move since the cut in December 2025. Bank Rate, the Bank of England's own rate, has been 3.75% since December 2025.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Japanese Yen falls as US Federal Reserve delivers ]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-falls-as-us-federal-reserve-delivers-202609161832</link>
             <guid isPermaLink="false">56645ebb-295d-4702-8b98-de5c02011be5</guid>
             <pubDate>Wed, 16 Sep 2026 18:32:44 GMT</pubDate>
             <description><![CDATA[The USD/JPY pair trades at fresh weekly highs in the 155.50 price zone after the United States (US) Federal Reserve (Fed) delivered the expected 25 basis point (bps) interest rate hike. The US Dollar (USD) resumed its weekly advance with the headlines, following a pause ahead of the announcement.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dollar Index Cracks 100 as Fed delivers hawkish hike]]></title>
-            <link>https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815</link>
-            <guid isPermaLink="false">6b4d8056-4d1e-4430-8703-479d73b65b4a</guid>
-            <pubDate>Wed, 16 Sep 2026 18:15:39 GMT</pubDate>
-            <description><![CDATA[The Fed has raised its rate to 3.75-4.00%, its first increase since 2023. This index measures the Dollar against six currencies, and it is not a broad measure. The Euro alone is 57.6% of it.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/KevinWarshFED3-14526.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dow Jones' 30 corporate borrowers eat a Fed rate hike]]></title>
-            <link>https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815</link>
-            <guid isPermaLink="false">57049e13-25ff-4308-b2df-29e17c31d318</guid>
-            <pubDate>Wed, 16 Sep 2026 18:15:09 GMT</pubDate>
-            <description><![CDATA[The Fed has raised its rate to 3.75-4.00%, its first increase since 2023 and its first move of any kind since the cut in December 2025. The rate it sets is what banks pay to borrow from each other overnight, and it reaches this index in two places.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Federal Reserve hawkish hike sent Gold price lower]]></title>
@@ -174,78 +246,6 @@
             <pubDate>Wed, 16 Sep 2026 14:53:22 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes GBP/USD is trading heavy near its 200-day moving average as United Kingdom (UK) gilts stabilize. August Consumer Price Index (CPI) slightly exceeded the Bank of England's (BoE) projections, but he still expects the BoE to hold rates at 3.75%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar holds ground as Fed decision looms]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-holds-ground-against-us-dollar-as-fed-decision-looms-202609161453</link>
-            <guid isPermaLink="false">90734562-908a-4ad5-95e9-ca2f0d21a02c</guid>
-            <pubDate>Wed, 16 Sep 2026 14:53:14 GMT</pubDate>
-            <description><![CDATA[AUD/USD trades in a narrow range on Wednesday as investors hold back from taking strong positions ahead of the Federal Reserve’s (Fed) monetary policy announcement. At the time of writing, AUD/USD trades around 0.7134, little changed on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: BoC hawkish tilt and key levels – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-boc-hawkish-tilt-and-key-levels-scotiabank-202609161441</link>
-            <guid isPermaLink="false">872a0b1c-e722-4fb4-8078-026d05034ffb</guid>
-            <pubDate>Wed, 16 Sep 2026 14:41:17 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret report USD/CAD is steady near 1.39 as markets await the Federal Reserve (Fed) and the Bank of Canada’s (BoC) summary of deliberations. They note the BoC is likely to sound more hawkish after firmer inflation data and still-accommodative policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United Kingdom: BoE hold view reinforced – Nomura]]></title>
-            <link>https://www.fxstreet.com/news/united-kingdom-boe-hold-view-reinforced-nomura-202609161418</link>
-            <guid isPermaLink="false">f064f6e3-0f05-4d0a-a06d-e4a8327fa712</guid>
-            <pubDate>Wed, 16 Sep 2026 14:18:59 GMT</pubDate>
-            <description><![CDATA[Nomura’s Global Markets Research team, including Josie Anderson, George Buckley and Andrzej Szczepaniak, notes that UK CPI data for August came in broadly as expected, with headline inflation at 3.1% and core and services measures unchanged.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-Flag.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Eurozone: Manufacturing outlook steadies as year-end hopes build – ING]]></title>
-            <link>https://www.fxstreet.com/news/eurozone-manufacturing-outlook-steadies-as-year-end-hopes-build-ing-202609161357</link>
-            <guid isPermaLink="false">01c6615f-d59b-4c79-b904-ca6e55b9b8bf</guid>
-            <pubDate>Wed, 16 Sep 2026 13:57:15 GMT</pubDate>
-            <description><![CDATA[ING’s Bert Colijn notes that Eurozone industrial production slipped by 0.1% in both June and July, leaving output broadly unchanged from a year earlier. He highlights resilience in capital goods and energy, but continued weakness in consumer-focused sectors, especially non-durable goods.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro trades cautiously against US Dollar ahead of expected Fed rate hike]]></title>
-            <link>https://www.fxstreet.com/news/euro-trades-cautiously-against-us-dollar-ahead-of-expected-fed-rate-hike-202609161345</link>
-            <guid isPermaLink="false">3fb23b24-02b0-4b58-8542-780a2dbb1c2a</guid>
-            <pubDate>Wed, 16 Sep 2026 13:45:51 GMT</pubDate>
-            <description><![CDATA[EUR/USD consolidates losses on Wednesday as traders avoid taking strong directional positions ahead of the Federal Reserve’s (Fed) monetary policy announcement.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price rebounds ahead of expected Fed rate hike, Warsh press conference]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-rebounds-ahead-of-expected-fed-rate-hike-warsh-press-conference-202609161341</link>
-            <guid isPermaLink="false">b79c49c4-bdc2-4a78-9a4f-685cb6d7cf7f</guid>
-            <pubDate>Wed, 16 Sep 2026 13:41:38 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) rebounds on Wednesday and trades around $64.00 per troy ounce at the time of writing, up 1.32% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed pricing creates asymmetric risks – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-pricing-creates-asymmetric-risks-bbh-202609161338</link>
-            <guid isPermaLink="false">7a12bb89-10f7-46bc-b08d-2e95a2a7cd27</guid>
-            <pubDate>Wed, 16 Sep 2026 13:38:14 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad says the US Dollar (USD) remains supported by energy-driven risk aversion ahead of the FOMC decision.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of England: Hawkish hold risks and November hike – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-england-hawkish-hold-risks-and-november-hike-mufg-202609161319</link>
-            <guid isPermaLink="false">c5ead3d4-e870-4007-8000-d72220d9b4ce</guid>
-            <pubDate>Wed, 16 Sep 2026 13:19:28 GMT</pubDate>
-            <description><![CDATA[MUFG’s Henry Cook expects the Bank of England to deliver a hawkish hold, with UK inflation driven higher by energy and headline CPI projected to exceed 4% after the January price cap reset.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Markets test ECB reaction function – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/euro-markets-test-ecb-reaction-function-rabobank-202609161300</link>
-            <guid isPermaLink="false">66d92580-61c1-4720-9007-2181921440be</guid>
-            <pubDate>Wed, 16 Sep 2026 13:00:16 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Senior Macro Strategist Bas van Geffen notes that EUR money markets now discount more than four additional European Central Bank (ECB) rate hikes beyond the two already delivered, as investors push expectations ahead of policymakers.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
