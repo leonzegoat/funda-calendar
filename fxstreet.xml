@@ -4,9 +4,81 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 17 Sep 2026 19:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 22:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bank of Japan is expected to deliver a hawkish hike, pressured by rising inflation]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200</link>
+            <guid isPermaLink="false">30531fc4-08c0-4a39-a31f-7389bafda17a</guid>
+            <pubDate>Thu, 17 Sep 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[The Bank of Japan’s (BoJ) monetary policy meeting will close a week packed with central bank decisions on Friday, with markets particularly interested in confirming expectations of a hawkish shift that has boosted a strong Japanese Yen (JPY) recovery in September.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/JPY Price Forecast: Spinning tops warn bulls near 180.00]]></title>
+            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-spinning-tops-warn-bulls-near-18000-202609172144</link>
+            <guid isPermaLink="false">28d4a5dc-7380-4923-becc-069a91891114</guid>
+            <pubDate>Thu, 17 Sep 2026 21:44:51 GMT</pubDate>
+            <description><![CDATA[The EUR/JPY drops by about 0.08% on Thursday, forming back-to-back spinning tops near the 180.00 area, the top of a consolidation range capped to the downside by 178.00. At the time of writing, the cross-pair trades at 179.02, below its opening price.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar slips against the Japanese Yen before the Bank of Japan raises rates]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-slips-against-the-japanese-yen-before-the-bank-of-japan-raises-rates-202609172057</link>
+            <guid isPermaLink="false">36073bb0-e87d-4ba3-b90b-9d8ffb95ec7c</guid>
+            <pubDate>Thu, 17 Sep 2026 20:57:07 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades near 156.00 after a session high at 156.32 and a low at 155.34, which leaves it three Yen above the September 8 low and four below the September 2 high. The Bank of Japan announces at 02:45 GMT on Friday and a quarter-point increase to 1.25% is priced at 100%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound slides after the Bank of England stays put]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sterling-slides-after-the-bank-of-england-stays-put-202609172056</link>
+            <guid isPermaLink="false">186f2392-6bef-46ba-bf6d-33e60046da23</guid>
+            <pubDate>Thu, 17 Sep 2026 20:56:24 GMT</pubDate>
+            <description><![CDATA[GBP/USD trades near 1.3350 on Thursday after a session low at 1.3336, its weakest since the end of July, and it has been under its 200-day average since Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Evening star puts 207.00 back in play]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-evening-star-puts-20700-back-in-play-202609172047</link>
+            <guid isPermaLink="false">53796fdb-abae-4ead-8897-861aee659861</guid>
+            <pubDate>Thu, 17 Sep 2026 20:47:09 GMT</pubDate>
+            <description><![CDATA[GBP/JPY makes a U-turn and loses about 0.39% on Thursday as risk appetite improves, while traders await a potential rate hike by the Bank of Japan (BoJ) later in Friday’s session. The cross-pair trades at 208.32 after reaching a high of 209.19.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Strong Dollar keeps pair supported – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-strong-dollar-keeps-pair-supported-ocbc-202609172012</link>
+            <guid isPermaLink="false">2b8d0a7d-6369-44b0-a139-7a77214bfc44</guid>
+            <pubDate>Thu, 17 Sep 2026 20:12:00 GMT</pubDate>
+            <description><![CDATA[OCBC strategist Christopher Wong highlights that Singapore Dollar (SGD) remains largely driven by the broader Dollar story after the FOMC, given its high sensitivity to USD moves.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai Baht: Electronics boom offers limited FX support – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/thai-baht-electronics-boom-offers-limited-fx-support-mufg-202609171937</link>
+            <guid isPermaLink="false">74711d54-2615-4872-963c-a957c2bb741b</guid>
+            <pubDate>Thu, 17 Sep 2026 19:37:00 GMT</pubDate>
+            <description><![CDATA[MUFG’s Lloyd Chan remains cautious on the Thai Baht, keeping the USD/THB forecast at 34.00 by year-end.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: US Dollar eases ahead of Bank of Japan decision]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-us-dollar-eases-ahead-of-bank-of-japan-decision-202609171933</link>
+            <guid isPermaLink="false">1b48b066-92af-4269-bf71-8fd45f0f3aee</guid>
+            <pubDate>Thu, 17 Sep 2026 19:33:58 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) is ending Thursday softer. The US Dollar Index (DXY) hovers just above the 100.00 mark after climbing to a seven-week high earlier in the week. The sideways action follows Wednesday's decision by the Federal Reserve (Fed) to raise interest rates for the first time since 2023.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCNY.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: Bulls threaten bearish setup after Fed hike]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-bulls-threaten-bearish-setup-after-fed-hike-202609171915</link>
+            <guid isPermaLink="false">2e6f027e-9190-4465-86fc-27cc17119400</guid>
+            <pubDate>Thu, 17 Sep 2026 19:15:23 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) surges to five-day highs above $66.00 on Thursday as traders digest the Federal Reserve (Fed) rate hike on Wednesday. Meanwhile, a drop in US Treasury yields is undermining the Greenback, which clings to early gains but has barely changed.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold shrugs off Fed hike as falling yields reopen path to $4,400]]></title>
             <link>https://www.fxstreet.com/news/gold-shrugs-off-fed-hike-as-falling-yields-reopen-path-to-4-400-202609171858</link>
@@ -20,7 +92,7 @@
             <link>https://www.fxstreet.com/news/australian-and-new-zealand-dollars-dig-in-ahead-of-a-japanese-rate-hike-202609171852</link>
             <guid isPermaLink="false">e274b650-c572-43ca-a9ee-d3670a3b9fd6</guid>
             <pubDate>Thu, 17 Sep 2026 18:52:49 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar trades near 111.00 against the Yen and the New Zealand Dollar near 89.50, both a little higher and both a long way below where they were in August.]]></description>
+            <description><![CDATA[The Australian Dollar (AUD) trades near 111.00 against the Japanese Yen (JPY) and the New Zealand Dollar (NZD) near 89.50 on Thursday, both a little higher and both a long way below where they were in August.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_5.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -36,7 +108,7 @@
             <link>https://www.fxstreet.com/news/crude-oil-sells-off-and-takes-it-all-back-on-saudi-cargoes-through-oman-202609171813</link>
             <guid isPermaLink="false">1f3aaa1e-ad15-4f2c-8f64-36173a949195</guid>
             <pubDate>Thu, 17 Sep 2026 18:13:47 GMT</pubDate>
-            <description><![CDATA[Crude Oil trades near $97.50, which is where it opened, after a drop to $94.50 and a full recovery. Saudi Arabia is offering Asian refiners extra cargoes handed over outside the Strait of Hormuz, and the price treated that as more oil.]]></description>
+            <description><![CDATA[Crude Oil trades near $97.50, which is where it opened on Thursday, after a drop to $94.50 and a full recovery. Saudi Arabia is offering Asian refiners extra cargoes handed over outside the Strait of Hormuz, and the price treated that as more oil.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -174,78 +246,6 @@
             <pubDate>Thu, 17 Sep 2026 14:24:22 GMT</pubDate>
             <description><![CDATA[EUR/USD trades modestly higher on Thursday as falling Oil prices pull US Treasury yields away from their recent highs, prompting the US Dollar (USD) to trim part of its post-Fed gains.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Two more hikes seen as inflation stays too high – UOB]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-two-more-hikes-seen-as-inflation-stays-too-high-uob-202609171418</link>
-            <guid isPermaLink="false">cb847b36-9878-46a6-a596-e61f798e6896</guid>
-            <pubDate>Thu, 17 Sep 2026 14:18:28 GMT</pubDate>
-            <description><![CDATA[UOB’s economics team, led by Suan Teck Kin and Alvin Liew, interprets the September FOMC as the start of a short hiking extension rather than a one-off move.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Bearish against Euro after BoE hold – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-bearish-against-euro-after-boe-hold-td-securities-202609171408</link>
-            <guid isPermaLink="false">e1cb15d9-1b5a-401a-868f-da4101bb155c</guid>
-            <pubDate>Thu, 17 Sep 2026 14:08:55 GMT</pubDate>
-            <description><![CDATA[FX strategist Howard Du at TD Securities reiterates a bullish EUR/GBP stance after the Bank of England’s (BoE) cautious hold.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar remains under pressure as USD/CAD flirts with 1.4000]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-as-usd-cad-flirts-with-14000-202609171407</link>
-            <guid isPermaLink="false">9cdd1c69-9781-4abb-a8d6-82492369afd2</guid>
-            <pubDate>Thu, 17 Sep 2026 14:07:28 GMT</pubDate>
-            <description><![CDATA[USD/CAD trades around 1.3980 on Thursday at the time of writing, little changed on the day and hovering near the psychological 1.4000 level. The US Dollar (USD) remains supported by better-than-expected employment data, while the Canadian Dollar (CAD) continues to face pressure from weak Oil prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ tightening expectations lift JPY against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-tightening-expectations-lift-jpy-against-us-dollar-scotiabank-202609171400</link>
-            <guid isPermaLink="false">43d693e5-9d20-4456-885b-8297faaee4ec</guid>
-            <pubDate>Thu, 17 Sep 2026 14:00:16 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight USD/JPY trading near 155.65 with the Japanese Yen (JPY) outperforming G10 peers as markets price in a Bank of Japan (BoJ) hike alongside elevated domestic risk around CPI and policy decisions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of England: November hike risk rises – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-england-november-hike-risk-rises-rabobank-202609171351</link>
-            <guid isPermaLink="false">9be5ce82-9735-436a-9f5e-c85b4e4009ae</guid>
-            <pubDate>Thu, 17 Sep 2026 13:51:17 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Stefan Koopman notes that the Bank of England kept Bank Rate at 3.75% in a 6-3 vote, but sees rising inflation risks from higher energy prices and the Middle East conflict.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Downside levels in focus against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/euro-downside-levels-in-focus-against-us-dollar-uob-202609171338</link>
-            <guid isPermaLink="false">95fbde92-a09a-4d18-926e-ac3d5fcc1ad7</guid>
-            <pubDate>Thu, 17 Sep 2026 13:38:44 GMT</pubDate>
-            <description><![CDATA[UOB’s Quek Ser Leang highlights building downside momentum in EUR/USD as the 21‑day EMA approaches a bearish cross below the 55‑day EMA. The pair has broken below the Ichimoku cloud and key moving averages, with support at 1.1400 and subsequent levels at 1.1353 and 1.1324.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Underperformance persists on wider spreads – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-underperformance-persists-on-wider-spreads-scotiabank-202609171324</link>
-            <guid isPermaLink="false">b56ff86c-83ec-42df-8db1-4163cce03b9a</guid>
-            <pubDate>Thu, 17 Sep 2026 13:24:46 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret highlight that USD/CAD remains elevated near 1.40 after the FOMC, with the Canadian Dollar (CAD) underperforming peers as the Fed/BoC rate differential returns to 175bps.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil Price Forecast: Bulls lose momentum near $100]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-price-forecast-bulls-lose-momentum-near-100-202609171321</link>
-            <guid isPermaLink="false">7128e288-059d-472c-834b-5687b9c05f03</guid>
-            <pubDate>Thu, 17 Sep 2026 13:21:05 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) Oil extends its decline on Thursday, sliding nearly 2% as Saudi Arabia’s rerouting efforts and hopes for a faster pipeline recovery weigh on prices, even as broader Middle East supply risks stay elevated.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: BoE stance leaves Pound exposed – BBH]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-boe-stance-leaves-pound-exposed-bbh-202609171310</link>
-            <guid isPermaLink="false">807d80de-fd30-42d4-9601-a67363415f3d</guid>
-            <pubDate>Thu, 17 Sep 2026 13:10:43 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports that the Bank of England (BoE) kept Bank Rate at 3.75% but signaled a low bar for further tightening. Governor Bailey warned policy may have to tighten if Middle East conflict-driven second-round effects emerge.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
