@@ -4,9 +4,49 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 16 Sep 2026 22:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 00:35:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US President Donald Trump to hold Iran talks with Gulf leaders next week — Reuters]]></title>
+            <link>https://www.fxstreet.com/news/us-president-donald-trump-to-hold-iran-talks-with-gulf-leaders-next-week-reuters-202609170015</link>
+            <guid isPermaLink="false">dfdbe918-da45-4a9a-b936-4419ea4b77eb</guid>
+            <pubDate>Thu, 17 Sep 2026 00:15:03 GMT</pubDate>
+            <description><![CDATA[US President Donald Trump is expected ‌to meet Gulf leaders on the sidelines of the UN General Assembly in New York next Tuesday to discuss the next steps in the Iran war, Reuters reported on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpVictory-6526.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar remains weak below 0.5750 despite better-than-expected GDP data]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-remains-weak-below-05750-despite-better-than-expected-gdp-data-202609170006</link>
+            <guid isPermaLink="false">972be229-b2c8-4256-88d6-346b1980796a</guid>
+            <pubDate>Thu, 17 Sep 2026 00:06:28 GMT</pubDate>
+            <description><![CDATA[The NZD/USD pair falls to near 0.5725 during the early Asian session on Thursday. The New Zealand Dollar (NZD) remains under selling pressure against the US Dollar (USD) despite the upbeat New Zealand economic data. The US Initial Jobless Claims data is due later on Thursday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold falls to near $4,250 after Fed delivers rate hike  ]]></title>
+            <link>https://www.fxstreet.com/news/gold-falls-to-near-4-250-after-fed-delivers-rate-hike-202609162325</link>
+            <guid isPermaLink="false">ef6122cc-59b1-497c-97f4-c0c48ee1d289</guid>
+            <pubDate>Wed, 16 Sep 2026 23:25:30 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) attracts some sellers to around $4,265 during the early Asian session on Thursday. The precious metal extends its downside after the US Federal Reserve (Fed) raises interest rates and signals another rate increase is likely this year. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[0.2%: New Zealand’s Gross Domestic Product grows more than expected in Q2]]></title>
+            <link>https://www.fxstreet.com/news/02-new-zealands-gross-domestic-product-grows-more-than-expected-in-q2-202609162246</link>
+            <guid isPermaLink="false">186f0da5-4d47-478a-9e11-7d9686a110ab</guid>
+            <pubDate>Wed, 16 Sep 2026 22:46:19 GMT</pubDate>
+            <description><![CDATA[New Zealand's Gross Domestic Product (GDP) grew by 0.2% QoQ in the second quarter (Q2) of 2026, compared with a 0.9% expansion in the first quarter (revised from 0.8%), Statistics New Zealand showed on Thursday. This reading came in stronger than the expectation of a rise of 0.1%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_GDP-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Pound drops below its long-run average as the Fed's rate passes Britain's]]></title>
+            <link>https://www.fxstreet.com/news/the-pound-drops-below-its-long-run-average-as-the-feds-rate-passes-britains-202609162219</link>
+            <guid isPermaLink="false">b716c6dc-7b70-40aa-9043-411cdd7ae686</guid>
+            <pubDate>Wed, 16 Sep 2026 22:19:29 GMT</pubDate>
+            <description><![CDATA[The Fed raised rates by a quarter point to 3.75-4.00% on Wednesday, the first hike since 2023, and the vote was 12-0. The middle of the new range is 3.875%, which puts US rates above the UK's 3.75% for the first time this year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Euro's losing streak runs on as the Fed matches the ECB's rate hike]]></title>
             <link>https://www.fxstreet.com/news/the-euros-losing-streak-runs-on-as-the-fed-matches-the-ecbs-rate-hike-202609162201</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 16 Sep 2026 11:28:16 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) consolidates gains on Wednesday after rebounding during Asian trading hours, supported by a modest pullback in Oil prices and US Treasury yields.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Pound sells its own inflation spike ahead of a Fed hike]]></title>
-            <link>https://www.fxstreet.com/news/the-pound-sells-its-own-inflation-spike-ahead-of-a-fed-hike-202609161532</link>
-            <guid isPermaLink="false">907e136a-6f5e-48da-bd91-cf80713329ab</guid>
-            <pubDate>Wed, 16 Sep 2026 15:32:50 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) trades just above 1.3450 on Wednesday, down 23 pips, after a morning that ran in two directions. It climbed into the August inflation release at 06:00 GMT, spiked on it, then spent six hours handing the move back and another 30 pips with it.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dow Jones Industrial Average huddles ahead of Fed action]]></title>
-            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-huddles-ahead-of-fed-action-202609161514</link>
-            <guid isPermaLink="false">2cd5b59c-e26b-401a-a590-d83109e94992</guid>
-            <pubDate>Wed, 16 Sep 2026 15:14:39 GMT</pubDate>
-            <description><![CDATA[The Dow Jones Industrial Average trades just above 52,100 and has spent the Wednesday morning going nowhere, on the day the Federal Reserve (Fed) is expected to raise its rate for the first time since 2023. That is not indifference.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Recession-5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Consolidation with downside risks against US Dollar – Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/euro-consolidation-with-downside-risks-against-us-dollar-scotiabank-202609161509</link>
-            <guid isPermaLink="false">41ba86ad-64f2-4821-9e4f-6b39ab472fbf</guid>
-            <pubDate>Wed, 16 Sep 2026 15:09:02 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Euro (EUR) is consolidating in a tight range around the mid-1.15s as markets await the Federal Open Market Committee (FOMC).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed repricing risk caps downside – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-repricing-risk-caps-downside-rabobank-202609161501</link>
-            <guid isPermaLink="false">b70fc41f-6e98-4e65-9a49-27a448252c9a</guid>
-            <pubDate>Wed, 16 Sep 2026 15:01:18 GMT</pubDate>
-            <description><![CDATA[Rabobank’s Senior FX Strategist Jane Foley notes the US Dollar (USD) has outperformed G10 peers on expectations the Fed will deliver around 100 bps of tightening over 12 months, but warns this may be excessive.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: BoE repricing risk grows – BBH]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-boe-repricing-risk-grows-bbh-202609161453</link>
-            <guid isPermaLink="false">266f751a-138d-48e2-94a0-44655674d0e0</guid>
-            <pubDate>Wed, 16 Sep 2026 14:53:22 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes GBP/USD is trading heavy near its 200-day moving average as United Kingdom (UK) gilts stabilize. August Consumer Price Index (CPI) slightly exceeded the Bank of England's (BoE) projections, but he still expects the BoE to hold rates at 3.75%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
