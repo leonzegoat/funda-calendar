@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 18 Sep 2026 20:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 22:51:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-strong-nodx-but-usd-still-drives-usd-sgd-ocbc-202609182149</link>
+            <guid isPermaLink="false">faeb0f44-f3e1-49d7-a8ff-f7ad23dea359</guid>
+            <pubDate>Fri, 18 Sep 2026 21:49:00 GMT</pubDate>
+            <description><![CDATA[OCBC’s Christopher Wong highlights that Singapore’s August NODX surged 46.2% year-on-year, far above consensus, with electronics exports jumping on AI-related demand and broad-based strength across markets.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Singapore3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break]]></title>
+            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-after-07100-break-202609182116</link>
+            <guid isPermaLink="false">07255366-d1ea-4728-9198-3cb17ef990ae</guid>
+            <pubDate>Fri, 18 Sep 2026 21:16:51 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar is poised to end the week on a positive note versus the US Dollar, up 0.21% as improved risk appetite keeps AUD/USD trading near 0.7124, closing near Friday's highs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Pre-summit support and firmer bias – DBS]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-pre-summit-support-and-firmer-bias-dbs-202609182112</link>
+            <guid isPermaLink="false">32b75ac7-5215-4fd2-a667-108b22c7d248</guid>
+            <pubDate>Fri, 18 Sep 2026 21:12:00 GMT</pubDate>
+            <description><![CDATA[Chang Wei Liang at DBS Group Research highlights that USD/CNH is easing toward 6.70 despite a stronger Dollar, with the Renminbi (RMB) supported by a lower USD/CNY fixing below 6.76.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure]]></title>
+            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044</link>
+            <guid isPermaLink="false">89697903-44c0-4580-8cc0-441a4795db9a</guid>
+            <pubDate>Fri, 18 Sep 2026 20:44:54 GMT</pubDate>
+            <description><![CDATA[The New Zealand Dollar (NZD) turns negative on Friday, down 0.11% against the US Dollar (USD), in a week that saw the Federal Reserve's (Fed) first rate hike in three years, which underpinned the Greenback against most G8 FX currencies.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: Range trade persists against US Dollar – UOB]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202609182038</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 18 Sep 2026 12:49:46 GMT</pubDate>
             <description><![CDATA[Rabobank strategists Bas van Geffen and Elwin de Groot expect the European Central Bank (ECB) to raise the deposit facility rate by 25bp to 2.75% in December, driven by higher energy price forecasts.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-56.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand Dollar falls as hawkish Fed stance supports US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/new-zealand-dollar-falls-as-hawkish-fed-stance-supports-us-dollar-202609181243</link>
-            <guid isPermaLink="false">a334d20e-59a9-4230-adc5-99589858b6ce</guid>
-            <pubDate>Fri, 18 Sep 2026 12:43:38 GMT</pubDate>
-            <description><![CDATA[NZD/USD trades lower around 0.5710 on Friday at the time of writing, down 0.3% on the day.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve: Further hikes supported by resilient economy – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/federal-reserve-further-hikes-supported-by-resilient-economy-nordea-202609181233</link>
-            <guid isPermaLink="false">74a2c5e2-6b29-4882-a235-c6b3ad05e300</guid>
-            <pubDate>Fri, 18 Sep 2026 12:33:27 GMT</pubDate>
-            <description><![CDATA[Nordea strategists expect the Federal Reserve (Fed) to deliver two additional rate hikes, arguing that resilient United States (US) growth, persistent inflation and continued labour-market strength suggest monetary policy is not yet sufficiently restrictive.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro trades flat against British Pound as UK Retail Sales beat forecasts]]></title>
-            <link>https://www.fxstreet.com/news/euro-trades-flat-against-british-pound-as-uk-retail-sales-beat-forecasts-202609181233</link>
-            <guid isPermaLink="false">b071a046-097e-4699-842a-e5dbeb271df3</guid>
-            <pubDate>Fri, 18 Sep 2026 12:33:27 GMT</pubDate>
-            <description><![CDATA[EUR/GBP trades little changed on Friday as stronger-than-expected UK Retail Sales data lends some support to the British Pound (GBP) after it came under pressure following the Bank of England’s (BoE) monetary policy announcement on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Cautious BoJ tilt weighs on JPY against US Dollar – BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-cautious-boj-tilt-weighs-on-jpy-against-us-dollar-bbh-202609181210</link>
-            <guid isPermaLink="false">f2967fc0-acd1-4e11-a543-590b7c37f873</guid>
-            <pubDate>Fri, 18 Sep 2026 12:10:35 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights pronounced Japanese Yen (JPY) underperformance, with USD/JPY near 158.00 after a Bank of Japan rate hike to 1.25%. The Bank of Japan (BoJ) signaled cautious tightening, expecting only moderate growth and delayed achievement of 2% inflation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
