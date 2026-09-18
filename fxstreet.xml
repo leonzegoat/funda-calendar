@@ -4,16 +4,56 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 17 Sep 2026 22:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 00:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bank of Japan is expected to deliver a hawkish hike, pressured by rising inflation]]></title>
+            <title><![CDATA[Iran’s IRGC claims attack on Togolese oil tanker for 'illegal transit' in Strait of Hormuz ]]></title>
+            <link>https://www.fxstreet.com/news/irans-irgc-claims-attack-on-togolese-oil-tanker-for-illegal-transit-in-strait-of-hormuz-202609172354</link>
+            <guid isPermaLink="false">56ce6307-3ac3-4349-bd58-6eaec67539be</guid>
+            <pubDate>Thu, 17 Sep 2026 23:54:18 GMT</pubDate>
+            <description><![CDATA[Iran's Islamic Revolutionary Guard Corps (IRGC) said on Thursday that a Togo-flagged oil ‌tanker was struck ‌while attempting to make an “illegal passage” through the Strait of ‌Hormuz, Arab news reported. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Iran.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RBA's Bullock: At August board meeting, risks to outlook were skewed to the upside]]></title>
+            <link>https://www.fxstreet.com/news/rbas-bullock-at-august-board-meeting-risks-to-outlook-were-skewed-to-the-upside-202609172341</link>
+            <guid isPermaLink="false">bfb6f0e5-0b8d-4ad1-9104-01e208c6b89c</guid>
+            <pubDate>Thu, 17 Sep 2026 23:41:14 GMT</pubDate>
+            <description><![CDATA[Reserve Bank of Australia (RBA) Governor Michele Bullock said on Friday that risks to outlook were skewed to the upside at August board meeting.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Michele-Bullock_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1.9%: Japan’s National CPI steadies in August]]></title>
+            <link>https://www.fxstreet.com/news/19-japans-national-cpi-steadies-in-august-202609172333</link>
+            <guid isPermaLink="false">031ae546-abb9-45cb-94de-a9c3543a9912</guid>
+            <pubDate>Thu, 17 Sep 2026 23:33:27 GMT</pubDate>
+            <description><![CDATA[Japan’s National Consumer Price Index (CPI) climbed by 1.9% YoY in August, compared to the previous reading of 1.9%, according to the latest data released by the Japan Statistics Bureau on Friday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/cpi-shopping-cart.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of Japan is set to raise interest rates as inflation, economic growth support tighter policy]]></title>
             <link>https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200</link>
             <guid isPermaLink="false">30531fc4-08c0-4a39-a31f-7389bafda17a</guid>
             <pubDate>Thu, 17 Sep 2026 22:00:00 GMT</pubDate>
             <description><![CDATA[The Bank of Japan’s (BoJ) monetary policy meeting will close a week packed with central bank decisions on Friday, with markets particularly interested in confirming expectations of a hawkish shift that has boosted a strong Japanese Yen (JPY) recovery in September.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-68.png" length="0" type="image/png"/>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-48.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rebounds to near $4,350 on weaker US Dollar, falling oil prices]]></title>
+            <link>https://www.fxstreet.com/news/gold-rebounds-to-near-4-350-on-weaker-us-dollar-falling-oil-prices-202609172320</link>
+            <guid isPermaLink="false">fa3b0313-c0e8-475e-b408-cb25845cc65c</guid>
+            <pubDate>Thu, 17 Sep 2026 23:20:22 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) rises to near $4,345 during the early Asian session on Friday. The precious metal rebounds from a six-week low amid falling oil prices and a weaker US Dollar (USD). Traders continue to assess the latest Federal Reserve (Fed) rate hike and policy cues.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar finds a floor as Oil retreat loosens USD’s grip]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-finds-a-floor-as-oil-retreat-loosens-usds-grip-202609172315</link>
+            <guid isPermaLink="false">5b994c4b-663f-4aca-9c54-ec06417a6a5f</guid>
+            <pubDate>Thu, 17 Sep 2026 23:15:56 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar recovered some ground versus the US Dollar on Thursday, following the Federal Reserve’s monetary policy decision on Wednesday, which witnessed a 0.25% rate hike and paved the way for further tightening.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bullish-chart.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[EUR/JPY Price Forecast: Spinning tops warn bulls near 180.00]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 17 Sep 2026 14:54:44 GMT</pubDate>
             <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret say EUR/USD is stabilizing after Wednesday’s Fed decision, as improving Germany-US 2-year yield spreads and a hawkish ECB stance support the euro.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar rebound offsets the hawkish Fed hike]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rebound-offsets-the-hawkish-fed-hike-202609171451</link>
-            <guid isPermaLink="false">d5b10f04-1c30-4d77-9f19-15521b2b4b48</guid>
-            <pubDate>Thu, 17 Sep 2026 14:51:15 GMT</pubDate>
-            <description><![CDATA[AUD/USD rebounds near the 0.7110s area on Thursday after the pair spent recent sessions nursing losses on bets for a hawkish Federal Reserve (Fed). At the time of writing, the pair rises by over 0.40%, but the rebound has little to do with anything out of Australia. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Michele-Bullock_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1.25%: Why the Bank of Japan hike is a done deal and the Japanese Yen now hinges on Ueda's guidance]]></title>
-            <link>https://www.fxstreet.com/news/125-why-the-bank-of-japan-hike-is-a-done-deal-and-the-japanese-yen-now-hinges-on-uedas-guidance-202609171451</link>
-            <guid isPermaLink="false">afcfff90-c99b-452b-83f6-1979532df1b0</guid>
-            <pubDate>Thu, 17 Sep 2026 14:51:06 GMT</pubDate>
-            <description><![CDATA[The Bank of Japan (BoJ) stands on the verge of delivering a 25 basis point rate hike to 1.25%, with financial markets pricing in a near 100% probability of such an action.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-205.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of England: Cautious hold with upside risks – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-england-cautious-hold-with-upside-risks-td-securities-202609171446</link>
-            <guid isPermaLink="false">b09ed1ef-162a-474a-8c15-e649b0233b33</guid>
-            <pubDate>Thu, 17 Sep 2026 14:46:31 GMT</pubDate>
-            <description><![CDATA[TD Securities’ macro team, led by Pooja Kumra, notes the Bank of England kept Bank Rate at 3.75% in a 6-3 vote, with a more hawkish tone versus July as inflation risks stay skewed higher.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed hike keeps upside risks – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-hike-keeps-upside-risks-bbh-202609171434</link>
-            <guid isPermaLink="false">00b4f6ff-5a4e-45f8-9a5b-a230d3086027</guid>
-            <pubDate>Thu, 17 Sep 2026 14:34:24 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that the US Dollar (USD) is holding gains after a hawkish Federal Reserve (Fed) hike, with 10-year Treasury yields retreating and equities firmer. The FOMC raised rates by 25bps and signaled more work is needed to bring inflation back to target.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro gains against US Dollar as post-Fed rally loses momentum]]></title>
-            <link>https://www.fxstreet.com/news/euro-gains-against-us-dollar-as-post-fed-rally-loses-momentum-202609171424</link>
-            <guid isPermaLink="false">2af30757-4d1f-4cd3-b523-6e2a6b931090</guid>
-            <pubDate>Thu, 17 Sep 2026 14:24:22 GMT</pubDate>
-            <description><![CDATA[EUR/USD trades modestly higher on Thursday as falling Oil prices pull US Treasury yields away from their recent highs, prompting the US Dollar (USD) to trim part of its post-Fed gains.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
