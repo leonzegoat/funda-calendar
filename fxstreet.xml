@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 18 Sep 2026 22:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 01:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-202609182355</link>
+            <guid isPermaLink="false">a3f8253e-b288-4e7d-85c6-5bd301e0546c</guid>
+            <pubDate>Fri, 18 Sep 2026 23:55:00 GMT</pubDate>
+            <description><![CDATA[OCBC strategist Christopher Wong highlights that Taiwan’s CBC kept its policy rate at 2% for a tenth straight quarter with a mildly hawkish tone, sharply raising 2026 growth and inflation forecasts while flagging sticky services inflation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/taiwan-dollar-cbc-holds-rates-but-flags-inflation-risks-commerzbank-202609182332</link>
+            <guid isPermaLink="false">30eccc09-579b-4260-9f2e-6f18a8a63cf2</guid>
+            <pubDate>Fri, 18 Sep 2026 23:32:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Charlie Lay and Henry Hao report that Taiwan’s CBC kept its policy rate at 2.0% for a tenth straight meeting, signalling a patient stance.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-202609182327</link>
+            <guid isPermaLink="false">5ad5415b-2590-48e5-a887-c3e6e9601220</guid>
+            <pubDate>Fri, 18 Sep 2026 23:27:00 GMT</pubDate>
+            <description><![CDATA[OCBC strategist Christopher Wong notes that the Korean Won remains under pressure as foreign selling of Korean equities persists and elevated US yields after the FOMC continue to weigh. Large-cap technology stocks are at the centre of outflows, though the broader KOSPI has held up.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307</link>
+            <guid isPermaLink="false">c7928e8b-232a-4aa8-9724-d83cdb562d68</guid>
+            <pubDate>Fri, 18 Sep 2026 23:07:00 GMT</pubDate>
+            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Japanese Yen (JPY) is down sharply versus the US Dollar (USD) after a dovishly delivered 25 bps Bank of Japan (BoJ) hike and Governor Ueda’s cautious guidance.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-strong-nodx-but-usd-still-drives-usd-sgd-ocbc-202609182149</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 18 Sep 2026 13:50:19 GMT</pubDate>
             <description><![CDATA[Nordea’s team sees the European Central Bank delivering two more 25bp rate hikes, in December and March 2027, despite more aggressive market pricing.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro heads for weekly loss against US Dollar on hawkish Fed outlook]]></title>
-            <link>https://www.fxstreet.com/news/euro-heads-for-weekly-loss-against-us-dollar-on-hawkish-fed-outlook-202609181344</link>
-            <guid isPermaLink="false">408de011-ffe9-416b-b0e1-f5ad8110c241</guid>
-            <pubDate>Fri, 18 Sep 2026 13:44:03 GMT</pubDate>
-            <description><![CDATA[EUR/USD remains on the defensive on Friday and heads for a weekly loss as the Federal Reserve’s (Fed) hawkish policy outlook keeps the US Dollar (USD) firmly supported. A rebound in Oil prices and US Treasury yields adds pressure on the pair.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: BoJ hike fails to lift JPY against US Dollar – Danske Bank]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-boj-hike-fails-to-lift-jpy-against-us-dollar-danske-bank-202609181329</link>
-            <guid isPermaLink="false">9cce9117-91a1-48ac-9ba7-692570461571</guid>
-            <pubDate>Fri, 18 Sep 2026 13:29:01 GMT</pubDate>
-            <description><![CDATA[Danske Bank’s Danske Research Team notes that the Bank of Japan raised its policy rate to 1.25% with a 7-2 vote, signalling continued but cautious tightening.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: QT overhaul supports Gilt curve and Pound – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-qt-overhaul-supports-gilt-curve-and-pound-mufg-202609181303</link>
-            <guid isPermaLink="false">c2b27ebb-f3aa-480c-8dc1-fe993bdd57f5</guid>
-            <pubDate>Fri, 18 Sep 2026 13:03:52 GMT</pubDate>
-            <description><![CDATA[Derek Halpenny at MUFG highlights that the Bank of England left rates unchanged, but signals suggest a hike is likely in November as most of the majority voting bloc see tightening as needed.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: One more hike then pause – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-one-more-hike-then-pause-rabobank-202609181249</link>
-            <guid isPermaLink="false">03edc33f-9a07-46fc-b5ee-21229413f97d</guid>
-            <pubDate>Fri, 18 Sep 2026 12:49:46 GMT</pubDate>
-            <description><![CDATA[Rabobank strategists Bas van Geffen and Elwin de Groot expect the European Central Bank (ECB) to raise the deposit facility rate by 25bp to 2.75% in December, driven by higher energy price forecasts.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-56.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
