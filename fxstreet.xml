@@ -4,9 +4,41 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 20 Sep 2026 21:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 00:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fed’s Kashkari: Inflation is still too high in “all aspects” of US economy]]></title>
+            <link>https://www.fxstreet.com/news/feds-kashkari-inflation-is-still-too-high-in-all-aspects-of-us-economy-202609202357</link>
+            <guid isPermaLink="false">65f810ad-affa-4150-bf1b-d957d28373d0</guid>
+            <pubDate>Sun, 20 Sep 2026 23:57:13 GMT</pubDate>
+            <description><![CDATA[Minneapolis Federal Reserve (Fed) President Neel Kashkari said that inflation is too high across all sectors ‌of the US economy, not just in rising oil prices, Reuters reported on Sunday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US, China open high-level talks ahead of Trump-Xi summit]]></title>
+            <link>https://www.fxstreet.com/news/us-china-open-high-level-talks-ahead-of-trump-xi-summit-202609202343</link>
+            <guid isPermaLink="false">2a12b6ea-6464-426d-8955-657fae3f1f68</guid>
+            <pubDate>Sun, 20 Sep 2026 23:43:54 GMT</pubDate>
+            <description><![CDATA[US and Chinese officials began talks in New York aimed at clearing the way for possible agreements on trade, Artificial Intelligence (AI) and critical minerals ahead of a meeting between US President Donald Trump and Chinese President Xi Jinping later on Thursday, Bloomberg reported on Sunday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/xijin-trump-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian Dollar edges lower as Fed hike bets grow ahead of Trump-Xi summit]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-edges-lower-as-fed-hike-bets-grow-ahead-of-trump-xi-summit-202609202332</link>
+            <guid isPermaLink="false">cab8201e-5593-4981-a5bd-51a09c4b9ebe</guid>
+            <pubDate>Sun, 20 Sep 2026 23:32:57 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair trades with mild losses around 0.7120 during the early Asian session on Monday. The US dollar (USD) edges higher against the Australian Dollar (AUD) as the US Federal Reserve (Fed) delivered a 25-basis-point rate hike and flagged more hikes in the coming months. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Qatar’s Prime Minister says Gulf states have to act together on Iran]]></title>
+            <link>https://www.fxstreet.com/news/qatars-prime-minister-says-gulf-states-have-to-act-together-on-iran-202609202229</link>
+            <guid isPermaLink="false">e7d4dee8-761e-4fce-9c58-bfbc160051c8</guid>
+            <pubDate>Sun, 20 Sep 2026 22:29:23 GMT</pubDate>
+            <description><![CDATA[Qatar’s prime minister, Sheikh Mohammed bin Abdulrahman Al-Thani, said Gulf states must work together to restore stability in the Middle East and help find a settlement between the United States (US) and Iran, Bloomberg reported on Sunday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Qatar_2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC]]></title>
             <link>https://www.fxstreet.com/news/taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-202609182355</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 18 Sep 2026 14:43:30 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes GBP/USD is holding just above recent lows as UK August retail sales beat expectations, reversing July’s decline and firming market pricing for a November Bank of England (BoE) rate hike.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar dips as Fed, US yields support the US Dollar]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-dips-as-fed-us-yields-support-the-us-dollar-202609181443</link>
-            <guid isPermaLink="false">82542ad5-684e-4a97-8751-53906d751098</guid>
-            <pubDate>Fri, 18 Sep 2026 14:43:17 GMT</pubDate>
-            <description><![CDATA[USD/CAD edges higher on Friday, trading around 1.4000 at the time of writing, up 0.10% on the day. The US Dollar (USD) remains supported by expectations of further interest rate hikes from the Federal Reserve (Fed), while the rebound in US Treasury yields adds to the Greenback’s appeal.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar: Pressure builds near 1.40 against US Dollar - Scotiabank]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-pressure-builds-near-140-against-us-dollar-scotiabank-202609181426</link>
-            <guid isPermaLink="false">1c1150cf-3ed2-459b-bed0-2c08181e980b</guid>
-            <pubDate>Fri, 18 Sep 2026 14:26:12 GMT</pubDate>
-            <description><![CDATA[Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) remains under pressure near 1.40 against the Dollar, reflecting a firm USD tone and wider US–Canada front-end spreads.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of Canada: Rate path risks tilt earlier – RBC]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-canada-rate-path-risks-tilt-earlier-rbc-202609181404</link>
-            <guid isPermaLink="false">d4477d83-f7d0-4fc0-a8b6-7421717faae8</guid>
-            <pubDate>Fri, 18 Sep 2026 14:04:20 GMT</pubDate>
-            <description><![CDATA[Nathan Janzen at Royal Bank of Canada (RBC) notes that markets are focused on whether the Bank of Canada (BoC) will raise rates in October after the Federal Reserve’s (Fed) move.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: Quarterly hikes still baseline – Nordea]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-quarterly-hikes-still-baseline-nordea-202609181350</link>
-            <guid isPermaLink="false">38fef326-8a06-48bd-99ca-45879b477d83</guid>
-            <pubDate>Fri, 18 Sep 2026 13:50:19 GMT</pubDate>
-            <description><![CDATA[Nordea’s team sees the European Central Bank delivering two more 25bp rate hikes, in December and March 2027, despite more aggressive market pricing.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
