@@ -4,16 +4,64 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 22 Sep 2026 14:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 18:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Natural gas: Price downside limited – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/natural-gas-price-downside-limited-commerzbank-202609221442</link>
-            <guid isPermaLink="false">4e647c4c-4157-4c09-978a-9f2011e0b638</guid>
-            <pubDate>Tue, 22 Sep 2026 14:42:29 GMT</pubDate>
-            <description><![CDATA[Norman Liebke at Commerzbank argues that European gas prices may see only limited further declines despite a brief 8% drop on US–Iran diplomatic headlines.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Trump signals diplomatic push on Ukraine and Iran as diesel ban looms]]></title>
+            <link>https://www.fxstreet.com/news/trump-signals-diplomatic-push-on-ukraine-and-iran-as-diesel-ban-looms-202609221809</link>
+            <guid isPermaLink="false">c2bc3db4-5ec6-4780-acbd-e02f595f8bc5</guid>
+            <pubDate>Tue, 22 Sep 2026 18:09:07 GMT</pubDate>
+            <description><![CDATA[The US President Donald Trump, after finishing his meeting with Ukrainian President Volodymyr Zelenskyy, said that he is figuring out a solution to end the war. Furthermore, he added that Russian President Vladimir Putin is willing to meet to end the war.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpWar3-6526.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Export surge supports KRW recovery – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-export-surge-supports-krw-recovery-ocbc-202609221759</link>
+            <guid isPermaLink="false">b092c362-8ba5-4e32-9c31-8a20e6c49a8d</guid>
+            <pubDate>Tue, 22 Sep 2026 17:59:55 GMT</pubDate>
+            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong report that the Korean Won (KRW) strengthened alongside gains in tech equities, lower Oil prices and strong export data, including a surge in semiconductor shipments.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar Index pushes higher on the case for another Fed increase]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-index-pushes-higher-on-the-case-for-another-fed-increase-202609221759</link>
+            <guid isPermaLink="false">9f161695-2bdb-4998-b74e-4c353fa4dfbe</guid>
+            <pubDate>Tue, 22 Sep 2026 17:59:02 GMT</pubDate>
+            <description><![CDATA[The Dollar Index trades near 100.70, its highest level since late July. It has climbed through five straight sessions of falling Crude Oil, the opposite of how the war has moved it for most of this year. The Fed is the reason.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed’s Barkin backs rate hike, stays unsure on more increases]]></title>
+            <link>https://www.fxstreet.com/news/feds-barkin-backs-rate-hike-stays-unsure-on-more-increases-202609221715</link>
+            <guid isPermaLink="false">c62e9972-3a40-4b6b-b9cf-0262dc40040a</guid>
+            <pubDate>Tue, 22 Sep 2026 17:15:42 GMT</pubDate>
+            <description><![CDATA[Richmond Federal Reserve (Fed) President Thomas Barkin said on Tuesday that the Federal Open Market Committee (FOMC) decided to raise interest rates last Wednesday because inflation risks outweighed those to maximum employment.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound sinks as USD shrugs off Hormuz reopening hopes]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-sinks-as-usd-shrugs-off-hormuz-reopening-hopes-202609221639</link>
+            <guid isPermaLink="false">d4483d0c-bdc3-4f4c-a5da-0d7b2de74c75</guid>
+            <pubDate>Tue, 22 Sep 2026 16:39:12 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) dives over 0.17% against the US Dollar (USD) on Tuesday amid newswire reports that Tehran intends to reopen the Strait of Hormuz if the United States meets certain conditions. At the time of writing, GBP/USD trades at 1.3343 after peaking at 1.3387.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average drops from a weekly high as bank shares slide]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-drops-from-a-weekly-high-as-bank-shares-slide-202609221609</link>
+            <guid isPermaLink="false">c8277c9b-6120-4092-be98-403d107b5d1c</guid>
+            <pubDate>Tue, 22 Sep 2026 16:09:13 GMT</pubDate>
+            <description><![CDATA[The Dow Jones Industrial Average (DJIA) rose on Tuesday to its highest level since September 14 before the opening bell, then turned lower once trading started in New York. It trades near 51,800, below Monday's close. The NASDAQ Composite tested record highs and the S&P 500 is barely changed.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD]]></title>
+            <link>https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557</link>
+            <guid isPermaLink="false">7c52b3c2-ba79-41d0-8dd0-4ba82b8b76c0</guid>
+            <pubDate>Tue, 22 Sep 2026 15:57:22 GMT</pubDate>
+            <description><![CDATA[USD/CAD gains 0.27% on Tuesday and trades around 1.4070 at the time of writing, supported by weakness in the Canadian Dollar (CAD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gold consolidates as Iran diplomacy hopes clash with hawkish Fed expectations ]]></title>
@@ -22,6 +70,54 @@
             <pubDate>Tue, 22 Sep 2026 11:20:21 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) consolidates on Tuesday as traders weigh fresh Middle East headlines while the broader geopolitical backdrop remains tense. At the time of writing, XAU/USD trades around $4,328 after rebounding from an intraday low of $4,291 during European trading hours.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-04.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil: Headlines drive vulnerability – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/oil-headlines-drive-vulnerability-td-securities-202609221543</link>
+            <guid isPermaLink="false">01fc1372-9a85-4430-b2e7-9f127df8031d</guid>
+            <pubDate>Tue, 22 Sep 2026 15:43:00 GMT</pubDate>
+            <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek highlight that elevated speculative positioning leaves Crude Oil vulnerable to shifting headlines around Middle East supply routes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: Recovery stalls below key moving averages]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-recovery-stalls-below-key-moving-averages-202609221538</link>
+            <guid isPermaLink="false">085e1f93-8551-4dad-92b3-84ebd46c71f9</guid>
+            <pubDate>Tue, 22 Sep 2026 15:38:53 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades flat on Tuesday as the Japanese Yen (JPY) holds firm in thin holiday trading during Japan’s Silver Week. However, a broadly stronger US Dollar (USD) keeps the Yen’s gains in check. At the time of writing, USD/JPY trades around 157.46.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump sees post-election Iran deal, calls for pressure to stay]]></title>
+            <link>https://www.fxstreet.com/news/trump-sees-post-election-iran-deal-calls-for-pressure-to-stay-202609221502</link>
+            <guid isPermaLink="false">f0344775-cff5-4efc-8f52-e3a1744acc78</guid>
+            <pubDate>Tue, 22 Sep 2026 15:02:52 GMT</pubDate>
+            <description><![CDATA[US President Donald Trump said at the UN General Assembly that “we must be united in maintaining pressure on Iran,” adding that he believes that the US and Iran will strike a deal following the US midterm elections in November.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpVictory3-6526.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of Canada: Slack delays hikes despite crude shock – NBC]]></title>
+            <link>https://www.fxstreet.com/news/bank-of-canada-slack-delays-hikes-despite-crude-shock-nbc-202609221506</link>
+            <guid isPermaLink="false">3da3a7c8-00ff-4926-a192-d62504beb361</guid>
+            <pubDate>Tue, 22 Sep 2026 15:06:29 GMT</pubDate>
+            <description><![CDATA[National Bank of Canada's Ethan Currie notes that while oil-driven inflation risks have increased, the Bank of Canada is likely to remain on hold in October as domestic slack and trade uncertainty continue to weigh on the economic outlook.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[United States: September inflation profile – TD Securities]]></title>
+            <link>https://www.fxstreet.com/news/united-states-september-inflation-profile-td-securities-202609221456</link>
+            <guid isPermaLink="false">e967ea96-adb3-453d-ae03-12df512d9f56</guid>
+            <pubDate>Tue, 22 Sep 2026 14:56:06 GMT</pubDate>
+            <description><![CDATA[TD Securities economists Oscar Munoz and Eli Nir provide an early projection for United States (US) September Consumer Price Index (CPI , expecting Headline CPI to rise 0.54% m/m, driven mainly by an almost 8% jump in gasoline and firmer food prices.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Natural gas: Price downside limited – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/natural-gas-price-downside-limited-commerzbank-202609221442</link>
+            <guid isPermaLink="false">4e647c4c-4157-4c09-978a-9f2011e0b638</guid>
+            <pubDate>Tue, 22 Sep 2026 14:42:29 GMT</pubDate>
+            <description><![CDATA[Norman Liebke at Commerzbank argues that European gas prices may see only limited further declines despite a brief 8% drop on US–Iran diplomatic headlines.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gas-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Canadian Dollar: USD strength keeps CAD weakness in focus - Scotiabank]]></title>
@@ -150,102 +246,6 @@
             <pubDate>Tue, 22 Sep 2026 11:48:58 GMT</pubDate>
             <description><![CDATA[EUR/GBP edges higher on Tuesday as the British Pound (GBP) remains under pressure across the board, weighed by concerns over the UK’s deteriorating fiscal outlook and the Bank of England’s (BoE) reluctance to raise interest rates while several major central banks have moved toward tighter policy.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc rallies on risk appetite while SNB threatens with FX intervention]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-rallies-on-risk-appetite-while-snb-threatens-with-fx-intervention-202609221147</link>
-            <guid isPermaLink="false">1eafd806-b882-4328-9546-cf4f8a123cc2</guid>
-            <pubDate>Tue, 22 Sep 2026 11:47:54 GMT</pubDate>
-            <description><![CDATA[The Swiss Franc (CHF) extended its recovery against the US Dollar (USD) on Tuesday, favoured by lower Oil prices amid hopes of a new round of US-Iran negotiations, which has prompted the Swiss National Bank (SNB) to launch an intervention warning.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Modestly stronger into year-end – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-modestly-stronger-into-year-end-ocbc-202609221145</link>
-            <guid isPermaLink="false">5a0a394a-2d18-44e0-8ac4-a380ba4011de</guid>
-            <pubDate>Tue, 22 Sep 2026 11:45:37 GMT</pubDate>
-            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong highlight that the US Dollar (USD) stayed resilient despite improved risk appetite, supported by hawkish Federal Reserve (Fed) commentary that limited the drop in US front-end yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee gains sharply as US-Iran diplomacy hopes pressure oil prices]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544</link>
-            <guid isPermaLink="false">947ad251-efa7-428b-9a81-a71cfbee4bdc</guid>
-            <pubDate>Tue, 22 Sep 2026 05:44:10 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) rises significantly against the US Dollar (USD) on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungarian Forint: Key 360 area supports consolidation against Euro – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/hungarian-forint-key-360-area-supports-consolidation-against-euro-societe-generale-202609221124</link>
-            <guid isPermaLink="false">1f15b69d-7982-46b2-bdc7-b0195712d309</guid>
-            <pubDate>Tue, 22 Sep 2026 11:24:08 GMT</pubDate>
-            <description><![CDATA[Societe Generale analysts describe EUR/HUF as consolidating above the 360 area after an interim low near 348 in June. The pair is capped by the 200-day moving average at 370/371, with a breakout above this zone needed to confirm a larger up-move.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Overbought rally faces 158.40 cap – UOB]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-overbought-rally-faces-15840-cap-uob-202609221115</link>
-            <guid isPermaLink="false">88801623-c734-4fe8-a5ea-1ce50fbbb43b</guid>
-            <pubDate>Tue, 22 Sep 2026 11:15:41 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/JPY remains supported after testing the 157.30 area, with short-term price action expected to stay within a 156.90–157.80 range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen recovers against US Dollar as oil prices correct sharply]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-recovers-against-us-dollar-on-hopes-of-us-iran-diplomacy-202609221052</link>
-            <guid isPermaLink="false">1df54f5b-118a-4f23-89ef-5fcfc06baeeb</guid>
-            <pubDate>Tue, 22 Sep 2026 10:52:16 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) claws back its early losses and turns slightly positive against the US Dollar (USD) during the European trading session on Thursday, with the USD/JPY pair dropping 0.2% to near 157.00.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-48.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar hesitates as Oil falls amid Hormuz reopening talks ]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-hesitates-as-oil-falls-amid-hormuz-reopening-talks-202609221044</link>
-            <guid isPermaLink="false">43537a23-0ba6-479a-b36c-40da920350c0</guid>
-            <pubDate>Tue, 22 Sep 2026 10:44:36 GMT</pubDate>
-            <description><![CDATA[The Canadian Dollar (CAD) trades practically flat against the US Dollar (USD) on Tuesday as the risk appetite triggered by Tehran’s proposal to reopen the Strait of Hormuz has offset the decline in Crude prices.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-neutral-object-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[South African Rand: SARB hike and hawkish tone – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/south-african-rand-sarb-hike-and-hawkish-tone-commerzbank-202609221007</link>
-            <guid isPermaLink="false">b49268b1-6a82-45dd-ad45-f1bbdb6aee67</guid>
-            <pubDate>Tue, 22 Sep 2026 10:07:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Volkmar Baur expects the South African Reserve Bank (SARB) to deliver a 25 basis point rate hike after surprising markets by holding rates in July.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/South_Africa.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold Price Forecast: XAU/USD approaches $4,300 after rejection at the $4,400 area]]></title>
-            <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-approaches-4-300-after-rejection-at-the-4-400-area-202609220950</link>
-            <guid isPermaLink="false">d83f6b53-cfd9-4813-bfa3-d08854ffd32c</guid>
-            <pubDate>Tue, 22 Sep 2026 09:50:09 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) trades lower for the second consecutive day on Tuesday, extending its decline to levels below $4,320 during the European session, as the recovery attempt from last week’s low was capped at $4,400.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hungarian Forint: NBH stance supports carry appeal – ING]]></title>
-            <link>https://www.fxstreet.com/news/hungarian-forint-nbh-stance-supports-carry-appeal-ing-202609220947</link>
-            <guid isPermaLink="false">263a8be0-6a14-4fee-8ef3-151e2fd6fa46</guid>
-            <pubDate>Tue, 22 Sep 2026 09:47:43 GMT</pubDate>
-            <description><![CDATA[ING’s Frantisek Taborsky expects the National Bank of Hungary to pause its mini easing cycle at 5.50% and possibly outline a two-step cut in its inflation target from 3.0% to 2.0%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Hungary.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price today: Silver falls, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609221220</link>
-            <guid isPermaLink="false">62ac8ec5-e9cf-4727-8def-83b91b64456a</guid>
-            <pubDate>Tue, 22 Sep 2026 12:20:33 GMT</pubDate>
-            <description><![CDATA[Silver prices (XAG/USD) fell on Tuesday, according to FXStreet data. Silver trades at $65.61 per troy ounce, down 0.78% from the $66.13 it cost on Monday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed tightening keeps upside risks – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-tightening-keeps-upside-risks-bbh-202609220929</link>
-            <guid isPermaLink="false">12d4d364-2e66-4a64-bea2-f894b898b9d2</guid>
-            <pubDate>Tue, 22 Sep 2026 09:29:32 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is extending gains after the latest hawkish Federal Reserve (Fed) hike, even as reopening prospects for the Strait of Hormuz temper the move and weigh on Oil.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
