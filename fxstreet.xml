@@ -4,15 +4,103 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 22 Sep 2026 18:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 21:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Singapore Dollar: Sideways bias holds above support against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-sideways-bias-holds-above-support-against-us-dollar-uob-202609222112</link>
+            <guid isPermaLink="false">a27e2acb-fde3-4c47-a71d-cfe7c60bad1e</guid>
+            <pubDate>Tue, 22 Sep 2026 21:12:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann maintain a constructive short-term view on USD/SGD, noting recent sideways trade around 1.2760.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/SGD2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Banxico expected to stay put as inflation risks block easing – Reuters]]></title>
+            <link>https://www.fxstreet.com/news/banxico-expected-to-stay-put-as-inflation-risks-block-easing-reuters-202609222051</link>
+            <guid isPermaLink="false">0e8fcf59-08fc-4299-b691-75a584647c84</guid>
+            <pubDate>Tue, 22 Sep 2026 20:51:36 GMT</pubDate>
+            <description><![CDATA[A Reuters poll shows that all economists expect that the Mexican Central Bank (Banxico) will hold rates unchanged at 6.50% for the third straight meeting on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ECB’s Nagel says restrictive policy cannot be ruled out]]></title>
+            <link>https://www.fxstreet.com/news/ecbs-nagel-says-restrictive-policy-cannot-be-ruled-out-202609222037</link>
+            <guid isPermaLink="false">89b5a419-8f16-4d15-a93c-dca11125ed9e</guid>
+            <pubDate>Tue, 22 Sep 2026 20:37:39 GMT</pubDate>
+            <description><![CDATA[The Bundesbank President and European Central Bank (ECB) member Joachim Nagel crossed the wires at a financial event in London on Tuesday, acknowledging that high energy prices had driven inflation off its 2026 target.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso carry cushion thins as USD/MXN breaks 100-day SMA]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-carry-cushion-thins-as-usd-mxn-breaks-100-day-sma-202609222024</link>
+            <guid isPermaLink="false">7c8ae94f-8980-44b3-8b7e-608b9b6073f4</guid>
+            <pubDate>Tue, 22 Sep 2026 20:24:47 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso (MXN) extended its losses for the third straight trading session on Tuesday, down over 0.4% as investors reduce their exposure to the Mexican currency following last week’s Federal Reserve (Fed) decision to raise interest rates.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Export surge supports BoK stance – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-export-surge-supports-bok-stance-commerzbank-202609222026</link>
+            <guid isPermaLink="false">03ed44a2-f3d0-4f89-9d75-c8c8369f2036</guid>
+            <pubDate>Tue, 22 Sep 2026 20:26:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank reports South Korea’s exports for the first 20 days of September jumped 78.3% year-on-year, extending nine months of double-digit growth and led by a 259% surge in semiconductor exports.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan Dollar: Equity inflows support TWD againt US Dollar – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/taiwan-dollar-equity-inflows-support-twd-againt-us-dollar-ocbc-202609221951</link>
+            <guid isPermaLink="false">be737e5f-f5f0-4dc6-8c0b-51771eb67559</guid>
+            <pubDate>Tue, 22 Sep 2026 19:51:00 GMT</pubDate>
+            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong highlight that the Taiwan Dollar (TWD) has extended gains, briefly strengthening near 31.71 versus the US Dollar (USD), supported by strong foreign portfolio inflows and domestic equity outperformance tied to tech and AI themes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold losses altitude as peace hopes meet hawkish Fed bets]]></title>
+            <link>https://www.fxstreet.com/news/gold-losses-altitude-as-peace-hopes-meet-hawkish-fed-bets-202609221936</link>
+            <guid isPermaLink="false">77a1c613-ff03-441e-a961-f289eaae7401</guid>
+            <pubDate>Tue, 22 Sep 2026 19:36:49 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) price retreats from daily highs of $4,376 on Tuesday as US Treasury yields rise and the US Dollar continues to strengthen, with investors pricing in further Federal Reserve (Fed) tightening towards year-end. At the time of writing, XAU/USD trades at $4,337, down 0.14%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Asia FX: AI-driven support for regional currencies – MUFG]]></title>
+            <link>https://www.fxstreet.com/news/asia-fx-ai-driven-support-for-regional-currencies-mufg-202609221917</link>
+            <guid isPermaLink="false">b90024d6-d557-4427-bf06-76150386446a</guid>
+            <pubDate>Tue, 22 Sep 2026 19:17:00 GMT</pubDate>
+            <description><![CDATA[MUFG’s Michael Wan notes that improved risk sentiment and AI optimism around Meta’s Muse supported a slightly stronger Dollar and stable DM yields.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: Advanced PMIs in the limelight, but what about the UN General Assembly?]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-advanced-pmis-in-the-limelight-but-what-about-the-un-general-assembly-202609221854</link>
+            <guid isPermaLink="false">432b4a00-c748-4f77-ae6c-f9845336e6b7</guid>
+            <pubDate>Tue, 22 Sep 2026 18:54:38 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) has extended its recovery on Tuesday, climbing to new multi-week highs on the back of steady bets for extra Fed tightening, while increasing hopes of a potential deal to unlock the US-Iran-Hormuz conflict seem to have been ignored by market participants.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Gradual decline within tight bands – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-gradual-decline-within-tight-bands-uob-202609221839</link>
+            <guid isPermaLink="false">55f88362-2197-45da-bcde-41756dad0eed</guid>
+            <pubDate>Tue, 22 Sep 2026 18:39:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann expect USD/CNH to edge lower intraday but stay confined to a narrow 6.6890–6.6960 range, with a clear break below 6.6890 seen as unlikely. Over one to three weeks, they see downside extending toward 6.6820 as momentum builds.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI extends decline as Trump signals progress in talks with Iran]]></title>
+            <link>https://www.fxstreet.com/news/wti-extends-decline-as-trump-signals-progress-in-talks-with-iran-202609221825</link>
+            <guid isPermaLink="false">01bd4d5f-3f46-4bf4-a7e1-16e7509fe208</guid>
+            <pubDate>Tue, 22 Sep 2026 18:25:01 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) Oil extends its decline on Tuesday as traders assess fresh Middle East developments, keeping energy prices under pressure for a fifth straight day. At the time of writing, WTI trades around $89.50, near a two-week low.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Trump signals diplomatic push on Ukraine and Iran as diesel ban looms]]></title>
             <link>https://www.fxstreet.com/news/trump-signals-diplomatic-push-on-ukraine-and-iran-as-diesel-ban-looms-202609221809</link>
             <guid isPermaLink="false">c2bc3db4-5ec6-4780-acbd-e02f595f8bc5</guid>
             <pubDate>Tue, 22 Sep 2026 18:09:07 GMT</pubDate>
-            <description><![CDATA[The US President Donald Trump, after finishing his meeting with Ukrainian President Volodymyr Zelenskyy, said that he is figuring out a solution to end the war. Furthermore, he added that Russian President Vladimir Putin is willing to meet to end the war.]]></description>
+            <description><![CDATA[US President Donald Trump is figuring out a solution to end the war between Russia and Ukraine, after meeting with Ukrainian President Volodymyr Zelenskyy. Furthermore, he added that Russian President Vladimir Putin is willing to meet to end the war.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpWar3-6526.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -158,94 +246,6 @@
             <pubDate>Tue, 22 Sep 2026 14:07:03 GMT</pubDate>
             <description><![CDATA[Silver (XAG/USD) declines 0.38% on Tuesday and trades around $65.85 at the time of writing.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Supply shock keeps prices elevated – NBC]]></title>
-            <link>https://www.fxstreet.com/news/oil-supply-shock-keeps-prices-elevated-nbc-202609221401</link>
-            <guid isPermaLink="false">aca85749-5b5d-492d-9e48-09f5cf893913</guid>
-            <pubDate>Tue, 22 Sep 2026 14:01:50 GMT</pubDate>
-            <description><![CDATA[National Bank of Canada's (NBC) Ethan Currie reassesses Oil pricing, highlighting persistent Middle East disruptions, depleted reserves and refined product shortages.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[India: Growth, liquidity and policy response – DBS]]></title>
-            <link>https://www.fxstreet.com/news/india-growth-liquidity-and-policy-response-dbs-202609221335</link>
-            <guid isPermaLink="false">444b551d-4a3a-486a-ad66-e6742d4f8f65</guid>
-            <pubDate>Tue, 22 Sep 2026 13:35:11 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Radhika Rao assesses India’s strong start to FY27, with high-frequency data pointing to around 7% growth in 2QFY and full-year FY27 growth of 7.3% year-on-year.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of England: Modest insurance tightening path – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/bank-of-england-modest-insurance-tightening-path-deutsche-bank-202609221320</link>
-            <guid isPermaLink="false">ad8e553e-865f-411d-8c8f-7675bdaac040</guid>
-            <pubDate>Tue, 22 Sep 2026 13:20:05 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank Research’s UK economists Sanjay Raja and Maui Brennan have shifted their BoE base case from no hikes to two 25bp moves, in November and February. They argue Bank Rate is already restrictive, inflation is largely energy-driven, and second‑round effects remain limited.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Turning point with BoJ shift – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-turning-point-with-boj-shift-ocbc-202609221304</link>
-            <guid isPermaLink="false">9ad70895-5deb-4012-a41b-70bd47971037</guid>
-            <pubDate>Tue, 22 Sep 2026 13:04:35 GMT</pubDate>
-            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong argue that intervention risks and a more hawkish Bank of Japan (BoJ) are key for the Japanese Yen (JPY).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar steadies as Middle East diplomacy takes focus]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-steadies-as-middle-east-diplomacy-takes-focus-202609221255</link>
-            <guid isPermaLink="false">5f570afa-460e-449d-b03e-22825c7b4b80</guid>
-            <pubDate>Tue, 22 Sep 2026 12:55:18 GMT</pubDate>
-            <description><![CDATA[AUD/USD trims part of its earlier losses on Tuesday as traders assess fresh diplomatic signals surrounding the war between the United States (US) and Iran, weighing on the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Hawkish fedspeak backs upside risks – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-hawkish-fedspeak-backs-upside-risks-ing-202609221248</link>
-            <guid isPermaLink="false">fdc4531d-0a5c-4ccd-bc7e-a29161ff5c57</guid>
-            <pubDate>Tue, 22 Sep 2026 12:48:04 GMT</pubDate>
-            <description><![CDATA[ING’s Francesco Pesole notes the Dollar started the week strongly despite lower Oil prices and firmer global equities, helped by hawkish remarks from Federal Reserve officials Austan Goolsbee and Alberto Musalem that supported US front-end rates.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: RBA seen hiking as inflation risks build – Standard Chartered]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-rba-seen-hiking-as-inflation-risks-build-standard-chartered-202609221234</link>
-            <guid isPermaLink="false">b8dd7c85-e9c2-4c52-8382-eae12dd0a72c</guid>
-            <pubDate>Tue, 22 Sep 2026 12:34:29 GMT</pubDate>
-            <description><![CDATA[Standard Chartered’s Nicholas Chia now expects the Reserve Bank of Australia (RBA) to raise the cash rate to 4.60% at its 29 September meeting, revising a previous call for a hold. Chia cites recent RBA messaging focused on upside inflation risks and resilient economic momentum.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-70.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US ADP Employment Change 4-week average increases to 20K]]></title>
-            <link>https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-20k-202609221232</link>
-            <guid isPermaLink="false">96c36e71-3236-4f1a-b204-84ae1f8f8e32</guid>
-            <pubDate>Tue, 22 Sep 2026 12:32:38 GMT</pubDate>
-            <description><![CDATA[Private-sector hiring in the US has gained some pace in early September. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 20K jobs per week in the four weeks ending September 5.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-clock-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Fiscal squeeze risks dovish BoE – BBH]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-fiscal-squeeze-risks-dovish-boe-bbh-202609221220</link>
-            <guid isPermaLink="false">d3818640-e2f9-42c6-a5bc-7c54083861d6</guid>
-            <pubDate>Tue, 22 Sep 2026 12:20:03 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights that GBP/USD remains under 1.3400 as United Kingdom (UK) fiscal policy turns more restrictive. Rising borrowing has eroded fiscal headroom, pressuring Chancellor John Healey to tighten via taxes and spending cuts.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Softer versus Dollar as ECB tightening meets French risks – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/euro-softer-versus-dollar-as-ecb-tightening-meets-french-risks-mufg-202609221205</link>
-            <guid isPermaLink="false">42e0a5ba-382b-4646-85c1-d1b29a506bbc</guid>
-            <pubDate>Tue, 22 Sep 2026 12:05:16 GMT</pubDate>
-            <description><![CDATA[MUFG’s Lee Hardman reports the Euro (EUR) is trading on a softer footing against the US Dollar, with EUR/USD near the bottom of its 1.1400–1.1800 range.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP Price Forecast: 100-day SMA blocks recovery as momentum remains subdued]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-price-forecast-100-day-sma-blocks-recovery-as-momentum-remains-subdued-202609221148</link>
-            <guid isPermaLink="false">04accf68-ede2-417e-bedd-9efddf2980a1</guid>
-            <pubDate>Tue, 22 Sep 2026 11:48:58 GMT</pubDate>
-            <description><![CDATA[EUR/GBP edges higher on Tuesday as the British Pound (GBP) remains under pressure across the board, weighed by concerns over the UK’s deteriorating fiscal outlook and the Bank of England’s (BoE) reluctance to raise interest rates while several major central banks have moved toward tighter policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
