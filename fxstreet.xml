@@ -4,15 +4,55 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 23 Sep 2026 18:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 21:48:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBP/JPY Price Forecast: Bears press 209.00 as downtrend deepens]]></title>
+            <link>https://www.fxstreet.com/news/gbp-jpy-price-forecast-bears-press-20900-as-downtrend-deepens-202609232135</link>
+            <guid isPermaLink="false">8acd9f62-f7a7-4a6a-9132-182a1f998b2a</guid>
+            <pubDate>Wed, 23 Sep 2026 21:35:39 GMT</pubDate>
+            <description><![CDATA[The GBP/JPY extended its losses to two straight trading sessions, down over 0.17% and trading near the week's lows, with 209.40 seen as the first support level before sellers push prices lower.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-coin-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia unemployment rate expected to remain unchanged at 4.5% in August]]></title>
+            <link>https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-remain-unchanged-at-45-in-august-202609232130</link>
+            <guid isPermaLink="false">7e9e869f-e635-406d-9dea-b598fdab6543</guid>
+            <pubDate>Wed, 23 Sep 2026 21:30:00 GMT</pubDate>
+            <description><![CDATA[Australia will release the August monthly employment report on Thursday at 01:30 GMT. Ahead of the announcement, analysts expect the country to have added 20K new jobs in the month, while the Unemployment Rate is expected to remain steady at 4.5%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso selloff deepens as Fed hawks drive USD/MXN toward 17.50]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-selloff-deepens-as-fed-hawks-drive-usd-mxn-toward-1750-202609232057</link>
+            <guid isPermaLink="false">ab4a6c86-257e-4091-b094-bfa2ad12db50</guid>
+            <pubDate>Wed, 23 Sep 2026 20:57:32 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso (MXN) extends its depreciation against the Greenback as the USD/MXN pair rallies over 1.25% amid speculation that the Federal Reserve (Fed) will raise rates again, with Fed officials leaning hawkish and underpinning the US Dollar (USD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/MXN2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/CHF Price Forecast: Bulls retake control, eye 0.8300 break]]></title>
+            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-retake-control-eye-08300-break-202609231936</link>
+            <guid isPermaLink="false">cd6de228-75a2-460a-b676-d07c8c7ae90b</guid>
+            <pubDate>Wed, 23 Sep 2026 19:36:09 GMT</pubDate>
+            <description><![CDATA[The USD/CHF pair climbs some 0.5% on Wednesday as the uptrend resumes following a retracement after hitting a yearly high on September 16 at 0.8263, which dragged the exchange rate below 0.8200, before recovering some ground. At the time of writing, the pair trades at 0.8244.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold buckles as 5% yields and Fed hawks take control]]></title>
+            <link>https://www.fxstreet.com/news/gold-buckles-as-5-yields-and-fed-hawks-take-control-202609231837</link>
+            <guid isPermaLink="false">dfb70250-b7f0-41b1-8888-5716346d5bee</guid>
+            <pubDate>Wed, 23 Sep 2026 18:37:39 GMT</pubDate>
+            <description><![CDATA[Gold sank by over 1.5% during the North American session on Wednesday as investors grew confident that the Federal Reserve (Fed) would raise rates at the October meeting. That confidence stems from hawkish remarks made by several officials.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support]]></title>
             <link>https://www.fxstreet.com/news/silver-price-forecast-fed-hawks-knock-xag-usd-toward-64-support-202609231823</link>
             <guid isPermaLink="false">4cadefe7-459c-4a43-9676-d108a7723782</guid>
             <pubDate>Wed, 23 Sep 2026 18:23:41 GMT</pubDate>
-            <description><![CDATA[Silver price tumbles over 3.67% on Wednesday as investors increase Fed-hawkish bets, following remarks by several officials supporting last week’s rate hike and penciling in further tightening. The XAG/USD trades at $64.59, after reaching a high of $67.52.]]></description>
+            <description><![CDATA[Silver (XAG/USD) price tumbles over 3.67% on Wednesday as investors increase Federal Reserve (Fed)-hawkish bets, following remarks by several officials supporting last week’s rate hike and penciling in further tightening. XAG/USD trades at $64.59, after reaching a high of $67.52.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -24,7 +64,7 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/xijin-trump-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Japanese Yen declines as upbeat US PMI lifts the US Dollar, yields]]></title>
+            <title><![CDATA[Japanese Yen declines as upbeat US PMI lifts the US Dollar and yields]]></title>
             <link>https://www.fxstreet.com/news/japanese-yen-declines-as-upbeat-us-pmi-lifts-the-us-dollar-yields-202609231808</link>
             <guid isPermaLink="false">e182fa16-e8be-4811-ae35-35815e81d49d</guid>
             <pubDate>Wed, 23 Sep 2026 18:08:37 GMT</pubDate>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 23 Sep 2026 12:19:04 GMT</pubDate>
             <description><![CDATA[Silver (XAG/USD) slides nearly 3% on Wednesday as the hawkish Federal Reserve (Fed) outlook pushes the US Dollar (USD) to a two-month high and weighs on non-yielding metals. Gold (XAU/USD) is also down more than 1%. At the time of writing, XAG/USD trades around $65.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Growth edge narrative supports gains – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-growth-edge-narrative-supports-gains-bbh-202609231215</link>
-            <guid isPermaLink="false">246fd421-99cc-4bd9-999a-1533e1968e29</guid>
-            <pubDate>Wed, 23 Sep 2026 12:15:54 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes the Dollar is extending gains as US economic data and policy dynamics remain supportive. September US PMI is expected to confirm US growth leadership versus Eurozone, UK and Japan.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Range-bound trading outlook against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-range-bound-trading-outlook-against-us-dollar-uob-202609231152</link>
-            <guid isPermaLink="false">4652452f-0fc9-4b71-9e1b-60bae3da4544</guid>
-            <pubDate>Wed, 23 Sep 2026 11:52:40 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann see USD/CHF stuck in tight ranges across timeframes. Intraday, they expect the US Dollar (USD) to hold between 0.8185 and 0.8230 as prior downside momentum has faded.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index: Rally extend to near 101.00 as hawkish Fed narrative takes hold]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-rally-extend-to-near-10100-as-hawkish-fed-narrative-takes-hold-202609231147</link>
-            <guid isPermaLink="false">fdcb8d17-beff-4a73-9765-2e4d04037343</guid>
-            <pubDate>Wed, 23 Sep 2026 11:47:22 GMT</pubDate>
-            <description><![CDATA[The US Dollar trades higher as financial markets embrace hawkish Federal Reserve (Fed) view. As of writing, the US Dollar Index (DXY), which tracks the Greenback’s value against six major currencies, trades 0.35% higher to near 100.90, the highest level seen in over seven weeks.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro rallies against a weak British Pound as UK business activity disappoints]]></title>
-            <link>https://www.fxstreet.com/news/euro-accelerates-against-a-weak-british-pound-as-uk-business-activity-disappoints-202609231136</link>
-            <guid isPermaLink="false">8b64b010-1062-4cff-9ae8-e77cee721d81</guid>
-            <pubDate>Wed, 23 Sep 2026 11:36:08 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) accelerates its recovery against the British Pound (GBP) on Wednesday as mixed UK Purchasing Managers' Index (PMI) figures reveal that inflationary pressures have weighed heavily on business activity in September.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-62.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swedish Krona: Growth and future rate outlook favour SEK – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/swedish-krona-growth-and-future-rate-outlook-favour-sek-societe-generale-202609231133</link>
-            <guid isPermaLink="false">1a9f43fe-4260-4507-94cb-8165aea5d746</guid>
-            <pubDate>Wed, 23 Sep 2026 11:33:51 GMT</pubDate>
-            <description><![CDATA[Kit Juckes at Societe Generale argues that Swedish Krona (SEK) is poised to benefit from Sweden’s superior growth outlook and expected Riksbank tightening.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
