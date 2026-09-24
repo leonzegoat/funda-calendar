@@ -4,9 +4,65 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 24 Sep 2026 19:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 22:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average falls a third day as bond yields climb]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-falls-a-third-day-as-bond-yields-climb-202609242211</link>
+            <guid isPermaLink="false">a984992a-c969-42b1-ba37-3bb497da4cea</guid>
+            <pubDate>Thu, 24 Sep 2026 22:11:04 GMT</pubDate>
+            <description><![CDATA[The 30-year Treasury yield touched 5.50% on Thursday, and two Fed officials gave bond buyers no reason to expect relief. New York Fed President Williams said another rate increase this year looks reasonable, and Philadelphia Fed President Paulson said rates may need to rise a little more.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Pound Sterling slides again as Fed speakers go full hawkish]]></title>
+            <link>https://www.fxstreet.com/news/pound-sterling-slides-again-as-fed-speakers-line-up-behind-another-hike-202609242209</link>
+            <guid isPermaLink="false">6c7f6b85-2e5d-4497-b86d-bb2e76c1d6be</guid>
+            <pubDate>Thu, 24 Sep 2026 22:09:42 GMT</pubDate>
+            <description><![CDATA[Bank of England (BoE) Deputy Governors Lombardelli and Breeden said on Thursday that they are moving closer to voting for a rate hike, and the Pound fell for a fourth straight session regardless. GBP/USD is trading just above 1.3200, its lowest in nearly three months.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian Rupiah: BI prioritizes IDR stability – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/indonesian-rupiah-bi-prioritizes-idr-stability-commerzbank-202609242151</link>
+            <guid isPermaLink="false">55f25b91-821a-4a09-ac1d-e4c5e67dc771</guid>
+            <pubDate>Thu, 24 Sep 2026 21:51:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Henry Hao and Moses Lim report that Bank Indonesia kept the BI Rate at 5.75% while expanding FX hedging incentives to support the Indonesian Rupiah. Governor Destry Damayanti signaled a preference for non-rate tools and incentive-based measures over SRBI yield hikes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/indonesia-landscape-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Banxico: Flexible stance with upside risks – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/banxico-flexible-stance-with-upside-risks-rabobank-202609242108</link>
+            <guid isPermaLink="false">aa225880-b850-48ab-9eb4-b65178c5309b</guid>
+            <pubDate>Thu, 24 Sep 2026 21:08:11 GMT</pubDate>
+            <description><![CDATA[Rabobank’s Molly Schwartz and Christian Lawrence note Banxico kept its overnight rate at 6.50% but significantly softened forward guidance, decoupling Mexican policy from expected Federal Reserve moves.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norwegian Krone: Norges Bank hike supports currency – BBH]]></title>
+            <link>https://www.fxstreet.com/news/norwegian-krone-norges-bank-hike-supports-currency-bbh-202609242016</link>
+            <guid isPermaLink="false">0d4446c6-6d44-4b9b-a5dd-81f433220c10</guid>
+            <pubDate>Thu, 24 Sep 2026 20:16:58 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights that the Norwegian Krone (NOK) outperformed after Norges Bank delivered a hawkish 25 basis point hike to 4.50%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso slides to April lows as Banxico shrugs off Fed gap]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-slides-to-april-lows-as-banxico-shrugs-off-fed-gap-202609242012</link>
+            <guid isPermaLink="false">5af91636-cde1-45f8-8602-49202be5fac5</guid>
+            <pubDate>Thu, 24 Sep 2026 20:12:29 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso (MXN) extends its losses against the US Dollar (USD) on Thursday after the Bank of Mexico (Banxico) held the benchmark interest rate unchanged at 6.50%, disregarding the interest rate differential as a primary factor in setting monetary policy.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bear-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Banxico unanimously holds benchmark rate at 6.50%]]></title>
+            <link>https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901</link>
+            <guid isPermaLink="false">42291da5-5fdf-4e1d-8f94-8f933e2872b7</guid>
+            <pubDate>Thu, 24 Sep 2026 19:01:58 GMT</pubDate>
+            <description><![CDATA[On Thursday, the Bank of Mexico (Banxico) held interest rates unchanged at 6.50% for the third time, as expected, in a unanimous decision.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[US Dollar Index extends its winning streak as Fed speakers line up behind hikes]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-index-extends-its-winning-streak-as-fed-speakers-line-up-behind-hikes-202609241904</link>
@@ -14,14 +70,6 @@
             <pubDate>Thu, 24 Sep 2026 19:04:21 GMT</pubDate>
             <description><![CDATA[The Dollar Index has won back about 90% of what it lost between the late-July top and the August low. It reached 101.40 on Thursday, its highest since late July, and is heading for a fourth straight gain.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/DollarIndex.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Banxico holds rates unchanged at 6.50% unanimously]]></title>
-            <link>https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901</link>
-            <guid isPermaLink="false">42291da5-5fdf-4e1d-8f94-8f933e2872b7</guid>
-            <pubDate>Thu, 24 Sep 2026 19:01:58 GMT</pubDate>
-            <description><![CDATA[On Thursday, the Bank of Mexico, also known as Banxico, decided to hold interest rates unchanged at 6.50% for the fourth time, as expected, in a unanimous vote.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/mexico-bank-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Singapore Dollar: Inflation keeps MAS cautious – Commerzbank]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Thu, 24 Sep 2026 13:55:30 GMT</pubDate>
             <description><![CDATA[Royal Bank of Canada economist Rachel Battaglia explains that Statistics Canada’s upward revision to population data has erased earlier signs of negative growth and now shows Canada’s population rising 0.5% year-over-year in Q2.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fed’s Hammack warns persistent inflation could make return to target harder]]></title>
-            <link>https://www.fxstreet.com/news/feds-hammack-warns-persistent-inflation-could-make-return-to-target-harder-202609241323</link>
-            <guid isPermaLink="false">4715d67b-eb72-4618-b9ef-49728e3675d9</guid>
-            <pubDate>Thu, 24 Sep 2026 13:23:44 GMT</pubDate>
-            <description><![CDATA[Cleveland Federal Reserve (Fed) President Beth Hammack warned on Thursday that inflation remains elevated in the United States (US), stressing that persistent price pressures could make the Fed’s task increasingly difficult.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany: Cyclical resilience versus structural risks – ING]]></title>
-            <link>https://www.fxstreet.com/news/germany-cyclical-resilience-versus-structural-risks-ing-202609241322</link>
-            <guid isPermaLink="false">33b1e474-514f-4e59-ab0c-1e68ef806d0a</guid>
-            <pubDate>Thu, 24 Sep 2026 13:22:58 GMT</pubDate>
-            <description><![CDATA[ING’s Carsten Brzeski highlights that Germany’s IFO index has risen for five consecutive months, pointing to a cyclical rebound and unexpected resilience in the German economy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/CHF Price Forecast: RSI nears overbought territory as bulls remain in control]]></title>
-            <link>https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-nears-overbought-territory-as-bulls-remain-in-control-202609241302</link>
-            <guid isPermaLink="false">7944a517-bea0-4dc1-8ad5-40887cfd518f</guid>
-            <pubDate>Thu, 24 Sep 2026 13:02:14 GMT</pubDate>
-            <description><![CDATA[USD/CHF climbs to its highest level since May 2025 on Thursday as the Swiss Franc (CHF) weakens across the board following the Swiss National Bank’s (SNB) decision to leave its policy rate unchanged at 0%.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bullish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Downside risks for EUR against US Dollar – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/euro-downside-risks-for-eur-against-us-dollar-rabobank-202609241255</link>
-            <guid isPermaLink="false">128b8672-b626-4e27-a1a4-29183ef29864</guid>
-            <pubDate>Thu, 24 Sep 2026 12:55:58 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior FX Strategist Jane Foley discusses EUR/USD trading near its yearly lows despite consensus forecasts that had expected the pair around 1.18–1.20 in late 2026.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-fix-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price falls as Fed hawkish outlook drives US yields higher]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-falls-as-fed-hawkish-outlook-drives-us-yields-higher-202609241245</link>
-            <guid isPermaLink="false">da47aea9-c19f-4baf-99ed-09c3bdb0a9d5</guid>
-            <pubDate>Thu, 24 Sep 2026 12:45:36 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) extends its decline on Thursday, falling 1.23% to trade around $63.65 at the time of writing. The precious metal comes under heavy selling pressure as increasingly hawkish expectations surrounding the Federal Reserve (Fed) push United States (US) Treasury yields sharply higher.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Silver4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swedish Krona: Riksbank hawkish hold backs currency – BBH]]></title>
-            <link>https://www.fxstreet.com/news/swedish-krona-riksbank-hawkish-hold-backs-currency-bbh-202609241237</link>
-            <guid isPermaLink="false">7a3fa0a8-c0aa-4cb5-ae91-473aee63dee9</guid>
-            <pubDate>Thu, 24 Sep 2026 12:37:12 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad reports the Swedish Krona (SEK) rallied after the Riksbank delivered a hawkish hold, keeping rates unchanged but signaling more tightening ahead.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
