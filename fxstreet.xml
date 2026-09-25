@@ -4,15 +4,31 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 25 Sep 2026 20:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 23:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[US Treasury yields rise as 30-Year yield hits 22-year high]]></title>
+            <title><![CDATA[South Korean Won: Export strength supports KRW – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141</link>
+            <guid isPermaLink="false">549add95-455e-41c1-8339-d69abe0a2fab</guid>
+            <pubDate>Fri, 25 Sep 2026 21:41:00 GMT</pubDate>
+            <description><![CDATA[Societe Generale notes the Korean Won has been one of Asia’s standout performers, with USD/KRW slipping from around 1,390 to 1,360 as local exporters sold Dollars ahead of the Chuseok holiday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AsiaFX3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-consolidation-with-downside-risk-toward-67330-uob-202609252056</link>
+            <guid isPermaLink="false">1829735c-1d15-4cdd-a00e-7be54c4d2b5f</guid>
+            <pubDate>Fri, 25 Sep 2026 20:56:00 GMT</pubDate>
+            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann describe USD/CNH as consolidating after a move to 6.7200, with momentum slowing in the very near term.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Treasury yields rise as 30-year bond hits 22-year high]]></title>
             <link>https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022</link>
             <guid isPermaLink="false">e266b32a-a932-432f-8a35-b9abc6c7dd59</guid>
             <pubDate>Fri, 25 Sep 2026 20:22:47 GMT</pubDate>
-            <description><![CDATA[US Treasury yields turned mixed on Friday as the long-end of the curve, the 20s and 30s, posted gains while the short-end and the belly of the yield curve retreated to multi-year high levels. The US 10-year Treasury yield holds firm at 5.20% after peaking at a 19-year high of 5.228%.]]></description>
+            <description><![CDATA[US Treasury yields turned mixed on Friday as the long-end of the curve, the 20s and 30s, posted gains while the short-end and the belly of the yield curve retreated from multi-year high levels. The US 10-year Treasury yield holds firm at 5.20% after peaking at a 19-year high of 5.228%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Bonk_Bull.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 25 Sep 2026 13:05:35 GMT</pubDate>
             <description><![CDATA[ING strategists Francesco Pesole and Frantisek Taborsky note that rising back-end yields and risk-off sentiment are helping consolidate recent Dollar gains, even if they look stretched versus short-term fundamentals.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Range-bound against US Dollar as intervention risk looms – BBH]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-range-bound-against-us-dollar-as-intervention-risk-looms-bbh-202609251252</link>
-            <guid isPermaLink="false">8becebcf-906b-4988-961e-9c9bf29a9f60</guid>
-            <pubDate>Fri, 25 Sep 2026 12:52:46 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad highlights that political comments from US and Japanese leaders helped push USD/JPY back below its 200-day moving average.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Weakness may extend toward 0.6970 against US Dollar - UOB]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-weakness-may-extend-toward-06970-against-us-dollar-uob-202609251234</link>
-            <guid isPermaLink="false">7ddb4780-bf0c-40aa-b329-24888914f4ab</guid>
-            <pubDate>Fri, 25 Sep 2026 12:34:05 GMT</pubDate>
-            <description><![CDATA[UOB’s Quek Ser Leang and Lee Sue Ann observe that AUD/USD extended its recent slide to 0.7006, with positive divergence hinting at slowing momentum but not yet a clear base.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
