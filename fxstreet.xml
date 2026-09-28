@@ -4,15 +4,87 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Mon, 28 Sep 2026 16:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 22:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average gives back Friday's rally on a Boeing delay]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-fridays-rally-on-a-boeing-delay-202609282039</link>
+            <guid isPermaLink="false">01771027-83b4-4967-ac13-c06045237e49</guid>
+            <pubDate>Mon, 28 Sep 2026 20:39:46 GMT</pubDate>
+            <description><![CDATA[A software bug at Boeing (BA) cost the Dow Jones Industrial Average (DJIA) more points than a record $150 billion buyback at Nvidia (NVDA) put back. The index closed just under 51,500 on Monday, handing back about two-thirds of Friday's rally.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/stock-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold price crashes as 2007-era yields trigger brutal sell-off]]></title>
+            <link>https://www.fxstreet.com/news/gold-price-crashes-as-2007-era-yields-trigger-brutal-sell-off-202609282019</link>
+            <guid isPermaLink="false">33acea74-d1f0-4224-a061-63d239e19154</guid>
+            <pubDate>Mon, 28 Sep 2026 20:19:49 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) begins the week on the back foot, tanking over 3.4% on Monday as US Treasury yields soar and Oil prices remain elevated despite falling from daily highs amid mixed news headlines about a potential US-Iran deal. The XAU/USD trades at $4,139 after peaking at $4,280.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Yen trades cautiously as intervention risk clashes with Fed rate hike bets]]></title>
+            <link>https://www.fxstreet.com/news/japanese-yen-trades-cautiously-as-intervention-risk-clashes-with-fed-rate-hike-bets-202609281816</link>
+            <guid isPermaLink="false">06a8b393-cafc-46a2-863d-b5335335ed5d</guid>
+            <pubDate>Mon, 28 Sep 2026 18:16:59 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades little changed around 157.25 on Monday as the US Dollar (USD) also holds steady near recent highs, with traders weighing Middle East developments and the risk of Japanese intervention.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: The RBA and Fedspeak grab all the attention]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-the-rba-and-fedspeak-grab-all-the-attention-202609281808</link>
+            <guid isPermaLink="false">6f29512b-7e49-4edc-917a-7530ad69e949</guid>
+            <pubDate>Mon, 28 Sep 2026 18:08:40 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) has stated the week with slight gains, resuming its recent uptrend and leaving behind Friday’s hiccup.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/currencies-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US 10-year yield revisits 2007 heights as curve flirts with inversion]]></title>
+            <link>https://www.fxstreet.com/news/us-10-year-yield-revisits-2007-heights-as-curve-flirts-with-inversion-202609281803</link>
+            <guid isPermaLink="false">30dcfb2e-30a8-4e0f-b0fd-6ba79f68c040</guid>
+            <pubDate>Mon, 28 Sep 2026 18:03:33 GMT</pubDate>
+            <description><![CDATA[US Treasury yields climb on Monday as energy prices remain high, amid US President Donald Trump's rejection of a peace agreement with Tehran.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crude Oil round-trips between a rejected Iran plan and a sanctions offer]]></title>
+            <link>https://www.fxstreet.com/news/crude-oil-round-trips-between-a-rejected-iran-plan-and-a-sanctions-offer-202609281737</link>
+            <guid isPermaLink="false">c84f6720-0ba0-44db-bf5d-75097c01764b</guid>
+            <pubDate>Mon, 28 Sep 2026 17:37:50 GMT</pubDate>
+            <description><![CDATA[President Donald Trump's rejection of Iran's seven-day plan for the Strait of Hormuz lifted Crude Oil to its best level since Thursday, and the whole rise was gone after a Saudi pipeline restart and a US offer of sanctions relief.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed’s Cook: AI, Iran risks could keep inflation pressures high]]></title>
+            <link>https://www.fxstreet.com/news/feds-cook-says-ai-iran-risks-could-keep-inflation-pressures-high-202609281733</link>
+            <guid isPermaLink="false">4a19b4cc-666b-42d3-a3b2-6686394fcc49</guid>
+            <pubDate>Mon, 28 Sep 2026 17:33:59 GMT</pubDate>
+            <description><![CDATA[Federal Reserve (Fed) Governor Lisa Cook said in a speech in Oakland, California, that the number and magnitude of future adjustments to the Fed funds rate will depend on inflation and labor market data.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Trump to ease sanctions on Iran over nuclear progress]]></title>
+            <link>https://www.fxstreet.com/news/us-president-trump-to-ease-sanctions-on-iran-over-nuclear-progress-202609281640</link>
+            <guid isPermaLink="false">4eb532c2-a01e-4b0f-ae50-53fd5b78fc14</guid>
+            <pubDate>Mon, 28 Sep 2026 16:40:55 GMT</pubDate>
+            <description><![CDATA[Al Jazeera reported on Monday that US President Donald Trump is prepared to ease sanctions on Iran and to unfreeze its assets in exchange for progress on nuclear talks.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpVictory3-6526.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD: Speculative longs steady as Fed hikes – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/usd-speculative-longs-steady-as-fed-hikes-rabobank-202609281627</link>
+            <guid isPermaLink="false">15670510-9bdc-4f43-8d4f-58d2f78c9d16</guid>
+            <pubDate>Mon, 28 Sep 2026 16:27:11 GMT</pubDate>
+            <description><![CDATA[Rabobank’s RaboResearch Global Economics & Markets FX Strategy team notes that USD net long speculative positions were broadly unchanged, with both longs and shorts rising modestly. The Federal Reserve raised its overnight policy rate by 25bp on September 16, matching expectations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[British Pound defies US yields surge as BoE hike bets build]]></title>
             <link>https://www.fxstreet.com/news/british-pound-defies-us-yields-surge-as-boe-hike-bets-build-202609281551</link>
             <guid isPermaLink="false">8c121406-6e2b-4dfd-9c39-6afecf106e6d</guid>
             <pubDate>Mon, 28 Sep 2026 15:51:19 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling registers modest gains of 0.18% even as US Treasury yields soar, with the US 10-year T-note rising over 10 basis points, underpinning the Greenback. The GBP/USD trades at 1.3252.]]></description>
+            <description><![CDATA[The Pound Sterling (GBP) registers modest gains of 0.18% on Monday even as US Treasury yields soar, with the US 10-year T-note rising over 10 basis points, underpinning the Greenback. At the time of writing, the GBP/USD pair trades at 1.3252.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-97.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -174,78 +246,6 @@
             <pubDate>Mon, 28 Sep 2026 11:13:07 GMT</pubDate>
             <description><![CDATA[The Deutsche Bank Early Morning Reid details a sharp rise in US Treasury yields, with the 10-year reaching its highest level since 2007 and the 30-year touching levels last seen in 2004. The move is driven by strong data and increased odds of a Federal Reserve hike in October.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver price plunges as elevated US yields, firm Dollar pressure XAG/USD]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-plunges-as-elevated-us-yields-firm-dollar-pressure-xag-usd-202609281103</link>
-            <guid isPermaLink="false">a817c892-f2bb-44ce-a62d-594adf2f4edb</guid>
-            <pubDate>Mon, 28 Sep 2026 11:03:35 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) falls sharply on Monday, losing 4.53% on the day to trade around $61.40 at the time of writing. The precious metal faces heavy selling pressure as elevated United States (US) Treasury yields and growing expectations of further interest rate hikes weigh on non-yielding assets.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Support from yields and growth – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-support-from-yields-and-growth-bbh-202609281032</link>
-            <guid isPermaLink="false">f7dbb373-d6b3-4f9c-982e-ffcd80e54b96</guid>
-            <pubDate>Mon, 28 Sep 2026 10:32:13 GMT</pubDate>
-            <description><![CDATA[Elias Haddad at Brown Brothers Harriman argues the Dollar can keep benefiting from widening US-G6 rate differentials and higher US real yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Oil extends gains nearing $95.00 as Trump rejects Hormuz reopening plan]]></title>
-            <link>https://www.fxstreet.com/news/wti-oil-extends-gains-above-9450-as-trump-rejects-hormuz-reopening-plan-202609281032</link>
-            <guid isPermaLink="false">e7c0b6bf-9985-42fd-9422-5faf9c3612b4</guid>
-            <pubDate>Mon, 28 Sep 2026 10:32:12 GMT</pubDate>
-            <description><![CDATA[Oil appreciates firmly on Monday, following US President Donald Trump's refusal of Tehran’s latest proposal to cease hostilities and reopen the Strait of Hormuz. The US benchmark West Texas Intermediate (WTI) Oil barrel is trading at $94.60 at the time of writing, up nearly 3.5% on the day so far.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BoE’s Ramsden warns upside inflation risks may spur rate hikes]]></title>
-            <link>https://www.fxstreet.com/news/boes-ramsden-warns-upside-inflation-risks-may-spur-rate-hikes-202609281019</link>
-            <guid isPermaLink="false">67e0cf01-8079-4c79-87ce-a2298cf232ed</guid>
-            <pubDate>Mon, 28 Sep 2026 10:19:23 GMT</pubDate>
-            <description><![CDATA[Bank of England (BoE) Deputy Governor Dave Ramsden said on Monday that risks to the inflation outlook have become increasingly tilted to the upside, according to Reuters.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/BoE2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/JPY: Intervention risk caps upside – BBH]]></title>
-            <link>https://www.fxstreet.com/news/usd-jpy-intervention-risk-caps-upside-bbh-202609281002</link>
-            <guid isPermaLink="false">9eacbcb7-2f4d-4923-992b-d602eef4ab42</guid>
-            <pubDate>Mon, 28 Sep 2026 10:02:23 GMT</pubDate>
-            <description><![CDATA[BBH’s Elias Haddad highlights that the Dollar is broadly firmer, but intervention warnings from Japanese officials are supporting the Japanese Yen.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar Index: Strongest G10 currency performance – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-index-strongest-g10-currency-performance-deutsche-bank-202609280958</link>
-            <guid isPermaLink="false">33561d9c-5c15-41d1-81a8-9de86e8892fd</guid>
-            <pubDate>Mon, 28 Sep 2026 09:58:48 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank’s Jim Reid and team note that the US Dollar was the strongest-performing G10 currency last week as Treasury yields surged and markets repriced a more hawkish Federal Reserve.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD: Consensus shifts lower on Dollar resilience – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-consensus-shifts-lower-on-dollar-resilience-societe-generale-202609280943</link>
-            <guid isPermaLink="false">ea35b563-faad-4f79-8019-118424977ce1</guid>
-            <pubDate>Mon, 28 Sep 2026 09:43:54 GMT</pubDate>
-            <description><![CDATA[Kit Juckes at Societe Generale notes that EUR/USD forecasts have been repeatedly revised down as Dollar strength persists. While consensus has moved from 1.20 to 1.16 and Societe Generale now sees 1.15, client discussions suggest markets are even more Dollar-bullish.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S&P 500: Equities resilient despite rates selloff – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/sp-500-equities-resilient-despite-rates-selloff-deutsche-bank-202609280942</link>
-            <guid isPermaLink="false">00d2ef3b-55da-4c9b-a5da-12724ad1aeb0</guid>
-            <pubDate>Mon, 28 Sep 2026 09:42:30 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank’s Jim Reid notes that global equities, including the S&P 500, held up well despite a notable rise in bond yields and hawkish rate expectations. The S&P 500 gained over 1% on the week and remains close to record highs, supported by optimism on growth and strong PMI data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/stock-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro consolidates losses below 1.1400 amid higher Oil prices, risk-off markets]]></title>
-            <link>https://www.fxstreet.com/news/euro-consolidates-losses-below-11400-amid-higher-oil-prices-risk-off-markets-202609280941</link>
-            <guid isPermaLink="false">71c022ca-b10f-4cbf-a389-2762a322438b</guid>
-            <pubDate>Mon, 28 Sep 2026 09:41:39 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) shows marginal losses against the US Dollar (USD) on Monday, as the rejection of the latest peace proposal in the Middle East lifted Oil prices, while the high US Treasury yields amid bets of upcoming Federal Reserve (Fed) rate hikes keep supporting the Greenback.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
