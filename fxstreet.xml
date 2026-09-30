@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 30 Sep 2026 15:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 20:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fed’s Cook says inflation has stayed too high for too long]]></title>
+            <link>https://www.fxstreet.com/news/feds-cook-says-inflation-has-stayed-too-high-for-too-long-202609302020</link>
+            <guid isPermaLink="false">b489a26d-9945-4170-b4b0-bc276ab2dacb</guid>
+            <pubDate>Wed, 30 Sep 2026 20:20:14 GMT</pubDate>
+            <description><![CDATA[The Fed Governor Lisa Cook crossed the wires on Wednesday and said she is committed to returning inflation to the Fed’s 2% goal while preserving the strength of the labour market.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso pain deepens above 18.00 as carry appeal fades]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-pain-deepens-above-1800-as-carry-appeal-fades-202609301919</link>
+            <guid isPermaLink="false">038cc379-ec76-498e-a524-994d69424310</guid>
+            <pubDate>Wed, 30 Sep 2026 19:19:34 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso (MXN) prolongs its agony, extending losses by over 0.11% against the Greenback for the third straight day on Wednesday, while USD/MXN continues to trade above the psychological level of 18.00 as the carry trade loses its appeal.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: Fedspeak, Jobless Claims and ISM data steal the show]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830</link>
+            <guid isPermaLink="false">308d9887-a969-4f7b-93e7-4f0c7268a654</guid>
+            <pubDate>Wed, 30 Sep 2026 18:30:22 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) has traded with marginal gains, coming under pressure following daily tops near 101.50 as investors evaluated softer-than-expected PCE data in August and trimmed some bets on extra tightening by the Federal Reserve (Fed) in the following months.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DollarIndex.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish]]></title>
+            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-monthly-outlook-mixed-daily-chart-remains-bearish-202609301810</link>
+            <guid isPermaLink="false">0f323ad3-4e77-4385-8685-c2c588ed1280</guid>
+            <pubDate>Wed, 30 Sep 2026 18:10:12 GMT</pubDate>
+            <description><![CDATA[EUR/USD remains on the defensive on Wednesday as a broadly stronger US Dollar (USD) weighs on the pair, leaving the Euro on track for a loss of more than 2% in September. At the time of writing, EUR/USD trades around 1.1337, close to Tuesday’s low of 1.1312, its weakest level since May 2025.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold can’t catch a PCE break as long US yields keep climbing]]></title>
+            <link>https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802</link>
+            <guid isPermaLink="false">fc6c1c23-0556-45f3-979b-925907978de6</guid>
+            <pubDate>Wed, 30 Sep 2026 18:02:43 GMT</pubDate>
+            <description><![CDATA[Gold prices (XAU/USD) retreated on Wednesday, down 0.6%, after US inflation data came in above the Federal Reserve’s (Fed) 2% goal but below estimates, prompting investors to price in a less hawkish central bank than expected. The XAU/USD trades at $4,155 at the time of writing.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI set for monthly gain amid US-Iran stalemate]]></title>
+            <link>https://www.fxstreet.com/news/wti-set-for-monthly-gain-amid-us-iran-stalemate-202609301730</link>
+            <guid isPermaLink="false">d8e277e8-8bde-4d15-b720-d800eedf4fa1</guid>
+            <pubDate>Wed, 30 Sep 2026 17:30:36 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) Oil rebounds on Wednesday and remains on track for a monthly gain of around 5.5%. The lack of progress in US-Iran negotiations to reopen the Strait of Hormuz keeps geopolitical risks elevated, even as Middle East supply conditions improve.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ECB’s Lagarde warns France needs a credible path to rein in debt]]></title>
+            <link>https://www.fxstreet.com/news/ecbs-lagarde-warns-france-needs-a-credible-path-to-rein-in-debt-202609301625</link>
+            <guid isPermaLink="false">9561a50f-5a04-4d42-a5fd-0098c0eadacc</guid>
+            <pubDate>Wed, 30 Sep 2026 16:25:04 GMT</pubDate>
+            <description><![CDATA[European Central Bank (ECB) President Christine Lagarde said that France’s debt situation is “serious at 120% of GDP and without a path to lowering it.” ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Christine-Legarde_3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ECB’s Schnabel says yields surge could cool inflation pressures]]></title>
+            <link>https://www.fxstreet.com/news/ecbs-schnabel-says-yield-surge-could-cool-inflation-pressures-202609301619</link>
+            <guid isPermaLink="false">21099da3-2563-4a95-bb51-40a8aff014de</guid>
+            <pubDate>Wed, 30 Sep 2026 16:19:05 GMT</pubDate>
+            <description><![CDATA[European Central Bank (ECB) Governing Council member Isabel Schnabel said Wednesday that high costs are passed through to consumers more quickly when the economy is resilient.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Australian Dollar reverses post-PCE rebound as US Dollar recovers]]></title>
             <link>https://www.fxstreet.com/news/australian-dollar-reverses-post-pce-rebound-as-us-dollar-recovers-202609301545</link>
@@ -24,11 +88,11 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[The British Pound catches second wind as soft PCE knocks Fed hike bets]]></title>
+            <title><![CDATA[British Pound catches second wind as soft PCE knocks Fed hike bets]]></title>
             <link>https://www.fxstreet.com/news/the-british-pound-catches-second-wind-as-soft-pce-knocks-fed-hike-bets-202609301521</link>
             <guid isPermaLink="false">f7c3caa1-a75b-4ad6-927c-3b26ade6b5ae</guid>
             <pubDate>Wed, 30 Sep 2026 15:21:24 GMT</pubDate>
-            <description><![CDATA[The Pound Sterling registers solid gains versus the US Dollar on Wednesday, edges up 0.42% as the latest US inflation figures were below estimates, reaffirming NY Fed President Williams comments that they are in no rush to tighten monetary policy.]]></description>
+            <description><![CDATA[The Pound Sterling (GBP) posts solid gains versus the US Dollar (USD) on Wednesday, edging up 0.42% as the latest US inflation figures were below estimates, reaffirming New York Federal Reserve (Fed) President John Williams' comments that the Fed is in no rush to tighten monetary policy.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -182,70 +246,6 @@
             <pubDate>Wed, 30 Sep 2026 11:20:21 GMT</pubDate>
             <description><![CDATA[BBH’s Elias Haddad highlights that Pound gains were supported by an upward revision to UK Q2 GDP, with growth beating both prior estimates and Bank of England (BOE) forecasts.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar clings to early recovery near 0.6970, US data takes centre stage]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-clings-to-early-recovery-near-06970-us-data-takes-centre-stage-202609301048</link>
-            <guid isPermaLink="false">cf288a41-86e5-4557-b9ec-0519825cbc77</guid>
-            <pubDate>Wed, 30 Sep 2026 10:48:40 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) holds onto its early recovery move at around 0.6970 against the US Dollar (USD) during the European trading session on Wednesday. Still, the Aussie pair is down 0.19% to near 0.6970.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-bearish-animal-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Experts agree: The fundamental background hints at further US Dollar appreciation]]></title>
-            <link>https://www.fxstreet.com/news/experts-agree-the-fundamental-background-hints-at-further-us-dollar-appreciation-202609301042</link>
-            <guid isPermaLink="false">ff0db034-f360-423a-a84f-a4b6e6f6ba59</guid>
-            <pubDate>Wed, 30 Sep 2026 10:42:26 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) is showing a moderately softer tone on Wednesday, weighed down by the recent pullback in US Treasury yields and some dovish comments from New York Fed President John Williams.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-76.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Upcoming data to support hawkish Fed stance – BBH]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-upcoming-data-to-support-hawkish-fed-stance-bbh-202609301038</link>
-            <guid isPermaLink="false">37cfe271-d1dd-4c29-89df-1bc650f293b0</guid>
-            <pubDate>Wed, 30 Sep 2026 10:38:29 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s Elias Haddad notes the Dollar has eased from recent highs as lower Oil prices and comments from New York Fed President John Williams temper rate expectations. However, upcoming US August PCE and September ADP data are expected to show sticky inflation, stronger consumer spending and resilient labor demand, which BBH says should reinforce the Fed’s hawkish bias and support further USD strength.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-77.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/JPY: Intervention fears steer Yen strength – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/usd-jpy-intervention-fears-steer-yen-strength-societe-generale-202609301035</link>
-            <guid isPermaLink="false">bd48d27c-72ef-40a0-8136-a83f280f81e3</guid>
-            <pubDate>Wed, 30 Sep 2026 10:35:45 GMT</pubDate>
-            <description><![CDATA[Kit Juckes at Societe Generale highlights Japanese Yen outperformance in G10 as markets anticipate further USD/JPY intervention. He argues that strong intervention expectations are driving reluctance to be short Yen, with EUR/JPY likely sold on rallies. However, he cautions that another spike in Oil prices could quickly reverse recent improvements in risk sentiment, keeping overall caution warranted.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-60.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: ECB pushback weighs on currency – MUFG]]></title>
-            <link>https://www.fxstreet.com/news/euro-ecb-pushback-weighs-on-currency-mufg-202609301034</link>
-            <guid isPermaLink="false">3deb6f21-52b9-489b-9ab5-38354eb4b257</guid>
-            <pubDate>Wed, 30 Sep 2026 10:34:35 GMT</pubDate>
-            <description><![CDATA[MUFG’s Lee Hardman highlights that European Central Bank (ECB) President Lagarde has pushed back against expectations for another back-to-back ECB rate hike, stressing higher long-term yields and the need for a measured response. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD: Dollar correction faces resistance – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-dollar-correction-faces-resistance-societe-generale-202609300955</link>
-            <guid isPermaLink="false">98f38a16-5bac-4a39-bb9f-75eae8278fa6</guid>
-            <pubDate>Wed, 30 Sep 2026 09:55:43 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Kit Juckes notes a softer Dollar as Oil and bond yields edge lower and equities firm, with month-end flows likely in play.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent Oil: Prices reverse on supply headlines – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/brent-oil-prices-reverse-on-supply-headlines-deutsche-bank-202609300952</link>
-            <guid isPermaLink="false">e6a1e114-833d-4bbf-8b77-00653448228c</guid>
-            <pubDate>Wed, 30 Sep 2026 09:52:09 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank’s Jim Reid and team highlight a sharp intraday reversal in Brent Oil, with front-month prices dropping even as longer-dated contracts grind higher.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Coin flip for October rate hike – DBS]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-coin-flip-for-october-rate-hike-dbs-202609300947</link>
-            <guid isPermaLink="false">e6e38855-f58a-49eb-852e-df01ff5bc355</guid>
-            <pubDate>Wed, 30 Sep 2026 09:47:32 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Eugene Leow assesses USD Rates ahead of the October FOMC meeting, noting investors see a near-even chance of a back-to-back Fed hike. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
