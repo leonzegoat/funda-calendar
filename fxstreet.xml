@@ -4,15 +4,103 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 30 Sep 2026 20:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 00:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BoJ Summary of Opinions: Member says appropriate to keep raising rates in line with economy, price ]]></title>
+            <link>https://www.fxstreet.com/news/boj-summary-of-opinions-member-says-appropriate-to-keep-raising-rates-in-line-with-economy-price-202610010002</link>
+            <guid isPermaLink="false">97e2e820-f3d1-4353-aa9f-ee1514fcdbaf</guid>
+            <pubDate>Thu, 01 Oct 2026 00:02:45 GMT</pubDate>
+            <description><![CDATA[The Bank of Japan (BoJ) published the Summary of Opinions from the September monetary policy meeting, with the key findings noted below.   ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Japanese Yen spikes on softer US inflation and gives the gain back]]></title>
+            <link>https://www.fxstreet.com/news/the-japanese-yen-spikes-on-softer-us-inflation-and-gives-the-gain-back-202610010000</link>
+            <guid isPermaLink="false">087a4ee6-7be2-4c2e-8335-d47067685b6d</guid>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Softer US inflation pulled October Fed hike odds down to near 35%, and USD/JPY fell below 156.50 on the release. It finished back just under 157.50, its fourth straight close on the 157.00 handle. The Yen got the US number it needed and USD/JPY still closed a touch above where it opened.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan’s Tankan Large Manufacturing Index rises to 24 in Q3 vs. 25 expected]]></title>
+            <link>https://www.fxstreet.com/news/japans-tankan-large-manufacturing-index-rises-to-24-in-q3-vs-25-expected-202609302353</link>
+            <guid isPermaLink="false">dccaa438-9cd7-470e-8d44-2ebb54efe543</guid>
+            <pubDate>Wed, 30 Sep 2026 23:53:46 GMT</pubDate>
+            <description><![CDATA[The Bank of Japan’s (BoJ) Tankan survey of business sentiment improved slightly but missed market forecasts in the manufacturing sector. Japan’s Tankan Large Manufacturing Index rose to 24 in the third quarter (Q3) from 22 in the previous reading, weaker than the market expectation of 25.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Zealand Dollar edges lower as US yields outweigh China's beats]]></title>
+            <link>https://www.fxstreet.com/news/the-new-zealand-dollar-edges-lower-as-us-yields-outweigh-chinas-beats-202609302345</link>
+            <guid isPermaLink="false">cebf6594-d651-48e9-82c2-ffdd5580e456</guid>
+            <pubDate>Wed, 30 Sep 2026 23:45:00 GMT</pubDate>
+            <description><![CDATA[The Kiwi has followed US bond yields all month, and better numbers from New Zealand's biggest export market didn't change that on Wednesday. China's official services index came in at 50.2 against a 49.3 forecast, and the private services and factory gauges beat as well.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Euro slips as Europe's biggest economies report hotter inflation]]></title>
+            <link>https://www.fxstreet.com/news/the-euro-slips-as-europes-biggest-economies-report-hotter-inflation-202609302331</link>
+            <guid isPermaLink="false">844059fc-7457-4bf7-9a3e-4f6d9290f22f</guid>
+            <pubDate>Wed, 30 Sep 2026 23:31:14 GMT</pubDate>
+            <description><![CDATA[Germany, France, Italy and Spain all reported September inflation above forecast, which should have lifted bets on another European Central Bank (ECB) hike and the Euro with them. EUR/USD closed lower instead, its second straight close under 1.1350.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation]]></title>
+            <link>https://www.fxstreet.com/news/gold-falls-to-near-4-150-as-higher-treasury-yields-oil-prices-outweigh-softer-pce-inflation-202609302330</link>
+            <guid isPermaLink="false">5586433a-edb0-45de-975c-eccbb3efc6a9</guid>
+            <pubDate>Wed, 30 Sep 2026 23:30:58 GMT</pubDate>
+            <description><![CDATA[Gold price (XAU/USD) tumbles to near $4,150 during the early Asian session on Thursday, pressured by elevated US Treasury bond yields. Traders await the US September employment data for fresh impetus, which will be released later on Friday. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The British Pound rallies on a UK growth upgrade and gives more than half back]]></title>
+            <link>https://www.fxstreet.com/news/the-british-pound-rallies-on-a-uk-growth-upgrade-and-gives-more-than-half-back-202609302328</link>
+            <guid isPermaLink="false">8c3ba92d-7d8e-4983-af87-2df599b948ef</guid>
+            <pubDate>Wed, 30 Sep 2026 23:28:33 GMT</pubDate>
+            <description><![CDATA[Markets put a better than 80% chance on the Bank of England (BoE) raising the UK's Bank Rate from 3.75% on November 5, and GBP/USD still couldn't close above 1.3300.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dow Jones Industrial Average fades a soft-inflation bounce as yields climb]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-industrial-average-fades-a-soft-inflation-bounce-as-yields-climb-202609302328</link>
+            <guid isPermaLink="false">e6f6cfe4-ce9b-4536-81e3-a525c5e96ef8</guid>
+            <pubDate>Wed, 30 Sep 2026 23:28:11 GMT</pubDate>
+            <description><![CDATA[The 10-year Treasury yield rose to near 5.30% on Wednesday, its highest since 2007, on the same day US inflation came in under forecast. The Dow Jones Industrial Average rallied on the inflation release, faded for the rest of the session and closed on its low, just under 51,000.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/General-Stocks_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Aussie Dollar slips below 0.70 as Bullock dovishness trumps soft PCE]]></title>
+            <link>https://www.fxstreet.com/news/aussie-dollar-slips-below-070-as-bullock-dovishness-trumps-soft-pce-202609302240</link>
+            <guid isPermaLink="false">a8368a9e-e43d-4b5b-a842-f98c6cb60582</guid>
+            <pubDate>Wed, 30 Sep 2026 22:40:20 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar posted losses of 0.57% against the US Dollar on Wednesday, even though US data trimmed hawkish bets on the Federal Reserve, while the dovish tilt of RBA’s Governor Michele Bullock weighed on the antipodean.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed’s Kashkari questions policy tightness as economy stays strong]]></title>
+            <link>https://www.fxstreet.com/news/feds-kashkari-questions-policy-tightness-as-economy-stays-strong-202609302210</link>
+            <guid isPermaLink="false">ef1fb071-b5fb-4cd4-b0f8-c3b5371f124e</guid>
+            <pubDate>Wed, 30 Sep 2026 22:10:04 GMT</pubDate>
+            <description><![CDATA[Minneapolis Fed President Neel Kashkari said, “Inflation is still too high, about 3%, new data doesn't alter outlook,” he said at a Q&A at the Council on Foreign Relations.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: 50-day SMA caps recovery near 158.00]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-50-day-sma-caps-recovery-near-15800-202609302154</link>
+            <guid isPermaLink="false">3cd64f77-3a22-4ed1-b816-bc779dc7a341</guid>
+            <pubDate>Wed, 30 Sep 2026 21:54:48 GMT</pubDate>
+            <description><![CDATA[The USD/JPY registers modest gains of 0.08% on Wednesday after US inflation data trimmed market bets on a Federal Reserve rate hike at the October 28 meeting. At the time of writing, the pair trades at 157.42.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Fed’s Cook says inflation has stayed too high for too long]]></title>
             <link>https://www.fxstreet.com/news/feds-cook-says-inflation-has-stayed-too-high-for-too-long-202609302020</link>
             <guid isPermaLink="false">b489a26d-9945-4170-b4b0-bc276ab2dacb</guid>
             <pubDate>Wed, 30 Sep 2026 20:20:14 GMT</pubDate>
-            <description><![CDATA[The Fed Governor Lisa Cook crossed the wires on Wednesday and said she is committed to returning inflation to the Fed’s 2% goal while preserving the strength of the labour market.]]></description>
+            <description><![CDATA[Federal Reserve (Fed) Governor Lisa Cook crossed the wires on Wednesday and said she is committed to returning inflation to the Fed’s 2% goal while preserving the strength of the labor market.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -158,94 +246,6 @@
             <pubDate>Wed, 30 Sep 2026 12:58:28 GMT</pubDate>
             <description><![CDATA[RaboResearch Global Economics & Markets’ FX Strategy team assesses EUR/GBP in light of UK politics, growth and monetary policy. They note the Pound’s recent support from stronger UK GDP, but expect GBP bulls to stay cautious ahead of the October 28 budget.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Neutral-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: France fiscal risks to have limited drag – BBH]]></title>
-            <link>https://www.fxstreet.com/news/euro-france-fiscal-risks-to-have-limited-drag-bbh-202609301256</link>
-            <guid isPermaLink="false">9cd5efd0-ce5e-41bb-94f3-3864cf526d12</guid>
-            <pubDate>Wed, 30 Sep 2026 12:56:35 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s Elias Haddad reports EUR/USD has stabilized after dropping to its lowest level since May 2025, as widening France-Germany yield spreads highlight growing French fiscal concerns.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: US core PCE inflation stays unchanged at 3% in August vs. 3.3% expected]]></title>
-            <link>https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830</link>
-            <guid isPermaLink="false">a74ce4d1-ba6f-43ce-ba83-7cf7809741ba</guid>
-            <pubDate>Wed, 30 Sep 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[Annual inflation in the United States (US), as measured by the change in the Personal Consumption Expenditures (PCE) Price Index, held steady at 3.4% in August, the US Bureau of Economic Analysis (BEA) reported on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound rebounds against Japanese Yen as UK growth beats expectations]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-rebounds-against-japanese-yen-as-uk-growth-beats-expectations-202609301227</link>
-            <guid isPermaLink="false">3aea58d4-0c87-42b3-bea5-3dc48185fb53</guid>
-            <pubDate>Wed, 30 Sep 2026 12:27:43 GMT</pubDate>
-            <description><![CDATA[GBP/JPY rebounds sharply on Wednesday as the British Pound (GBP) strengthens across the board following an upward revision to UK economic growth. At the time of writing, the cross trades around 208.65 after recovering from 206.89 earlier in Asian trading hours, the lowest since December 2025.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: United States private sector employment rises by 90K in September vs. 70K expected]]></title>
-            <link>https://www.fxstreet.com/news/adp-employment-report-expected-to-confirm-a-tight-labour-market-in-september-202609300830</link>
-            <guid isPermaLink="false">699a9cbc-22da-46c1-83fe-7205dabebaff</guid>
-            <pubDate>Wed, 30 Sep 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[Employment in the United States' (US) private sector increased by 90K in September, the Automatic Data Processing (ADP) reported on Wednesday. This reading followed the 36K increase recorded in August (revised from 38K) and came in better than the market expectation of 70K.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany annual CPI inflation rises to 3.3% in September]]></title>
-            <link>https://www.fxstreet.com/news/germany-annual-cpi-inflation-rises-to-33-in-september-202609301205</link>
-            <guid isPermaLink="false">cb1ece70-e3b8-49cf-9f57-d436bc7cf786</guid>
-            <pubDate>Wed, 30 Sep 2026 12:05:39 GMT</pubDate>
-            <description><![CDATA[Inflation in Germany, as measured by the change in the Consumer Price Index, climbed to 3.3% (preliminary) in September from 2.9% in August, Germany's Destatis reported on Wednesday. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_DAX-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee recovers as traders trim hawkish Fed bets, oil prices fall]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543</link>
-            <guid isPermaLink="false">23091458-28c5-4444-afc5-6def19785ca8</guid>
-            <pubDate>Wed, 30 Sep 2026 05:43:44 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) gains against the US Dollar (USD) after a flat opening on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-inr_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP Price Forecast: Reaching oversold levels at six-week lows sub-0.8550]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-price-forecast-reaching-oversold-levels-at-six-week-lows-sub-08550-202609301137</link>
-            <guid isPermaLink="false">0fa44539-79a4-4f2b-91e4-a49f2736e79f</guid>
-            <pubDate>Wed, 30 Sep 2026 11:37:06 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) is dropping sharply against the British Pound (GBP) on Wednesday, as UK data has endorsed recent claims by Bank of England (BoE) officials to hike interest rates, while German data disappointed on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/LTC-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[What is driving the US Dollar to multi-month highs against the Euro as PCE data approaches?]]></title>
-            <link>https://www.fxstreet.com/news/what-is-driving-the-us-dollar-to-multi-month-highs-against-the-euro-as-pce-data-approaches-202609301133</link>
-            <guid isPermaLink="false">986793dc-23c1-427c-9c77-247374170216</guid>
-            <pubDate>Wed, 30 Sep 2026 11:33:30 GMT</pubDate>
-            <description><![CDATA[EUR/USD has dropped to its lowest level since mid-2025 as the US Dollar (USD) maintains broad-based momentum, propelled by elevated long-dated US Treasury yields and shifting expectations for Federal Reserve (Fed) monetary policy.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-222.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: At make or a break near 1.1330]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-at-make-or-a-break-near-11330-202609301125</link>
-            <guid isPermaLink="false">dfc00201-78bd-42c5-828a-02c64ca54f8f</guid>
-            <pubDate>Wed, 30 Sep 2026 11:25:50 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) is up 0.13% at around 1.1356 against the US Dollar (USD) during the European trading session on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bullish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar: Softer CPI keeps RBA pricing in check – BBH]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-softer-cpi-keeps-rba-pricing-in-check-bbh-202609301122</link>
-            <guid isPermaLink="false">c5637146-9e98-49e2-be58-4d9c093cf9f5</guid>
-            <pubDate>Wed, 30 Sep 2026 11:22:43 GMT</pubDate>
-            <description><![CDATA[Elias Haddad at Brown Brothers Harriman notes the Australian Dollar is underperforming after a softer August CPI print weighed on RBA cash rate futures. Headline CPI rose less than consensus, while trimmed mean inflation remained steady for a third month.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/aud-usd-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound: Fiscal tightening risks dovish BOE repricing – BBH]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-fiscal-tightening-risks-dovish-boe-repricing-bbh-202609301120</link>
-            <guid isPermaLink="false">15ebe1e9-d5b1-472d-9759-26041280b34e</guid>
-            <pubDate>Wed, 30 Sep 2026 11:20:21 GMT</pubDate>
-            <description><![CDATA[BBH’s Elias Haddad highlights that Pound gains were supported by an upward revision to UK Q2 GDP, with growth beating both prior estimates and Bank of England (BOE) forecasts.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-34.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
