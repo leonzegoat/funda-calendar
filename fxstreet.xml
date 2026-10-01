@@ -4,248 +4,248 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Thu, 01 Oct 2026 06:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 13:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[GBP/USD Price Forecast: Declines to near 1.3250 as bearish bias persists below 100-day moving average]]></title>
-            <link>https://www.fxstreet.com/news/gbp-usd-price-forecast-declines-to-near-13250-as-bearish-bias-persists-below-100-day-moving-average-202610010558</link>
-            <guid isPermaLink="false">a1223206-2eeb-4b07-b37e-ecacdd33bf2c</guid>
-            <pubDate>Thu, 01 Oct 2026 05:58:26 GMT</pubDate>
-            <description><![CDATA[The GBP/USD pair trades in negative territory around 1.3250 during the early European trading hours on Thursday. The British Pound (GBP) edges lower against the US Dollar (USD) amid widening monetary policy divergence between the Bank of England (BoE) and the US Federal Reserve (Fed).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBP-bearish-animal.png" length="0" type="image/png"/>
+            <title><![CDATA[Euro: Outlook weakens as risks build – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/euro-outlook-weakens-as-risks-build-rabobank-202610011321</link>
+            <guid isPermaLink="false">4bd4abf2-d680-4f31-8c04-eb1b266da657</guid>
+            <pubDate>Thu, 01 Oct 2026 13:21:21 GMT</pubDate>
+            <description><![CDATA[Rabobank's RaboResearch Global Economics & Markets discusses EUR/USD dynamics since the Iran war, highlighting how shifting expectations for Federal Reserve policy and the Euro’s underperformance have driven the pair. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[AUD/USD Price Forecast: On verge of 78.6% Fibo breakdown near 0.6950]]></title>
-            <link>https://www.fxstreet.com/news/aud-usd-price-forecast-on-verge-of-786-fibo-breakdown-near-06950-202610010555</link>
-            <guid isPermaLink="false">12bc5153-97a0-430a-ba01-2a718907699f</guid>
-            <pubDate>Thu, 01 Oct 2026 05:55:12 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) is up against its major currency pairs on Thursday, but is almost flat against the US Dollar (USD) at around 0.6948 in the early European trade.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUDUSD-neutral-animal.png" length="0" type="image/png"/>
+            <title><![CDATA[Gold struggles as elevated US Treasury yields outweigh dovish Fed repricing]]></title>
+            <link>https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125</link>
+            <guid isPermaLink="false">ce79aa16-44e5-4228-bd42-a9309f1d18f5</guid>
+            <pubDate>Thu, 01 Oct 2026 11:25:03 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) treads water on Thursday as a stronger US Dollar (USD) and elevated US Treasury yields limit the upside. At the time of writing, XAU/USD trades around $4,79, up 0.54% on the day, as the precious metal struggles to build on its early recovery.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Swiss Franc reaches fresh 16-month lows ahead of CPI data]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-reaches-fresh-16-month-lows-ahead-of-cpi-data-202610010550</link>
-            <guid isPermaLink="false">fc389762-2a93-4b33-9b3e-07a64351bd2d</guid>
-            <pubDate>Thu, 01 Oct 2026 05:50:35 GMT</pubDate>
-            <description><![CDATA[USD/CHF continues its winning streak for the seventh consecutive trading day, reaching its fresh 16-month high of 0.8367 during Asian hours on Thursday. The currency pair appreciated as the Swiss Franc (CHF) lost ground due to sharply weakening investor sentiment in September.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDCHF-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee falls as US Treasury Yields hit fresh two-decade high near 5.3%]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-falls-as-us-treasury-yields-hit-fresh-two-decade-high-near-53-202610010543</link>
-            <guid isPermaLink="false">8ebd2ec0-2c3f-4315-8106-7947b9cc646b</guid>
-            <pubDate>Thu, 01 Oct 2026 05:43:56 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) weakens against the US Dollar (USD) on Thursday after an upside move the previous day. The Indian currency faces selling pressure as United States (US) Treasury Yields extend their rally, supporting the USD/INR pair to move higher to near 95.93.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-inr_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WTI Price Forecast: Bears await acceptance below $88.00, 50% Fibo. support breakdown]]></title>
-            <link>https://www.fxstreet.com/news/wti-price-forecast-bears-await-acceptance-below-8800-50-fibo-support-breakdown-202610010515</link>
-            <guid isPermaLink="false">a0c3ef4b-b49f-463b-9000-f204db70a1ce</guid>
-            <pubDate>Thu, 01 Oct 2026 05:15:59 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) – the benchmark US Crude Oil price – comes under some renewed selling pressure during the Asian session on Thursday, reversing the previous day's modest recovery gains.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AUD/JPY Price Forecast: Recovers from six-month low, but retains bearish bias below 100-day SMA]]></title>
-            <link>https://www.fxstreet.com/news/aud-jpy-price-forecast-recovers-from-six-month-low-but-retains-bearish-bias-below-100-day-sma-202610010455</link>
-            <guid isPermaLink="false">45cf5c50-445b-4bd4-bf0d-e611bccabc47</guid>
-            <pubDate>Thu, 01 Oct 2026 04:55:19 GMT</pubDate>
-            <description><![CDATA[The AUD/JPY cross trades in positive territory around 109.95 during the early European session on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold bulls seem hesitant as resilient US Dollar and yields cap upside]]></title>
-            <link>https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454</link>
-            <guid isPermaLink="false">35100585-f1fa-4d41-a6c6-814086049201</guid>
-            <pubDate>Thu, 01 Oct 2026 04:54:51 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) attracts some dip-buyers near the $4,139 region during the Asian session on Thursday, stalling the previous day's pullback from the $4,220 area, touched in reaction to softer-than-expected US inflation data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/JPY Price Forecast: Tests nine-day EMA barrier after rebounding above 179.00]]></title>
-            <link>https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-barrier-after-rebounding-above-17900-202610010444</link>
-            <guid isPermaLink="false">bd18dbd0-44db-416e-acf8-5d5c0326b2ff</guid>
-            <pubDate>Thu, 01 Oct 2026 04:44:30 GMT</pubDate>
-            <description><![CDATA[EUR/JPY halts its four-day losing streak, trading around 179.20 during Asian hours on Thursday. Technical analysis of the daily chart shows that the currency cross remains confined within a descending channel pattern. This continuous formation reinforces a persistent bearish outlook for the pair.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/BullishRocket.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[India Gold price today: Gold rises, according to FXStreet data]]></title>
-            <link>https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610010431</link>
-            <guid isPermaLink="false">657ef890-dda5-45e5-92ce-c04ab3a884c8</guid>
-            <pubDate>Thu, 01 Oct 2026 04:31:02 GMT</pubDate>
-            <description><![CDATA[Gold prices rose in India on Thursday, according to data compiled by FXStreet.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United States Dollar Index approaches yearly high near 101.80, US ISM PMI in focus]]></title>
-            <link>https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-high-near-10180-us-ism-pmi-in-focus-202610010324</link>
-            <guid isPermaLink="false">b7e575f2-2f56-444f-af31-538940ffd5cd</guid>
-            <pubDate>Thu, 01 Oct 2026 03:24:04 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) outperforms its major currency peers on Thursday. In the Asian session, the US Dollar Index (DXY), which gauges the Greenback’s value against six major currencies, trades 0.13% higher to near 101.60. The DXY is little far from its yearly high of 101.80.]]></description>
+            <title><![CDATA[US Dollar: DXY extends monthly gains – UOB]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-dxy-extends-monthly-gains-uob-202610011247</link>
+            <guid isPermaLink="false">8c85d0a1-2af8-4ec6-8f32-ed8775e8067f</guid>
+            <pubDate>Thu, 01 Oct 2026 12:47:37 GMT</pubDate>
+            <description><![CDATA[UOB Global Economics & Markets Research notes the DXY closed at 101.45 on Wednesday, delivering its best monthly gain since June with a 2.0% rise in September. Intraday Dollar strength was briefly tempered by softer US PCE data before recovering into the close.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-line.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Silver Price Forecast: XAG/USD holds above $61.00 amid easing Fed rate hike expectations]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-above-6100-amid-easing-fed-rate-hike-expectations-202610010319</link>
-            <guid isPermaLink="false">b457a683-8dc6-4aeb-a1b5-9090d261fa9a</guid>
-            <pubDate>Thu, 01 Oct 2026 03:19:59 GMT</pubDate>
-            <description><![CDATA[Silver price (XAG/USD) gains ground after posting losses the previous day, trading around $60.90 per troy ounce during Asian hours on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[US Initial Jobless Claims dropped to 197K last week]]></title>
+            <link>https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-197k-last-week-202610011237</link>
+            <guid isPermaLink="false">17d5a3df-c49b-4b18-a137-7895d1d4cf1e</guid>
+            <pubDate>Thu, 01 Oct 2026 12:37:54 GMT</pubDate>
+            <description><![CDATA[According to a report from the US Department of Labour (DOL) released on Thursday, the number of US citizens submitting new applications for unemployment insurance decreased to 197K for the week ending September 26.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_office.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Japanese Yen drops to weekly low as elevated US bond yields lift USD to two-month high]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-drops-to-weekly-low-as-elevated-us-bond-yields-lift-usd-to-two-month-high-202610010256</link>
-            <guid isPermaLink="false">fa88f300-e6db-49bc-86bc-49b4b04a4fee</guid>
-            <pubDate>Thu, 01 Oct 2026 02:56:03 GMT</pubDate>
-            <description><![CDATA[The USD/JPY pair builds on the previous day's bounce from the 156.40-156.35 region, or a one-and-a-half-week low, and gains strong follow-through traction during the Asian session on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-24.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[BoE's Mann: Can't rely on risk premia to do work of policy, need to raise rates]]></title>
+            <link>https://www.fxstreet.com/news/boes-mann-cant-rely-on-risk-premia-to-do-work-of-policy-need-to-raise-rates-202610011231</link>
+            <guid isPermaLink="false">7be30170-7345-4376-b564-2cc21480dee2</guid>
+            <pubDate>Thu, 01 Oct 2026 12:31:14 GMT</pubDate>
+            <description><![CDATA[Bank of England (BoE) policymaker Catherine Mann argued on Thursday that they can't rely on risk premia to do the work of monetary policy and added that they need to raise the bank rate, per Reuters.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Euro weakens below 1.1350 on higher US Treasury yields, Lagarde's dovish tilt]]></title>
-            <link>https://www.fxstreet.com/news/euro-weakens-below-11350-on-higher-us-treasury-yields-lagardes-dovish-tilt-202610010252</link>
-            <guid isPermaLink="false">fbaf72e6-fcc0-46ba-94d5-20c21ad18987</guid>
-            <pubDate>Thu, 01 Oct 2026 02:52:45 GMT</pubDate>
-            <description><![CDATA[The EUR/USD pair drifts lower to around 1.1325 during the early Asian trading hours on Thursday. The US Dollar (USD) strengthens against the Euro (EUR) amid an extended rise in US Treasury yields. The US weekly Initial Jobless Claims report and the Fedspeak will be the highlights later in the day. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-bearish-object.png" length="0" type="image/png"/>
+            <title><![CDATA[British Pound holds firm against Euro on stronger growth, hawkish policy signals]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-holds-firm-against-euro-on-stronger-growth-hawkish-policy-signals-202610011222</link>
+            <guid isPermaLink="false">246df19e-8726-459e-9fee-bbf43c5ac734</guid>
+            <pubDate>Thu, 01 Oct 2026 12:22:23 GMT</pubDate>
+            <description><![CDATA[EUR/GBP trades on the defensive on Thursday, remaining on the back foot for the fifth consecutive day following last week’s rejection from the 0.8600 psychological mark. At the time of writing, the cross trades around 0.8537, its lowest level since mid-August.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bullish-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fed path shaped by firm inflation – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/fed-path-shaped-by-firm-inflation-societe-generale-202610010225</link>
-            <guid isPermaLink="false">7d179b2d-c5a4-4cec-8149-00fe59c35c9e</guid>
-            <pubDate>Thu, 01 Oct 2026 02:25:34 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Jan Groen reviews August US inflation and growth data, highlighting that Core PCE came in softer than expected but underlying price pressures in services remain firm. Benchmark revisions lowered measured inflation but still show it above levels consistent with the Federal Reserve’s target. Stronger consumption and GDP revisions suggest the US economy entered 2H26 with more momentum, keeping an October rate hike possible.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1.png" length="0" type="image/png"/>
+            <title><![CDATA[Why is the US Dollar climbing when its preferred inflation gauge is cooling?]]></title>
+            <link>https://www.fxstreet.com/news/why-is-the-us-dollar-climbing-when-its-preferred-inflation-gauge-is-cooling-202610011212</link>
+            <guid isPermaLink="false">305a1d5a-acca-4dc4-af54-71666e0da2de</guid>
+            <pubDate>Thu, 01 Oct 2026 12:12:23 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) continues to display underlying strength, with the US Dollar Index (DXY) touching its June year-to-date high near 101.80 despite recent data showing a deceleration in core Personal Consumption Expenditures (PCE) inflation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USD_Bullish-Tendency-1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[US Dollar: Fed outlook supported by robust data – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-outlook-supported-by-robust-data-td-securities-202610010222</link>
-            <guid isPermaLink="false">ce7eb5ad-2d0d-49d1-96c9-b4b13e1e73cd</guid>
-            <pubDate>Thu, 01 Oct 2026 02:22:41 GMT</pubDate>
-            <description><![CDATA[TD Securities economists Oscar Munoz and Eli Nir assess US PCE and GDP revisions as broadly supportive for a firm US macro backdrop and a still-hawkish Federal Reserve stance. They highlight robust US growth, sticky inflation and upgraded GDP forecasts, arguing that lower inflation revisions do not materially alter the narrative for the US Dollar or Fed policy expectations.]]></description>
+            <title><![CDATA[Korean Won: Export boom supports currency – DBS]]></title>
+            <link>https://www.fxstreet.com/news/korean-won-export-boom-supports-currency-dbs-202610011209</link>
+            <guid isPermaLink="false">d5006e54-d03a-488e-afe4-a572c82040b1</guid>
+            <pubDate>Thu, 01 Oct 2026 12:09:54 GMT</pubDate>
+            <description><![CDATA[Chang Wei Liang at DBS Group Research highlights Korea’s strong September export performance, driven by an AI-led semiconductor boom and a record monthly trade surplus.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Economic-Indicator_Foreign-Trade-4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro: Vulnerable as US diesel policy bites – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/euro-vulnerable-as-us-diesel-policy-bites-societe-generale-202610011204</link>
+            <guid isPermaLink="false">d3f16cee-4d51-4cf6-9d0d-7559c43534b3</guid>
+            <pubDate>Thu, 01 Oct 2026 12:04:34 GMT</pubDate>
+            <description><![CDATA[Kit Juckes at Societe Generale highlights that a proposed US diesel export ban would likely push up European diesel prices and weigh on the Euro and other European currencies. He points to rising bond yields and Oil prices as additional headwinds and questions whether consensus Eurozone growth forecasts will be revised lower if these pressures persist.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Rupee hits fresh two-month low amid surging US Treasury yields]]></title>
+            <link>https://www.fxstreet.com/news/indian-rupee-falls-as-us-treasury-yields-hit-fresh-two-decade-high-near-53-202610010543</link>
+            <guid isPermaLink="false">8ebd2ec0-2c3f-4315-8106-7947b9cc646b</guid>
+            <pubDate>Thu, 01 Oct 2026 05:43:56 GMT</pubDate>
+            <description><![CDATA[The Indian Rupee (INR) extends its weakness against the US Dollar (USD) on Thursday after a weak opening.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/india-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY: Range-bound view on BOJ caution – BBH]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-range-bound-view-on-boj-caution-bbh-202610011151</link>
+            <guid isPermaLink="false">1833606c-e73a-4eff-befb-3578d515e405</guid>
+            <pubDate>Thu, 01 Oct 2026 11:51:29 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s Elias Haddad notes USD/JPY has surged to its 200-day moving average on broad Dollar strength, but expects the pair to trade within a 155.00–160.00 range near term.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-65.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed's Kashkari: Will put pressure on different parts of economy if we keep raising rates]]></title>
+            <link>https://www.fxstreet.com/news/feds-kashkari-will-put-pressure-on-different-parts-of-economy-if-we-keep-raising-rates-202610011150</link>
+            <guid isPermaLink="false">f09e9756-0c9c-461f-b204-99a3594f2f1e</guid>
+            <pubDate>Thu, 01 Oct 2026 11:50:19 GMT</pubDate>
+            <description><![CDATA[Minneapolis Federal Reserve (Fed) President Neel Kashkari told Bloomberg on Thursday that if they keep raising rates, they will put different pressure on different parts of the economy, per Reuters.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Australian Dollar remains stronger against Japanese Yen following Trade Balance data]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-remains-stronger-against-japanese-yen-following-trade-balance-data-202610010217</link>
-            <guid isPermaLink="false">dea3497a-2777-46ac-8969-6cd26c726275</guid>
-            <pubDate>Thu, 01 Oct 2026 02:17:49 GMT</pubDate>
-            <description><![CDATA[AUD/JPY halts its seven-day losing streak, trading around 109.80 during Asian hours on Thursday. The currency cross remains stronger as the Australian Dollar (AUD) holds gains following the release of domestic Trade Balance data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/JPY-bullish-object.png" length="0" type="image/png"/>
+            <title><![CDATA[USD/JPY Price Forecast: Jumps to near 158.40 as traders reassess hawkish BoJ bets]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-jumps-to-near-15840-as-traders-reassess-hawkish-boj-bets-202610011149</link>
+            <guid isPermaLink="false">cadf4dc3-5f2e-4095-a468-91135f9c6dae</guid>
+            <pubDate>Thu, 01 Oct 2026 11:49:13 GMT</pubDate>
+            <description><![CDATA[The Japanese Yen (JPY) underperforms its currency peers on Thursday, with the USD/JPY pair trading 0.55% higher to near 158.40.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bullish-line.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[British Pound retreats further from one-week top as USD buying remains unabated]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-retreats-further-from-one-week-top-as-usd-buying-remains-unabated-202610010211</link>
-            <guid isPermaLink="false">74147d4d-fd85-4e9a-b352-3e5cb91bd39e</guid>
-            <pubDate>Thu, 01 Oct 2026 02:11:30 GMT</pubDate>
-            <description><![CDATA[The GBP/USD pair edges lower during the Asian session on Thursday, retreating further from levels beyond the 1.3300 mark, or a one-week high, touched the previous day.]]></description>
+            <title><![CDATA[NZD/USD Price Forecast: At fresh yearly lows with bears pushing against 0.5600  ]]></title>
+            <link>https://www.fxstreet.com/news/nzd-usd-price-forecast-at-fresh-yearly-lows-with-bears-pushing-against-05600-202610011148</link>
+            <guid isPermaLink="false">34fcb7df-f5ae-461e-946c-94017e9a8899</guid>
+            <pubDate>Thu, 01 Oct 2026 11:48:34 GMT</pubDate>
+            <description><![CDATA[The New Zealand Dollar (NZD) keeps depreciating against the US Dollar (USD) on Thursday, hammered by a perfect storm of risk aversion, high Oil prices, and escalating US Treasury yields that have boosted the Greenback across the board.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US Dollar: Resilient growth supports upside risks – BBH]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-resilient-growth-supports-upside-risks-bbh-202610011136</link>
+            <guid isPermaLink="false">8d1a8d63-89f8-4d1f-b9f3-01ba2fb8fcde</guid>
+            <pubDate>Thu, 01 Oct 2026 11:36:53 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s Elias Haddad highlights a resilient US economy underpinning Dollar strength, with the DXY at new cyclical highs. Upward revisions to US Q2 GDP and strong Q3 estimates from the Atlanta Fed GDPNow model support the constructive outlook. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DollarIndex.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump sees ramping up bombing Iran after midterms possible – Time Magazine]]></title>
+            <link>https://www.fxstreet.com/news/trump-sees-ramping-up-bombing-iran-after-midterms-possible-time-magazine-202610011122</link>
+            <guid isPermaLink="false">6e3af580-83a6-4098-b657-8bbd1d649aa0</guid>
+            <pubDate>Thu, 01 Oct 2026 11:22:40 GMT</pubDate>
+            <description><![CDATA[Here are comments delivered by United States (US) Donald Trump in an interview with Time Magazine.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Public-Figures_Donald-Trump_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound tests 1.3200 as higher US yields and risk-off markets boost US Dollar]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-tests-13200-as-higher-us-yields-and-risk-off-markets-boost-us-dollar-202610011055</link>
+            <guid isPermaLink="false">253f30ae-12dc-495f-8ce6-7cbbccf763ee</guid>
+            <pubDate>Thu, 01 Oct 2026 10:55:43 GMT</pubDate>
+            <description><![CDATA[The British Pound (GBP) heads lower against the US Dollar (USD) on Wednesday, with the GBP/USD pair hitting three-month lows just below 1.3200 ahead of the US session opening.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/discover-38.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Australian Dollar declines below 0.6959 as Trade Surplus shrinks sharply ]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-declines-below-06959-as-trade-surplus-shrinks-sharply-202610010157</link>
-            <guid isPermaLink="false">5fd153c1-7d45-4cbf-b94a-aee3a8c77855</guid>
-            <pubDate>Thu, 01 Oct 2026 01:57:24 GMT</pubDate>
-            <description><![CDATA[The AUD/USD pair trades with mild losses around 0.6945 during the early Asian session on Thursday. The Australian Dollar (AUD) edges lower against the US Dollar (USD) following Australia's Trade Balance data.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bearish-animal.png" length="0" type="image/png"/>
+            <title><![CDATA[Australian Dollar outperforms risky peers despite weak Trade Balance data]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-outperforms-risky-peers-despite-weak-trade-balance-data-202610011053</link>
+            <guid isPermaLink="false">0dfcf6de-59f8-4f7a-ac32-15a37f41514e</guid>
+            <pubDate>Thu, 01 Oct 2026 10:53:59 GMT</pubDate>
+            <description><![CDATA[The Australian Dollar (AUD) trades higher against its risky peers, but is down versus safe-haven peers during the European trading session on Thursday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-70.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Reserve Bank of Australia: Households, businesses can weather slower economy, falling house prices]]></title>
-            <link>https://www.fxstreet.com/news/reserve-bank-of-australia-households-businesses-can-weather-slower-economy-falling-house-prices-202610010141</link>
-            <guid isPermaLink="false">5f6d05a1-1728-4ed0-a87a-ce20a8e760b8</guid>
-            <pubDate>Thu, 01 Oct 2026 01:41:16 GMT</pubDate>
-            <description><![CDATA[In its Financial Stability Review (FSR) published on Thursday,  the Reserve Bank of Australia (RBA) said that “households and businesses are well placed to weather a slower economy and falling house prices.”]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-40.png" length="0" type="image/png"/>
+            <title><![CDATA[Global Bonds: Selloff deepens with rising term premia – BBH]]></title>
+            <link>https://www.fxstreet.com/news/global-bonds-selloff-deepens-with-rising-term-premia-bbh-202610011042</link>
+            <guid isPermaLink="false">e2e3f7f0-b929-45c5-a3da-2bf28f08d670</guid>
+            <pubDate>Thu, 01 Oct 2026 10:42:46 GMT</pubDate>
+            <description><![CDATA[Brown Brothers Harriman’s Elias Haddad highlights a deepening global bond market selloff driven by tighter expected policy paths and rising real term premia.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[AUD495M: Australia’s Trade Surplus shrinks sharply in August]]></title>
-            <link>https://www.fxstreet.com/news/aud495m-australias-trade-balance-shows-a-surplus-in-august-202610010133</link>
-            <guid isPermaLink="false">72e9fe79-e775-41c6-90e1-95842bcc1a8c</guid>
-            <pubDate>Thu, 01 Oct 2026 01:33:24 GMT</pubDate>
-            <description><![CDATA[Australia's Trade Balance narrowed to A$495M MoM in August, followed a surplus of A$1,351M in the previous reading (revised from A$1,923M), according to the latest foreign trade data published by the Australian Bureau of Statistics on Thursday.  ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Oil: Prices hold near multi‑year highs – UOB]]></title>
+            <link>https://www.fxstreet.com/news/oil-prices-hold-near-multi-year-highs-uob-202610011032</link>
+            <guid isPermaLink="false">81b15ea1-c34a-465e-9a76-64a87dd4cf84</guid>
+            <pubDate>Thu, 01 Oct 2026 10:32:42 GMT</pubDate>
+            <description><![CDATA[UOB Global Economics & Markets Research reports WTI crude settled at $90.42 per barrel and Brent at $103.53 per barrel on Wednesday, both extending strong year-to-date gains.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil-18326.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Canadian Dollar seems vulnerable near two-month low as USD maintains bullish undertone]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-two-month-low-as-usd-maintains-bullish-undertone-202610010128</link>
-            <guid isPermaLink="false">d74d825c-fa78-4e14-a59f-7f23d144eb76</guid>
-            <pubDate>Thu, 01 Oct 2026 01:28:09 GMT</pubDate>
-            <description><![CDATA[The USD/CAD pair holds steady around the 1.4235 area during the Asian session on Thursday, consolidating its recent strong gains registered over the past four weeks or so.]]></description>
-            <enclosure url="https://editorial.fxstreet.com/images/i/bearish-realist.png" length="0" type="image/png"/>
+            <title><![CDATA[US Dollar: Stronger profile as policy supports flows – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-stronger-profile-as-policy-supports-flows-societe-generale-202610011026</link>
+            <guid isPermaLink="false">3d2b1810-8834-4959-9e87-704c9f46edd0</guid>
+            <pubDate>Thu, 01 Oct 2026 10:26:43 GMT</pubDate>
+            <description><![CDATA[Societe Generale’s Kit Juckes argues that recent US policy proposals around diesel exports and higher yields are reinforcing a stronger Dollar outlook. He notes that talking down the Dollar has failed since the Federal Reserve raised rates, and that capital inflows driven by higher US yields should keep supporting the Dollar, especially as Europe faces growth risks in a global energy crisis.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-bullish-object.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[US President Donald Trump announces $200 billion South Korean investment in US nuclear]]></title>
-            <link>https://www.fxstreet.com/news/us-president-donald-trump-announces-200-billion-south-korean-investment-in-us-nuclear-202610010127</link>
-            <guid isPermaLink="false">7a47e5b8-b21e-466d-bb6d-3fa3a1ed2356</guid>
-            <pubDate>Thu, 01 Oct 2026 01:27:31 GMT</pubDate>
-            <description><![CDATA[US President Donald Trump unveiled a $200 billion investment plan from South Korea, $54 billion of which is slated to go to a liquefied natural gas (LNG) project in Alaska, Reuters reported on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpVictory-6526.png" length="0" type="image/png"/>
+            <title><![CDATA[USD/JPY: Yen soft as intervention absent – UOB]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-yen-soft-as-intervention-absent-uob-202610011021</link>
+            <guid isPermaLink="false">ee057e9d-3e98-4692-82ed-570c703ae316</guid>
+            <pubDate>Thu, 01 Oct 2026 10:21:57 GMT</pubDate>
+            <description><![CDATA[UOB Global Economics & Markets Research highlights USD/JPY reversed intraday losses to close flat at 157.41. The Japanese Yen weakened after Ministry of Finance data confirmed no FX intervention between 27 August and 28 September, following July’s record coordinated US-Japan operation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-96.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[WTI falls to near $89.00 as Middle East oil shipments recover]]></title>
-            <link>https://www.fxstreet.com/news/wti-falls-to-near-8900-as-middle-east-oil-shipments-recover-202610010120</link>
-            <guid isPermaLink="false">4570cfc9-0367-4fd7-b709-1547289c4b76</guid>
-            <pubDate>Thu, 01 Oct 2026 01:20:32 GMT</pubDate>
-            <description><![CDATA[West Texas Intermediate (WTI) oil price loses ground after posting modest gains in the previous day, trading around $89.10 per barrel during Asian hours on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png" length="0" type="image/png"/>
+            <title><![CDATA[1.1265: Euro hits yearly lows amid high Oil prices, rising US yields and debt woes]]></title>
+            <link>https://www.fxstreet.com/news/11265-euro-hits-yearly-lows-amid-high-oil-prices-rising-us-yields-and-debt-woes-202610011019</link>
+            <guid isPermaLink="false">7dff4627-d006-4193-9b4a-2569a2ab6833</guid>
+            <pubDate>Thu, 01 Oct 2026 10:19:49 GMT</pubDate>
+            <description><![CDATA[The Euro (EUR) extends losses for the fourth consecutive day against the US Dollar (USD), reaching levels below 1.1300 for the first time since May 2025.]]></description>
+            <enclosure url="https://editorial.fxstreet.com/images/i/BearishFalling.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[US Secretary Rubio orders Iranian delegation to leave the country]]></title>
-            <link>https://www.fxstreet.com/news/us-secretary-rubio-orders-iranian-delegation-to-leave-the-country-202610010035</link>
-            <guid isPermaLink="false">69fc5a15-602a-4f6d-a45d-23aac1087479</guid>
-            <pubDate>Thu, 01 Oct 2026 00:35:43 GMT</pubDate>
-            <description><![CDATA[The US official stated on Monday that US Secretary of State Marco Rubio told the Iranian delegation to the United Nations General Assembly immediately leave the United States (US) after talks stalled, Axios reported. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/white-house-02.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[US Treasuries: Long-end selloff extends to multi-decade highs – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/us-treasuries-long-end-selloff-extends-to-multi-decade-highs-deutsche-bank-202610011019</link>
+            <guid isPermaLink="false">3adb72ef-02d6-4735-913c-861bda772de1</guid>
+            <pubDate>Thu, 01 Oct 2026 10:19:21 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank’s Jim Reid describes severe stress in US Treasuries, with 10-year and 30-year yields pushing to post-2000s highs despite dovish PCE revisions.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-59.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[BoJ Summary of Opinions: Member says appropriate to keep raising rates in line with economy, price ]]></title>
-            <link>https://www.fxstreet.com/news/boj-summary-of-opinions-member-says-appropriate-to-keep-raising-rates-in-line-with-economy-price-202610010002</link>
-            <guid isPermaLink="false">97e2e820-f3d1-4353-aa9f-ee1514fcdbaf</guid>
-            <pubDate>Thu, 01 Oct 2026 00:02:45 GMT</pubDate>
-            <description><![CDATA[The Bank of Japan (BoJ) published the Summary of Opinions from the September monetary policy meeting, with the key findings noted below.   ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Japanese-Bank_4.png" length="0" type="image/png"/>
+            <title><![CDATA[Gold: Upside capped by real yields – UOB]]></title>
+            <link>https://www.fxstreet.com/news/gold-upside-capped-by-real-yields-uob-202610011015</link>
+            <guid isPermaLink="false">50ba5086-62e5-439c-9d53-2c66416bc2d6</guid>
+            <pubDate>Thu, 01 Oct 2026 10:15:15 GMT</pubDate>
+            <description><![CDATA[According to UOB Global Economics & Markets Research, Gold spot eased to close at $4,157 per ounce after earlier trading as high as $4,219. Elevated real yields continue to limit bullion’s upside, leaving Gold softer despite broader macro uncertainty and strong moves in other commodities. The report underscores how higher US yields are constraining precious metals.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-42.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[The Japanese Yen spikes on softer US inflation and gives the gain back]]></title>
-            <link>https://www.fxstreet.com/news/the-japanese-yen-spikes-on-softer-us-inflation-and-gives-the-gain-back-202610010000</link>
-            <guid isPermaLink="false">087a4ee6-7be2-4c2e-8335-d47067685b6d</guid>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Softer US inflation pulled October Fed hike odds down to near 35%, and USD/JPY fell below 156.50 on the release. It finished back just under 157.50, its fourth straight close on the 157.00 handle. The Yen got the US number it needed and USD/JPY still closed a touch above where it opened.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
+            <title><![CDATA[EU trade: Strategic linkages and rare earths – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/eu-trade-strategic-linkages-and-rare-earths-rabobank-202610010957</link>
+            <guid isPermaLink="false">b94d0442-bd3f-41a8-b066-c7b8eeeac1f9</guid>
+            <pubDate>Thu, 01 Oct 2026 09:57:12 GMT</pubDate>
+            <description><![CDATA[RaboResearch Global Economics & Markets highlights how the European Union is reshaping trade policy, including linking market access for Thai canned tuna to EU-caught fish and forging a new partnership with Canada on firefighting and critical minerals.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Japan’s Tankan Large Manufacturing Index rises to 24 in Q3 vs. 25 expected]]></title>
-            <link>https://www.fxstreet.com/news/japans-tankan-large-manufacturing-index-rises-to-24-in-q3-vs-25-expected-202609302353</link>
-            <guid isPermaLink="false">dccaa438-9cd7-470e-8d44-2ebb54efe543</guid>
-            <pubDate>Wed, 30 Sep 2026 23:53:46 GMT</pubDate>
-            <description><![CDATA[The Bank of Japan’s (BoJ) Tankan survey of business sentiment improved slightly but missed market forecasts in the manufacturing sector. Japan’s Tankan Large Manufacturing Index rose to 24 in the third quarter (Q3) from 22 in the previous reading, weaker than the market expectation of 25.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/japan-01.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[US Dollar: Fed repricing and inflation data steer path – Deutsche Bank]]></title>
+            <link>https://www.fxstreet.com/news/us-dollar-fed-repricing-and-inflation-data-steer-path-deutsche-bank-202610010955</link>
+            <guid isPermaLink="false">8f65c4f1-ee26-4f28-965b-8ac9ae615309</guid>
+            <pubDate>Thu, 01 Oct 2026 09:55:09 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank’s Early Morning Reid notes that softer US PCE revisions reduced expectations for an October Fed hike, even as the Dollar Index edged higher.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[The New Zealand Dollar edges lower as US yields outweigh China's beats]]></title>
-            <link>https://www.fxstreet.com/news/the-new-zealand-dollar-edges-lower-as-us-yields-outweigh-chinas-beats-202609302345</link>
-            <guid isPermaLink="false">cebf6594-d651-48e9-82c2-ffdd5580e456</guid>
-            <pubDate>Wed, 30 Sep 2026 23:45:00 GMT</pubDate>
-            <description><![CDATA[The Kiwi has followed US bond yields all month, and better numbers from New Zealand's biggest export market didn't change that on Wednesday. China's official services index came in at 50.2 against a 49.3 forecast, and the private services and factory gauges beat as well.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Dow Jones futures decline as markets weigh on rising US yields]]></title>
+            <link>https://www.fxstreet.com/news/dow-jones-futures-decline-as-markets-weigh-on-rising-us-yields-202610010935</link>
+            <guid isPermaLink="false">466c2249-a153-4bb8-ab8d-319514adee30</guid>
+            <pubDate>Thu, 01 Oct 2026 09:35:03 GMT</pubDate>
+            <description><![CDATA[Dow Jones futures decline by 0.42% to trade near 51,060 during European hours on Thursday. Meanwhile, S&P 500 futures gain by 0.09% to trade around 7,720, while Nasdaq 100 futures rise 0.51% to trade near 30,850.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Equity-Index_Nasdaq-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Euro slips as Europe's biggest economies report hotter inflation]]></title>
-            <link>https://www.fxstreet.com/news/the-euro-slips-as-europes-biggest-economies-report-hotter-inflation-202609302331</link>
-            <guid isPermaLink="false">844059fc-7457-4bf7-9a3e-4f6d9290f22f</guid>
-            <pubDate>Wed, 30 Sep 2026 23:31:14 GMT</pubDate>
-            <description><![CDATA[Germany, France, Italy and Spain all reported September inflation above forecast, which should have lifted bets on another European Central Bank (ECB) hike and the Euro with them. EUR/USD closed lower instead, its second straight close under 1.1350.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-001.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Central banks: Political economy pressures build – Rabobank]]></title>
+            <link>https://www.fxstreet.com/news/central-banks-political-economy-pressures-build-rabobank-202610010933</link>
+            <guid isPermaLink="false">dcbbed41-a7f9-4f4f-8edb-b44957534df4</guid>
+            <pubDate>Thu, 01 Oct 2026 09:33:36 GMT</pubDate>
+            <description><![CDATA[Rabobank’s RaboResearch Global Economics & Markets discusses rising political scrutiny of central banks. The report argues central banks are a key pillar of the political economy facing potential role changes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/macroeconomics-02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation]]></title>
-            <link>https://www.fxstreet.com/news/gold-falls-to-near-4-150-as-higher-treasury-yields-oil-prices-outweigh-softer-pce-inflation-202609302330</link>
-            <guid isPermaLink="false">5586433a-edb0-45de-975c-eccbb3efc6a9</guid>
-            <pubDate>Wed, 30 Sep 2026 23:30:58 GMT</pubDate>
-            <description><![CDATA[Gold price (XAU/USD) tumbles to near $4,150 during the early Asian session on Thursday, pressured by elevated US Treasury bond yields. Traders await the US September employment data for fresh impetus, which will be released later on Friday. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+            <title><![CDATA[Silver price today: Silver broadly unchanged, according to FXStreet data]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-today-silver-broadly-unchanged-according-to-fxstreet-data-202610010931</link>
+            <guid isPermaLink="false">3c7dbd48-3e7f-47f4-9d4a-2a29c59e2973</guid>
+            <pubDate>Thu, 01 Oct 2026 09:31:57 GMT</pubDate>
+            <description><![CDATA[Silver prices (XAG/USD) broadly unchanged on Thursday, according to FXStreet data. Silver trades at $60.48 per troy ounce, broadly unchanged 0.10% from the $60.42 it cost on Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
