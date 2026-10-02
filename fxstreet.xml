@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 02 Oct 2026 15:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 20:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mexican Peso rebounds, but carry trade exodus still bites]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-rebounds-but-carry-trade-exodus-still-bites-202610022008</link>
+            <guid isPermaLink="false">393cc42a-04d2-40a0-a204-dd5ee57a8b08</guid>
+            <pubDate>Fri, 02 Oct 2026 20:08:43 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso recovers some ground versus the US Dollar, gaining 0.50%, but it remains poised to end the week with a 3% loss as investors exit the “carry trade” amid a narrowing of the interest rate differential between the US and Mexico to its lowest level since 2015.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bullandbear-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold fails at $4,200 despite NFP miss as US yields climb]]></title>
+            <link>https://www.fxstreet.com/news/gold-fails-at-4-200-despite-nfp-miss-as-us-yields-climb-202610021803</link>
+            <guid isPermaLink="false">90a4fe11-4909-4b82-9b3c-2b40b8ae3f79</guid>
+            <pubDate>Fri, 02 Oct 2026 18:03:07 GMT</pubDate>
+            <description><![CDATA[Gold prices dropped on Friday, with the yellow metal struggling to decisively break the $4,200 milestone. The precious metal is down nearly 1% as US Treasury yields edge higher following a less-than-stellar US employment report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed’s Goolsbee says inflation now outweighs labor concerns]]></title>
+            <link>https://www.fxstreet.com/news/feds-goolsbee-says-inflation-now-outweighs-labor-concerns-202610021748</link>
+            <guid isPermaLink="false">0c9b44ca-ecfa-4630-ab13-654b15a856d4</guid>
+            <pubDate>Fri, 02 Oct 2026 17:48:07 GMT</pubDate>
+            <description><![CDATA[Chicago Federal Reserve (Fed) President Austan Goolsbee said in an interview with Fox Business that the labor market is steady and that “the inflation side of the Fed’s job is more important.”]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Dollar rebounds after sharp US employment disappointment]]></title>
+            <link>https://www.fxstreet.com/news/new-zealand-dollar-rebounds-after-sharp-us-employment-disappointment-202610021614</link>
+            <guid isPermaLink="false">2ab84b47-5785-4358-95b2-e99c4bd332ff</guid>
+            <pubDate>Fri, 02 Oct 2026 16:14:17 GMT</pubDate>
+            <description><![CDATA[NZD/USD advances on Friday and trades around 0.5610 at the time of writing, up 0.12% on the day. The New Zealand Dollar (NZD) benefits mainly from the decline in the US Dollar (USD), which comes under pressure following a significantly weaker-than-expected employment report.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/NZDUSD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US payrolls miss at 29K and the Dollar Index drops below 102.00]]></title>
+            <link>https://www.fxstreet.com/news/us-payrolls-miss-at-29k-and-the-dollar-index-drops-below-10200-202610021607</link>
+            <guid isPermaLink="false">d1e907f4-be22-4a44-8b57-5ca0aaccf361</guid>
+            <pubDate>Fri, 02 Oct 2026 16:07:02 GMT</pubDate>
+            <description><![CDATA[US employers added 29K jobs in September against a forecast of 90K, and July and August were revised down by a combined 60K. The unemployment rate rose to 4.2%, and hourly pay grew 3.0% over the year against a 3.2% forecast. ]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound rebounds as NFP knocks out October Fed hike bets]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-rebounds-as-nfp-knocks-out-october-fed-hike-bets-202610021556</link>
+            <guid isPermaLink="false">b0362214-4927-4144-96e5-0cea7d180a4b</guid>
+            <pubDate>Fri, 02 Oct 2026 15:56:09 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) rises by over 0.41% against the US Dollar (USD) on Friday, as the US Unemployment Rate rises amid a worse-than-expected Nonfarm Payrolls report for September. At the time of writing, GBP/USD trades at 1.3250 after bouncing off daily lows beneath 1.3200.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[US Dollar: Fading rallies as Fed pricing peaks – TD Securities]]></title>
             <link>https://www.fxstreet.com/news/us-dollar-fading-rallies-as-fed-pricing-peaks-td-securities-202610021502</link>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 02 Oct 2026 03:55:15 GMT</pubDate>
             <description><![CDATA[Gold (XAU/USD) steadies below the $4,200 mark during the first half of the European session on Friday as traders keenly await the release of US employment details.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S&P 500: Resilient as Fed tone turns dovish – Deutsche Bank]]></title>
-            <link>https://www.fxstreet.com/news/sp-500-resilient-as-fed-tone-turns-dovish-deutsche-bank-202610020831</link>
-            <guid isPermaLink="false">1f2926db-2c2c-47bf-bc2f-cc4b1cc4a888</guid>
-            <pubDate>Fri, 02 Oct 2026 08:31:34 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank’s Early Morning Reid team reports that the S&P 500 broke a three-day losing streak, helped by a pullback in US Treasury yields and more dovish FOMC commentary. Despite strong US data and earlier upward pressure on yields, markets now price a much lower probability of an October Fed hike, supporting US equities into the upcoming jobs report.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/stock-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound holds near three-month lows, US Dollar shines as global yields surge ]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-holds-near-three-month-lows-us-dollar-shines-as-global-yields-surge-202610020830</link>
-            <guid isPermaLink="false">6b726fcc-6a91-407f-b084-5570028c0cad</guid>
-            <pubDate>Fri, 02 Oct 2026 08:30:29 GMT</pubDate>
-            <description><![CDATA[The British Pound (GBP) shows marginal gains against the US Dollar (USD) on Friday, with the GBP/USD pair trading just above 1.3200, yet unable to take any significant distance from the four-week lows at 1.3180 hit on Thursday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/GBPUSD-bearish-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Fed pricing supports Dollar resilience – ING]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-fed-pricing-supports-dollar-resilience-ing-202610020830</link>
-            <guid isPermaLink="false">b51d34bb-5f84-4ad6-8958-f75c9ebe8739</guid>
-            <pubDate>Fri, 02 Oct 2026 08:30:17 GMT</pubDate>
-            <description><![CDATA[ING’s Chris Turner notes that the French debt sell-off triggered a reassessment of global rate expectations, but US short-dated yields only corrected modestly.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-77.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Safe-haven appeal strengthens – Commerzbank]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-safe-haven-appeal-strengthens-commerzbank-202610020828</link>
-            <guid isPermaLink="false">ecb05b22-4dd8-4642-83c6-39a2e358d249</guid>
-            <pubDate>Fri, 02 Oct 2026 08:28:00 GMT</pubDate>
-            <description><![CDATA[Commerzbank’s Michael Pfister argues that rising global bond yields and mounting government debt concerns are increasingly supporting the Swiss Franc over the Euro. He notes Switzerland’s debt brake and relatively sound public finances as key advantages. ]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Switzerland2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian Dollar flattens against Japanese Yen after Tokyo CPI data]]></title>
-            <link>https://www.fxstreet.com/news/australian-dollar-flattens-against-japanese-yen-after-tokyo-cpi-data-202610020811</link>
-            <guid isPermaLink="false">cc3035d5-79ba-4bb3-9ae1-0afa32d01a5b</guid>
-            <pubDate>Fri, 02 Oct 2026 08:11:20 GMT</pubDate>
-            <description><![CDATA[The Australian Dollar (AUD) turns flat at around 109.50 against the Japanese Yen (JPY) during the European trading session on Friday after recovering early losses.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-jpy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ECB’s Rehn: Higher energy prices bring us closer to ECB’s adverse scenario for inflation]]></title>
-            <link>https://www.fxstreet.com/news/ecbs-rehn-higher-energy-prices-bring-us-closer-to-ecbs-adverse-scenario-for-inflation-202610020757</link>
-            <guid isPermaLink="false">aa848652-7b8b-4b29-b844-161c81a11506</guid>
-            <pubDate>Fri, 02 Oct 2026 07:57:48 GMT</pubDate>
-            <description><![CDATA[European Central Bank (ECB) official and Finnish Central Bank Governor Olli Rehn said during the European trading session on Friday that elevated energy prices bring us closer to the central bank’s adverse scenario for inflation.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
