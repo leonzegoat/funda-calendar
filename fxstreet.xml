@@ -4,9 +4,17 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 04 Oct 2026 20:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 23:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Middle East War updates: Iran says Strait of Hormuz main focus of talks to end war with US]]></title>
+            <link>https://www.fxstreet.com/news/middle-east-war-updates-iran-says-strait-of-hormuz-main-focus-of-talks-to-end-war-with-us-202610042238</link>
+            <guid isPermaLink="false">8dd404ab-d1a7-49ca-a3b0-a7629b8f838f</guid>
+            <pubDate>Sun, 04 Oct 2026 22:38:47 GMT</pubDate>
+            <description><![CDATA[Here’s a brief recap of the key developments in the Middle East war that occurred over the weekend, which are expected to have a significant impact on markets in the upcoming week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/middle-east-war-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Silver Price Forecast: Bears crowd $60 after six-percent weekly rout]]></title>
             <link>https://www.fxstreet.com/news/silver-price-forecast-bears-crowd-60-after-six-percent-weekly-rout-202610022152</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Oct 2026 09:04:36 GMT</pubDate>
             <description><![CDATA[Eurozone’s preliminary Harmonized Index of Consumer Prices (HICP) data for September arrives at 3.8% Year-on-Year (YoY), higher than 3.6% estimates and August’s final reading reading of 3.2%. On a monthly basis, inflationary pressures grew at a faster pace of 0.6% against the prior release of 0.4%.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/eurozone-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[USD/JPY Price Forecast: Remains supported by 20-day EMA ahead of US NFP]]></title>
-            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-remains-supported-by-20-day-ema-ahead-of-us-nfp-202610020857</link>
-            <guid isPermaLink="false">72533f5b-8d3f-432b-b5e9-fed0c7f06f50</guid>
-            <pubDate>Fri, 02 Oct 2026 08:57:56 GMT</pubDate>
-            <description><![CDATA[The Japanese Yen (JPY) trades higher against the US Dollar (USD) ahead of the United States (US) Nonfarm Payrolls (NFP) data for September, which will be published at 12:30 GMT.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-bearish-line.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
