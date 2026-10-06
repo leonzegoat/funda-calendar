@@ -4,9 +4,57 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Tue, 06 Oct 2026 19:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 23:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Japanese Yen flatlines through a BoJ speech that changed nothing]]></title>
+            <link>https://www.fxstreet.com/news/the-japanese-yen-flatlines-through-a-boj-speech-that-changed-nothing-202610062233</link>
+            <guid isPermaLink="false">cdf027d6-1252-434e-b0db-ac35d0eb8f48</guid>
+            <pubDate>Tue, 06 Oct 2026 22:33:32 GMT</pubDate>
+            <description><![CDATA[On Tuesday, Bank of Japan (BoJ) Governor Ueda gave his first major speech since the September 18 hike, and USD/JPY's whole range stayed inside Monday's. The pair trades just above 158.00, with futures still pricing about a 25% chance of a hike at the October 29-30 meeting.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican Peso post gains as lower US yields revive the carry trade]]></title>
+            <link>https://www.fxstreet.com/news/mexican-peso-post-gains-as-lower-us-yields-revive-the-carry-trade-202610062235</link>
+            <guid isPermaLink="false">a1bbe889-a2aa-4a48-90b7-05812141a739</guid>
+            <pubDate>Tue, 06 Oct 2026 22:35:10 GMT</pubDate>
+            <description><![CDATA[The Mexican Peso stages a comeback against the US Dollar on Tuesday as the latter weakens amid profit-taking and lower US Treasury yields, with traders awaiting the release of the minutes of the Federal Reserve’s last meeting. The USD/MXN trades at 17.97, down 0.55%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/mexican-peso-bull-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Zealand Dollar edges off its low as the US Dollar slips]]></title>
+            <link>https://www.fxstreet.com/news/the-new-zealand-dollar-edges-off-its-low-as-the-us-dollar-slips-202610062216</link>
+            <guid isPermaLink="false">8826d4fa-f8c7-47b1-a29b-85bff8be9473</guid>
+            <pubDate>Tue, 06 Oct 2026 22:16:46 GMT</pubDate>
+            <description><![CDATA[Traders give the Reserve Bank of New Zealand (RBNZ) about a 58% chance of raising its Official Cash Rate (OCR) to 3% on October 28, down from about 80% in late September, and NZD/USD has fallen with those odds.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/nzd-usd-001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Euro wins back its slide to a fresh low as France files its budget]]></title>
+            <link>https://www.fxstreet.com/news/the-euro-wins-back-its-slide-to-a-fresh-low-as-france-files-its-budget-202610062201</link>
+            <guid isPermaLink="false">79018978-1f0d-4f21-9d24-19170b89de7b</guid>
+            <pubDate>Tue, 06 Oct 2026 22:01:40 GMT</pubDate>
+            <description><![CDATA[EUR/USD has won back all of Monday's drop to its lowest level since May 2025. The pair trades just above 1.1250, back at Monday's opening level, as French bonds steadied and the Dollar eased across the board.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Pound climbs back to the top of its range as bond yields ease]]></title>
+            <link>https://www.fxstreet.com/news/the-pound-climbs-back-to-the-top-of-its-range-as-bond-yields-ease-202610062126</link>
+            <guid isPermaLink="false">669543d2-f391-4965-b115-5c0b505e708c</guid>
+            <pubDate>Tue, 06 Oct 2026 21:26:23 GMT</pubDate>
+            <description><![CDATA[Tuesday's rise in GBP/USD came from the Dollar side. The pair was flat through Bank of England (BoE) external member Mann's warning on inflation, then gained at the same two points in the session as EUR/USD, leaving EUR/GBP close to unchanged.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: Gradual upside within defined bands – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-gradual-upside-within-defined-bands-uob-202610062026</link>
+            <guid isPermaLink="false">62aedb73-3f3b-4dac-9a5f-5ee98dfb17db</guid>
+            <pubDate>Tue, 06 Oct 2026 20:26:06 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank strategists Quek Ser Leang and Lee Sue Ann expect USD/CNH to edge lower intraday while staying confined to a narrow 6.7000–6.7100 band. Over the coming one to three weeks, they maintain a range-trading view between 6.6950 and 6.7270. On a one to three month basis, they see USD/CNH continuing to drift lower as long as it remains below the cloud resistance near 6.7815.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC]]></title>
             <link>https://www.fxstreet.com/news/singapore-dollar-range-trade-against-us-dollar-with-mas-in-focus-ocbc-202610061909</link>
@@ -24,11 +72,11 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/PHP-18326.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Forex Today: The FOMC Minutes should shed further detail on the latest Fed decision]]></title>
+            <title><![CDATA[Forex Today: FOMC Minutes should shed further detail on latest Fed decision]]></title>
             <link>https://www.fxstreet.com/news/forex-today-the-fomc-minutes-should-shed-further-detail-on-the-latest-fed-decision-202610061829</link>
             <guid isPermaLink="false">7b3a31c4-7d52-46f2-b242-ea9243058854</guid>
             <pubDate>Tue, 06 Oct 2026 18:29:59 GMT</pubDate>
-            <description><![CDATA[The US Dollar (USD) has come under fresh downside pressure on Tuesday, slipping back to the area of two-day lows as shrinking fiscal jitters in France appear to have lent some support to the broader risk-linked galaxy.]]></description>
+            <description><![CDATA[The US Dollar (USD) has come under fresh downside pressure on Tuesday, slipping back toward of two-day lows as shrinking fiscal jitters in France appear to have lent some support to the broader risk-linked galaxy.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 06 Oct 2026 13:25:10 GMT</pubDate>
             <description><![CDATA[Societe Generale strategists note that Gold has extended its pullback after failing to hold above the 200-day moving average near $4,510–$4,540. Prices are drifting toward an interim projection around $4,095, with a break of this level seen opening downside toward $4,000 and the June/July troughs at $3,960–$3,940, which mark the lower boundary of a critical multi-month support range.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Gold-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: Bearish bias with RBI support – DBS]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-bearish-bias-with-rbi-support-dbs-202610061312</link>
-            <guid isPermaLink="false">4b17dc39-06db-45e6-b727-52b2b1cf689a</guid>
-            <pubDate>Tue, 06 Oct 2026 13:12:13 GMT</pubDate>
-            <description><![CDATA[DBS Bank’s Radhika Rao notes that onshore financial markets are under pressure from global developments, with foreign portfolio investors pulling out around $6.3bn and USD/INR trading back above 96.00.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Resilient but upside seen limited – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-resilient-but-upside-seen-limited-td-securities-202610061258</link>
-            <guid isPermaLink="false">2ea0cd98-2172-4eb3-9971-5fe7f38a935e</guid>
-            <pubDate>Tue, 06 Oct 2026 12:58:11 GMT</pubDate>
-            <description><![CDATA[TD Securities notes the US economy and labor market are resilient but not overheating, leading them to push Fed rate hike calls to December 2026 and March 2027. They believe market pricing for Fed hawkishness has peaked and see it as hard to derive persistently bullish Dollar signals from Fed and data alone, even as their scorecard still ranks the USD highest.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/dollar-index-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Range-bound trade persists against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-range-bound-trade-persists-against-us-dollar-uob-202610061235</link>
-            <guid isPermaLink="false">6be26243-81ad-4e0a-862d-b15d473142bd</guid>
-            <pubDate>Tue, 06 Oct 2026 12:35:03 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank strategists Quek Ser Leang and Lee Sue Ann note that USD/JPY lacks clear directional cues in the short term, with intraday price action expected to remain confined between 157.55 and 158.45. Over the next one to three weeks, they see the pair trading in a broader 156.35–158.70 range. On a one to three month horizon, they highlight building downward momentum and potential further USD/JPY weakness.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US ADP Employment Change 4-week average increases to 23.750K]]></title>
-            <link>https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-23750k-202610061233</link>
-            <guid isPermaLink="false">82428772-fb19-4e8a-b0bd-77f9749632be</guid>
-            <pubDate>Tue, 06 Oct 2026 12:33:06 GMT</pubDate>
-            <description><![CDATA[Private-sector hiring in the US has gained some pace in early September. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 23.750K jobs per week in the four weeks ending September 19.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Employment_queue.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazilian Real: Bolsonaro runoff risks and fiscal hopes – OCBC]]></title>
-            <link>https://www.fxstreet.com/news/brazilian-real-bolsonaro-runoff-risks-and-fiscal-hopes-ocbc-202610061220</link>
-            <guid isPermaLink="false">21cfa287-4289-47be-badf-c59b025c775e</guid>
-            <pubDate>Tue, 06 Oct 2026 12:20:20 GMT</pubDate>
-            <description><![CDATA[OCBC strategists Sim Moh Siong and Christopher Wong note Brazilian assets rallied after Flávio Bolsonaro’s stronger-than-expected first-round result boosted expectations for a more market-friendly policy mix.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Brazil.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/GBP Price Forecast: Bears retain control as RSI turns oversold]]></title>
-            <link>https://www.fxstreet.com/news/eur-gbp-price-forecast-bears-retain-control-as-rsi-turns-oversold-202610061214</link>
-            <guid isPermaLink="false">ee75e4ac-2622-4c3d-8bac-4c7f30ce10cf</guid>
-            <pubDate>Tue, 06 Oct 2026 12:14:39 GMT</pubDate>
-            <description><![CDATA[EUR/GBP fluctuates between gains and losses on Tuesday, pausing a seven-day selloff driven by sharp weakness in the Euro (EUR) amid growing concerns over France’s fiscal position.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
