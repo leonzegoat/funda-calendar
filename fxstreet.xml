@@ -4,15 +4,119 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Wed, 07 Oct 2026 16:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 21:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chinese Yuan: Tight ranges persist against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-tight-ranges-persist-against-us-dollar-uob-202610072117</link>
+            <guid isPermaLink="false">f678995f-f0a8-4f3f-b80a-bcc498a1b29e</guid>
+            <pubDate>Wed, 07 Oct 2026 21:17:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank strategists Quek Ser Leang and Lee Sue Ann describe USD/CNH as confined to a narrow intraday band around 6.7000, with a slightly firmer tone in the very short term.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vietnamese Dong: Constructive but upside constrained – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/vietnamese-dong-constructive-but-upside-constrained-commerzbank-202610072033</link>
+            <guid isPermaLink="false">b93d8e1f-404b-4ef0-8e69-1da79fb6f59f</guid>
+            <pubDate>Wed, 07 Oct 2026 20:33:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s Asia FX team highlights a constructive near-term outlook for the Vietnamese Dong (VND), supported by strong Foreign Direct Investment (FDI) inflows and robust growth. USD/VND stayed around 25,994, below its July peak, leaving VND about 1.2% stronger year-to-date.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/VND3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Silver Price Forecast: XAG/USD cracks $60 as bears eye $56]]></title>
+            <link>https://www.fxstreet.com/news/silver-price-forecast-xag-usd-cracks-60-as-bears-eye-56-202610072011</link>
+            <guid isPermaLink="false">931d70d8-19b9-485f-b311-206aa682cdaa</guid>
+            <pubDate>Wed, 07 Oct 2026 20:11:09 GMT</pubDate>
+            <description><![CDATA[Silver (XAG/USD) price extends its losses on Wednesday, following Gold’s path, as the latest Federal Reserve (Fed) Minutes showed that officials expect another rate increase towards the year-end. The XAG/USD pair trades at $59.69, down by over 1.67%.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Won: Upside risks with key levels in focus against US Dollar – OCBC]]></title>
+            <link>https://www.fxstreet.com/news/south-korean-won-upside-risks-with-key-levels-in-focus-against-us-dollar-ocbc-202610071951</link>
+            <guid isPermaLink="false">d7b5c39d-c76f-4f72-a43d-9437d6840af5</guid>
+            <pubDate>Wed, 07 Oct 2026 19:51:00 GMT</pubDate>
+            <description><![CDATA[Christopher Wong at OCBC Bank notes that USD/KRW continues to trade heavy as exporter US Dollar (USD) selling and a softer external backdrop support the Korean Won (KRW), even as foreign equity outflows cap gains.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Global-Concept_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold slides below $4,100 as FOMC Minutes signal further Fed hikes]]></title>
+            <link>https://www.fxstreet.com/news/gold-slides-below-4-100-as-fomc-minutes-signal-further-fed-hikes-202610071929</link>
+            <guid isPermaLink="false">2d2eb19d-9331-416e-ade7-4700884a890d</guid>
+            <pubDate>Wed, 07 Oct 2026 19:29:05 GMT</pubDate>
+            <description><![CDATA[Gold (XAU/USD) price pressures on the downside on Wednesday, yet it has reclaimed the $4,100 mark as US Treasury yields erased some of its earlier gains and turned negative.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-51.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai Baht: Inflation rise and THB downside risks – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/thai-baht-inflation-rise-and-thb-downside-risks-commerzbank-202610071912</link>
+            <guid isPermaLink="false">83b5b70b-7e61-4a11-94fb-29003c94a84e</guid>
+            <pubDate>Wed, 07 Oct 2026 19:12:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank economists note Thailand’s September CPI rose 2.8% year-on-year, below consensus but the highest since April, bringing headline inflation close to the upper end of the Bank of Thailand’s target range. They expect headline inflation to rise further on persistent supply-side pressures, yet see demand-side forces as benign. USD/THB fell to 33.62, though downside risks to the Baht remain elevated.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed Minutes: Officials saw inflation risks worsening before September hike]]></title>
+            <link>https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400</link>
+            <guid isPermaLink="false">d5871836-7c7c-4664-9063-b51c5f843b2b</guid>
+            <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[All participants at the Federal Reserve's (Fed) September 15–16 meeting supported the 25-basis-point rate increase, while most judged that another hike would probably be appropriate by the end of the year.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forex Today: Weekly Claims and Fedspeak on top of the agenda]]></title>
+            <link>https://www.fxstreet.com/news/forex-today-weekly-claims-and-fedspeak-on-top-of-the-agenda-202610071842</link>
+            <guid isPermaLink="false">e1aa8d7a-70ef-4802-8d8d-d1e349a14d39</guid>
+            <pubDate>Wed, 07 Oct 2026 18:42:46 GMT</pubDate>
+            <description><![CDATA[The US Dollar (USD) has resumed its uptrend, advancing to two-day highs while rapidly forgetting Tuesday’s hiccup. The extra gains in the Greenback have come in tandem with the equally decent advance in US Treasury yields on the belly and long end of the curve.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[China: Targeted stimulus supports growth – Societe Generale]]></title>
+            <link>https://www.fxstreet.com/news/china-targeted-stimulus-supports-growth-societe-generale-202610071836</link>
+            <guid isPermaLink="false">3eda2bb7-4b2d-47c7-b1ab-9db99bc9df72</guid>
+            <pubDate>Wed, 07 Oct 2026 18:36:00 GMT</pubDate>
+            <description><![CDATA[Societe Generale strategist Michelle Lam analyzes recent Chinese policy moves, noting that new property and monetary easing should keep growth on track and help China meet its Gross Domestic Product (GDP) target at the lower end of the range.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI reverses earlier gains as recovering Middle East exports weigh]]></title>
+            <link>https://www.fxstreet.com/news/wti-turns-lower-as-recovering-middle-east-exports-weigh-202610071822</link>
+            <guid isPermaLink="false">8acfa0ff-975a-4407-b701-93bed96d88a4</guid>
+            <pubDate>Wed, 07 Oct 2026 18:22:13 GMT</pubDate>
+            <description><![CDATA[West Texas Intermediate (WTI) Oil trades lower on Wednesday, giving up earlier gains as a stronger US Dollar (USD) and recovering Middle East exports offset support from an unexpected decline in US crude inventories.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thailand: BoT policy risks balanced – Standard Chartered]]></title>
+            <link>https://www.fxstreet.com/news/thailand-bot-policy-risks-balanced-standard-chartered-202610071751</link>
+            <guid isPermaLink="false">f7e17bd3-c7d1-4ca1-8f2b-636b9599bede</guid>
+            <pubDate>Wed, 07 Oct 2026 17:51:23 GMT</pubDate>
+            <description><![CDATA[Standard Chartered economist Tim Leelahaphan expects the Bank of Thailand (BoT) to keep its policy rate at 1.0% through 2026 and 2027, with the BoT prioritising economic growth over inflation. He highlights asymmetric risks around this on-hold call, noting that any hikes would likely be gradual while cuts could be faster if domestic growth slows sharply.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Thailand2-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[British Pound buckles as 30-year Gilts top 6%, US yields soar]]></title>
+            <link>https://www.fxstreet.com/news/british-pound-buckles-as-30-year-gilts-tops-6-us-yields-soar-202610071736</link>
+            <guid isPermaLink="false">1779066c-50ed-4362-8a64-2e252bbfb469</guid>
+            <pubDate>Wed, 07 Oct 2026 17:36:47 GMT</pubDate>
+            <description><![CDATA[The Pound Sterling (GBP) dives over 0.48% against the US Dollar (USD) on Wednesday as US Treasury yields hit a 24-year high, boosting the Greenback’s appeal, while traders await the release of the Federal Reserve’s (Fed) last meeting minutes.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USD/JPY Price Forecast: Pair consolidates below key moving averages]]></title>
+            <link>https://www.fxstreet.com/news/usd-jpy-price-forecast-pair-consolidates-below-key-moving-averages-202610071705</link>
+            <guid isPermaLink="false">b2f46758-bdcb-4f1e-90c9-21bc771f9462</guid>
+            <pubDate>Wed, 07 Oct 2026 17:05:13 GMT</pubDate>
+            <description><![CDATA[USD/JPY trades in a narrow range on Wednesday, with the Japanese Yen (JPY) holding a slight advantage over the US Dollar (USD) as traders assess hawkish Bank of Japan (BoJ) signals. Intervention risks near the 160.00 level also keep traders cautious.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/USDJPY-neutral-line-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes]]></title>
             <link>https://www.fxstreet.com/news/gold-falls-as-us-dollar-treasury-yields-rebound-ahead-of-fed-minutes-202610071045</link>
             <guid isPermaLink="false">87d388f1-5118-4911-a60c-5c3f56d630b9</guid>
             <pubDate>Wed, 07 Oct 2026 10:45:01 GMT</pubDate>
-            <description><![CDATA[Gold (XAU/USD) extends its decline on Wednesday, falling nearly 1.30% as the US Dollar (USD) and US Treasury yields resume their advance following a modest pullback the previous day.]]></description>
+            <description><![CDATA[Gold (XAU/USD) extends its decline on Wednesday, falling nearly 1.3% as the US Dollar (USD) and US Treasury yields resume their advance following a modest pullback the previous day.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -104,14 +208,6 @@
             <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cad-002.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fed Minutes set to provide some insight into the timing of next rate hikes]]></title>
-            <link>https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400</link>
-            <guid isPermaLink="false">d5871836-7c7c-4664-9063-b51c5f843b2b</guid>
-            <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[The United States (US) Federal Reserve (Fed) will release the Minutes of September’s Federal Open Market Committee (FOMC) meeting on Wednesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-77.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Canadian Dollar loses ground ahead of Fed Minutes]]></title>
             <link>https://www.fxstreet.com/news/canadian-dollar-loses-ground-ahead-of-fed-minutes-202610071351</link>
             <guid isPermaLink="false">36ded6ff-09bc-4a6b-8694-36118450f624</guid>
@@ -150,102 +246,6 @@
             <pubDate>Wed, 07 Oct 2026 12:59:42 GMT</pubDate>
             <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes USD/SEK is firmer on broad US Dollar (USD) strength, while Sweden’s September Consumer Price Index (CPI) data were mixed.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/Sweden.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: Gradual tightening path after RBI hike – ING]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-gradual-tightening-path-after-rbi-hike-ing-202610071250</link>
-            <guid isPermaLink="false">8aa8abab-e032-4ffa-92ef-56534df11eff</guid>
-            <pubDate>Wed, 07 Oct 2026 12:50:08 GMT</pubDate>
-            <description><![CDATA[ING’s Deepali Bhargava notes that the Reserve Bank of India delivered its first rate hike in four years, raising the policy Repo rate to 5.50% and shifting to calibrated tightening.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Range trading persists against US Dollar – UOB]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-range-trading-persists-against-us-dollar-uob-202610071241</link>
-            <guid isPermaLink="false">0ba2140f-6264-4e70-afc3-59134118676d</guid>
-            <pubDate>Wed, 07 Oct 2026 12:41:19 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann note that USD/CHF remains in a tight range in the short term, with intraday levels clustered around 0.8300. Their 1–3 week view maintains a broader consolidation band, while the 1–3 month outlook suggests the pair could continue rebounding but lacks momentum to revisit its July peak.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-chf-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Dollar: Assessing NFP release reliability – Standard Chartered]]></title>
-            <link>https://www.fxstreet.com/news/us-dollar-assessing-nfp-release-reliability-standard-chartered-202610071230</link>
-            <guid isPermaLink="false">5bd6e3ac-7bf4-44ad-9bfe-df33db022aef</guid>
-            <pubDate>Wed, 07 Oct 2026 12:30:02 GMT</pubDate>
-            <description><![CDATA[Standard Chartered economist Dan Pan analyses which US Nonfarm Payrolls (NFP) months provide the most reliable initial signals of labour-market conditions.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/nfp-workers-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro extends losing streak against British Pound, hits 16-month low]]></title>
-            <link>https://www.fxstreet.com/news/euro-extends-losing-streak-against-british-pound-hits-16-month-low-202610071217</link>
-            <guid isPermaLink="false">d6f30afa-b80d-4ba5-be46-863d40cd00a5</guid>
-            <pubDate>Wed, 07 Oct 2026 12:17:56 GMT</pubDate>
-            <description><![CDATA[EUR/GBP trims part of its intraday decline on Wednesday but remains on the back foot for the ninth consecutive day as concerns over France’s fiscal position weigh on the Euro (EUR).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURGBP_Bearish-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Slightly weaker bias as fiscal risks grow – DBS]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-slightly-weaker-bias-as-fiscal-risks-grow-dbs-202610071215</link>
-            <guid isPermaLink="false">2b43b6f2-e4f1-44e6-98a4-f11ca444789b</guid>
-            <pubDate>Wed, 07 Oct 2026 12:15:45 GMT</pubDate>
-            <description><![CDATA[DBS Group Research economist Chang Wei Liang notes that the Japanese Yen (JPY) could trade slightly weaker as the government reportedly considers a second supplementary budget, with USD/JPY around mid-158.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-63.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Silver Price Forecasts: XAG/USD drifts toward $60 as precious metals struggle]]></title>
-            <link>https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-drifts-toward-60-as-precious-metals-struggle-202610071213</link>
-            <guid isPermaLink="false">a0bba428-d227-4d9f-9ebd-07ab4b7ba035</guid>
-            <pubDate>Wed, 07 Oct 2026 12:13:17 GMT</pubDate>
-            <description><![CDATA[Silver (XAG/USD) dives on Wednesday, nearing two-month lows around the $60.00 psychological area after rejection from levels near $62.00 on Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-54.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro: Political risk weighs but downside seen limited – ABN AMRO]]></title>
-            <link>https://www.fxstreet.com/news/euro-political-risk-weighs-but-downside-seen-limited-abn-amro-202610071206</link>
-            <guid isPermaLink="false">a25e9ee4-c3a9-4726-b784-9e4fddd0781d</guid>
-            <pubDate>Wed, 07 Oct 2026 12:06:34 GMT</pubDate>
-            <description><![CDATA[ABN AMRO strategist Georgette Boele notes that changes in interest rate spreads have encouraged speculative short Euro positions, while fiscal and political uncertainty in France and Spain has historically coincided with Euro (EUR) weakness versus the US Dollar (USD).]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/eur-usd-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Franc: Safe-haven demand keeps CHF firm against Euro – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/swiss-franc-safe-haven-demand-keeps-chf-firm-against-euro-rabobank-202610071145</link>
-            <guid isPermaLink="false">26f1c76c-bfba-4c7a-bcc1-05eb1346c50f</guid>
-            <pubDate>Wed, 07 Oct 2026 11:45:13 GMT</pubDate>
-            <description><![CDATA[Rabobank expects EUR/CHF to remain close to the 0.93 area in the coming weeks as Eurozone fiscal tensions continue to support safe-haven demand for the Swiss Franc.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: RBI tightening fails to halt INR slide – BBH]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rbi-tightening-fails-to-halt-inr-slide-bbh-202610071131</link>
-            <guid isPermaLink="false">72c7296e-6c89-45b3-976a-49e93536e326</guid>
-            <pubDate>Wed, 07 Oct 2026 11:31:34 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman’s (BBH) Elias Haddad notes that the Reserve Bank of India’s (RBI) 25 bps rate hike to 5.50% failed to support the Indian Rupee.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/discover-49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee tumbles after RBI's policy, 20 bps away from all-time low]]></title>
-            <link>https://www.fxstreet.com/news/usd-inr-remains-broadly-muted-after-rbis-25-bps-hike-in-repo-rates-to-55-202610070441</link>
-            <guid isPermaLink="false">993030cc-d8c1-4ab2-a106-e6f34ed2d2dd</guid>
-            <pubDate>Wed, 07 Oct 2026 04:41:23 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee ((INR) weakens significantly against the US Dollar (USD), following the Reserve Bank of India’s (RBI) monetary policy meeting on Wednesday. The USD/INR pair jumps to near 96.80, the highest level seen in four months.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro plummets as French bonds sell-off intensifies after a day relief]]></title>
-            <link>https://www.fxstreet.com/news/euro-plummets-as-french-bonds-sell-off-intensifies-after-a-day-relief-202610071122</link>
-            <guid isPermaLink="false">f58d450b-bcca-4d75-b7d7-a3dd5ce3eefc</guid>
-            <pubDate>Wed, 07 Oct 2026 11:22:23 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) comes under pressure against its peers again on Wednesday after a relief recovery the previous day. In the European trade, the major currency is down 0.63% at around 1.1188 against the US Dollar.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EURUSD-bearish-object.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Polish Zloty: Downtrend eyes 4.48 on firm support – Societe Generale]]></title>
-            <link>https://www.fxstreet.com/news/polish-zloty-downtrend-eyes-448-on-firm-support-societe-generale-202610071111</link>
-            <guid isPermaLink="false">efee3a58-ac1a-4e57-80a7-56e7dbef061d</guid>
-            <pubDate>Wed, 07 Oct 2026 11:11:35 GMT</pubDate>
-            <description><![CDATA[Societe Generale’s Central and Eastern European (CEE) strategy team expects the National Bank of Poland (NBP) to keep rates at 3.75% today, with Governor Glapiński likely to flag inflation risks and prepare markets for a November hike. They see a hawkish stance offering some Polish Zloty (PLN) support but still expect EUR/PLN to trade above 4.35 given geopolitical and external risks, after the pair extended gains toward 4.40/4.41 resistance.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Poland.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
