@@ -4,9 +4,73 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Fri, 09 Oct 2026 19:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 23:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric]]></title>
+            <link>https://www.fxstreet.com/news/aussie-extends-weekly-gains-as-fed-pause-bets-offset-hawkish-rhetoric-202610092218</link>
+            <guid isPermaLink="false">c8521b76-6fa0-42e8-ae67-740ab064033b</guid>
+            <pubDate>Fri, 09 Oct 2026 22:18:12 GMT</pubDate>
+            <description><![CDATA[The Aussie Dollar ended Friday’s session on a positive note, gaining 0.38% and 0.58% weekly as the US Dollar trimmed some of its weekly gains, while US data confirmed investors' expectations that the Federal Reserve would hold rates steady in the October meeting. The AUD/USD trades at 0.6983.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Yuan: PBoC defends yuan narrative – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/chinese-yuan-pboc-defends-yuan-narrative-commerzbank-202610092121</link>
+            <guid isPermaLink="false">39005af4-0918-463d-b058-918034746832</guid>
+            <pubDate>Fri, 09 Oct 2026 21:21:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank’s FX team highlights that the People’s Bank of China rejected claims the yuan is undervalued, linking export strength to industrial competitiveness rather than currency manipulation.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-cnh-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Dollar: Range trading persists against US Dollar – UOB]]></title>
+            <link>https://www.fxstreet.com/news/singapore-dollar-range-trading-persists-against-us-dollar-uob-202610092031</link>
+            <guid isPermaLink="false">9f53722e-5929-488b-9bc0-3c53af594d33</guid>
+            <pubDate>Fri, 09 Oct 2026 20:31:00 GMT</pubDate>
+            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD remains supported within the Monetary Authority of Singapore’s policy band, with SGD NEER likely between 1.50% and 1.80% above midpoint, implying a 1.279–1.283 range. Short-term price action shows limited upward momentum, with resistance near 1.2835 and revised strong support at 1.2775.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/SGD3-18326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank]]></title>
+            <link>https://www.fxstreet.com/news/taiwan-dollar-trade-strength-but-losses-capped-against-us-dollar-commerzbank-202610091949</link>
+            <guid isPermaLink="false">ad674670-4267-4d37-ba58-f640d9fb7d60</guid>
+            <pubDate>Fri, 09 Oct 2026 19:49:00 GMT</pubDate>
+            <description><![CDATA[Commerzbank analysts note Taiwan’s September trade surplus hit a record USD23.6bn, with exports surging 60.9% year-on-year on strong AI-related demand. The Central Bank of the Republic of China may lean more hawkish if inflation’s uptrend persists.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/taiwan-02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crude Oil drops on Trump's Russian diesel plan]]></title>
+            <link>https://www.fxstreet.com/news/crude-oil-drops-on-trumps-russian-diesel-plan-202610091923</link>
+            <guid isPermaLink="false">ad5f1cf6-9eb6-486a-a35d-3987fb8e031c</guid>
+            <pubDate>Fri, 09 Oct 2026 19:23:58 GMT</pubDate>
+            <description><![CDATA[After a call with Russian President Putin, President Donald Trump said on Friday Russia will immediately supply more than 300K tons of diesel to the US and global markets. He put the next shipments at 500K tons in November and 1 million tons after that.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Commodities_Oil-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China: Robust trade and rising prices – DBS]]></title>
+            <link>https://www.fxstreet.com/news/china-robust-trade-and-rising-prices-dbs-202610091912</link>
+            <guid isPermaLink="false">1004ebe9-a019-4477-b7a8-86f95540da59</guid>
+            <pubDate>Fri, 09 Oct 2026 19:12:00 GMT</pubDate>
+            <description><![CDATA[DBS Group Research expects China’s exports to grow 25.7% year-on-year in September, supported by strong electronics demand and improving manufacturing PMIs.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/flag-china-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dollar Index stalls under its high as the Fed's hawks repeat themselves]]></title>
+            <link>https://www.fxstreet.com/news/dollar-index-stalls-under-its-high-as-the-feds-hawks-repeat-themselves-202610091910</link>
+            <guid isPermaLink="false">f7909114-f48c-4b06-8b87-5f506c1ed35b</guid>
+            <pubDate>Fri, 09 Oct 2026 19:10:33 GMT</pubDate>
+            <description><![CDATA[Four sessions after its highest level since April 2025, the Dollar Index hasn't got back to it. The index trades near 102.25 and has made a lower high in each session since Wednesday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/DXY-neutral-object-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Trump says Putin agrees to supply millions of tons of diesel]]></title>
+            <link>https://www.fxstreet.com/news/us-president-trump-says-putin-agrees-to-supply-millions-of-tons-of-diesel-202610091908</link>
+            <guid isPermaLink="false">7c2baf68-3f8f-4b5e-85de-5af775b8d8ec</guid>
+            <pubDate>Fri, 09 Oct 2026 19:08:45 GMT</pubDate>
+            <description><![CDATA[On Friday, US President Donald Trump said he spoke with Russian President Vladimir Putin, who agreed to immediately supply over 300K tons of diesel fuel to the US and the global market, add 500K tons for November, and deliver 1 million tons “immediately thereafter.”]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/TrumpAngry3-6526.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Silver Price Forecast: Bullish engulfing pattern puts $64 in sight]]></title>
             <link>https://www.fxstreet.com/news/silver-price-forecast-bullish-engulfing-pattern-puts-64-in-sight-202610091840</link>
@@ -182,70 +246,6 @@
             <pubDate>Fri, 09 Oct 2026 13:16:32 GMT</pubDate>
             <description><![CDATA[USD/CAD climbs on Friday as the Canadian Dollar (CAD) weakens sharply following a disappointing domestic employment report. A firm US Dollar (USD) provides additional support to the pair. At the time of writing, USD/CAD trades around 1.4276, at levels last seen in April 2025.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/currency-cad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[United States: Core CPI trend seen moderating – TD Securities]]></title>
-            <link>https://www.fxstreet.com/news/united-states-core-cpi-trend-seen-moderating-td-securities-202610091256</link>
-            <guid isPermaLink="false">a84261bc-fdd4-4fa9-8e03-88e52f3c7432</guid>
-            <pubDate>Fri, 09 Oct 2026 12:56:18 GMT</pubDate>
-            <description><![CDATA[TD Securities’ US economics team led by Oscar Munoz, with Eli Nir, Gennadiy Goldberg and Molly Brooks, expects September Core CPI to slow to 0.20% month-on-month, driven by softer core services and supercore.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/HIGH%20Traffic%20-%201330%20GMT%20-%20US%20PCE%20inflation.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Norwegian Krone: Rate hike risks support currency – BBH]]></title>
-            <link>https://www.fxstreet.com/news/norwegian-krone-rate-hike-risks-support-currency-bbh-202610091240</link>
-            <guid isPermaLink="false">41c2c217-5d7c-43f9-9426-def0ad8e9519</guid>
-            <pubDate>Fri, 09 Oct 2026 12:40:15 GMT</pubDate>
-            <description><![CDATA[Brown Brothers Harriman notes that the Norwegian Krone (NOK) is softer against most peers following a modest pullback in Oil prices, but September CPI data keep further Norges Bank rate hikes in play, offering support to NOK. Sticky underlying inflation above the central bank’s forecasts means the option to raise rates further remains open, with markets pricing roughly 50% odds of another hike by year-end.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Norway.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: Canada Unemployment Rate rises to 6.5% in September as expected]]></title>
-            <link>https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-rise-to-65-as-us-tariffs-test-labor-market-202610090830</link>
-            <guid isPermaLink="false">3fb8092e-0bbc-4a11-b603-284e6f4149e3</guid>
-            <pubDate>Fri, 09 Oct 2026 08:30:00 GMT</pubDate>
-            <description><![CDATA[The Unemployment Rate in Canada edged higher to 6.5% in September from 6.4% in August, Statistics Canada reported on Friday. This reading came in line with analysts' estimate.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Breaking-news.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[British Pound gains ground as Japanese Yen underperforms]]></title>
-            <link>https://www.fxstreet.com/news/british-pound-gains-ground-as-japanese-yen-underperforms-202610091220</link>
-            <guid isPermaLink="false">48097b04-49f3-436e-9490-cccc59465b0a</guid>
-            <pubDate>Fri, 09 Oct 2026 12:20:52 GMT</pubDate>
-            <description><![CDATA[GBP/JPY trades with a mild positive bias on Friday as the Japanese Yen (JPY) underperforms across the board. A pause in the global bond sell-off has pushed government bond yields lower, with Japanese yields falling more sharply than their UK counterparts.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/gbp-jpy-minimal-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Yen: Choppy trade inside defined range – UOB]]></title>
-            <link>https://www.fxstreet.com/news/japanese-yen-choppy-trade-inside-defined-range-uob-202610091220</link>
-            <guid isPermaLink="false">5c9f5223-1a7c-4c9c-8316-b1f293ea0f92</guid>
-            <pubDate>Fri, 09 Oct 2026 12:20:01 GMT</pubDate>
-            <description><![CDATA[United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/JPY has been volatile around 157.86, with swings between 157.51 and 158.36 failing to establish a clear trend. For the coming sessions, the pair is expected to trade within 157.50–158.50 intraday, while the 1–3 week view favours consolidation in a narrower 157.00–158.70 band against a backdrop of longer-term downside momentum.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-jpy-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil: Iran tensions keep crude prices elevated - Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/oil-iran-tensions-keep-crude-prices-elevated-rabobank-202610091201</link>
-            <guid isPermaLink="false">bb4edb2c-f336-43dd-ba36-ec7b4d7236eb</guid>
-            <pubDate>Fri, 09 Oct 2026 12:01:34 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior Economist Maartje Wijffelaars notes Oil prices climbed to around $105 per barrel as Iran struck tankers, before Brent eased after US comments on talks with Iran. Despite the pullback, Oil and diesel remain elevated, with Gasoil sharply higher since Tuesday.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Oil2-18326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUR/USD Price Forecast: Rallies fail above 1.1200 amid high Oil prices, debt woes]]></title>
-            <link>https://www.fxstreet.com/news/eur-usd-price-forecast-rallies-fail-above-11200-amid-high-oil-prices-debt-woes-202610091156</link>
-            <guid isPermaLink="false">9a6dee4c-395c-45ca-96cb-701e066b011f</guid>
-            <pubDate>Fri, 09 Oct 2026 11:56:52 GMT</pubDate>
-            <description><![CDATA[The Euro (EUR) is failing to capitalise on the moderate US Dollar (USD) weakness witnessed on Friday as the high Oil prices and the ongoing concerns about France’s public debt offset investors’ optimism about lower global yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/EUR-neutral-line.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee attracts bids as US bond yields cool down]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-gets-relief-from-pullback-in-us-bond-yields-202610090538</link>
-            <guid isPermaLink="false">38b38b22-322d-443f-bdb9-63d23f21f2cf</guid>
-            <pubDate>Fri, 09 Oct 2026 05:38:09 GMT</pubDate>
-            <description><![CDATA[The Indian Rupee (INR) trades slightly higher against the US Dollar (USD) on Friday. The USD/INR pair corrects to near 96.55, but is still close to its all-time high of 97.00. The Indian currency gets a much-needed reprieve from a corrective move in United States (US) Treasury Yields.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/usd-inr_4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
