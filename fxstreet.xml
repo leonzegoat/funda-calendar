@@ -4,9 +4,33 @@
         <title>FXStreet Forex &amp; Commodities News</title>
         <link>https://www.fxstreet.com/news/feed</link>
         <description>Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.</description>
-        <lastBuildDate>Sun, 11 Oct 2026 20:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 00:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <atom:link href="https://www.fxstreet.com/rss/news" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australian Dollar edges higher to near 0.7000 on weak US Sentiment ]]></title>
+            <link>https://www.fxstreet.com/news/australian-dollar-edges-higher-to-near-07000-on-weak-us-sentiment-202610112344</link>
+            <guid isPermaLink="false">e7ed6ad9-accf-4374-9978-786355619eb8</guid>
+            <pubDate>Sun, 11 Oct 2026 23:44:14 GMT</pubDate>
+            <description><![CDATA[The AUD/USD pair trades with mild gains around 0.6985 during the early Asian session on Monday. Softening US Consumer Sentiment weigh on the US Dollar (USD) against the Australian Dollar (AUD).]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/AUD-bullish-animal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[US President Donald Trump says Russia and Ukraine agree to an ‘energy ceasefire’  ]]></title>
+            <link>https://www.fxstreet.com/news/us-president-donald-trump-says-russia-and-ukraine-agree-to-an-energy-ceasefire-202610112238</link>
+            <guid isPermaLink="false">7b376b18-e1ae-4eab-bb0e-caa8fbdb9589</guid>
+            <pubDate>Sun, 11 Oct 2026 22:38:51 GMT</pubDate>
+            <description><![CDATA[Meanwhile, US President Donald Trump claimed Russia and Ukraine have agreed to an ”energy ceasefire”, but he offered no details on it,the Guardian reported on Sunday.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Trump-4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Middle East War updates: New attack launched on Saudi airport]]></title>
+            <link>https://www.fxstreet.com/news/middle-east-war-updates-new-attack-launched-on-saudi-airport-202610112228</link>
+            <guid isPermaLink="false">053d0325-5bcb-4afd-ba51-bc7993500bfd</guid>
+            <pubDate>Sun, 11 Oct 2026 22:28:57 GMT</pubDate>
+            <description><![CDATA[Here’s a brief recap of the key developments in the Middle East war that occurred over the weekend, which are expected to have a significant impact on markets in the upcoming week.]]></description>
+            <enclosure url="https://editorial.fxsstatic.com/images/i/Saudi_Arabia.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric]]></title>
             <link>https://www.fxstreet.com/news/aussie-extends-weekly-gains-as-fed-pause-bets-offset-hawkish-rhetoric-202610092218</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 09 Oct 2026 13:58:54 GMT</pubDate>
             <description><![CDATA[TD Securities’ Ryan McKay and Bart Melek highlight that CTAs (Commodity Trading Advisors) are covering Gold shorts, with positioning rising by around 7% of maximum historical size. They note renewed inflows into Chinese Gold ETFs after the holiday and continued global ETF demand.]]></description>
             <enclosure url="https://editorial.fxsstatic.com/images/i/gold-march-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian Rupee: RBI seen keeping hike option open – DBS]]></title>
-            <link>https://www.fxstreet.com/news/indian-rupee-rbi-seen-keeping-hike-option-open-dbs-202610091336</link>
-            <guid isPermaLink="false">1b2c0595-f1fd-42c2-9686-a37596ef2b48</guid>
-            <pubDate>Fri, 09 Oct 2026 13:36:10 GMT</pubDate>
-            <description><![CDATA[DBS Group Research anticipates India’s September inflation to rise to 5.7% year-on-year from 4.8%, driven by broad-based food price gains and higher non-food fuel costs. Core inflation is expected to tick up as uneven monsoon conditions and elevated Oil prices add pressure, leading DBS to expect the RBI to keep the door open for a possible rate hike in December 2026.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/Discover-f-23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[European Central Bank: Conditional support and French risks – Rabobank]]></title>
-            <link>https://www.fxstreet.com/news/european-central-bank-conditional-support-and-french-risks-rabobank-202610091317</link>
-            <guid isPermaLink="false">54135852-7c22-4e06-bd3f-d875919e6480</guid>
-            <pubDate>Fri, 09 Oct 2026 13:17:08 GMT</pubDate>
-            <description><![CDATA[Rabobank's Senior Economist Maartje Wijffelaars describes widening French spreads and notes 38% of French high-grade corporate debt now yields less than government bonds. She argues most spread widening may be over as France is seen as too big to fail and ECB tools exist. She outlines ECB conditionality for TPI and stresses France’s need for a credible budget.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/European-Central-Bank_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Dollar underperforms after Canada sheds 68.3K jobs in September]]></title>
-            <link>https://www.fxstreet.com/news/canadian-dollar-underperforms-after-canada-sheds-683k-jobs-in-september-202610091316</link>
-            <guid isPermaLink="false">acc2fb6d-e0f9-46b0-a35f-d3b2e06b2e38</guid>
-            <pubDate>Fri, 09 Oct 2026 13:16:32 GMT</pubDate>
-            <description><![CDATA[USD/CAD climbs on Friday as the Canadian Dollar (CAD) weakens sharply following a disappointing domestic employment report. A firm US Dollar (USD) provides additional support to the pair. At the time of writing, USD/CAD trades around 1.4276, at levels last seen in April 2025.]]></description>
-            <enclosure url="https://editorial.fxsstatic.com/images/i/currency-cad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
